@@ -1,0 +1,1901 @@
+Student ID,Course,Degree,CGPA,Year
+2008A0001A,Pharmacy,B.E,9.58,3
+2008H0002H,Economics and Finanace,M.E,8.07,2
+2008P0003P,Chemisty,B.Pharm,7.39,4
+2008A0004A,Physics,B.E,9.94,3
+2008A0005A,Electrical and Electronics Engineering,B.E,8.51,4
+2008A0006A,Mathematics,B.E,9.01,2
+2008D0007D,Civil Engineering,Ph.D,8.4,1
+2008H0008H,Mathematics,M.E,7.23,3
+2008D0009D,Chemical Engineering,Ph.D,9.59,1
+2008H0010H,Biological Sciences,M.E,9.14,2
+2008A0011A,Mechanical Engineering,B.E,7.68,2
+2008P0012P,Economics and Finanace,B.Pharm,9.27,4
+2008A0013A,Chemical Engineering,B.E,8.4,4
+2008A0014A,Chemical Engineering,B.E,9.49,4
+2008H0015H,Biological Sciences,M.E,7.27,4
+2008A0016A,Humanities and Social Sciences,B.E,7.82,4
+2008D0017D,Pharmacy,Ph.D,9.03,1
+2008P0018P,Electrical and Electronics Engineering,B.Pharm,6.27,1
+2008S0019S,Physics,M.Sc,6.09,1
+2008A0020A,Biological Sciences,B.E,7.12,1
+2008A0021A,Mathematics,B.E,9.97,1
+2008A0022A,Humanities and Social Sciences,B.E,5.16,4
+2008P0023P,Chemisty,B.Pharm,8.84,4
+2008P0024P,Economics and Finanace,B.Pharm,9.96,4
+2008A0025A,Humanities and Social Sciences,B.E,9.35,4
+2008D0026D,Electrical and Electronics Engineering,Ph.D,5.4,2
+2008H0027H,Pharmacy,M.E,9.3,1
+2008H0028H,Chemisty,M.E,9.96,4
+2008A0029A,Mathematics,B.E,5.64,2
+2008H0030H,Biological Sciences,M.E,8.78,3
+2008D0031D,Humanities and Social Sciences,Ph.D,8.37,4
+2008A0032A,Mathematics,B.E,6.9,2
+2008A0033A,Civil Engineering,B.E,7.3,2
+2008S0034S,Computer Science and Information Systems,M.Sc,5.94,1
+2008A0035A,Biological Sciences,B.E,9.05,4
+2008A0036A,Mechanical Engineering,B.E,8.83,1
+2008A0037A,Civil Engineering,B.E,6.03,1
+2008A0038A,Mechanical Engineering,B.E,5.17,1
+2008S0039S,Civil Engineering,M.Sc,8.7,4
+2008A0040A,Humanities and Social Sciences,B.E,6.17,2
+2008S0041S,Biological Sciences,M.Sc,5.7,3
+2008A0042A,Civil Engineering,B.E,9.08,3
+2008H0043H,Mechanical Engineering,M.E,7.99,3
+2008S0044S,Civil Engineering,M.Sc,6.51,2
+2008P0045P,Pharmacy,B.Pharm,7.61,4
+2008D0046D,Computer Science and Information Systems,Ph.D,6.38,2
+2008A0047A,Pharmacy,B.E,8.39,4
+2008H0048H,Biological Sciences,M.E,9.86,4
+2008A0049A,Mathematics,B.E,6.59,4
+2008A0050A,Electrical and Electronics Engineering,B.E,5.75,4
+2008P0051P,Chemisty,B.Pharm,8.77,4
+2008A0052A,Civil Engineering,B.E,9.25,3
+2008S0053S,Physics,M.Sc,5.72,4
+2008S0054S,Biological Sciences,M.Sc,7.81,4
+2008A0055A,Mathematics,B.E,7.65,4
+2008A0056A,Civil Engineering,B.E,6.27,3
+2008H0057H,Pharmacy,M.E,5.4,4
+2008A0058A,Economics and Finanace,B.E,5.46,2
+2008A0059A,Biological Sciences,B.E,6.34,1
+2008D0060D,Chemical Engineering,Ph.D,5.94,2
+2008H0061H,Humanities and Social Sciences,M.E,6.04,3
+2008H0062H,Computer Science and Information Systems,M.E,9.79,1
+2008H0063H,Civil Engineering,M.E,9.69,1
+2008P0064P,Humanities and Social Sciences,B.Pharm,9.57,2
+2008A0065A,Electrical and Electronics Engineering,B.E,9.58,3
+2008A0066A,Computer Science and Information Systems,B.E,6.9,3
+2008S0067S,Computer Science and Information Systems,M.Sc,6.31,4
+2008A0068A,Humanities and Social Sciences,B.E,5.49,4
+2008A0069A,Economics and Finanace,B.E,9.57,3
+2008H0070H,Economics and Finanace,M.E,7.07,2
+2008H0071H,Physics,M.E,5.73,3
+2008H0072H,Mathematics,M.E,9.67,4
+2008H0073H,Computer Science and Information Systems,M.E,5.76,3
+2008A0074A,Civil Engineering,B.E,6.9,2
+2008A0075A,Humanities and Social Sciences,B.E,7.75,3
+2008A0076A,Computer Science and Information Systems,B.E,8.82,4
+2008D0077D,Physics,Ph.D,8.21,4
+2008P0078P,Humanities and Social Sciences,B.Pharm,5.84,3
+2008A0079A,Chemisty,B.E,5.7,4
+2008H0080H,Chemisty,M.E,9.58,1
+2008A0081A,Mathematics,B.E,5.17,1
+2008P0082P,Pharmacy,B.Pharm,5.24,1
+2008P0083P,Electrical and Electronics Engineering,B.Pharm,5.69,2
+2008A0084A,Chemical Engineering,B.E,8.54,1
+2008D0085D,Civil Engineering,Ph.D,7.53,3
+2008P0086P,Biological Sciences,B.Pharm,8.09,4
+2008A0087A,Pharmacy,B.E,7.44,1
+2008A0088A,Mathematics,B.E,7.76,1
+2008H0089H,Biological Sciences,M.E,7.65,3
+2008A0090A,Mathematics,B.E,9.89,1
+2008A0091A,Mathematics,B.E,9.07,4
+2008A0092A,Chemisty,B.E,5.54,1
+2008A0093A,Mathematics,B.E,5.74,2
+2008A0094A,Mechanical Engineering,B.E,7.63,3
+2008A0095A,Computer Science and Information Systems,B.E,8.97,1
+2008A0096A,Economics and Finanace,B.E,9.8,4
+2008A0097A,Mechanical Engineering,B.E,6.22,2
+2008H0098H,Computer Science and Information Systems,M.E,8.42,1
+2008A0099A,Pharmacy,B.E,9.96,1
+2008A0100A,Chemical Engineering,B.E,7.03,4
+2008A0101A,Mathematics,B.E,7.38,1
+2008A0102A,Physics,B.E,5.86,4
+2008P0103P,Electrical and Electronics Engineering,B.Pharm,8.22,3
+2008A0104A,Mechanical Engineering,B.E,9.89,1
+2008D0105D,Mathematics,Ph.D,9.6,2
+2008A0106A,Civil Engineering,B.E,9.51,4
+2008P0107P,Computer Science and Information Systems,B.Pharm,5.23,1
+2008H0108H,Pharmacy,M.E,9.63,1
+2008A0109A,Chemisty,B.E,9.64,3
+2008A0110A,Biological Sciences,B.E,9.81,2
+2008D0111D,Physics,Ph.D,9.1,1
+2008A0112A,Computer Science and Information Systems,B.E,5.81,2
+2008A0113A,Mechanical Engineering,B.E,9.17,4
+2008H0114H,Pharmacy,M.E,9.48,3
+2008A0115A,Electrical and Electronics Engineering,B.E,8.78,2
+2008A0116A,Physics,B.E,8.62,3
+2008A0117A,Biological Sciences,B.E,5.49,2
+2008H0118H,Chemical Engineering,M.E,6.7,4
+2008A0119A,Economics and Finanace,B.E,5.15,3
+2008A0120A,Humanities and Social Sciences,B.E,7.45,3
+2008A0121A,Mathematics,B.E,9.71,4
+2008A0122A,Chemisty,B.E,8.4,4
+2008A0123A,Chemical Engineering,B.E,8.86,3
+2008A0124A,Civil Engineering,B.E,8.57,1
+2008H0125H,Computer Science and Information Systems,M.E,5.77,2
+2008A0126A,Physics,B.E,6.95,3
+2008A0127A,Chemical Engineering,B.E,5.46,3
+2008H0128H,Humanities and Social Sciences,M.E,6.8,3
+2008A0129A,Chemical Engineering,B.E,5.66,2
+2008P0130P,Electrical and Electronics Engineering,B.Pharm,7.24,4
+2008S0131S,Chemical Engineering,M.Sc,5.13,3
+2008A0132A,Mathematics,B.E,5.47,3
+2008A0133A,Electrical and Electronics Engineering,B.E,5.06,4
+2008A0134A,Electrical and Electronics Engineering,B.E,8.9,2
+2008A0135A,Mechanical Engineering,B.E,7.61,4
+2008A0136A,Chemisty,B.E,5.69,3
+2008A0137A,Computer Science and Information Systems,B.E,7.47,1
+2008A0138A,Chemisty,B.E,7.17,4
+2008D0139D,Computer Science and Information Systems,Ph.D,7.42,1
+2008H0140H,Economics and Finanace,M.E,6.26,2
+2008A0141A,Physics,B.E,8.13,2
+2008D0142D,Humanities and Social Sciences,Ph.D,5.53,3
+2008S0143S,Biological Sciences,M.Sc,9.74,3
+2008A0144A,Mechanical Engineering,B.E,6.9,3
+2008D0145D,Humanities and Social Sciences,Ph.D,6.67,2
+2008H0146H,Computer Science and Information Systems,M.E,6.6,2
+2008A0147A,Humanities and Social Sciences,B.E,6.57,4
+2008A0148A,Economics and Finanace,B.E,6.46,4
+2008H0149H,Mechanical Engineering,M.E,8.91,3
+2008D0150D,Electrical and Electronics Engineering,Ph.D,6.4,4
+2008H0151H,Economics and Finanace,M.E,5.57,2
+2008A0152A,Mechanical Engineering,B.E,9.99,2
+2008S0153S,Pharmacy,M.Sc,8.84,1
+2008A0154A,Physics,B.E,7.31,2
+2008H0155H,Humanities and Social Sciences,M.E,8.99,1
+2008A0156A,Electrical and Electronics Engineering,B.E,8.36,2
+2008A0157A,Pharmacy,B.E,6.51,3
+2008A0158A,Pharmacy,B.E,5.77,4
+2008A0159A,Electrical and Electronics Engineering,B.E,5.37,4
+2008D0160D,Mechanical Engineering,Ph.D,7.0,4
+2008A0161A,Mathematics,B.E,5.18,3
+2008P0162P,Mechanical Engineering,B.Pharm,8.19,1
+2008A0163A,Chemical Engineering,B.E,8.84,3
+2008D0164D,Chemisty,Ph.D,8.23,1
+2008A0165A,Mechanical Engineering,B.E,9.92,4
+2008A0166A,Economics and Finanace,B.E,9.83,4
+2008P0167P,Chemical Engineering,B.Pharm,5.05,3
+2008P0168P,Civil Engineering,B.Pharm,7.55,2
+2008A0169A,Humanities and Social Sciences,B.E,6.87,4
+2008S0170S,Pharmacy,M.Sc,7.94,2
+2008H0171H,Economics and Finanace,M.E,9.99,4
+2008S0172S,Chemical Engineering,M.Sc,6.48,1
+2008A0173A,Chemical Engineering,B.E,9.16,2
+2008A0174A,Economics and Finanace,B.E,6.56,4
+2008A0175A,Civil Engineering,B.E,7.61,3
+2008P0176P,Humanities and Social Sciences,B.Pharm,5.49,4
+2008A0177A,Economics and Finanace,B.E,5.34,1
+2008H0178H,Physics,M.E,5.58,3
+2008P0179P,Pharmacy,B.Pharm,5.55,2
+2008H0180H,Physics,M.E,6.22,2
+2008S0181S,Mathematics,M.Sc,5.8,4
+2008A0182A,Humanities and Social Sciences,B.E,6.16,4
+2008A0183A,Pharmacy,B.E,5.92,4
+2008H0184H,Electrical and Electronics Engineering,M.E,5.15,2
+2008S0185S,Humanities and Social Sciences,M.Sc,7.96,4
+2008A0186A,Biological Sciences,B.E,8.52,2
+2008A0187A,Computer Science and Information Systems,B.E,8.76,1
+2008A0188A,Mechanical Engineering,B.E,5.51,2
+2008A0189A,Economics and Finanace,B.E,6.63,4
+2008A0190A,Chemical Engineering,B.E,6.31,4
+2008S0191S,Mathematics,M.Sc,9.83,3
+2008A0192A,Mechanical Engineering,B.E,6.94,4
+2008A0193A,Mechanical Engineering,B.E,5.57,3
+2008A0194A,Humanities and Social Sciences,B.E,8.09,3
+2008A0195A,Mechanical Engineering,B.E,7.95,2
+2008S0196S,Economics and Finanace,M.Sc,5.59,3
+2008H0197H,Chemical Engineering,M.E,5.92,2
+2008S0198S,Mathematics,M.Sc,6.94,2
+2008H0199H,Mechanical Engineering,M.E,6.92,2
+2008A0200A,Humanities and Social Sciences,B.E,8.18,2
+2008P0201P,Chemisty,B.Pharm,7.45,2
+2008P0202P,Chemisty,B.Pharm,6.57,4
+2008A0203A,Mechanical Engineering,B.E,5.27,3
+2008H0204H,Biological Sciences,M.E,7.42,2
+2008P0205P,Electrical and Electronics Engineering,B.Pharm,9.82,4
+2008A0206A,Electrical and Electronics Engineering,B.E,8.42,4
+2008H0207H,Physics,M.E,9.2,4
+2008A0208A,Chemisty,B.E,5.41,1
+2008A0209A,Civil Engineering,B.E,6.46,3
+2008H0210H,Civil Engineering,M.E,7.69,2
+2008A0211A,Humanities and Social Sciences,B.E,7.83,4
+2008H0212H,Mathematics,M.E,7.55,1
+2008A0213A,Computer Science and Information Systems,B.E,8.88,3
+2008A0214A,Mathematics,B.E,9.11,1
+2008A0215A,Physics,B.E,7.21,2
+2008A0216A,Electrical and Electronics Engineering,B.E,5.51,2
+2008A0217A,Computer Science and Information Systems,B.E,9.37,1
+2008A0218A,Humanities and Social Sciences,B.E,6.31,1
+2008A0219A,Humanities and Social Sciences,B.E,9.33,1
+2008A0220A,Civil Engineering,B.E,6.05,3
+2008H0221H,Physics,M.E,8.05,4
+2008A0222A,Chemisty,B.E,8.08,2
+2008A0223A,Civil Engineering,B.E,9.03,3
+2008A0224A,Mathematics,B.E,6.41,2
+2008A0225A,Economics and Finanace,B.E,9.9,3
+2008H0226H,Computer Science and Information Systems,M.E,7.86,1
+2008A0227A,Chemisty,B.E,9.81,4
+2008A0228A,Biological Sciences,B.E,9.96,2
+2008A0229A,Physics,B.E,9.33,2
+2008H0230H,Chemisty,M.E,8.56,2
+2008A0231A,Pharmacy,B.E,6.96,2
+2008A0232A,Mechanical Engineering,B.E,8.16,4
+2008A0233A,Electrical and Electronics Engineering,B.E,7.26,1
+2008A0234A,Electrical and Electronics Engineering,B.E,7.58,3
+2008S0235S,Physics,M.Sc,9.68,3
+2008A0236A,Humanities and Social Sciences,B.E,9.75,3
+2008S0237S,Mechanical Engineering,M.Sc,5.01,1
+2008A0238A,Physics,B.E,9.86,3
+2008H0239H,Chemical Engineering,M.E,8.98,4
+2008P0240P,Civil Engineering,B.Pharm,9.84,2
+2008A0241A,Humanities and Social Sciences,B.E,6.34,3
+2008A0242A,Economics and Finanace,B.E,7.74,2
+2008A0243A,Mechanical Engineering,B.E,9.26,3
+2008P0244P,Pharmacy,B.Pharm,8.81,1
+2008H0245H,Chemical Engineering,M.E,8.13,4
+2008H0246H,Biological Sciences,M.E,5.62,2
+2008A0247A,Humanities and Social Sciences,B.E,7.28,4
+2008A0248A,Civil Engineering,B.E,9.98,2
+2008A0249A,Pharmacy,B.E,6.51,3
+2008S0250S,Chemical Engineering,M.Sc,8.27,3
+2008H0251H,Chemical Engineering,M.E,6.86,2
+2008A0252A,Biological Sciences,B.E,6.98,3
+2008A0253A,Physics,B.E,8.5,2
+2008H0254H,Electrical and Electronics Engineering,M.E,8.28,1
+2008A0255A,Biological Sciences,B.E,6.07,1
+2008P0256P,Chemisty,B.Pharm,7.97,4
+2008P0257P,Biological Sciences,B.Pharm,5.04,3
+2008A0258A,Chemical Engineering,B.E,9.94,4
+2008A0259A,Physics,B.E,5.66,1
+2008S0260S,Civil Engineering,M.Sc,6.92,1
+2008S0261S,Chemical Engineering,M.Sc,6.57,3
+2008A0262A,Chemisty,B.E,6.91,2
+2008A0263A,Pharmacy,B.E,9.96,2
+2008P0264P,Chemical Engineering,B.Pharm,7.65,1
+2008P0265P,Mechanical Engineering,B.Pharm,8.25,4
+2008A0266A,Economics and Finanace,B.E,8.61,2
+2008A0267A,Electrical and Electronics Engineering,B.E,8.08,4
+2008H0268H,Civil Engineering,M.E,5.43,1
+2008H0269H,Chemisty,M.E,8.76,4
+2008A0270A,Economics and Finanace,B.E,9.82,3
+2008H0271H,Chemisty,M.E,6.24,1
+2008A0272A,Civil Engineering,B.E,7.77,3
+2008S0273S,Physics,M.Sc,5.13,3
+2008A0274A,Civil Engineering,B.E,7.59,2
+2008A0275A,Physics,B.E,6.96,1
+2008A0276A,Civil Engineering,B.E,7.47,1
+2008H0277H,Civil Engineering,M.E,7.5,1
+2008A0278A,Mathematics,B.E,9.44,1
+2008H0279H,Economics and Finanace,M.E,9.67,2
+2008A0280A,Electrical and Electronics Engineering,B.E,9.3,4
+2008A0281A,Economics and Finanace,B.E,7.73,2
+2008A0282A,Humanities and Social Sciences,B.E,9.77,1
+2008S0283S,Biological Sciences,M.Sc,7.94,1
+2008A0284A,Computer Science and Information Systems,B.E,6.08,1
+2008A0285A,Electrical and Electronics Engineering,B.E,7.53,4
+2008A0286A,Electrical and Electronics Engineering,B.E,8.51,1
+2008D0287D,Pharmacy,Ph.D,7.68,2
+2008A0288A,Computer Science and Information Systems,B.E,5.42,1
+2008A0289A,Mathematics,B.E,9.6,2
+2008A0290A,Mathematics,B.E,6.63,1
+2008A0291A,Computer Science and Information Systems,B.E,8.49,2
+2008A0292A,Biological Sciences,B.E,6.22,4
+2008P0293P,Chemical Engineering,B.Pharm,7.27,1
+2008S0294S,Computer Science and Information Systems,M.Sc,8.33,2
+2008H0295H,Chemical Engineering,M.E,5.06,2
+2008A0296A,Physics,B.E,5.06,4
+2008A0297A,Economics and Finanace,B.E,7.62,3
+2008H0298H,Chemisty,M.E,6.86,3
+2008P0299P,Chemical Engineering,B.Pharm,8.86,1
+2008P0300P,Economics and Finanace,B.Pharm,9.04,3
+2008H0301H,Mathematics,M.E,5.32,1
+2008A0302A,Humanities and Social Sciences,B.E,7.28,3
+2008A0303A,Biological Sciences,B.E,7.5,2
+2008S0304S,Economics and Finanace,M.Sc,5.79,1
+2008A0305A,Mechanical Engineering,B.E,8.37,1
+2008A0306A,Civil Engineering,B.E,8.7,1
+2008P0307P,Biological Sciences,B.Pharm,9.29,1
+2008H0308H,Civil Engineering,M.E,5.23,3
+2008H0309H,Electrical and Electronics Engineering,M.E,9.6,2
+2008A0310A,Biological Sciences,B.E,7.76,4
+2008A0311A,Civil Engineering,B.E,6.61,4
+2008A0312A,Physics,B.E,6.6,1
+2008A0313A,Mechanical Engineering,B.E,6.86,1
+2008H0314H,Chemisty,M.E,6.12,1
+2008S0315S,Electrical and Electronics Engineering,M.Sc,5.34,4
+2008S0316S,Computer Science and Information Systems,M.Sc,8.87,3
+2008A0317A,Economics and Finanace,B.E,5.43,4
+2008S0318S,Biological Sciences,M.Sc,6.84,3
+2008A0319A,Mechanical Engineering,B.E,8.92,2
+2008A0320A,Humanities and Social Sciences,B.E,6.84,4
+2008A0321A,Civil Engineering,B.E,8.66,2
+2008A0322A,Chemisty,B.E,5.03,4
+2008A0323A,Biological Sciences,B.E,6.16,3
+2008P0324P,Pharmacy,B.Pharm,9.2,1
+2008D0325D,Economics and Finanace,Ph.D,5.01,4
+2008P0326P,Computer Science and Information Systems,B.Pharm,5.52,2
+2008D0327D,Electrical and Electronics Engineering,Ph.D,7.46,1
+2008A0328A,Chemisty,B.E,8.56,1
+2008H0329H,Biological Sciences,M.E,9.61,4
+2008S0330S,Physics,M.Sc,9.48,4
+2008A0331A,Physics,B.E,5.42,1
+2008A0332A,Mathematics,B.E,5.67,4
+2008A0333A,Chemical Engineering,B.E,7.96,1
+2008D0334D,Electrical and Electronics Engineering,Ph.D,8.31,2
+2008A0335A,Civil Engineering,B.E,6.46,3
+2008A0336A,Electrical and Electronics Engineering,B.E,8.5,3
+2008H0337H,Economics and Finanace,M.E,7.26,2
+2008P0338P,Chemical Engineering,B.Pharm,9.72,2
+2008H0339H,Mechanical Engineering,M.E,5.54,1
+2008A0340A,Chemisty,B.E,7.25,3
+2008A0341A,Electrical and Electronics Engineering,B.E,5.6,3
+2008A0342A,Civil Engineering,B.E,7.26,4
+2008H0343H,Computer Science and Information Systems,M.E,9.26,1
+2008H0344H,Chemisty,M.E,9.04,3
+2008A0345A,Physics,B.E,8.48,1
+2008H0346H,Civil Engineering,M.E,9.18,3
+2008A0347A,Chemisty,B.E,5.46,2
+2008A0348A,Economics and Finanace,B.E,6.98,1
+2008H0349H,Pharmacy,M.E,6.49,2
+2008A0350A,Biological Sciences,B.E,9.76,4
+2008P0351P,Civil Engineering,B.Pharm,5.47,1
+2008A0352A,Chemisty,B.E,5.61,1
+2008H0353H,Civil Engineering,M.E,5.65,4
+2008A0354A,Economics and Finanace,B.E,8.43,1
+2008P0355P,Mechanical Engineering,B.Pharm,7.93,1
+2008A0356A,Biological Sciences,B.E,9.99,2
+2008A0357A,Pharmacy,B.E,7.22,2
+2008A0358A,Chemical Engineering,B.E,9.53,3
+2008A0359A,Chemical Engineering,B.E,5.21,4
+2008A0360A,Biological Sciences,B.E,5.84,4
+2008P0361P,Electrical and Electronics Engineering,B.Pharm,7.48,4
+2008A0362A,Pharmacy,B.E,7.13,3
+2008H0363H,Civil Engineering,M.E,9.54,3
+2008D0364D,Computer Science and Information Systems,Ph.D,7.23,2
+2008H0365H,Biological Sciences,M.E,8.07,2
+2008A0366A,Pharmacy,B.E,6.48,4
+2008P0367P,Humanities and Social Sciences,B.Pharm,5.3,3
+2008A0368A,Electrical and Electronics Engineering,B.E,5.69,2
+2008A0369A,Pharmacy,B.E,9.42,2
+2008P0370P,Pharmacy,B.Pharm,9.97,1
+2008A0371A,Electrical and Electronics Engineering,B.E,8.91,3
+2008P0372P,Humanities and Social Sciences,B.Pharm,7.72,4
+2008A0373A,Economics and Finanace,B.E,9.56,3
+2008A0374A,Electrical and Electronics Engineering,B.E,6.35,1
+2008P0375P,Economics and Finanace,B.Pharm,7.99,1
+2008A0376A,Computer Science and Information Systems,B.E,5.29,4
+2008D0377D,Mathematics,Ph.D,6.79,2
+2008A0378A,Chemisty,B.E,5.5,2
+2008A0379A,Computer Science and Information Systems,B.E,7.67,1
+2008A0380A,Civil Engineering,B.E,7.88,4
+2008D0381D,Economics and Finanace,Ph.D,9.68,2
+2008D0382D,Chemisty,Ph.D,6.18,3
+2008A0383A,Physics,B.E,8.49,1
+2008H0384H,Physics,M.E,8.5,2
+2008H0385H,Mechanical Engineering,M.E,9.74,4
+2008S0386S,Mathematics,M.Sc,6.55,4
+2008S0387S,Biological Sciences,M.Sc,5.45,2
+2008H0388H,Mechanical Engineering,M.E,6.09,4
+2008A0389A,Biological Sciences,B.E,6.66,2
+2008H0390H,Chemisty,M.E,6.7,2
+2008A0391A,Economics and Finanace,B.E,5.3,2
+2008P0392P,Mechanical Engineering,B.Pharm,8.52,2
+2008A0393A,Chemical Engineering,B.E,9.23,3
+2008H0394H,Chemical Engineering,M.E,6.87,4
+2008H0395H,Mechanical Engineering,M.E,5.51,3
+2008A0396A,Economics and Finanace,B.E,5.68,2
+2008H0397H,Physics,M.E,9.74,4
+2008A0398A,Pharmacy,B.E,6.59,3
+2008S0399S,Civil Engineering,M.Sc,8.33,2
+2008D0400D,Electrical and Electronics Engineering,Ph.D,6.53,3
+2008P0401P,Chemisty,B.Pharm,5.89,1
+2008A0402A,Physics,B.E,9.74,4
+2008D0403D,Mechanical Engineering,Ph.D,5.16,3
+2008P0404P,Mechanical Engineering,B.Pharm,6.1,1
+2008S0405S,Humanities and Social Sciences,M.Sc,5.7,1
+2008A0406A,Civil Engineering,B.E,6.73,3
+2008A0407A,Chemisty,B.E,8.18,1
+2008A0408A,Physics,B.E,8.35,3
+2008D0409D,Humanities and Social Sciences,Ph.D,5.06,2
+2008D0410D,Civil Engineering,Ph.D,8.47,3
+2008H0411H,Computer Science and Information Systems,M.E,8.94,1
+2008P0412P,Biological Sciences,B.Pharm,6.93,4
+2008A0413A,Chemisty,B.E,9.42,4
+2008P0414P,Electrical and Electronics Engineering,B.Pharm,6.76,4
+2008A0415A,Chemical Engineering,B.E,9.14,2
+2008H0416H,Chemisty,M.E,7.26,1
+2008H0417H,Computer Science and Information Systems,M.E,5.1,3
+2008P0418P,Chemical Engineering,B.Pharm,5.37,2
+2008A0419A,Electrical and Electronics Engineering,B.E,5.8,1
+2008S0420S,Mathematics,M.Sc,9.71,1
+2008A0421A,Economics and Finanace,B.E,7.97,4
+2008A0422A,Physics,B.E,5.15,2
+2008S0423S,Mechanical Engineering,M.Sc,9.45,2
+2008D0424D,Biological Sciences,Ph.D,5.51,2
+2008A0425A,Civil Engineering,B.E,7.05,3
+2008S0426S,Pharmacy,M.Sc,6.41,2
+2008P0427P,Chemical Engineering,B.Pharm,5.25,4
+2008A0428A,Chemisty,B.E,5.27,1
+2008A0429A,Electrical and Electronics Engineering,B.E,5.44,4
+2008S0430S,Civil Engineering,M.Sc,5.48,2
+2008A0431A,Chemisty,B.E,8.19,1
+2008A0432A,Humanities and Social Sciences,B.E,9.22,3
+2008A0433A,Electrical and Electronics Engineering,B.E,7.35,3
+2008A0434A,Chemical Engineering,B.E,8.21,4
+2008A0435A,Chemisty,B.E,6.86,4
+2008A0436A,Economics and Finanace,B.E,5.93,1
+2008A0437A,Computer Science and Information Systems,B.E,7.2,3
+2008D0438D,Civil Engineering,Ph.D,9.19,1
+2008A0439A,Chemisty,B.E,8.76,1
+2008A0440A,Chemical Engineering,B.E,8.34,4
+2008A0441A,Mechanical Engineering,B.E,6.14,1
+2008P0442P,Electrical and Electronics Engineering,B.Pharm,9.09,4
+2008A0443A,Mathematics,B.E,8.44,4
+2008A0444A,Mechanical Engineering,B.E,9.41,4
+2008A0445A,Computer Science and Information Systems,B.E,5.39,1
+2008A0446A,Mathematics,B.E,7.86,2
+2008H0447H,Chemical Engineering,M.E,9.75,4
+2008A0448A,Chemisty,B.E,9.75,2
+2008H0449H,Civil Engineering,M.E,9.04,2
+2008H0450H,Biological Sciences,M.E,7.12,4
+2008A0451A,Civil Engineering,B.E,9.99,2
+2008H0452H,Mechanical Engineering,M.E,6.29,1
+2008H0453H,Chemical Engineering,M.E,6.94,4
+2008S0454S,Mathematics,M.Sc,6.63,3
+2008A0455A,Mathematics,B.E,7.29,1
+2008P0456P,Mechanical Engineering,B.Pharm,7.94,4
+2008H0457H,Chemical Engineering,M.E,7.07,2
+2008A0458A,Mechanical Engineering,B.E,7.94,1
+2008S0459S,Chemical Engineering,M.Sc,7.81,1
+2008A0460A,Computer Science and Information Systems,B.E,9.34,3
+2008H0461H,Electrical and Electronics Engineering,M.E,6.32,4
+2008A0462A,Mechanical Engineering,B.E,8.04,1
+2008P0463P,Chemisty,B.Pharm,6.38,2
+2008A0464A,Mechanical Engineering,B.E,8.04,4
+2008A0465A,Biological Sciences,B.E,6.98,3
+2008S0466S,Physics,M.Sc,6.19,4
+2008D0467D,Computer Science and Information Systems,Ph.D,9.49,1
+2008D0468D,Economics and Finanace,Ph.D,9.09,3
+2008D0469D,Computer Science and Information Systems,Ph.D,6.4,4
+2008A0470A,Physics,B.E,8.42,2
+2008A0471A,Chemisty,B.E,6.5,4
+2008A0472A,Economics and Finanace,B.E,6.35,4
+2008A0473A,Mechanical Engineering,B.E,8.23,2
+2008A0474A,Humanities and Social Sciences,B.E,6.06,4
+2008H0475H,Physics,M.E,7.42,3
+2008D0476D,Biological Sciences,Ph.D,7.58,2
+2008A0477A,Chemical Engineering,B.E,6.56,4
+2008D0478D,Chemisty,Ph.D,8.9,1
+2008H0479H,Chemisty,M.E,5.96,2
+2008A0480A,Biological Sciences,B.E,6.25,4
+2008P0481P,Biological Sciences,B.Pharm,9.59,2
+2008A0482A,Computer Science and Information Systems,B.E,6.84,4
+2008D0483D,Mathematics,Ph.D,6.98,1
+2008H0484H,Pharmacy,M.E,5.15,3
+2008H0485H,Humanities and Social Sciences,M.E,7.97,2
+2008A0486A,Humanities and Social Sciences,B.E,7.93,3
+2008H0487H,Economics and Finanace,M.E,5.82,3
+2008A0488A,Physics,B.E,9.15,1
+2008H0489H,Computer Science and Information Systems,M.E,5.14,1
+2008S0490S,Chemisty,M.Sc,9.27,2
+2008A0491A,Civil Engineering,B.E,8.24,2
+2008P0492P,Computer Science and Information Systems,B.Pharm,8.26,1
+2008S0493S,Pharmacy,M.Sc,5.04,2
+2008A0494A,Pharmacy,B.E,5.87,1
+2008A0495A,Civil Engineering,B.E,6.26,3
+2008A0496A,Physics,B.E,9.84,3
+2008S0497S,Electrical and Electronics Engineering,M.Sc,9.48,3
+2008A0498A,Humanities and Social Sciences,B.E,6.26,4
+2008H0499H,Computer Science and Information Systems,M.E,8.39,4
+2008D0500D,Mechanical Engineering,Ph.D,5.51,3
+2008A0501A,Mathematics,B.E,8.24,3
+2008A0502A,Computer Science and Information Systems,B.E,8.42,4
+2008S0503S,Chemical Engineering,M.Sc,6.68,3
+2008A0504A,Pharmacy,B.E,6.63,3
+2008D0505D,Computer Science and Information Systems,Ph.D,8.28,3
+2008H0506H,Civil Engineering,M.E,5.75,2
+2008H0507H,Biological Sciences,M.E,9.03,4
+2008A0508A,Pharmacy,B.E,6.6,2
+2008A0509A,Physics,B.E,5.13,4
+2008H0510H,Computer Science and Information Systems,M.E,6.3,4
+2008S0511S,Electrical and Electronics Engineering,M.Sc,6.94,1
+2008A0512A,Mechanical Engineering,B.E,8.54,2
+2008A0513A,Economics and Finanace,B.E,8.63,2
+2008S0514S,Pharmacy,M.Sc,7.67,4
+2008A0515A,Pharmacy,B.E,6.79,3
+2008A0516A,Chemisty,B.E,9.2,2
+2008A0517A,Computer Science and Information Systems,B.E,5.49,2
+2008A0518A,Physics,B.E,6.29,2
+2008P0519P,Pharmacy,B.Pharm,9.5,1
+2008A0520A,Civil Engineering,B.E,6.78,3
+2008A0521A,Electrical and Electronics Engineering,B.E,8.94,3
+2008A0522A,Economics and Finanace,B.E,6.3,3
+2008H0523H,Humanities and Social Sciences,M.E,9.26,4
+2008D0524D,Biological Sciences,Ph.D,9.33,1
+2008A0525A,Humanities and Social Sciences,B.E,9.45,1
+2008A0526A,Pharmacy,B.E,6.91,3
+2008A0527A,Electrical and Electronics Engineering,B.E,5.27,2
+2008P0528P,Chemisty,B.Pharm,9.96,3
+2008A0529A,Electrical and Electronics Engineering,B.E,9.94,4
+2008A0530A,Chemisty,B.E,6.58,2
+2008A0531A,Chemical Engineering,B.E,7.44,2
+2008P0532P,Economics and Finanace,B.Pharm,8.17,1
+2008A0533A,Humanities and Social Sciences,B.E,6.37,2
+2008A0534A,Mechanical Engineering,B.E,8.82,4
+2008S0535S,Chemical Engineering,M.Sc,5.65,4
+2008H0536H,Pharmacy,M.E,7.15,4
+2008A0537A,Humanities and Social Sciences,B.E,6.92,1
+2008A0538A,Mathematics,B.E,6.0,3
+2008S0539S,Biological Sciences,M.Sc,9.46,2
+2008A0540A,Biological Sciences,B.E,8.38,2
+2008A0541A,Civil Engineering,B.E,8.47,3
+2008A0542A,Computer Science and Information Systems,B.E,5.64,4
+2008H0543H,Mathematics,M.E,7.94,2
+2008A0544A,Chemical Engineering,B.E,9.12,3
+2008D0545D,Computer Science and Information Systems,Ph.D,7.28,3
+2008A0546A,Electrical and Electronics Engineering,B.E,9.44,2
+2008P0547P,Economics and Finanace,B.Pharm,9.98,4
+2008P0548P,Economics and Finanace,B.Pharm,8.75,2
+2008H0549H,Electrical and Electronics Engineering,M.E,5.1,2
+2008H0550H,Physics,M.E,9.92,2
+2008A0551A,Physics,B.E,5.11,2
+2008A0552A,Chemical Engineering,B.E,6.83,1
+2008A0553A,Electrical and Electronics Engineering,B.E,9.38,3
+2008A0554A,Mathematics,B.E,8.12,1
+2008H0555H,Pharmacy,M.E,5.54,1
+2008A0556A,Biological Sciences,B.E,8.45,4
+2008P0557P,Humanities and Social Sciences,B.Pharm,6.9,3
+2008D0558D,Humanities and Social Sciences,Ph.D,8.51,2
+2008A0559A,Physics,B.E,8.43,1
+2008A0560A,Computer Science and Information Systems,B.E,7.1,1
+2008P0561P,Pharmacy,B.Pharm,7.6,2
+2008A0562A,Electrical and Electronics Engineering,B.E,9.15,1
+2008D0563D,Mathematics,Ph.D,8.59,1
+2008D0564D,Computer Science and Information Systems,Ph.D,5.57,1
+2008D0565D,Humanities and Social Sciences,Ph.D,5.99,2
+2008H0566H,Computer Science and Information Systems,M.E,9.16,2
+2008D0567D,Economics and Finanace,Ph.D,8.52,3
+2008A0568A,Chemisty,B.E,5.2,4
+2008A0569A,Civil Engineering,B.E,8.44,4
+2008D0570D,Economics and Finanace,Ph.D,6.17,1
+2008A0571A,Pharmacy,B.E,5.45,1
+2008A0572A,Mechanical Engineering,B.E,8.35,2
+2008A0573A,Chemical Engineering,B.E,8.9,1
+2008S0574S,Physics,M.Sc,8.62,3
+2008H0575H,Pharmacy,M.E,6.16,3
+2008H0576H,Computer Science and Information Systems,M.E,7.32,1
+2008H0577H,Chemisty,M.E,9.37,3
+2008A0578A,Economics and Finanace,B.E,9.01,3
+2008A0579A,Electrical and Electronics Engineering,B.E,8.69,1
+2008P0580P,Biological Sciences,B.Pharm,5.05,2
+2008A0581A,Pharmacy,B.E,8.24,3
+2008S0582S,Economics and Finanace,M.Sc,9.47,3
+2008D0583D,Physics,Ph.D,5.46,3
+2008D0584D,Chemisty,Ph.D,5.57,4
+2008H0585H,Humanities and Social Sciences,M.E,6.36,4
+2008H0586H,Physics,M.E,9.25,4
+2008H0587H,Pharmacy,M.E,9.43,2
+2008H0588H,Chemical Engineering,M.E,5.66,1
+2008A0589A,Chemisty,B.E,5.52,4
+2008A0590A,Mechanical Engineering,B.E,8.39,2
+2008A0591A,Mechanical Engineering,B.E,6.9,3
+2008P0592P,Mechanical Engineering,B.Pharm,5.14,2
+2008A0593A,Humanities and Social Sciences,B.E,9.6,1
+2008A0594A,Electrical and Electronics Engineering,B.E,7.2,1
+2008D0595D,Computer Science and Information Systems,Ph.D,8.27,1
+2008A0596A,Physics,B.E,9.34,2
+2008S0597S,Pharmacy,M.Sc,9.37,1
+2008A0598A,Electrical and Electronics Engineering,B.E,8.31,2
+2008A0599A,Humanities and Social Sciences,B.E,6.73,4
+2008A0600A,Chemisty,B.E,9.2,1
+2008H0601H,Biological Sciences,M.E,8.22,2
+2008S0602S,Mathematics,M.Sc,9.24,4
+2008S0603S,Chemisty,M.Sc,5.37,4
+2008D0604D,Economics and Finanace,Ph.D,6.2,3
+2008A0605A,Biological Sciences,B.E,7.53,4
+2008A0606A,Electrical and Electronics Engineering,B.E,9.09,1
+2008H0607H,Humanities and Social Sciences,M.E,7.22,4
+2008A0608A,Chemical Engineering,B.E,9.28,4
+2008H0609H,Economics and Finanace,M.E,5.59,4
+2008A0610A,Physics,B.E,8.27,1
+2008D0611D,Electrical and Electronics Engineering,Ph.D,7.06,1
+2008A0612A,Chemical Engineering,B.E,8.96,3
+2008A0613A,Mathematics,B.E,7.81,4
+2008A0614A,Economics and Finanace,B.E,6.82,1
+2008P0615P,Civil Engineering,B.Pharm,9.22,3
+2008D0616D,Mathematics,Ph.D,8.84,4
+2008A0617A,Physics,B.E,8.29,4
+2008A0618A,Chemical Engineering,B.E,5.49,2
+2008P0619P,Biological Sciences,B.Pharm,6.71,3
+2008S0620S,Mathematics,M.Sc,7.61,1
+2008A0621A,Biological Sciences,B.E,9.48,4
+2008A0622A,Chemisty,B.E,9.11,4
+2008A0623A,Chemical Engineering,B.E,6.27,2
+2008A0624A,Civil Engineering,B.E,5.6,4
+2008H0625H,Civil Engineering,M.E,7.29,2
+2008A0626A,Physics,B.E,6.69,4
+2008A0627A,Biological Sciences,B.E,9.63,1
+2008S0628S,Humanities and Social Sciences,M.Sc,7.29,2
+2008A0629A,Humanities and Social Sciences,B.E,5.02,1
+2008D0630D,Mathematics,Ph.D,9.68,4
+2008S0631S,Mathematics,M.Sc,8.91,2
+2008P0632P,Mechanical Engineering,B.Pharm,5.87,2
+2008H0633H,Chemical Engineering,M.E,6.94,3
+2008A0634A,Mathematics,B.E,9.41,4
+2008A0635A,Mechanical Engineering,B.E,9.58,2
+2008A0636A,Computer Science and Information Systems,B.E,6.99,3
+2008S0637S,Computer Science and Information Systems,M.Sc,7.26,2
+2008A0638A,Chemisty,B.E,7.06,3
+2008P0639P,Economics and Finanace,B.Pharm,8.56,2
+2008A0640A,Civil Engineering,B.E,6.05,3
+2008A0641A,Pharmacy,B.E,6.73,2
+2008A0642A,Physics,B.E,8.25,2
+2008A0643A,Mathematics,B.E,7.71,3
+2008A0644A,Physics,B.E,5.58,3
+2008D0645D,Mathematics,Ph.D,7.4,4
+2008A0646A,Pharmacy,B.E,8.74,3
+2008A0647A,Electrical and Electronics Engineering,B.E,9.04,1
+2008A0648A,Biological Sciences,B.E,6.9,1
+2008A0649A,Pharmacy,B.E,5.28,3
+2008A0650A,Chemisty,B.E,9.92,3
+2008A0651A,Chemisty,B.E,9.2,3
+2008A0652A,Civil Engineering,B.E,8.77,1
+2008H0653H,Economics and Finanace,M.E,9.07,1
+2008A0654A,Mechanical Engineering,B.E,9.34,2
+2008H0655H,Physics,M.E,8.24,4
+2008H0656H,Civil Engineering,M.E,7.55,3
+2008D0657D,Physics,Ph.D,8.32,4
+2008A0658A,Electrical and Electronics Engineering,B.E,7.08,3
+2008A0659A,Mathematics,B.E,5.27,3
+2008D0660D,Civil Engineering,Ph.D,8.1,4
+2008H0661H,Civil Engineering,M.E,9.56,3
+2008A0662A,Mechanical Engineering,B.E,7.73,2
+2008A0663A,Physics,B.E,9.82,3
+2008D0664D,Humanities and Social Sciences,Ph.D,5.89,1
+2008D0665D,Chemisty,Ph.D,9.81,1
+2008A0666A,Electrical and Electronics Engineering,B.E,5.2,3
+2008P0667P,Computer Science and Information Systems,B.Pharm,5.65,3
+2008H0668H,Biological Sciences,M.E,6.65,2
+2008A0669A,Biological Sciences,B.E,5.77,3
+2008A0670A,Mechanical Engineering,B.E,5.25,3
+2008A0671A,Humanities and Social Sciences,B.E,8.95,3
+2008A0672A,Chemical Engineering,B.E,8.92,3
+2008A0673A,Mathematics,B.E,6.1,2
+2008H0674H,Mathematics,M.E,5.34,2
+2008S0675S,Electrical and Electronics Engineering,M.Sc,7.72,4
+2008H0676H,Chemical Engineering,M.E,6.75,2
+2008H0677H,Pharmacy,M.E,6.66,3
+2008A0678A,Computer Science and Information Systems,B.E,6.09,4
+2008A0679A,Mathematics,B.E,9.12,1
+2008A0680A,Chemical Engineering,B.E,8.34,4
+2008H0681H,Civil Engineering,M.E,9.52,2
+2008A0682A,Biological Sciences,B.E,8.41,3
+2008A0683A,Electrical and Electronics Engineering,B.E,9.58,1
+2008D0684D,Electrical and Electronics Engineering,Ph.D,6.28,3
+2008D0685D,Biological Sciences,Ph.D,9.56,3
+2008P0686P,Humanities and Social Sciences,B.Pharm,7.43,3
+2008A0687A,Pharmacy,B.E,5.96,1
+2008A0688A,Chemical Engineering,B.E,5.84,1
+2008A0689A,Pharmacy,B.E,5.33,2
+2008A0690A,Pharmacy,B.E,7.12,1
+2008D0691D,Civil Engineering,Ph.D,7.69,4
+2008D0692D,Pharmacy,Ph.D,9.08,1
+2008A0693A,Physics,B.E,8.43,1
+2008H0694H,Humanities and Social Sciences,M.E,8.58,1
+2008A0695A,Chemical Engineering,B.E,5.37,2
+2008S0696S,Computer Science and Information Systems,M.Sc,7.79,2
+2008H0697H,Computer Science and Information Systems,M.E,7.04,4
+2008A0698A,Pharmacy,B.E,7.02,3
+2008S0699S,Biological Sciences,M.Sc,6.95,1
+2008D0700D,Mathematics,Ph.D,5.03,1
+2008A0701A,Physics,B.E,7.93,1
+2008D0702D,Economics and Finanace,Ph.D,9.64,1
+2008D0703D,Computer Science and Information Systems,Ph.D,8.93,3
+2008S0704S,Mechanical Engineering,M.Sc,5.43,4
+2008H0705H,Electrical and Electronics Engineering,M.E,6.98,1
+2008D0706D,Humanities and Social Sciences,Ph.D,5.78,2
+2008H0707H,Chemisty,M.E,8.73,3
+2008H0708H,Pharmacy,M.E,5.72,3
+2008S0709S,Biological Sciences,M.Sc,7.77,2
+2008A0710A,Chemical Engineering,B.E,5.21,4
+2008H0711H,Mathematics,M.E,7.74,1
+2008A0712A,Computer Science and Information Systems,B.E,6.05,3
+2008H0713H,Civil Engineering,M.E,7.06,2
+2008A0714A,Chemisty,B.E,5.92,3
+2008A0715A,Civil Engineering,B.E,5.57,1
+2008H0716H,Mathematics,M.E,7.31,1
+2008A0717A,Computer Science and Information Systems,B.E,8.36,3
+2008A0718A,Chemical Engineering,B.E,5.99,4
+2008D0719D,Economics and Finanace,Ph.D,6.79,2
+2008P0720P,Chemical Engineering,B.Pharm,6.43,1
+2008P0721P,Civil Engineering,B.Pharm,6.59,4
+2008S0722S,Economics and Finanace,M.Sc,8.08,3
+2008A0723A,Physics,B.E,7.92,3
+2008A0724A,Economics and Finanace,B.E,9.79,2
+2008H0725H,Biological Sciences,M.E,6.57,2
+2008A0726A,Physics,B.E,8.7,4
+2008A0727A,Computer Science and Information Systems,B.E,9.2,2
+2008A0728A,Pharmacy,B.E,8.66,4
+2008A0729A,Humanities and Social Sciences,B.E,7.23,3
+2008S0730S,Humanities and Social Sciences,M.Sc,7.76,2
+2008A0731A,Pharmacy,B.E,8.03,3
+2008A0732A,Chemisty,B.E,9.46,2
+2008A0733A,Computer Science and Information Systems,B.E,8.67,1
+2008S0734S,Physics,M.Sc,5.38,1
+2008S0735S,Mathematics,M.Sc,8.16,4
+2008S0736S,Mechanical Engineering,M.Sc,6.06,1
+2008H0737H,Mathematics,M.E,6.3,4
+2008A0738A,Pharmacy,B.E,8.88,3
+2008A0739A,Electrical and Electronics Engineering,B.E,6.12,3
+2008S0740S,Chemisty,M.Sc,7.32,1
+2008S0741S,Electrical and Electronics Engineering,M.Sc,6.82,1
+2008A0742A,Pharmacy,B.E,6.19,2
+2008P0743P,Chemisty,B.Pharm,7.23,2
+2008P0744P,Mechanical Engineering,B.Pharm,9.74,2
+2008A0745A,Physics,B.E,8.66,3
+2008A0746A,Biological Sciences,B.E,6.09,4
+2008A0747A,Civil Engineering,B.E,5.31,3
+2008H0748H,Civil Engineering,M.E,5.21,2
+2008H0749H,Mathematics,M.E,9.54,3
+2008P0750P,Electrical and Electronics Engineering,B.Pharm,7.35,4
+2008S0751S,Biological Sciences,M.Sc,5.2,3
+2008P0752P,Chemical Engineering,B.Pharm,8.52,3
+2008H0753H,Physics,M.E,6.32,2
+2008P0754P,Electrical and Electronics Engineering,B.Pharm,8.27,3
+2008P0755P,Mechanical Engineering,B.Pharm,8.27,1
+2008P0756P,Computer Science and Information Systems,B.Pharm,6.88,2
+2008A0757A,Mathematics,B.E,7.03,3
+2008A0758A,Humanities and Social Sciences,B.E,8.96,1
+2008A0759A,Mathematics,B.E,9.41,4
+2008A0760A,Chemisty,B.E,6.15,3
+2008A0761A,Civil Engineering,B.E,5.75,2
+2008H0762H,Economics and Finanace,M.E,8.01,1
+2008A0763A,Pharmacy,B.E,6.15,3
+2008S0764S,Physics,M.Sc,5.57,4
+2008A0765A,Humanities and Social Sciences,B.E,6.05,2
+2008A0766A,Pharmacy,B.E,9.17,1
+2008A0767A,Civil Engineering,B.E,5.22,2
+2008A0768A,Chemisty,B.E,8.15,1
+2008A0769A,Mechanical Engineering,B.E,5.73,2
+2008P0770P,Computer Science and Information Systems,B.Pharm,9.61,4
+2008A0771A,Mechanical Engineering,B.E,9.85,1
+2008A0772A,Physics,B.E,8.64,3
+2008P0773P,Chemical Engineering,B.Pharm,6.08,4
+2008H0774H,Humanities and Social Sciences,M.E,5.85,4
+2008A0775A,Mechanical Engineering,B.E,5.71,2
+2008A0776A,Mechanical Engineering,B.E,8.3,3
+2008S0777S,Chemisty,M.Sc,8.62,3
+2008D0778D,Humanities and Social Sciences,Ph.D,7.98,1
+2008A0779A,Civil Engineering,B.E,6.89,2
+2008A0780A,Chemical Engineering,B.E,5.08,4
+2008A0781A,Chemisty,B.E,8.03,2
+2008D0782D,Humanities and Social Sciences,Ph.D,9.51,1
+2008S0783S,Mathematics,M.Sc,7.52,1
+2008A0784A,Chemical Engineering,B.E,7.41,2
+2008A0785A,Mechanical Engineering,B.E,7.7,1
+2008H0786H,Pharmacy,M.E,8.25,4
+2008P0787P,Economics and Finanace,B.Pharm,9.37,4
+2008A0788A,Civil Engineering,B.E,9.69,4
+2008A0789A,Electrical and Electronics Engineering,B.E,6.75,1
+2008D0790D,Electrical and Electronics Engineering,Ph.D,5.67,4
+2008D0791D,Civil Engineering,Ph.D,9.55,1
+2008A0792A,Computer Science and Information Systems,B.E,7.99,4
+2008A0793A,Computer Science and Information Systems,B.E,5.95,1
+2008P0794P,Mechanical Engineering,B.Pharm,7.61,1
+2008A0795A,Electrical and Electronics Engineering,B.E,8.27,3
+2008H0796H,Electrical and Electronics Engineering,M.E,6.81,2
+2008A0797A,Electrical and Electronics Engineering,B.E,8.26,3
+2008P0798P,Computer Science and Information Systems,B.Pharm,9.27,4
+2008A0799A,Mechanical Engineering,B.E,6.83,3
+2008H0800H,Pharmacy,M.E,6.99,2
+2008H0801H,Electrical and Electronics Engineering,M.E,7.76,4
+2008A0802A,Chemisty,B.E,6.85,4
+2008A0803A,Computer Science and Information Systems,B.E,9.94,3
+2008A0804A,Physics,B.E,6.99,2
+2008A0805A,Pharmacy,B.E,5.6,2
+2008A0806A,Humanities and Social Sciences,B.E,8.92,2
+2008A0807A,Chemical Engineering,B.E,6.07,4
+2008A0808A,Economics and Finanace,B.E,9.0,1
+2008H0809H,Chemisty,M.E,6.95,1
+2008A0810A,Chemical Engineering,B.E,9.12,4
+2008A0811A,Mechanical Engineering,B.E,7.18,1
+2008A0812A,Computer Science and Information Systems,B.E,6.11,1
+2008A0813A,Mechanical Engineering,B.E,5.19,4
+2008A0814A,Electrical and Electronics Engineering,B.E,8.07,3
+2008D0815D,Physics,Ph.D,9.82,1
+2008H0816H,Chemisty,M.E,8.2,4
+2008A0817A,Biological Sciences,B.E,6.01,3
+2008A0818A,Civil Engineering,B.E,5.17,2
+2008H0819H,Mechanical Engineering,M.E,5.85,1
+2008A0820A,Economics and Finanace,B.E,6.2,1
+2008A0821A,Chemisty,B.E,5.43,3
+2008H0822H,Electrical and Electronics Engineering,M.E,6.77,4
+2008S0823S,Electrical and Electronics Engineering,M.Sc,7.93,1
+2008A0824A,Physics,B.E,8.52,1
+2008A0825A,Mathematics,B.E,6.42,3
+2008P0826P,Economics and Finanace,B.Pharm,9.82,3
+2008P0827P,Civil Engineering,B.Pharm,8.03,2
+2008A0828A,Humanities and Social Sciences,B.E,9.65,1
+2008A0829A,Computer Science and Information Systems,B.E,5.88,1
+2008P0830P,Chemical Engineering,B.Pharm,7.52,3
+2008A0831A,Chemical Engineering,B.E,9.01,3
+2008A0832A,Mathematics,B.E,9.07,3
+2008A0833A,Physics,B.E,7.21,4
+2008A0834A,Mechanical Engineering,B.E,7.42,2
+2008H0835H,Economics and Finanace,M.E,9.81,4
+2008A0836A,Pharmacy,B.E,7.3,1
+2008H0837H,Humanities and Social Sciences,M.E,5.58,1
+2008H0838H,Electrical and Electronics Engineering,M.E,8.17,2
+2008D0839D,Pharmacy,Ph.D,8.51,3
+2008A0840A,Electrical and Electronics Engineering,B.E,9.78,1
+2008A0841A,Physics,B.E,9.16,2
+2008A0842A,Computer Science and Information Systems,B.E,5.47,3
+2008P0843P,Chemical Engineering,B.Pharm,7.77,2
+2008A0844A,Humanities and Social Sciences,B.E,6.57,2
+2008A0845A,Mechanical Engineering,B.E,6.35,2
+2008A0846A,Humanities and Social Sciences,B.E,8.69,2
+2008A0847A,Physics,B.E,6.21,3
+2008D0848D,Civil Engineering,Ph.D,6.15,2
+2008A0849A,Mechanical Engineering,B.E,6.78,1
+2008A0850A,Chemical Engineering,B.E,9.6,4
+2008A0851A,Mechanical Engineering,B.E,5.03,1
+2008D0852D,Humanities and Social Sciences,Ph.D,6.86,3
+2008A0853A,Humanities and Social Sciences,B.E,9.49,3
+2008A0854A,Humanities and Social Sciences,B.E,5.91,3
+2008H0855H,Electrical and Electronics Engineering,M.E,6.11,2
+2008H0856H,Biological Sciences,M.E,7.63,4
+2008A0857A,Humanities and Social Sciences,B.E,9.7,1
+2008H0858H,Mathematics,M.E,6.74,2
+2008H0859H,Humanities and Social Sciences,M.E,9.88,4
+2008H0860H,Economics and Finanace,M.E,8.45,1
+2008A0861A,Pharmacy,B.E,6.05,1
+2008A0862A,Economics and Finanace,B.E,6.81,3
+2008P0863P,Chemisty,B.Pharm,7.74,2
+2008H0864H,Computer Science and Information Systems,M.E,7.36,3
+2008A0865A,Economics and Finanace,B.E,5.92,4
+2008H0866H,Civil Engineering,M.E,7.1,3
+2008P0867P,Economics and Finanace,B.Pharm,9.27,3
+2008D0868D,Humanities and Social Sciences,Ph.D,5.9,2
+2008H0869H,Mechanical Engineering,M.E,8.43,1
+2008A0870A,Physics,B.E,6.35,2
+2008A0871A,Mathematics,B.E,7.16,4
+2008A0872A,Civil Engineering,B.E,5.73,2
+2008A0873A,Humanities and Social Sciences,B.E,9.03,2
+2008A0874A,Electrical and Electronics Engineering,B.E,7.5,3
+2008H0875H,Humanities and Social Sciences,M.E,6.5,1
+2008A0876A,Electrical and Electronics Engineering,B.E,5.49,2
+2008A0877A,Biological Sciences,B.E,6.08,3
+2008H0878H,Humanities and Social Sciences,M.E,9.19,1
+2008S0879S,Humanities and Social Sciences,M.Sc,8.72,3
+2008S0880S,Economics and Finanace,M.Sc,6.8,3
+2008D0881D,Economics and Finanace,Ph.D,5.1,1
+2008A0882A,Economics and Finanace,B.E,9.34,2
+2008D0883D,Mechanical Engineering,Ph.D,7.88,2
+2008A0884A,Computer Science and Information Systems,B.E,6.78,4
+2008P0885P,Humanities and Social Sciences,B.Pharm,9.45,4
+2008P0886P,Mechanical Engineering,B.Pharm,6.43,2
+2008A0887A,Chemisty,B.E,8.2,3
+2008S0888S,Electrical and Electronics Engineering,M.Sc,8.16,4
+2008P0889P,Chemical Engineering,B.Pharm,5.4,3
+2008A0890A,Civil Engineering,B.E,6.57,3
+2008H0891H,Physics,M.E,6.34,4
+2008A0892A,Computer Science and Information Systems,B.E,9.44,3
+2008A0893A,Physics,B.E,7.93,4
+2008P0894P,Electrical and Electronics Engineering,B.Pharm,5.84,1
+2008P0895P,Chemisty,B.Pharm,8.64,3
+2008A0896A,Physics,B.E,8.5,1
+2008H0897H,Civil Engineering,M.E,5.83,1
+2008A0898A,Chemical Engineering,B.E,5.32,4
+2008A0899A,Mathematics,B.E,5.27,4
+2008S0900S,Mathematics,M.Sc,8.82,1
+2008A0901A,Chemical Engineering,B.E,6.31,2
+2008H0902H,Chemical Engineering,M.E,8.27,4
+2008H0903H,Computer Science and Information Systems,M.E,6.15,3
+2008H0904H,Humanities and Social Sciences,M.E,8.13,2
+2008H0905H,Mathematics,M.E,9.19,1
+2008S0906S,Biological Sciences,M.Sc,8.32,3
+2008S0907S,Humanities and Social Sciences,M.Sc,7.34,3
+2008H0908H,Mathematics,M.E,7.22,2
+2008P0909P,Mechanical Engineering,B.Pharm,7.99,4
+2008A0910A,Mathematics,B.E,8.2,3
+2008S0911S,Economics and Finanace,M.Sc,7.41,2
+2008A0912A,Chemical Engineering,B.E,7.21,3
+2008H0913H,Electrical and Electronics Engineering,M.E,6.3,3
+2008D0914D,Biological Sciences,Ph.D,5.0,2
+2008A0915A,Economics and Finanace,B.E,6.43,1
+2008S0916S,Physics,M.Sc,9.61,4
+2008H0917H,Computer Science and Information Systems,M.E,5.05,4
+2008A0918A,Computer Science and Information Systems,B.E,7.99,1
+2008D0919D,Mathematics,Ph.D,6.87,4
+2008A0920A,Mathematics,B.E,7.19,2
+2008A0921A,Chemisty,B.E,8.57,4
+2008A0922A,Electrical and Electronics Engineering,B.E,6.1,1
+2008A0923A,Electrical and Electronics Engineering,B.E,8.13,3
+2008A0924A,Computer Science and Information Systems,B.E,8.24,3
+2008A0925A,Electrical and Electronics Engineering,B.E,5.94,1
+2008H0926H,Chemisty,M.E,5.68,1
+2008P0927P,Pharmacy,B.Pharm,7.28,4
+2008A0928A,Computer Science and Information Systems,B.E,8.5,4
+2008A0929A,Civil Engineering,B.E,6.6,2
+2008A0930A,Biological Sciences,B.E,9.85,1
+2008A0931A,Chemisty,B.E,9.86,3
+2008S0932S,Computer Science and Information Systems,M.Sc,5.63,4
+2008H0933H,Physics,M.E,5.04,1
+2008A0934A,Chemisty,B.E,5.07,2
+2008S0935S,Economics and Finanace,M.Sc,7.1,4
+2008A0936A,Economics and Finanace,B.E,7.32,1
+2008P0937P,Economics and Finanace,B.Pharm,5.4,2
+2008A0938A,Biological Sciences,B.E,6.33,4
+2008A0939A,Chemical Engineering,B.E,7.72,2
+2008A0940A,Civil Engineering,B.E,9.48,3
+2008H0941H,Electrical and Electronics Engineering,M.E,9.14,1
+2008H0942H,Physics,M.E,6.24,4
+2008A0943A,Civil Engineering,B.E,8.69,1
+2008A0944A,Civil Engineering,B.E,7.3,1
+2008H0945H,Mathematics,M.E,8.33,2
+2008A0946A,Humanities and Social Sciences,B.E,6.95,3
+2008H0947H,Economics and Finanace,M.E,5.79,1
+2008A0948A,Physics,B.E,9.69,1
+2008S0949S,Computer Science and Information Systems,M.Sc,7.41,3
+2008A0950A,Civil Engineering,B.E,6.8,1
+2008D0951D,Pharmacy,Ph.D,6.09,1
+2008A0952A,Civil Engineering,B.E,8.16,3
+2008A0953A,Biological Sciences,B.E,5.84,3
+2008D0954D,Mechanical Engineering,Ph.D,5.6,2
+2008S0955S,Biological Sciences,M.Sc,9.84,4
+2008H0956H,Physics,M.E,7.98,3
+2008P0957P,Chemical Engineering,B.Pharm,6.24,4
+2008A0958A,Chemical Engineering,B.E,8.43,3
+2008A0959A,Pharmacy,B.E,5.3,3
+2008H0960H,Pharmacy,M.E,5.77,1
+2008A0961A,Chemisty,B.E,7.44,3
+2008A0962A,Mathematics,B.E,8.94,3
+2008A0963A,Humanities and Social Sciences,B.E,8.67,1
+2008A0964A,Physics,B.E,6.89,2
+2008P0965P,Computer Science and Information Systems,B.Pharm,9.49,4
+2008A0966A,Physics,B.E,7.19,3
+2008A0967A,Mathematics,B.E,8.49,2
+2008D0968D,Mechanical Engineering,Ph.D,5.93,3
+2008A0969A,Economics and Finanace,B.E,8.66,3
+2008A0970A,Mechanical Engineering,B.E,9.57,2
+2008A0971A,Chemical Engineering,B.E,7.66,4
+2008H0972H,Computer Science and Information Systems,M.E,9.1,3
+2008A0973A,Humanities and Social Sciences,B.E,5.0,4
+2008A0974A,Physics,B.E,5.93,1
+2008H0975H,Mechanical Engineering,M.E,9.28,2
+2008H0976H,Economics and Finanace,M.E,8.61,4
+2008H0977H,Civil Engineering,M.E,7.62,4
+2008S0978S,Mathematics,M.Sc,5.77,3
+2008P0979P,Economics and Finanace,B.Pharm,7.05,3
+2008A0980A,Chemical Engineering,B.E,5.48,1
+2008H0981H,Biological Sciences,M.E,9.18,2
+2008A0982A,Chemisty,B.E,9.37,2
+2008A0983A,Chemical Engineering,B.E,7.43,1
+2008P0984P,Biological Sciences,B.Pharm,7.86,4
+2008H0985H,Pharmacy,M.E,7.45,3
+2008D0986D,Biological Sciences,Ph.D,6.83,1
+2008D0987D,Biological Sciences,Ph.D,9.65,2
+2008H0988H,Pharmacy,M.E,7.46,1
+2008A0989A,Humanities and Social Sciences,B.E,9.01,1
+2008A0990A,Economics and Finanace,B.E,7.79,4
+2008A0991A,Economics and Finanace,B.E,8.97,1
+2008A0992A,Mechanical Engineering,B.E,6.33,1
+2008P0993P,Chemical Engineering,B.Pharm,9.17,1
+2008P0994P,Civil Engineering,B.Pharm,9.8,1
+2008D0995D,Chemical Engineering,Ph.D,8.63,4
+2008A0996A,Civil Engineering,B.E,5.97,2
+2008A0997A,Mechanical Engineering,B.E,8.13,2
+2008S0998S,Mathematics,M.Sc,8.75,4
+2008A0999A,Physics,B.E,5.53,3
+2008A1000A,Pharmacy,B.E,7.29,4
+2008A1001A,Chemical Engineering,B.E,5.83,2
+2008P1002P,Electrical and Electronics Engineering,B.Pharm,7.52,2
+2008A1003A,Mathematics,B.E,9.99,4
+2008A1004A,Economics and Finanace,B.E,9.51,3
+2008A1005A,Economics and Finanace,B.E,7.06,4
+2008D1006D,Physics,Ph.D,6.62,2
+2008S1007S,Mechanical Engineering,M.Sc,7.73,4
+2008A1008A,Mathematics,B.E,9.63,3
+2008A1009A,Economics and Finanace,B.E,9.81,4
+2008A1010A,Electrical and Electronics Engineering,B.E,5.0,1
+2008A1011A,Computer Science and Information Systems,B.E,7.98,2
+2008P1012P,Computer Science and Information Systems,B.Pharm,5.03,2
+2008H1013H,Civil Engineering,M.E,9.28,1
+2008D1014D,Physics,Ph.D,9.11,2
+2008A1015A,Chemical Engineering,B.E,5.19,3
+2008A1016A,Chemisty,B.E,5.69,3
+2008S1017S,Mechanical Engineering,M.Sc,6.25,3
+2008D1018D,Computer Science and Information Systems,Ph.D,5.46,4
+2008A1019A,Mechanical Engineering,B.E,9.59,1
+2008A1020A,Physics,B.E,6.62,4
+2008A1021A,Chemisty,B.E,7.44,1
+2008S1022S,Mechanical Engineering,M.Sc,8.21,1
+2008H1023H,Physics,M.E,9.04,4
+2008D1024D,Chemical Engineering,Ph.D,8.9,3
+2008A1025A,Economics and Finanace,B.E,9.4,4
+2008P1026P,Electrical and Electronics Engineering,B.Pharm,9.65,1
+2008A1027A,Civil Engineering,B.E,8.74,1
+2008S1028S,Pharmacy,M.Sc,8.89,4
+2008S1029S,Biological Sciences,M.Sc,6.52,1
+2008H1030H,Economics and Finanace,M.E,7.7,2
+2008S1031S,Economics and Finanace,M.Sc,7.51,2
+2008A1032A,Chemisty,B.E,5.25,4
+2008A1033A,Humanities and Social Sciences,B.E,8.76,1
+2008A1034A,Civil Engineering,B.E,7.16,4
+2008A1035A,Chemisty,B.E,5.66,1
+2008H1036H,Humanities and Social Sciences,M.E,7.86,1
+2008S1037S,Mathematics,M.Sc,7.0,1
+2008A1038A,Electrical and Electronics Engineering,B.E,7.51,2
+2008D1039D,Chemisty,Ph.D,7.4,2
+2008A1040A,Humanities and Social Sciences,B.E,6.98,2
+2008A1041A,Mathematics,B.E,8.08,2
+2008A1042A,Civil Engineering,B.E,5.36,4
+2008H1043H,Economics and Finanace,M.E,8.42,1
+2008S1044S,Chemical Engineering,M.Sc,8.36,4
+2008A1045A,Economics and Finanace,B.E,6.74,3
+2008A1046A,Economics and Finanace,B.E,7.97,1
+2008A1047A,Computer Science and Information Systems,B.E,5.85,3
+2008A1048A,Mechanical Engineering,B.E,9.11,4
+2008S1049S,Mechanical Engineering,M.Sc,5.73,1
+2008P1050P,Civil Engineering,B.Pharm,6.0,3
+2008S1051S,Chemisty,M.Sc,8.79,1
+2008A1052A,Chemical Engineering,B.E,8.7,2
+2008A1053A,Mechanical Engineering,B.E,9.63,3
+2008A1054A,Biological Sciences,B.E,6.72,1
+2008A1055A,Computer Science and Information Systems,B.E,7.25,1
+2008P1056P,Economics and Finanace,B.Pharm,6.05,2
+2008H1057H,Civil Engineering,M.E,7.73,3
+2008A1058A,Mathematics,B.E,7.42,2
+2008A1059A,Physics,B.E,8.49,1
+2008P1060P,Electrical and Electronics Engineering,B.Pharm,7.92,1
+2008H1061H,Computer Science and Information Systems,M.E,5.85,3
+2008H1062H,Civil Engineering,M.E,8.95,3
+2008H1063H,Biological Sciences,M.E,7.32,1
+2008A1064A,Chemical Engineering,B.E,6.94,3
+2008A1065A,Pharmacy,B.E,9.26,3
+2008A1066A,Chemical Engineering,B.E,5.1,4
+2008H1067H,Civil Engineering,M.E,9.9,1
+2008H1068H,Economics and Finanace,M.E,7.42,1
+2008A1069A,Chemisty,B.E,5.99,4
+2008D1070D,Mathematics,Ph.D,9.63,1
+2008H1071H,Biological Sciences,M.E,6.24,3
+2008A1072A,Economics and Finanace,B.E,7.45,2
+2008A1073A,Biological Sciences,B.E,6.73,3
+2008A1074A,Economics and Finanace,B.E,8.13,2
+2008S1075S,Mathematics,M.Sc,6.38,1
+2008P1076P,Pharmacy,B.Pharm,6.29,4
+2008A1077A,Biological Sciences,B.E,9.72,3
+2008D1078D,Civil Engineering,Ph.D,5.76,4
+2008P1079P,Pharmacy,B.Pharm,5.69,4
+2008P1080P,Pharmacy,B.Pharm,8.06,2
+2008H1081H,Electrical and Electronics Engineering,M.E,6.2,2
+2008S1082S,Electrical and Electronics Engineering,M.Sc,9.85,3
+2008H1083H,Humanities and Social Sciences,M.E,7.71,2
+2008A1084A,Pharmacy,B.E,5.69,2
+2008H1085H,Chemisty,M.E,6.54,2
+2008A1086A,Electrical and Electronics Engineering,B.E,9.98,2
+2008P1087P,Pharmacy,B.Pharm,9.67,2
+2008A1088A,Economics and Finanace,B.E,5.34,1
+2008H1089H,Chemisty,M.E,6.59,2
+2008D1090D,Physics,Ph.D,5.15,3
+2008A1091A,Electrical and Electronics Engineering,B.E,9.81,3
+2008P1092P,Humanities and Social Sciences,B.Pharm,8.73,3
+2008A1093A,Chemisty,B.E,8.9,1
+2008A1094A,Chemisty,B.E,5.92,3
+2008D1095D,Mechanical Engineering,Ph.D,7.84,2
+2008A1096A,Mechanical Engineering,B.E,6.16,1
+2008A1097A,Economics and Finanace,B.E,5.4,4
+2008A1098A,Chemisty,B.E,7.51,4
+2008H1099H,Physics,M.E,8.25,2
+2008A1100A,Electrical and Electronics Engineering,B.E,7.46,2
+2008H1101H,Chemisty,M.E,5.97,1
+2008D1102D,Electrical and Electronics Engineering,Ph.D,8.82,1
+2008H1103H,Computer Science and Information Systems,M.E,9.75,2
+2008A1104A,Physics,B.E,8.36,2
+2008S1105S,Civil Engineering,M.Sc,5.33,4
+2008A1106A,Mechanical Engineering,B.E,7.45,3
+2008H1107H,Humanities and Social Sciences,M.E,9.44,4
+2008S1108S,Electrical and Electronics Engineering,M.Sc,8.88,4
+2008A1109A,Physics,B.E,6.56,1
+2008A1110A,Mathematics,B.E,5.55,4
+2008P1111P,Biological Sciences,B.Pharm,9.39,2
+2008P1112P,Electrical and Electronics Engineering,B.Pharm,9.92,1
+2008P1113P,Electrical and Electronics Engineering,B.Pharm,7.58,1
+2008P1114P,Civil Engineering,B.Pharm,6.46,4
+2008H1115H,Computer Science and Information Systems,M.E,8.87,3
+2008A1116A,Humanities and Social Sciences,B.E,5.83,3
+2008A1117A,Mechanical Engineering,B.E,9.6,2
+2008P1118P,Humanities and Social Sciences,B.Pharm,9.15,4
+2008P1119P,Chemical Engineering,B.Pharm,8.61,1
+2008H1120H,Chemisty,M.E,8.89,2
+2008H1121H,Electrical and Electronics Engineering,M.E,7.07,4
+2008A1122A,Biological Sciences,B.E,5.89,2
+2008A1123A,Humanities and Social Sciences,B.E,5.45,3
+2008H1124H,Physics,M.E,8.24,2
+2008A1125A,Physics,B.E,8.67,1
+2008H1126H,Chemical Engineering,M.E,8.53,3
+2008D1127D,Chemical Engineering,Ph.D,7.62,4
+2008A1128A,Physics,B.E,8.96,2
+2008A1129A,Electrical and Electronics Engineering,B.E,7.75,1
+2008A1130A,Chemisty,B.E,9.56,2
+2008H1131H,Chemisty,M.E,9.34,2
+2008A1132A,Physics,B.E,5.26,3
+2008A1133A,Computer Science and Information Systems,B.E,8.65,4
+2008A1134A,Computer Science and Information Systems,B.E,8.13,1
+2008A1135A,Chemisty,B.E,9.8,1
+2008A1136A,Mechanical Engineering,B.E,8.83,1
+2008A1137A,Humanities and Social Sciences,B.E,7.49,4
+2008A1138A,Mathematics,B.E,9.04,4
+2008A1139A,Civil Engineering,B.E,6.08,4
+2008A1140A,Humanities and Social Sciences,B.E,7.05,1
+2008H1141H,Mechanical Engineering,M.E,8.0,2
+2008H1142H,Mathematics,M.E,6.39,2
+2008D1143D,Biological Sciences,Ph.D,5.92,1
+2008A1144A,Pharmacy,B.E,6.75,2
+2008H1145H,Biological Sciences,M.E,8.33,3
+2008H1146H,Economics and Finanace,M.E,9.6,1
+2008H1147H,Chemical Engineering,M.E,7.08,2
+2008A1148A,Chemisty,B.E,8.36,2
+2008H1149H,Humanities and Social Sciences,M.E,8.75,3
+2008A1150A,Biological Sciences,B.E,5.47,3
+2008A1151A,Economics and Finanace,B.E,6.84,4
+2008P1152P,Chemical Engineering,B.Pharm,8.79,1
+2008A1153A,Computer Science and Information Systems,B.E,7.35,1
+2008A1154A,Physics,B.E,9.3,3
+2008P1155P,Electrical and Electronics Engineering,B.Pharm,7.62,2
+2008A1156A,Mechanical Engineering,B.E,5.29,1
+2008A1157A,Humanities and Social Sciences,B.E,8.62,3
+2008H1158H,Electrical and Electronics Engineering,M.E,8.04,3
+2008A1159A,Computer Science and Information Systems,B.E,7.63,3
+2008A1160A,Chemisty,B.E,8.07,4
+2008H1161H,Mathematics,M.E,8.65,4
+2008A1162A,Humanities and Social Sciences,B.E,9.04,2
+2008S1163S,Physics,M.Sc,6.45,2
+2008S1164S,Biological Sciences,M.Sc,5.59,4
+2008H1165H,Pharmacy,M.E,8.98,2
+2008D1166D,Mechanical Engineering,Ph.D,9.99,4
+2008D1167D,Biological Sciences,Ph.D,6.67,2
+2008A1168A,Biological Sciences,B.E,8.2,3
+2008A1169A,Computer Science and Information Systems,B.E,8.95,3
+2008S1170S,Computer Science and Information Systems,M.Sc,7.53,3
+2008A1171A,Biological Sciences,B.E,5.57,3
+2008A1172A,Economics and Finanace,B.E,6.98,1
+2008A1173A,Chemisty,B.E,5.97,3
+2008A1174A,Pharmacy,B.E,7.4,4
+2008S1175S,Biological Sciences,M.Sc,8.23,4
+2008A1176A,Chemisty,B.E,8.14,3
+2008H1177H,Humanities and Social Sciences,M.E,8.92,4
+2008D1178D,Physics,Ph.D,5.28,3
+2008P1179P,Mechanical Engineering,B.Pharm,8.62,3
+2008H1180H,Mathematics,M.E,7.68,2
+2008H1181H,Mechanical Engineering,M.E,8.43,3
+2008H1182H,Chemical Engineering,M.E,9.85,3
+2008A1183A,Biological Sciences,B.E,6.7,4
+2008A1184A,Pharmacy,B.E,7.67,2
+2008D1185D,Mechanical Engineering,Ph.D,8.03,2
+2008H1186H,Mechanical Engineering,M.E,5.58,3
+2008A1187A,Physics,B.E,9.29,1
+2008A1188A,Computer Science and Information Systems,B.E,7.07,4
+2008A1189A,Civil Engineering,B.E,6.86,3
+2008A1190A,Civil Engineering,B.E,7.63,2
+2008A1191A,Chemical Engineering,B.E,6.87,1
+2008P1192P,Civil Engineering,B.Pharm,9.57,4
+2008A1193A,Mathematics,B.E,5.12,4
+2008A1194A,Mathematics,B.E,5.77,3
+2008A1195A,Humanities and Social Sciences,B.E,8.66,3
+2008A1196A,Economics and Finanace,B.E,5.72,1
+2008A1197A,Mathematics,B.E,8.38,2
+2008D1198D,Civil Engineering,Ph.D,8.62,4
+2008A1199A,Electrical and Electronics Engineering,B.E,8.57,1
+2008P1200P,Biological Sciences,B.Pharm,6.55,1
+2008A1201A,Pharmacy,B.E,9.24,1
+2008P1202P,Economics and Finanace,B.Pharm,7.33,1
+2008A1203A,Chemical Engineering,B.E,7.6,3
+2008H1204H,Biological Sciences,M.E,7.89,3
+2008D1205D,Pharmacy,Ph.D,9.46,3
+2008H1206H,Civil Engineering,M.E,5.96,3
+2008H1207H,Mathematics,M.E,6.6,4
+2008P1208P,Pharmacy,B.Pharm,5.59,2
+2008A1209A,Chemisty,B.E,6.37,1
+2008A1210A,Mechanical Engineering,B.E,7.8,1
+2008A1211A,Civil Engineering,B.E,7.71,3
+2008S1212S,Computer Science and Information Systems,M.Sc,5.71,3
+2008A1213A,Mechanical Engineering,B.E,6.22,1
+2008A1214A,Computer Science and Information Systems,B.E,8.07,3
+2008A1215A,Mathematics,B.E,7.22,2
+2008H1216H,Biological Sciences,M.E,7.35,1
+2008P1217P,Chemical Engineering,B.Pharm,6.92,1
+2008H1218H,Electrical and Electronics Engineering,M.E,6.96,4
+2008A1219A,Mechanical Engineering,B.E,6.78,3
+2008A1220A,Civil Engineering,B.E,8.56,1
+2008S1221S,Humanities and Social Sciences,M.Sc,7.84,1
+2008H1222H,Physics,M.E,7.34,4
+2008A1223A,Computer Science and Information Systems,B.E,8.42,4
+2008D1224D,Humanities and Social Sciences,Ph.D,6.16,2
+2008P1225P,Chemisty,B.Pharm,9.31,3
+2008A1226A,Economics and Finanace,B.E,6.96,3
+2008P1227P,Economics and Finanace,B.Pharm,7.27,1
+2008A1228A,Chemical Engineering,B.E,7.38,3
+2008A1229A,Humanities and Social Sciences,B.E,7.31,2
+2008A1230A,Computer Science and Information Systems,B.E,8.84,2
+2008A1231A,Mathematics,B.E,5.51,1
+2008H1232H,Economics and Finanace,M.E,7.78,1
+2008S1233S,Computer Science and Information Systems,M.Sc,7.66,4
+2008A1234A,Mechanical Engineering,B.E,7.07,2
+2008S1235S,Mathematics,M.Sc,5.8,4
+2008P1236P,Electrical and Electronics Engineering,B.Pharm,5.33,2
+2008P1237P,Mechanical Engineering,B.Pharm,7.16,4
+2008A1238A,Mechanical Engineering,B.E,8.94,2
+2008P1239P,Chemisty,B.Pharm,8.31,1
+2008H1240H,Physics,M.E,9.65,4
+2008P1241P,Chemical Engineering,B.Pharm,7.96,4
+2008H1242H,Economics and Finanace,M.E,7.78,4
+2008A1243A,Chemisty,B.E,6.54,4
+2008A1244A,Chemical Engineering,B.E,7.99,4
+2008H1245H,Economics and Finanace,M.E,7.47,1
+2008A1246A,Chemical Engineering,B.E,6.09,2
+2008H1247H,Mechanical Engineering,M.E,9.52,1
+2008A1248A,Chemisty,B.E,8.3,4
+2008D1249D,Mathematics,Ph.D,6.46,4
+2008A1250A,Civil Engineering,B.E,6.03,3
+2008P1251P,Computer Science and Information Systems,B.Pharm,7.85,3
+2008H1252H,Electrical and Electronics Engineering,M.E,8.59,3
+2008A1253A,Chemical Engineering,B.E,7.91,4
+2008A1254A,Chemisty,B.E,9.26,1
+2008A1255A,Economics and Finanace,B.E,9.51,1
+2008H1256H,Biological Sciences,M.E,8.52,3
+2008A1257A,Chemical Engineering,B.E,9.31,1
+2008P1258P,Civil Engineering,B.Pharm,7.16,4
+2008A1259A,Pharmacy,B.E,6.59,4
+2008A1260A,Electrical and Electronics Engineering,B.E,6.91,2
+2008A1261A,Pharmacy,B.E,5.87,2
+2008S1262S,Civil Engineering,M.Sc,7.78,3
+2008S1263S,Electrical and Electronics Engineering,M.Sc,5.77,2
+2008A1264A,Chemisty,B.E,5.06,1
+2008A1265A,Chemisty,B.E,8.61,4
+2008A1266A,Pharmacy,B.E,7.18,2
+2008A1267A,Chemical Engineering,B.E,5.69,4
+2008H1268H,Humanities and Social Sciences,M.E,9.47,4
+2008H1269H,Mechanical Engineering,M.E,5.9,4
+2008A1270A,Mathematics,B.E,9.1,4
+2008P1271P,Economics and Finanace,B.Pharm,6.13,4
+2008A1272A,Mechanical Engineering,B.E,5.04,4
+2008H1273H,Physics,M.E,6.18,3
+2008A1274A,Electrical and Electronics Engineering,B.E,9.63,3
+2008P1275P,Biological Sciences,B.Pharm,9.89,4
+2008A1276A,Physics,B.E,6.84,4
+2008A1277A,Physics,B.E,5.4,3
+2008P1278P,Humanities and Social Sciences,B.Pharm,7.58,1
+2008P1279P,Civil Engineering,B.Pharm,7.36,1
+2008A1280A,Pharmacy,B.E,8.17,3
+2008A1281A,Mechanical Engineering,B.E,5.26,3
+2008A1282A,Mathematics,B.E,8.89,4
+2008H1283H,Humanities and Social Sciences,M.E,7.56,4
+2008A1284A,Mechanical Engineering,B.E,8.67,4
+2008P1285P,Economics and Finanace,B.Pharm,9.8,3
+2008A1286A,Computer Science and Information Systems,B.E,5.84,3
+2008A1287A,Physics,B.E,8.93,3
+2008P1288P,Biological Sciences,B.Pharm,8.15,2
+2008P1289P,Mechanical Engineering,B.Pharm,5.26,3
+2008P1290P,Mechanical Engineering,B.Pharm,5.14,4
+2008A1291A,Chemical Engineering,B.E,5.63,1
+2008D1292D,Computer Science and Information Systems,Ph.D,6.26,3
+2008A1293A,Computer Science and Information Systems,B.E,9.29,1
+2008A1294A,Physics,B.E,5.56,2
+2008H1295H,Mechanical Engineering,M.E,8.69,4
+2008A1296A,Economics and Finanace,B.E,9.04,3
+2008A1297A,Physics,B.E,6.18,2
+2008A1298A,Mathematics,B.E,9.31,3
+2008H1299H,Chemical Engineering,M.E,9.84,2
+2008A1300A,Humanities and Social Sciences,B.E,8.76,4
+2008A1301A,Electrical and Electronics Engineering,B.E,6.19,4
+2008A1302A,Physics,B.E,8.19,2
+2008P1303P,Mechanical Engineering,B.Pharm,8.67,3
+2008H1304H,Biological Sciences,M.E,8.21,1
+2008P1305P,Biological Sciences,B.Pharm,5.84,4
+2008A1306A,Humanities and Social Sciences,B.E,6.51,2
+2008A1307A,Electrical and Electronics Engineering,B.E,8.42,4
+2008A1308A,Humanities and Social Sciences,B.E,6.31,4
+2008A1309A,Biological Sciences,B.E,6.44,4
+2008A1310A,Electrical and Electronics Engineering,B.E,8.39,1
+2008H1311H,Chemical Engineering,M.E,9.59,3
+2008A1312A,Electrical and Electronics Engineering,B.E,8.05,3
+2008A1313A,Economics and Finanace,B.E,6.35,1
+2008H1314H,Computer Science and Information Systems,M.E,8.27,4
+2008A1315A,Humanities and Social Sciences,B.E,8.87,2
+2008D1316D,Physics,Ph.D,8.36,2
+2008H1317H,Mathematics,M.E,6.69,2
+2008A1318A,Economics and Finanace,B.E,7.74,1
+2008H1319H,Chemical Engineering,M.E,5.06,1
+2008A1320A,Mathematics,B.E,5.52,4
+2008A1321A,Economics and Finanace,B.E,6.1,3
+2008A1322A,Computer Science and Information Systems,B.E,5.97,1
+2008A1323A,Mechanical Engineering,B.E,5.46,2
+2008H1324H,Mechanical Engineering,M.E,8.19,1
+2008A1325A,Chemical Engineering,B.E,9.28,2
+2008A1326A,Electrical and Electronics Engineering,B.E,8.28,2
+2008A1327A,Chemical Engineering,B.E,8.48,3
+2008P1328P,Computer Science and Information Systems,B.Pharm,7.33,1
+2008D1329D,Pharmacy,Ph.D,7.27,3
+2008A1330A,Electrical and Electronics Engineering,B.E,8.46,3
+2008A1331A,Computer Science and Information Systems,B.E,5.81,1
+2008A1332A,Computer Science and Information Systems,B.E,8.89,4
+2008A1333A,Electrical and Electronics Engineering,B.E,6.66,1
+2008A1334A,Computer Science and Information Systems,B.E,9.78,3
+2008H1335H,Chemisty,M.E,7.2,4
+2008A1336A,Civil Engineering,B.E,8.05,2
+2008A1337A,Pharmacy,B.E,7.46,2
+2008A1338A,Mathematics,B.E,8.84,2
+2008S1339S,Mechanical Engineering,M.Sc,8.22,4
+2008A1340A,Physics,B.E,6.29,1
+2008A1341A,Chemical Engineering,B.E,5.35,3
+2008A1342A,Humanities and Social Sciences,B.E,5.09,4
+2008A1343A,Chemisty,B.E,8.26,1
+2008D1344D,Biological Sciences,Ph.D,8.32,3
+2008A1345A,Chemisty,B.E,8.5,4
+2008A1346A,Mechanical Engineering,B.E,5.02,4
+2008P1347P,Humanities and Social Sciences,B.Pharm,7.18,1
+2008D1348D,Mathematics,Ph.D,6.13,4
+2008A1349A,Physics,B.E,9.09,4
+2008A1350A,Chemical Engineering,B.E,7.84,3
+2008A1351A,Economics and Finanace,B.E,8.41,4
+2008A1352A,Biological Sciences,B.E,8.16,1
+2008A1353A,Economics and Finanace,B.E,7.67,3
+2008A1354A,Chemical Engineering,B.E,9.21,3
+2008S1355S,Pharmacy,M.Sc,6.02,1
+2008A1356A,Electrical and Electronics Engineering,B.E,8.3,3
+2008A1357A,Physics,B.E,6.95,1
+2008D1358D,Pharmacy,Ph.D,8.44,4
+2008H1359H,Chemical Engineering,M.E,9.43,4
+2008A1360A,Physics,B.E,5.95,1
+2008H1361H,Civil Engineering,M.E,5.13,2
+2008S1362S,Humanities and Social Sciences,M.Sc,6.94,3
+2008A1363A,Humanities and Social Sciences,B.E,7.67,4
+2008S1364S,Biological Sciences,M.Sc,5.19,1
+2008A1365A,Economics and Finanace,B.E,8.94,1
+2008A1366A,Electrical and Electronics Engineering,B.E,5.59,4
+2008A1367A,Pharmacy,B.E,9.35,2
+2008A1368A,Physics,B.E,7.9,1
+2008A1369A,Biological Sciences,B.E,8.68,4
+2008A1370A,Pharmacy,B.E,5.1,1
+2008A1371A,Civil Engineering,B.E,8.51,2
+2008A1372A,Biological Sciences,B.E,5.86,1
+2008S1373S,Computer Science and Information Systems,M.Sc,9.1,1
+2008A1374A,Humanities and Social Sciences,B.E,8.06,1
+2008P1375P,Chemical Engineering,B.Pharm,5.57,2
+2008A1376A,Chemical Engineering,B.E,9.02,4
+2008A1377A,Economics and Finanace,B.E,9.06,4
+2008S1378S,Economics and Finanace,M.Sc,5.6,2
+2008D1379D,Economics and Finanace,Ph.D,9.18,2
+2008S1380S,Biological Sciences,M.Sc,7.97,3
+2008A1381A,Chemical Engineering,B.E,5.6,2
+2008H1382H,Electrical and Electronics Engineering,M.E,5.84,3
+2008A1383A,Mathematics,B.E,5.83,2
+2008A1384A,Mechanical Engineering,B.E,5.2,1
+2008H1385H,Pharmacy,M.E,8.06,2
+2008A1386A,Biological Sciences,B.E,9.4,1
+2008A1387A,Biological Sciences,B.E,5.04,1
+2008A1388A,Physics,B.E,8.26,3
+2008A1389A,Electrical and Electronics Engineering,B.E,8.47,4
+2008P1390P,Chemisty,B.Pharm,6.03,3
+2008A1391A,Mathematics,B.E,7.25,2
+2008A1392A,Chemisty,B.E,8.05,1
+2008A1393A,Mechanical Engineering,B.E,5.9,4
+2008P1394P,Mechanical Engineering,B.Pharm,9.75,3
+2008A1395A,Economics and Finanace,B.E,7.09,2
+2008A1396A,Civil Engineering,B.E,5.59,1
+2008A1397A,Mechanical Engineering,B.E,6.81,2
+2008A1398A,Humanities and Social Sciences,B.E,8.85,2
+2008D1399D,Computer Science and Information Systems,Ph.D,5.27,1
+2008A1400A,Chemisty,B.E,8.43,4
+2008D1401D,Humanities and Social Sciences,Ph.D,5.88,1
+2008A1402A,Biological Sciences,B.E,8.22,3
+2008H1403H,Civil Engineering,M.E,7.17,3
+2008A1404A,Mechanical Engineering,B.E,9.03,4
+2008A1405A,Biological Sciences,B.E,5.52,1
+2008A1406A,Mathematics,B.E,5.88,1
+2008H1407H,Humanities and Social Sciences,M.E,7.57,1
+2008A1408A,Civil Engineering,B.E,8.61,3
+2008A1409A,Electrical and Electronics Engineering,B.E,5.99,3
+2008H1410H,Civil Engineering,M.E,8.89,3
+2008H1411H,Civil Engineering,M.E,5.49,4
+2008A1412A,Civil Engineering,B.E,6.88,2
+2008A1413A,Chemical Engineering,B.E,7.35,4
+2008P1414P,Biological Sciences,B.Pharm,9.45,2
+2008A1415A,Civil Engineering,B.E,9.64,4
+2008D1416D,Chemisty,Ph.D,6.94,2
+2008D1417D,Humanities and Social Sciences,Ph.D,8.6,3
+2008A1418A,Computer Science and Information Systems,B.E,6.01,2
+2008H1419H,Biological Sciences,M.E,8.46,1
+2008S1420S,Computer Science and Information Systems,M.Sc,5.68,4
+2008P1421P,Humanities and Social Sciences,B.Pharm,7.09,3
+2008A1422A,Civil Engineering,B.E,9.43,2
+2008A1423A,Pharmacy,B.E,9.76,2
+2008A1424A,Mechanical Engineering,B.E,9.85,2
+2008A1425A,Chemical Engineering,B.E,7.06,4
+2008A1426A,Civil Engineering,B.E,7.96,4
+2008S1427S,Computer Science and Information Systems,M.Sc,5.07,4
+2008A1428A,Physics,B.E,9.36,2
+2008A1429A,Economics and Finanace,B.E,7.17,2
+2008A1430A,Mechanical Engineering,B.E,9.73,1
+2008D1431D,Electrical and Electronics Engineering,Ph.D,9.9,1
+2008A1432A,Humanities and Social Sciences,B.E,8.67,1
+2008A1433A,Electrical and Electronics Engineering,B.E,7.66,4
+2008H1434H,Physics,M.E,9.11,4
+2008S1435S,Humanities and Social Sciences,M.Sc,6.2,1
+2008H1436H,Physics,M.E,8.66,2
+2008H1437H,Chemisty,M.E,6.79,2
+2008A1438A,Pharmacy,B.E,9.99,1
+2008A1439A,Humanities and Social Sciences,B.E,8.35,2
+2008S1440S,Physics,M.Sc,7.3,1
+2008A1441A,Humanities and Social Sciences,B.E,7.32,2
+2008A1442A,Physics,B.E,7.03,3
+2008H1443H,Pharmacy,M.E,7.32,1
+2008H1444H,Pharmacy,M.E,5.35,3
+2008A1445A,Mathematics,B.E,5.16,4
+2008A1446A,Computer Science and Information Systems,B.E,8.49,2
+2008P1447P,Pharmacy,B.Pharm,5.4,3
+2008D1448D,Physics,Ph.D,9.66,3
+2008A1449A,Biological Sciences,B.E,5.55,3
+2008A1450A,Humanities and Social Sciences,B.E,8.1,3
+2008S1451S,Economics and Finanace,M.Sc,5.88,1
+2008H1452H,Mathematics,M.E,8.55,2
+2008A1453A,Chemisty,B.E,9.91,2
+2008H1454H,Mathematics,M.E,5.57,4
+2008A1455A,Physics,B.E,9.7,2
+2008H1456H,Physics,M.E,8.8,3
+2008H1457H,Economics and Finanace,M.E,9.49,4
+2008A1458A,Computer Science and Information Systems,B.E,5.27,3
+2008A1459A,Economics and Finanace,B.E,7.26,1
+2008S1460S,Humanities and Social Sciences,M.Sc,8.55,3
+2008A1461A,Humanities and Social Sciences,B.E,8.1,1
+2008D1462D,Civil Engineering,Ph.D,9.46,4
+2008A1463A,Chemical Engineering,B.E,5.4,2
+2008H1464H,Computer Science and Information Systems,M.E,9.79,1
+2008A1465A,Chemical Engineering,B.E,5.82,1
+2008A1466A,Physics,B.E,5.74,2
+2008P1467P,Civil Engineering,B.Pharm,7.6,1
+2008H1468H,Computer Science and Information Systems,M.E,7.08,2
+2008H1469H,Humanities and Social Sciences,M.E,6.73,4
+2008P1470P,Pharmacy,B.Pharm,5.11,2
+2008A1471A,Chemical Engineering,B.E,5.11,2
+2008A1472A,Mathematics,B.E,8.22,4
+2008A1473A,Mechanical Engineering,B.E,6.71,3
+2008H1474H,Humanities and Social Sciences,M.E,7.97,4
+2008S1475S,Humanities and Social Sciences,M.Sc,6.52,2
+2008A1476A,Computer Science and Information Systems,B.E,5.86,3
+2008A1477A,Civil Engineering,B.E,7.42,3
+2008A1478A,Biological Sciences,B.E,5.74,3
+2008A1479A,Humanities and Social Sciences,B.E,9.78,2
+2008A1480A,Physics,B.E,7.68,2
+2008H1481H,Chemisty,M.E,9.2,2
+2008A1482A,Chemisty,B.E,6.19,1
+2008P1483P,Economics and Finanace,B.Pharm,7.87,4
+2008A1484A,Computer Science and Information Systems,B.E,6.85,2
+2008S1485S,Mathematics,M.Sc,8.54,3
+2008A1486A,Economics and Finanace,B.E,5.74,4
+2008A1487A,Mathematics,B.E,9.88,3
+2008A1488A,Chemical Engineering,B.E,9.6,4
+2008A1489A,Humanities and Social Sciences,B.E,8.84,4
+2008P1490P,Economics and Finanace,B.Pharm,5.78,3
+2008A1491A,Pharmacy,B.E,8.53,4
+2008A1492A,Computer Science and Information Systems,B.E,9.85,2
+2008P1493P,Mechanical Engineering,B.Pharm,8.64,4
+2008P1494P,Economics and Finanace,B.Pharm,8.45,4
+2008A1495A,Biological Sciences,B.E,5.7,1
+2008P1496P,Computer Science and Information Systems,B.Pharm,5.12,2
+2008H1497H,Humanities and Social Sciences,M.E,6.79,3
+2008H1498H,Biological Sciences,M.E,8.04,2
+2008H1499H,Mechanical Engineering,M.E,7.63,3
+2008P1500P,Civil Engineering,B.Pharm,5.11,4
+2008H1501H,Pharmacy,M.E,8.36,1
+2008A1502A,Mathematics,B.E,6.97,4
+2008A1503A,Economics and Finanace,B.E,8.02,1
+2008S1504S,Pharmacy,M.Sc,6.81,2
+2008A1505A,Physics,B.E,9.27,3
+2008H1506H,Electrical and Electronics Engineering,M.E,6.86,3
+2008A1507A,Economics and Finanace,B.E,6.76,4
+2008P1508P,Chemical Engineering,B.Pharm,6.08,4
+2008A1509A,Physics,B.E,9.96,4
+2008A1510A,Computer Science and Information Systems,B.E,5.82,4
+2008A1511A,Physics,B.E,9.48,2
+2008H1512H,Mechanical Engineering,M.E,7.99,2
+2008H1513H,Civil Engineering,M.E,6.52,3
+2008A1514A,Chemical Engineering,B.E,9.67,4
+2008P1515P,Chemical Engineering,B.Pharm,5.03,3
+2008A1516A,Electrical and Electronics Engineering,B.E,5.87,4
+2008A1517A,Physics,B.E,7.84,2
+2008A1518A,Civil Engineering,B.E,5.93,4
+2008H1519H,Computer Science and Information Systems,M.E,7.77,1
+2008H1520H,Computer Science and Information Systems,M.E,9.17,3
+2008A1521A,Humanities and Social Sciences,B.E,7.8,4
+2008S1522S,Civil Engineering,M.Sc,5.13,1
+2008H1523H,Chemisty,M.E,6.31,4
+2008P1524P,Chemical Engineering,B.Pharm,8.27,3
+2008H1525H,Electrical and Electronics Engineering,M.E,5.9,2
+2008A1526A,Biological Sciences,B.E,5.6,3
+2008A1527A,Humanities and Social Sciences,B.E,9.97,1
+2008H1528H,Mechanical Engineering,M.E,8.73,4
+2008A1529A,Mechanical Engineering,B.E,7.18,3
+2008S1530S,Pharmacy,M.Sc,8.43,1
+2008A1531A,Economics and Finanace,B.E,7.56,1
+2008A1532A,Computer Science and Information Systems,B.E,5.81,1
+2008H1533H,Chemisty,M.E,6.6,2
+2008A1534A,Economics and Finanace,B.E,5.82,3
+2008D1535D,Economics and Finanace,Ph.D,7.1,3
+2008A1536A,Biological Sciences,B.E,6.45,1
+2008A1537A,Mathematics,B.E,5.97,2
+2008D1538D,Chemical Engineering,Ph.D,7.99,2
+2008A1539A,Mathematics,B.E,6.61,3
+2008H1540H,Pharmacy,M.E,9.0,3
+2008H1541H,Pharmacy,M.E,8.49,3
+2008H1542H,Chemical Engineering,M.E,7.67,3
+2008H1543H,Chemisty,M.E,5.06,3
+2008A1544A,Economics and Finanace,B.E,8.89,4
+2008D1545D,Economics and Finanace,Ph.D,9.6,2
+2008S1546S,Chemical Engineering,M.Sc,6.09,2
+2008H1547H,Civil Engineering,M.E,8.98,1
+2008H1548H,Electrical and Electronics Engineering,M.E,7.3,1
+2008A1549A,Chemical Engineering,B.E,9.09,1
+2008P1550P,Humanities and Social Sciences,B.Pharm,6.74,3
+2008A1551A,Chemisty,B.E,9.09,3
+2008A1552A,Chemisty,B.E,8.55,1
+2008A1553A,Physics,B.E,9.07,2
+2008A1554A,Chemisty,B.E,9.28,2
+2008H1555H,Physics,M.E,6.13,2
+2008A1556A,Civil Engineering,B.E,5.65,1
+2008A1557A,Electrical and Electronics Engineering,B.E,8.45,1
+2008P1558P,Chemical Engineering,B.Pharm,5.09,4
+2008H1559H,Electrical and Electronics Engineering,M.E,5.21,1
+2008P1560P,Biological Sciences,B.Pharm,8.97,1
+2008A1561A,Humanities and Social Sciences,B.E,5.59,3
+2008S1562S,Biological Sciences,M.Sc,5.33,1
+2008A1563A,Chemical Engineering,B.E,8.91,2
+2008S1564S,Mechanical Engineering,M.Sc,9.51,2
+2008A1565A,Pharmacy,B.E,6.76,1
+2008A1566A,Chemisty,B.E,9.23,3
+2008H1567H,Mechanical Engineering,M.E,6.74,2
+2008A1568A,Mathematics,B.E,8.9,2
+2008H1569H,Mathematics,M.E,7.85,1
+2008A1570A,Mechanical Engineering,B.E,8.82,2
+2008H1571H,Physics,M.E,5.96,3
+2008A1572A,Chemisty,B.E,9.51,1
+2008P1573P,Chemical Engineering,B.Pharm,9.62,4
+2008P1574P,Economics and Finanace,B.Pharm,8.49,2
+2008H1575H,Humanities and Social Sciences,M.E,8.37,1
+2008A1576A,Chemisty,B.E,9.17,4
+2008A1577A,Electrical and Electronics Engineering,B.E,6.07,2
+2008A1578A,Electrical and Electronics Engineering,B.E,5.56,3
+2008H1579H,Chemical Engineering,M.E,7.33,2
+2008A1580A,Humanities and Social Sciences,B.E,8.81,3
+2008D1581D,Mathematics,Ph.D,8.61,1
+2008A1582A,Economics and Finanace,B.E,7.47,4
+2008A1583A,Computer Science and Information Systems,B.E,7.28,3
+2008A1584A,Pharmacy,B.E,9.88,4
+2008D1585D,Civil Engineering,Ph.D,7.77,3
+2008H1586H,Electrical and Electronics Engineering,M.E,5.94,1
+2008A1587A,Humanities and Social Sciences,B.E,9.7,3
+2008A1588A,Chemisty,B.E,5.06,4
+2008S1589S,Pharmacy,M.Sc,5.53,4
+2008H1590H,Mathematics,M.E,8.29,1
+2008A1591A,Chemical Engineering,B.E,5.72,4
+2008A1592A,Physics,B.E,7.95,1
+2008A1593A,Physics,B.E,9.63,2
+2008A1594A,Chemical Engineering,B.E,6.82,2
+2008H1595H,Economics and Finanace,M.E,6.0,4
+2008A1596A,Chemical Engineering,B.E,6.16,4
+2008D1597D,Physics,Ph.D,7.5,3
+2008A1598A,Pharmacy,B.E,9.72,3
+2008A1599A,Humanities and Social Sciences,B.E,8.33,4
+2008A1600A,Humanities and Social Sciences,B.E,7.56,2
+2008P1601P,Humanities and Social Sciences,B.Pharm,5.54,3
+2008S1602S,Humanities and Social Sciences,M.Sc,7.49,2
+2008P1603P,Biological Sciences,B.Pharm,5.5,1
+2008A1604A,Chemical Engineering,B.E,7.49,1
+2008A1605A,Chemisty,B.E,6.91,3
+2008D1606D,Chemisty,Ph.D,6.51,1
+2008A1607A,Chemical Engineering,B.E,8.31,4
+2008A1608A,Humanities and Social Sciences,B.E,6.01,4
+2008P1609P,Humanities and Social Sciences,B.Pharm,7.52,3
+2008A1610A,Mathematics,B.E,7.73,1
+2008A1611A,Electrical and Electronics Engineering,B.E,9.4,1
+2008A1612A,Electrical and Electronics Engineering,B.E,7.25,4
+2008D1613D,Humanities and Social Sciences,Ph.D,7.3,1
+2008A1614A,Chemisty,B.E,7.78,3
+2008A1615A,Physics,B.E,5.82,4
+2008A1616A,Chemisty,B.E,6.56,4
+2008H1617H,Humanities and Social Sciences,M.E,8.82,4
+2008S1618S,Pharmacy,M.Sc,7.77,4
+2008A1619A,Humanities and Social Sciences,B.E,7.81,2
+2008H1620H,Mathematics,M.E,5.28,3
+2008A1621A,Humanities and Social Sciences,B.E,7.96,4
+2008D1622D,Mechanical Engineering,Ph.D,8.38,3
+2008A1623A,Economics and Finanace,B.E,5.31,1
+2008S1624S,Chemisty,M.Sc,9.18,3
+2008S1625S,Physics,M.Sc,7.92,3
+2008A1626A,Electrical and Electronics Engineering,B.E,5.49,3
+2008D1627D,Economics and Finanace,Ph.D,7.06,1
+2008P1628P,Pharmacy,B.Pharm,6.22,2
+2008P1629P,Pharmacy,B.Pharm,6.56,1
+2008A1630A,Physics,B.E,5.33,3
+2008P1631P,Chemical Engineering,B.Pharm,6.69,1
+2008A1632A,Mathematics,B.E,6.63,4
+2008S1633S,Pharmacy,M.Sc,9.32,4
+2008H1634H,Computer Science and Information Systems,M.E,5.1,4
+2008H1635H,Mechanical Engineering,M.E,5.11,3
+2008P1636P,Electrical and Electronics Engineering,B.Pharm,7.85,3
+2008A1637A,Mechanical Engineering,B.E,5.49,4
+2008A1638A,Chemical Engineering,B.E,8.45,2
+2008A1639A,Economics and Finanace,B.E,7.48,3
+2008A1640A,Chemisty,B.E,8.07,3
+2008H1641H,Electrical and Electronics Engineering,M.E,6.01,1
+2008A1642A,Mathematics,B.E,6.07,3
+2008P1643P,Biological Sciences,B.Pharm,6.49,4
+2008P1644P,Civil Engineering,B.Pharm,8.12,1
+2008H1645H,Physics,M.E,9.22,1
+2008A1646A,Mechanical Engineering,B.E,6.68,1
+2008A1647A,Mechanical Engineering,B.E,9.01,4
+2008A1648A,Electrical and Electronics Engineering,B.E,6.05,1
+2008A1649A,Pharmacy,B.E,9.12,3
+2008A1650A,Electrical and Electronics Engineering,B.E,8.32,3
+2008H1651H,Civil Engineering,M.E,7.07,3
+2008A1652A,Mechanical Engineering,B.E,7.58,2
+2008A1653A,Biological Sciences,B.E,8.14,2
+2008H1654H,Mechanical Engineering,M.E,7.5,4
+2008H1655H,Computer Science and Information Systems,M.E,9.69,4
+2008A1656A,Mechanical Engineering,B.E,8.63,1
+2008A1657A,Mathematics,B.E,6.0,4
+2008A1658A,Chemisty,B.E,6.2,3
+2008P1659P,Electrical and Electronics Engineering,B.Pharm,7.05,1
+2008A1660A,Pharmacy,B.E,6.02,4
+2008P1661P,Computer Science and Information Systems,B.Pharm,9.12,2
+2008A1662A,Computer Science and Information Systems,B.E,8.43,2
+2008A1663A,Electrical and Electronics Engineering,B.E,6.19,2
+2008H1664H,Civil Engineering,M.E,5.14,3
+2008A1665A,Humanities and Social Sciences,B.E,7.43,4
+2008A1666A,Electrical and Electronics Engineering,B.E,8.23,1
+2008A1667A,Civil Engineering,B.E,5.8,2
+2008A1668A,Biological Sciences,B.E,6.29,3
+2008A1669A,Pharmacy,B.E,7.75,1
+2008A1670A,Physics,B.E,7.43,1
+2008A1671A,Biological Sciences,B.E,9.3,1
+2008H1672H,Economics and Finanace,M.E,8.01,1
+2008A1673A,Electrical and Electronics Engineering,B.E,9.48,1
+2008P1674P,Electrical and Electronics Engineering,B.Pharm,9.72,2
+2008A1675A,Civil Engineering,B.E,5.56,1
+2008H1676H,Mathematics,M.E,8.32,3
+2008P1677P,Humanities and Social Sciences,B.Pharm,9.42,2
+2008H1678H,Mechanical Engineering,M.E,5.61,3
+2008A1679A,Economics and Finanace,B.E,9.16,4
+2008A1680A,Physics,B.E,8.72,4
+2008P1681P,Civil Engineering,B.Pharm,5.72,2
+2008A1682A,Civil Engineering,B.E,9.85,4
+2008A1683A,Electrical and Electronics Engineering,B.E,6.27,1
+2008A1684A,Humanities and Social Sciences,B.E,7.67,1
+2008A1685A,Economics and Finanace,B.E,7.73,4
+2008A1686A,Pharmacy,B.E,6.23,3
+2008A1687A,Chemisty,B.E,6.81,3
+2008P1688P,Computer Science and Information Systems,B.Pharm,5.11,1
+2008A1689A,Physics,B.E,8.31,1
+2008A1690A,Physics,B.E,9.59,2
+2008A1691A,Computer Science and Information Systems,B.E,7.76,3
+2008P1692P,Pharmacy,B.Pharm,9.79,3
+2008A1693A,Pharmacy,B.E,5.61,2
+2008A1694A,Humanities and Social Sciences,B.E,6.94,4
+2008A1695A,Computer Science and Information Systems,B.E,6.5,2
+2008A1696A,Computer Science and Information Systems,B.E,6.05,2
+2008A1697A,Humanities and Social Sciences,B.E,8.16,4
+2008A1698A,Biological Sciences,B.E,6.37,1
+2008H1699H,Humanities and Social Sciences,M.E,7.36,4
+2008A1700A,Economics and Finanace,B.E,8.59,1
+2008A1701A,Chemisty,B.E,8.49,1
+2008A1702A,Economics and Finanace,B.E,7.1,3
+2008A1703A,Humanities and Social Sciences,B.E,8.48,1
+2008A1704A,Pharmacy,B.E,8.21,4
+2008H1705H,Pharmacy,M.E,5.68,4
+2008D1706D,Civil Engineering,Ph.D,8.14,3
+2008D1707D,Mechanical Engineering,Ph.D,5.41,2
+2008A1708A,Civil Engineering,B.E,7.58,2
+2008A1709A,Mechanical Engineering,B.E,8.43,3
+2008H1710H,Humanities and Social Sciences,M.E,7.39,2
+2008S1711S,Computer Science and Information Systems,M.Sc,5.87,3
+2008A1712A,Computer Science and Information Systems,B.E,5.99,4
+2008S1713S,Economics and Finanace,M.Sc,5.91,4
+2008P1714P,Mechanical Engineering,B.Pharm,6.12,1
+2008A1715A,Mathematics,B.E,8.24,2
+2008H1716H,Chemical Engineering,M.E,9.87,2
+2008P1717P,Computer Science and Information Systems,B.Pharm,8.51,2
+2008A1718A,Biological Sciences,B.E,7.01,4
+2008S1719S,Mechanical Engineering,M.Sc,6.3,1
+2008A1720A,Economics and Finanace,B.E,5.85,1
+2008A1721A,Biological Sciences,B.E,8.59,4
+2008A1722A,Humanities and Social Sciences,B.E,9.14,4
+2008A1723A,Chemical Engineering,B.E,6.12,2
+2008H1724H,Civil Engineering,M.E,9.73,3
+2008P1725P,Computer Science and Information Systems,B.Pharm,8.73,4
+2008A1726A,Chemisty,B.E,7.16,2
+2008A1727A,Mechanical Engineering,B.E,6.08,3
+2008A1728A,Physics,B.E,8.39,4
+2008A1729A,Chemisty,B.E,7.04,2
+2008A1730A,Biological Sciences,B.E,6.45,3
+2008H1731H,Civil Engineering,M.E,8.09,2
+2008H1732H,Economics and Finanace,M.E,7.91,4
+2008H1733H,Chemical Engineering,M.E,5.05,2
+2008H1734H,Economics and Finanace,M.E,9.87,4
+2008A1735A,Pharmacy,B.E,6.06,4
+2008D1736D,Physics,Ph.D,7.12,3
+2008A1737A,Chemical Engineering,B.E,5.48,1
+2008D1738D,Biological Sciences,Ph.D,6.66,2
+2008A1739A,Humanities and Social Sciences,B.E,9.54,1
+2008H1740H,Biological Sciences,M.E,6.27,4
+2008H1741H,Computer Science and Information Systems,M.E,9.89,3
+2008A1742A,Chemisty,B.E,9.84,1
+2008H1743H,Mechanical Engineering,M.E,5.9,2
+2008A1744A,Mathematics,B.E,7.46,3
+2008A1745A,Humanities and Social Sciences,B.E,5.66,3
+2008D1746D,Physics,Ph.D,7.65,2
+2008P1747P,Computer Science and Information Systems,B.Pharm,5.58,1
+2008P1748P,Chemisty,B.Pharm,7.5,3
+2008A1749A,Physics,B.E,6.8,4
+2008P1750P,Computer Science and Information Systems,B.Pharm,9.51,3
+2008A1751A,Mechanical Engineering,B.E,9.15,3
+2008H1752H,Mathematics,M.E,6.57,2
+2008A1753A,Economics and Finanace,B.E,8.68,4
+2008P1754P,Chemisty,B.Pharm,7.78,4
+2008S1755S,Biological Sciences,M.Sc,5.94,1
+2008H1756H,Civil Engineering,M.E,5.92,4
+2008A1757A,Computer Science and Information Systems,B.E,5.82,4
+2008S1758S,Electrical and Electronics Engineering,M.Sc,5.58,4
+2008A1759A,Biological Sciences,B.E,7.21,4
+2008A1760A,Humanities and Social Sciences,B.E,7.46,2
+2008P1761P,Chemical Engineering,B.Pharm,6.75,2
+2008H1762H,Computer Science and Information Systems,M.E,5.9,2
+2008H1763H,Physics,M.E,7.54,3
+2008A1764A,Mechanical Engineering,B.E,9.45,2
+2008P1765P,Mechanical Engineering,B.Pharm,9.99,1
+2008A1766A,Mathematics,B.E,8.83,2
+2008A1767A,Electrical and Electronics Engineering,B.E,9.6,2
+2008H1768H,Humanities and Social Sciences,M.E,8.38,3
+2008H1769H,Biological Sciences,M.E,6.42,1
+2008H1770H,Electrical and Electronics Engineering,M.E,6.87,1
+2008H1771H,Economics and Finanace,M.E,5.77,1
+2008A1772A,Humanities and Social Sciences,B.E,9.15,4
+2008A1773A,Humanities and Social Sciences,B.E,8.14,3
+2008A1774A,Mechanical Engineering,B.E,8.29,3
+2008A1775A,Biological Sciences,B.E,8.28,4
+2008P1776P,Economics and Finanace,B.Pharm,9.74,2
+2008H1777H,Civil Engineering,M.E,9.32,3
+2008A1778A,Economics and Finanace,B.E,8.99,1
+2008A1779A,Mathematics,B.E,9.76,4
+2008A1780A,Chemical Engineering,B.E,6.99,2
+2008A1781A,Civil Engineering,B.E,9.83,4
+2008P1782P,Chemical Engineering,B.Pharm,5.1,2
+2008A1783A,Chemisty,B.E,6.94,4
+2008A1784A,Computer Science and Information Systems,B.E,8.24,2
+2008P1785P,Chemical Engineering,B.Pharm,6.49,4
+2008A1786A,Physics,B.E,9.03,3
+2008A1787A,Pharmacy,B.E,8.02,3
+2008S1788S,Pharmacy,M.Sc,5.48,3
+2008A1789A,Mathematics,B.E,6.0,4
+2008D1790D,Electrical and Electronics Engineering,Ph.D,7.38,4
+2008A1791A,Chemical Engineering,B.E,8.78,3
+2008H1792H,Mechanical Engineering,M.E,5.93,4
+2008A1793A,Chemical Engineering,B.E,5.2,3
+2008P1794P,Humanities and Social Sciences,B.Pharm,8.38,2
+2008A1795A,Humanities and Social Sciences,B.E,7.64,1
+2008A1796A,Computer Science and Information Systems,B.E,7.34,1
+2008A1797A,Humanities and Social Sciences,B.E,6.5,2
+2008A1798A,Pharmacy,B.E,9.51,2
+2008A1799A,Mathematics,B.E,7.14,1
+2008D1800D,Mathematics,Ph.D,5.38,1
+2008A1801A,Mathematics,B.E,5.54,4
+2008P1802P,Electrical and Electronics Engineering,B.Pharm,5.47,3
+2008A1803A,Economics and Finanace,B.E,6.27,1
+2008S1804S,Mathematics,M.Sc,5.08,4
+2008A1805A,Chemisty,B.E,8.93,4
+2008A1806A,Biological Sciences,B.E,5.42,3
+2008A1807A,Economics and Finanace,B.E,7.94,4
+2008P1808P,Pharmacy,B.Pharm,7.25,3
+2008A1809A,Economics and Finanace,B.E,9.83,2
+2008A1810A,Civil Engineering,B.E,5.93,3
+2008A1811A,Pharmacy,B.E,5.53,1
+2008H1812H,Biological Sciences,M.E,6.97,1
+2008H1813H,Chemisty,M.E,8.28,4
+2008S1814S,Physics,M.Sc,7.03,4
+2008H1815H,Computer Science and Information Systems,M.E,8.09,3
+2008A1816A,Physics,B.E,8.37,4
+2008H1817H,Computer Science and Information Systems,M.E,5.44,2
+2008H1818H,Biological Sciences,M.E,5.95,1
+2008A1819A,Physics,B.E,9.85,1
+2008A1820A,Civil Engineering,B.E,7.41,2
+2008H1821H,Pharmacy,M.E,6.21,2
+2008A1822A,Chemical Engineering,B.E,6.5,4
+2008P1823P,Chemisty,B.Pharm,7.37,1
+2008A1824A,Chemical Engineering,B.E,5.83,2
+2008A1825A,Physics,B.E,8.51,4
+2008S1826S,Humanities and Social Sciences,M.Sc,5.1,4
+2008D1827D,Mechanical Engineering,Ph.D,6.21,3
+2008D1828D,Mechanical Engineering,Ph.D,9.15,4
+2008S1829S,Biological Sciences,M.Sc,6.67,1
+2008A1830A,Pharmacy,B.E,9.24,4
+2008S1831S,Electrical and Electronics Engineering,M.Sc,9.24,3
+2008A1832A,Biological Sciences,B.E,7.44,4
+2008A1833A,Mathematics,B.E,7.96,4
+2008A1834A,Civil Engineering,B.E,8.57,1
+2008P1835P,Electrical and Electronics Engineering,B.Pharm,7.88,1
+2008S1836S,Computer Science and Information Systems,M.Sc,9.46,4
+2008D1837D,Humanities and Social Sciences,Ph.D,5.58,3
+2008H1838H,Humanities and Social Sciences,M.E,8.49,1
+2008A1839A,Chemisty,B.E,6.44,2
+2008P1840P,Humanities and Social Sciences,B.Pharm,6.72,2
+2008H1841H,Mathematics,M.E,6.1,3
+2008P1842P,Mechanical Engineering,B.Pharm,9.27,4
+2008A1843A,Chemisty,B.E,9.42,4
+2008A1844A,Electrical and Electronics Engineering,B.E,9.17,3
+2008A1845A,Humanities and Social Sciences,B.E,9.0,2
+2008D1846D,Mechanical Engineering,Ph.D,6.04,1
+2008P1847P,Pharmacy,B.Pharm,7.41,2
+2008A1848A,Civil Engineering,B.E,5.78,4
+2008H1849H,Chemical Engineering,M.E,8.97,4
+2008A1850A,Computer Science and Information Systems,B.E,6.17,1
+2008H1851H,Biological Sciences,M.E,6.79,3
+2008A1852A,Economics and Finanace,B.E,8.38,2
+2008D1853D,Mathematics,Ph.D,5.16,1
+2008S1854S,Economics and Finanace,M.Sc,7.15,2
+2008A1855A,Chemical Engineering,B.E,7.81,4
+2008A1856A,Computer Science and Information Systems,B.E,9.97,3
+2008A1857A,Biological Sciences,B.E,8.85,3
+2008A1858A,Chemisty,B.E,9.27,1
+2008D1859D,Physics,Ph.D,5.25,4
+2008S1860S,Humanities and Social Sciences,M.Sc,9.81,1
+2008H1861H,Chemical Engineering,M.E,8.91,1
+2008S1862S,Mathematics,M.Sc,5.21,1
+2008A1863A,Chemisty,B.E,8.15,2
+2008A1864A,Economics and Finanace,B.E,5.79,3
+2008A1865A,Physics,B.E,7.21,4
+2008A1866A,Physics,B.E,9.35,2
+2008A1867A,Pharmacy,B.E,6.82,2
+2008A1868A,Chemical Engineering,B.E,9.24,4
+2008A1869A,Electrical and Electronics Engineering,B.E,8.85,1
+2008H1870H,Civil Engineering,M.E,9.17,4
+2008A1871A,Economics and Finanace,B.E,6.43,2
+2008A1872A,Chemical Engineering,B.E,6.33,4
+2008A1873A,Economics and Finanace,B.E,8.15,2
+2008P1874P,Chemisty,B.Pharm,8.77,4
+2008A1875A,Civil Engineering,B.E,5.69,4
+2008P1876P,Electrical and Electronics Engineering,B.Pharm,9.59,4
+2008A1877A,Mathematics,B.E,8.97,3
+2008H1878H,Biological Sciences,M.E,7.21,1
+2008A1879A,Physics,B.E,9.03,1
+2008P1880P,Chemical Engineering,B.Pharm,6.69,4
+2008H1881H,Chemisty,M.E,7.17,4
+2008A1882A,Biological Sciences,B.E,8.3,2
+2008P1883P,Mechanical Engineering,B.Pharm,5.29,3
+2008P1884P,Electrical and Electronics Engineering,B.Pharm,7.01,3
+2008H1885H,Physics,M.E,8.71,3
+2008D1886D,Biological Sciences,Ph.D,9.14,2
+2008H1887H,Physics,M.E,7.02,2
+2008S1888S,Mathematics,M.Sc,8.12,4
+2008P1889P,Economics and Finanace,B.Pharm,9.44,4
+2008H1890H,Civil Engineering,M.E,9.4,1
+2008A1891A,Biological Sciences,B.E,7.69,4
+2008A1892A,Physics,B.E,8.59,2
+2008P1893P,Computer Science and Information Systems,B.Pharm,6.07,3
+2008A1894A,Mathematics,B.E,6.7,2
+2008A1895A,Biological Sciences,B.E,5.14,3
+2008S1896S,Civil Engineering,M.Sc,9.16,3
+2008A1897A,Physics,B.E,7.11,1
+2008H1898H,Physics,M.E,5.3,3
+2008A1899A,Computer Science and Information Systems,B.E,8.13,3
+2008A1900A,Chemical Engineering,B.E,5.24,1

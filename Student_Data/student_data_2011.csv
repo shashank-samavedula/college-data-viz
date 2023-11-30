@@ -1,0 +1,3930 @@
+Student ID,Course,Degree,CGPA,Year
+2011H0001H,Economics and Finanace,M.E,9.0,1
+2011H0002H,Chemisty,M.E,6.95,1
+2011H0003H,Chemical Engineering,M.E,9.12,4
+2011A0004A,Mechanical Engineering,B.E,7.18,1
+2011A0005A,Computer Science and Information Systems,B.E,6.11,1
+2011A0006A,Mechanical Engineering,B.E,5.19,4
+2011A0007A,Electrical and Electronics Engineering,B.E,8.07,3
+2011A0008A,Physics,B.E,9.82,1
+2011A0009A,Chemisty,B.E,8.2,4
+2011H0010H,Biological Sciences,M.E,6.01,3
+2011A0011A,Civil Engineering,B.E,5.17,2
+2011P0012P,Mechanical Engineering,B.Pharm,5.85,1
+2011H0013H,Economics and Finanace,M.E,6.2,1
+2011H0014H,Chemisty,M.E,5.43,3
+2011S0015S,Electrical and Electronics Engineering,M.Sc,6.77,4
+2011A0016A,Electrical and Electronics Engineering,B.E,7.93,1
+2011D0017D,Physics,Ph.D,8.52,1
+2011D0018D,Mathematics,Ph.D,6.42,3
+2011A0019A,Economics and Finanace,B.E,9.82,3
+2011H0020H,Civil Engineering,M.E,8.03,2
+2011H0021H,Humanities and Social Sciences,M.E,9.65,1
+2011S0022S,Computer Science and Information Systems,M.Sc,5.88,1
+2011A0023A,Mathematics,B.E,5.36,3
+2011H0024H,Economics and Finanace,M.E,9.74,3
+2011P0025P,Mechanical Engineering,B.Pharm,6.25,4
+2011A0026A,Electrical and Electronics Engineering,B.E,7.82,2
+2011H0027H,Economics and Finanace,M.E,9.81,4
+2011S0028S,Pharmacy,M.Sc,7.3,1
+2011A0029A,Humanities and Social Sciences,B.E,5.58,1
+2011S0030S,Electrical and Electronics Engineering,M.Sc,8.17,2
+2011S0031S,Pharmacy,M.Sc,8.51,3
+2011A0032A,Electrical and Electronics Engineering,B.E,9.78,1
+2011A0033A,Physics,B.E,9.16,2
+2011A0034A,Computer Science and Information Systems,B.E,5.47,3
+2011H0035H,Chemical Engineering,M.E,7.77,2
+2011H0036H,Humanities and Social Sciences,M.E,6.57,2
+2011A0037A,Mechanical Engineering,B.E,6.35,2
+2011A0038A,Humanities and Social Sciences,B.E,8.69,2
+2011H0039H,Physics,M.E,6.21,3
+2011D0040D,Civil Engineering,Ph.D,6.15,2
+2011P0041P,Mechanical Engineering,B.Pharm,6.78,1
+2011A0042A,Chemical Engineering,B.E,9.6,4
+2011H0043H,Mechanical Engineering,M.E,5.03,1
+2011A0044A,Humanities and Social Sciences,B.E,6.86,3
+2011S0045S,Humanities and Social Sciences,M.Sc,9.49,3
+2011A0046A,Humanities and Social Sciences,B.E,5.91,3
+2011A0047A,Electrical and Electronics Engineering,B.E,6.11,2
+2011A0048A,Biological Sciences,B.E,7.63,4
+2011S0049S,Humanities and Social Sciences,M.Sc,9.7,1
+2011A0050A,Mathematics,B.E,6.74,2
+2011H0051H,Humanities and Social Sciences,M.E,9.88,4
+2011A0052A,Economics and Finanace,B.E,8.45,1
+2011A0053A,Pharmacy,B.E,6.05,1
+2011S0054S,Economics and Finanace,M.Sc,6.81,3
+2011D0055D,Chemisty,Ph.D,7.74,2
+2011A0056A,Computer Science and Information Systems,B.E,7.36,3
+2011A0057A,Economics and Finanace,B.E,5.92,4
+2011P0058P,Civil Engineering,B.Pharm,7.1,3
+2011P0059P,Economics and Finanace,B.Pharm,9.27,3
+2011A0060A,Humanities and Social Sciences,B.E,5.9,2
+2011H0061H,Mechanical Engineering,M.E,8.43,1
+2011A0062A,Physics,B.E,6.35,2
+2011A0063A,Mathematics,B.E,7.16,4
+2011A0064A,Civil Engineering,B.E,5.73,2
+2011A0065A,Humanities and Social Sciences,B.E,9.03,2
+2011H0066H,Electrical and Electronics Engineering,M.E,7.5,3
+2011A0067A,Humanities and Social Sciences,B.E,6.5,1
+2011H0068H,Electrical and Electronics Engineering,M.E,5.49,2
+2011D0069D,Biological Sciences,Ph.D,6.08,3
+2011A0070A,Humanities and Social Sciences,B.E,9.19,1
+2011A0071A,Humanities and Social Sciences,B.E,8.72,3
+2011A0072A,Economics and Finanace,B.E,6.8,3
+2011H0073H,Economics and Finanace,M.E,5.1,1
+2011A0074A,Economics and Finanace,B.E,9.34,2
+2011H0075H,Mechanical Engineering,M.E,7.88,2
+2011A0076A,Computer Science and Information Systems,B.E,6.78,4
+2011S0077S,Physics,M.Sc,7.23,1
+2011A0078A,Electrical and Electronics Engineering,B.E,8.07,4
+2011A0079A,Pharmacy,B.E,9.78,2
+2011H0080H,Pharmacy,M.E,9.04,3
+2011A0081A,Electrical and Electronics Engineering,B.E,8.16,4
+2011H0082H,Chemical Engineering,M.E,5.4,3
+2011A0083A,Civil Engineering,B.E,6.57,3
+2011A0084A,Physics,B.E,6.34,4
+2011A0085A,Computer Science and Information Systems,B.E,9.44,3
+2011H0086H,Physics,M.E,7.93,4
+2011A0087A,Electrical and Electronics Engineering,B.E,5.84,1
+2011P0088P,Chemisty,B.Pharm,8.64,3
+2011A0089A,Physics,B.E,8.5,1
+2011A0090A,Civil Engineering,B.E,5.83,1
+2011A0091A,Chemical Engineering,B.E,5.32,4
+2011D0092D,Mathematics,Ph.D,5.27,4
+2011D0093D,Mathematics,Ph.D,8.82,1
+2011A0094A,Chemical Engineering,B.E,6.31,2
+2011A0095A,Chemical Engineering,B.E,8.27,4
+2011H0096H,Computer Science and Information Systems,M.E,6.15,3
+2011A0097A,Humanities and Social Sciences,B.E,8.13,2
+2011A0098A,Mathematics,B.E,9.19,1
+2011A0099A,Biological Sciences,B.E,8.32,3
+2011A0100A,Humanities and Social Sciences,B.E,7.34,3
+2011A0101A,Mathematics,B.E,7.22,2
+2011S0102S,Mechanical Engineering,M.Sc,7.99,4
+2011A0103A,Mathematics,B.E,8.2,3
+2011H0104H,Economics and Finanace,M.E,7.41,2
+2011H0105H,Chemical Engineering,M.E,7.21,3
+2011A0106A,Electrical and Electronics Engineering,B.E,6.3,3
+2011H0107H,Biological Sciences,M.E,5.0,2
+2011A0108A,Economics and Finanace,B.E,6.43,1
+2011P0109P,Humanities and Social Sciences,B.Pharm,9.73,4
+2011A0110A,Computer Science and Information Systems,B.E,5.05,4
+2011P0111P,Computer Science and Information Systems,B.Pharm,7.99,1
+2011A0112A,Mathematics,B.E,6.87,4
+2011H0113H,Mathematics,M.E,7.19,2
+2011S0114S,Chemisty,M.Sc,8.57,4
+2011P0115P,Electrical and Electronics Engineering,B.Pharm,6.1,1
+2011A0116A,Electrical and Electronics Engineering,B.E,8.13,3
+2011H0117H,Computer Science and Information Systems,M.E,8.24,3
+2011A0118A,Electrical and Electronics Engineering,B.E,5.94,1
+2011A0119A,Chemisty,B.E,5.68,1
+2011H0120H,Pharmacy,M.E,7.28,4
+2011H0121H,Computer Science and Information Systems,M.E,8.5,4
+2011H0122H,Civil Engineering,M.E,6.6,2
+2011A0123A,Biological Sciences,B.E,9.85,1
+2011A0124A,Chemisty,B.E,9.86,3
+2011A0125A,Computer Science and Information Systems,B.E,5.63,4
+2011A0126A,Physics,B.E,5.04,1
+2011H0127H,Chemisty,M.E,5.07,2
+2011A0128A,Economics and Finanace,B.E,7.1,4
+2011S0129S,Economics and Finanace,M.Sc,7.32,1
+2011S0130S,Economics and Finanace,M.Sc,5.4,2
+2011A0131A,Biological Sciences,B.E,6.33,4
+2011A0132A,Chemical Engineering,B.E,7.72,2
+2011A0133A,Civil Engineering,B.E,9.48,3
+2011A0134A,Electrical and Electronics Engineering,B.E,9.14,1
+2011S0135S,Physics,M.Sc,6.24,4
+2011A0136A,Civil Engineering,B.E,8.69,1
+2011A0137A,Civil Engineering,B.E,7.3,1
+2011P0138P,Pharmacy,B.Pharm,9.91,4
+2011P0139P,Electrical and Electronics Engineering,B.Pharm,8.41,3
+2011A0140A,Economics and Finanace,B.E,5.79,1
+2011A0141A,Physics,B.E,9.69,1
+2011A0142A,Computer Science and Information Systems,B.E,7.41,3
+2011A0143A,Civil Engineering,B.E,6.8,1
+2011D0144D,Pharmacy,Ph.D,6.09,1
+2011A0145A,Civil Engineering,B.E,8.16,3
+2011D0146D,Biological Sciences,Ph.D,5.84,3
+2011S0147S,Mechanical Engineering,M.Sc,5.6,2
+2011A0148A,Biological Sciences,B.E,9.84,4
+2011A0149A,Physics,B.E,7.98,3
+2011A0150A,Chemical Engineering,B.E,6.24,4
+2011A0151A,Chemical Engineering,B.E,8.43,3
+2011A0152A,Pharmacy,B.E,5.3,3
+2011H0153H,Pharmacy,M.E,5.77,1
+2011A0154A,Chemisty,B.E,7.44,3
+2011A0155A,Mathematics,B.E,8.94,3
+2011H0156H,Humanities and Social Sciences,M.E,8.67,1
+2011S0157S,Physics,M.Sc,6.89,2
+2011A0158A,Computer Science and Information Systems,B.E,9.49,4
+2011A0159A,Physics,B.E,7.19,3
+2011H0160H,Mathematics,M.E,8.49,2
+2011D0161D,Mechanical Engineering,Ph.D,5.93,3
+2011A0162A,Economics and Finanace,B.E,8.66,3
+2011A0163A,Mechanical Engineering,B.E,9.57,2
+2011A0164A,Chemical Engineering,B.E,7.66,4
+2011A0165A,Computer Science and Information Systems,B.E,9.1,3
+2011A0166A,Humanities and Social Sciences,B.E,5.0,4
+2011A0167A,Physics,B.E,5.93,1
+2011A0168A,Mechanical Engineering,B.E,9.28,2
+2011P0169P,Economics and Finanace,B.Pharm,8.61,4
+2011P0170P,Civil Engineering,B.Pharm,7.62,4
+2011A0171A,Mathematics,B.E,5.77,3
+2011A0172A,Economics and Finanace,B.E,7.05,3
+2011A0173A,Chemical Engineering,B.E,5.48,1
+2011A0174A,Biological Sciences,B.E,9.18,2
+2011H0175H,Chemisty,M.E,9.37,2
+2011A0176A,Chemical Engineering,B.E,7.43,1
+2011A0177A,Biological Sciences,B.E,7.86,4
+2011P0178P,Pharmacy,B.Pharm,7.45,3
+2011A0179A,Biological Sciences,B.E,6.83,1
+2011D0180D,Biological Sciences,Ph.D,9.65,2
+2011S0181S,Pharmacy,M.Sc,7.46,1
+2011S0182S,Humanities and Social Sciences,M.Sc,9.01,1
+2011D0183D,Economics and Finanace,Ph.D,7.79,4
+2011H0184H,Economics and Finanace,M.E,8.97,1
+2011H0185H,Mechanical Engineering,M.E,6.33,1
+2011A0186A,Physics,B.E,5.35,3
+2011A0187A,Chemical Engineering,B.E,9.72,1
+2011A0188A,Chemical Engineering,B.E,8.63,4
+2011P0189P,Civil Engineering,B.Pharm,5.97,2
+2011A0190A,Mechanical Engineering,B.E,8.13,2
+2011H0191H,Mathematics,M.E,8.75,4
+2011D0192D,Physics,Ph.D,5.53,3
+2011A0193A,Pharmacy,B.E,7.29,4
+2011P0194P,Chemical Engineering,B.Pharm,5.83,2
+2011A0195A,Mathematics,B.E,7.01,3
+2011P0196P,Pharmacy,B.Pharm,5.79,4
+2011S0197S,Economics and Finanace,M.Sc,9.51,3
+2011H0198H,Economics and Finanace,M.E,7.06,4
+2011A0199A,Physics,B.E,6.62,2
+2011A0200A,Mechanical Engineering,B.E,7.73,4
+2011H0201H,Mathematics,M.E,9.63,3
+2011A0202A,Economics and Finanace,B.E,9.81,4
+2011A0203A,Electrical and Electronics Engineering,B.E,5.0,1
+2011A0204A,Computer Science and Information Systems,B.E,7.98,2
+2011A0205A,Computer Science and Information Systems,B.E,5.03,2
+2011A0206A,Civil Engineering,B.E,9.28,1
+2011A0207A,Physics,B.E,9.11,2
+2011D0208D,Chemical Engineering,Ph.D,5.19,3
+2011H0209H,Chemisty,M.E,5.69,3
+2011S0210S,Mechanical Engineering,M.Sc,6.25,3
+2011A0211A,Computer Science and Information Systems,B.E,5.46,4
+2011H0212H,Mechanical Engineering,M.E,9.59,1
+2011H0213H,Physics,M.E,6.62,4
+2011A0214A,Chemisty,B.E,7.44,1
+2011S0215S,Mechanical Engineering,M.Sc,8.21,1
+2011P0216P,Mechanical Engineering,B.Pharm,6.91,1
+2011A0217A,Economics and Finanace,B.E,6.74,4
+2011S0218S,Electrical and Electronics Engineering,M.Sc,9.65,1
+2011H0219H,Civil Engineering,M.E,8.74,1
+2011S0220S,Pharmacy,M.Sc,8.89,4
+2011S0221S,Biological Sciences,M.Sc,6.52,1
+2011A0222A,Economics and Finanace,B.E,7.7,2
+2011D0223D,Economics and Finanace,Ph.D,7.51,2
+2011A0224A,Chemisty,B.E,5.25,4
+2011A0225A,Humanities and Social Sciences,B.E,8.76,1
+2011A0226A,Civil Engineering,B.E,7.16,4
+2011S0227S,Chemisty,M.Sc,5.66,1
+2011P0228P,Humanities and Social Sciences,B.Pharm,7.86,1
+2011A0229A,Mathematics,B.E,7.0,1
+2011P0230P,Electrical and Electronics Engineering,B.Pharm,7.51,2
+2011A0231A,Chemisty,B.E,7.4,2
+2011P0232P,Humanities and Social Sciences,B.Pharm,6.98,2
+2011A0233A,Mathematics,B.E,8.08,2
+2011P0234P,Civil Engineering,B.Pharm,5.36,4
+2011A0235A,Economics and Finanace,B.E,8.42,1
+2011A0236A,Chemical Engineering,B.E,8.36,4
+2011S0237S,Economics and Finanace,M.Sc,6.74,3
+2011H0238H,Economics and Finanace,M.E,7.97,1
+2011H0239H,Computer Science and Information Systems,M.E,5.85,3
+2011A0240A,Mechanical Engineering,B.E,9.11,4
+2011H0241H,Mechanical Engineering,M.E,5.73,1
+2011H0242H,Civil Engineering,M.E,6.0,3
+2011H0243H,Chemisty,M.E,8.79,1
+2011P0244P,Chemical Engineering,B.Pharm,8.7,2
+2011H0245H,Mechanical Engineering,M.E,9.63,3
+2011S0246S,Biological Sciences,M.Sc,6.72,1
+2011A0247A,Computer Science and Information Systems,B.E,7.25,1
+2011H0248H,Economics and Finanace,M.E,6.05,2
+2011A0249A,Civil Engineering,B.E,7.73,3
+2011A0250A,Mathematics,B.E,7.42,2
+2011A0251A,Physics,B.E,8.49,1
+2011H0252H,Electrical and Electronics Engineering,M.E,7.92,1
+2011A0253A,Computer Science and Information Systems,B.E,5.85,3
+2011A0254A,Civil Engineering,B.E,8.95,3
+2011H0255H,Biological Sciences,M.E,7.32,1
+2011P0256P,Chemical Engineering,B.Pharm,6.94,3
+2011A0257A,Pharmacy,B.E,9.26,3
+2011A0258A,Chemical Engineering,B.E,5.1,4
+2011H0259H,Civil Engineering,M.E,9.9,1
+2011H0260H,Economics and Finanace,M.E,7.42,1
+2011A0261A,Chemisty,B.E,5.99,4
+2011A0262A,Mathematics,B.E,9.63,1
+2011A0263A,Biological Sciences,B.E,6.24,3
+2011H0264H,Economics and Finanace,M.E,7.45,2
+2011A0265A,Biological Sciences,B.E,6.73,3
+2011S0266S,Economics and Finanace,M.Sc,8.13,2
+2011A0267A,Mathematics,B.E,6.38,1
+2011A0268A,Pharmacy,B.E,6.29,4
+2011A0269A,Biological Sciences,B.E,9.72,3
+2011A0270A,Civil Engineering,B.E,5.76,4
+2011S0271S,Pharmacy,M.Sc,5.69,4
+2011A0272A,Mathematics,B.E,9.8,2
+2011A0273A,Electrical and Electronics Engineering,B.E,6.2,2
+2011H0274H,Electrical and Electronics Engineering,M.E,9.85,3
+2011P0275P,Humanities and Social Sciences,B.Pharm,7.71,2
+2011S0276S,Pharmacy,M.Sc,5.69,2
+2011D0277D,Chemisty,Ph.D,6.54,2
+2011A0278A,Electrical and Electronics Engineering,B.E,9.98,2
+2011H0279H,Pharmacy,M.E,9.67,2
+2011A0280A,Economics and Finanace,B.E,5.34,1
+2011A0281A,Chemisty,B.E,6.59,2
+2011A0282A,Physics,B.E,5.15,3
+2011A0283A,Electrical and Electronics Engineering,B.E,9.81,3
+2011A0284A,Humanities and Social Sciences,B.E,8.73,3
+2011A0285A,Chemisty,B.E,8.9,1
+2011A0286A,Chemisty,B.E,5.92,3
+2011A0287A,Mechanical Engineering,B.E,7.84,2
+2011A0288A,Mechanical Engineering,B.E,6.16,1
+2011D0289D,Economics and Finanace,Ph.D,5.4,4
+2011A0290A,Chemisty,B.E,7.51,4
+2011S0291S,Physics,M.Sc,8.25,2
+2011A0292A,Electrical and Electronics Engineering,B.E,7.46,2
+2011H0293H,Chemisty,M.E,5.97,1
+2011H0294H,Electrical and Electronics Engineering,M.E,8.82,1
+2011H0295H,Computer Science and Information Systems,M.E,9.75,2
+2011P0296P,Pharmacy,B.Pharm,9.94,2
+2011A0297A,Chemical Engineering,B.E,5.89,4
+2011D0298D,Mechanical Engineering,Ph.D,7.45,3
+2011A0299A,Humanities and Social Sciences,B.E,9.44,4
+2011H0300H,Electrical and Electronics Engineering,M.E,8.88,4
+2011H0301H,Physics,M.E,6.56,1
+2011A0302A,Mathematics,B.E,5.55,4
+2011H0303H,Biological Sciences,M.E,9.39,2
+2011A0304A,Mathematics,B.E,7.69,1
+2011A0305A,Mathematics,B.E,6.94,1
+2011P0306P,Civil Engineering,B.Pharm,6.46,4
+2011P0307P,Computer Science and Information Systems,B.Pharm,8.87,3
+2011A0308A,Humanities and Social Sciences,B.E,5.83,3
+2011A0309A,Mechanical Engineering,B.E,9.6,2
+2011D0310D,Humanities and Social Sciences,Ph.D,9.15,4
+2011H0311H,Chemical Engineering,M.E,8.61,1
+2011D0312D,Chemisty,Ph.D,8.89,2
+2011S0313S,Electrical and Electronics Engineering,M.Sc,7.07,4
+2011A0314A,Biological Sciences,B.E,5.89,2
+2011A0315A,Humanities and Social Sciences,B.E,5.45,3
+2011A0316A,Physics,B.E,8.24,2
+2011A0317A,Physics,B.E,8.67,1
+2011A0318A,Chemical Engineering,B.E,8.53,3
+2011H0319H,Chemical Engineering,M.E,7.62,4
+2011A0320A,Physics,B.E,8.96,2
+2011A0321A,Electrical and Electronics Engineering,B.E,7.75,1
+2011D0322D,Chemisty,Ph.D,9.56,2
+2011A0323A,Chemisty,B.E,9.34,2
+2011P0324P,Biological Sciences,B.Pharm,7.1,3
+2011A0325A,Physics,B.E,8.84,4
+2011A0326A,Computer Science and Information Systems,B.E,8.13,1
+2011A0327A,Chemisty,B.E,9.8,1
+2011H0328H,Mechanical Engineering,M.E,8.83,1
+2011H0329H,Humanities and Social Sciences,M.E,7.49,4
+2011A0330A,Mathematics,B.E,9.04,4
+2011A0331A,Civil Engineering,B.E,6.08,4
+2011A0332A,Humanities and Social Sciences,B.E,7.05,1
+2011A0333A,Mechanical Engineering,B.E,8.0,2
+2011A0334A,Mathematics,B.E,6.39,2
+2011H0335H,Biological Sciences,M.E,5.92,1
+2011A0336A,Pharmacy,B.E,6.75,2
+2011A0337A,Biological Sciences,B.E,8.33,3
+2011A0338A,Economics and Finanace,B.E,9.6,1
+2011A0339A,Chemical Engineering,B.E,7.08,2
+2011H0340H,Chemisty,M.E,8.36,2
+2011H0341H,Humanities and Social Sciences,M.E,8.75,3
+2011H0342H,Biological Sciences,M.E,5.47,3
+2011S0343S,Economics and Finanace,M.Sc,6.84,4
+2011H0344H,Chemical Engineering,M.E,8.79,1
+2011A0345A,Computer Science and Information Systems,B.E,7.35,1
+2011A0346A,Physics,B.E,9.3,3
+2011A0347A,Mathematics,B.E,7.07,2
+2011A0348A,Physics,B.E,6.05,1
+2011A0349A,Chemical Engineering,B.E,7.86,1
+2011A0350A,Humanities and Social Sciences,B.E,8.62,3
+2011P0351P,Electrical and Electronics Engineering,B.Pharm,8.04,3
+2011A0352A,Computer Science and Information Systems,B.E,7.63,3
+2011P0353P,Chemisty,B.Pharm,8.07,4
+2011D0354D,Mathematics,Ph.D,8.65,4
+2011A0355A,Humanities and Social Sciences,B.E,9.04,2
+2011H0356H,Physics,M.E,6.45,2
+2011P0357P,Biological Sciences,B.Pharm,5.59,4
+2011P0358P,Pharmacy,B.Pharm,8.98,2
+2011A0359A,Mechanical Engineering,B.E,9.99,4
+2011A0360A,Biological Sciences,B.E,6.67,2
+2011S0361S,Biological Sciences,M.Sc,8.2,3
+2011A0362A,Computer Science and Information Systems,B.E,8.95,3
+2011A0363A,Computer Science and Information Systems,B.E,7.53,3
+2011A0364A,Biological Sciences,B.E,5.57,3
+2011A0365A,Economics and Finanace,B.E,6.98,1
+2011A0366A,Chemisty,B.E,5.97,3
+2011H0367H,Pharmacy,M.E,7.4,4
+2011D0368D,Biological Sciences,Ph.D,8.23,4
+2011A0369A,Chemisty,B.E,8.14,3
+2011A0370A,Humanities and Social Sciences,B.E,8.92,4
+2011A0371A,Physics,B.E,5.28,3
+2011A0372A,Mechanical Engineering,B.E,8.62,3
+2011A0373A,Mathematics,B.E,7.68,2
+2011A0374A,Mechanical Engineering,B.E,8.43,3
+2011A0375A,Chemical Engineering,B.E,9.85,3
+2011A0376A,Biological Sciences,B.E,6.7,4
+2011A0377A,Pharmacy,B.E,7.67,2
+2011P0378P,Mechanical Engineering,B.Pharm,8.03,2
+2011A0379A,Mechanical Engineering,B.E,5.58,3
+2011S0380S,Physics,M.Sc,9.29,1
+2011P0381P,Computer Science and Information Systems,B.Pharm,7.07,4
+2011S0382S,Civil Engineering,M.Sc,6.86,3
+2011S0383S,Civil Engineering,M.Sc,7.63,2
+2011A0384A,Chemical Engineering,B.E,6.87,1
+2011A0385A,Civil Engineering,B.E,9.57,4
+2011A0386A,Mathematics,B.E,5.12,4
+2011A0387A,Mathematics,B.E,5.77,3
+2011S0388S,Humanities and Social Sciences,M.Sc,8.66,3
+2011S0389S,Economics and Finanace,M.Sc,5.72,1
+2011A0390A,Mathematics,B.E,8.38,2
+2011S0391S,Civil Engineering,M.Sc,8.62,4
+2011A0392A,Electrical and Electronics Engineering,B.E,8.57,1
+2011S0393S,Biological Sciences,M.Sc,6.55,1
+2011A0394A,Pharmacy,B.E,9.24,1
+2011A0395A,Economics and Finanace,B.E,7.33,1
+2011H0396H,Chemical Engineering,M.E,7.6,3
+2011P0397P,Biological Sciences,B.Pharm,7.89,3
+2011A0398A,Pharmacy,B.E,9.46,3
+2011A0399A,Civil Engineering,B.E,5.96,3
+2011A0400A,Mathematics,B.E,6.6,4
+2011D0401D,Pharmacy,Ph.D,5.59,2
+2011S0402S,Chemisty,M.Sc,6.37,1
+2011A0403A,Mechanical Engineering,B.E,7.8,1
+2011S0404S,Civil Engineering,M.Sc,7.71,3
+2011A0405A,Computer Science and Information Systems,B.E,5.71,3
+2011H0406H,Mechanical Engineering,M.E,6.22,1
+2011P0407P,Computer Science and Information Systems,B.Pharm,8.07,3
+2011A0408A,Mathematics,B.E,7.22,2
+2011A0409A,Biological Sciences,B.E,7.35,1
+2011A0410A,Chemical Engineering,B.E,6.92,1
+2011A0411A,Electrical and Electronics Engineering,B.E,6.96,4
+2011H0412H,Mechanical Engineering,M.E,6.78,3
+2011A0413A,Civil Engineering,B.E,8.56,1
+2011A0414A,Humanities and Social Sciences,B.E,7.84,1
+2011D0415D,Physics,Ph.D,7.34,4
+2011A0416A,Computer Science and Information Systems,B.E,8.42,4
+2011A0417A,Humanities and Social Sciences,B.E,6.16,2
+2011A0418A,Chemisty,B.E,9.31,3
+2011H0419H,Economics and Finanace,M.E,6.96,3
+2011P0420P,Economics and Finanace,B.Pharm,7.27,1
+2011S0421S,Chemical Engineering,M.Sc,7.38,3
+2011A0422A,Humanities and Social Sciences,B.E,7.31,2
+2011D0423D,Computer Science and Information Systems,Ph.D,8.84,2
+2011D0424D,Mathematics,Ph.D,5.51,1
+2011A0425A,Economics and Finanace,B.E,7.78,1
+2011A0426A,Computer Science and Information Systems,B.E,7.66,4
+2011A0427A,Mechanical Engineering,B.E,7.07,2
+2011A0428A,Mathematics,B.E,5.8,4
+2011A0429A,Electrical and Electronics Engineering,B.E,5.33,2
+2011P0430P,Mechanical Engineering,B.Pharm,7.16,4
+2011A0431A,Mechanical Engineering,B.E,8.94,2
+2011A0432A,Chemisty,B.E,8.31,1
+2011A0433A,Physics,B.E,9.65,4
+2011A0434A,Chemical Engineering,B.E,7.96,4
+2011H0435H,Economics and Finanace,M.E,7.78,4
+2011A0436A,Chemisty,B.E,6.54,4
+2011A0437A,Chemical Engineering,B.E,7.99,4
+2011P0438P,Economics and Finanace,B.Pharm,7.47,1
+2011A0439A,Chemical Engineering,B.E,6.09,2
+2011A0440A,Mechanical Engineering,B.E,9.52,1
+2011A0441A,Chemisty,B.E,8.3,4
+2011A0442A,Mathematics,B.E,6.46,4
+2011A0443A,Civil Engineering,B.E,6.03,3
+2011A0444A,Computer Science and Information Systems,B.E,7.85,3
+2011A0445A,Electrical and Electronics Engineering,B.E,8.59,3
+2011A0446A,Chemical Engineering,B.E,7.91,4
+2011A0447A,Chemisty,B.E,9.26,1
+2011A0448A,Economics and Finanace,B.E,9.51,1
+2011A0449A,Biological Sciences,B.E,8.52,3
+2011P0450P,Chemical Engineering,B.Pharm,9.31,1
+2011A0451A,Civil Engineering,B.E,7.16,4
+2011D0452D,Pharmacy,Ph.D,6.59,4
+2011A0453A,Electrical and Electronics Engineering,B.E,6.91,2
+2011A0454A,Pharmacy,B.E,5.87,2
+2011H0455H,Civil Engineering,M.E,7.78,3
+2011D0456D,Electrical and Electronics Engineering,Ph.D,5.77,2
+2011P0457P,Chemisty,B.Pharm,5.06,1
+2011A0458A,Chemisty,B.E,8.61,4
+2011A0459A,Pharmacy,B.E,7.18,2
+2011A0460A,Chemical Engineering,B.E,5.69,4
+2011A0461A,Humanities and Social Sciences,B.E,9.47,4
+2011H0462H,Mechanical Engineering,M.E,5.9,4
+2011H0463H,Mathematics,M.E,9.1,4
+2011A0464A,Economics and Finanace,B.E,6.13,4
+2011A0465A,Mechanical Engineering,B.E,5.04,4
+2011A0466A,Physics,B.E,6.18,3
+2011A0467A,Electrical and Electronics Engineering,B.E,9.63,3
+2011A0468A,Biological Sciences,B.E,9.89,4
+2011S0469S,Physics,M.Sc,6.84,4
+2011H0470H,Physics,M.E,5.4,3
+2011H0471H,Humanities and Social Sciences,M.E,7.58,1
+2011A0472A,Civil Engineering,B.E,7.36,1
+2011D0473D,Pharmacy,Ph.D,8.17,3
+2011H0474H,Mechanical Engineering,M.E,5.26,3
+2011A0475A,Mathematics,B.E,8.89,4
+2011A0476A,Humanities and Social Sciences,B.E,7.56,4
+2011A0477A,Mechanical Engineering,B.E,8.67,4
+2011S0478S,Economics and Finanace,M.Sc,9.8,3
+2011A0479A,Computer Science and Information Systems,B.E,5.84,3
+2011S0480S,Physics,M.Sc,8.93,3
+2011A0481A,Biological Sciences,B.E,8.15,2
+2011A0482A,Mechanical Engineering,B.E,5.26,3
+2011A0483A,Physics,B.E,8.12,3
+2011A0484A,Humanities and Social Sciences,B.E,5.41,1
+2011P0485P,Computer Science and Information Systems,B.Pharm,6.26,3
+2011A0486A,Computer Science and Information Systems,B.E,9.29,1
+2011A0487A,Physics,B.E,5.56,2
+2011H0488H,Mechanical Engineering,M.E,8.69,4
+2011H0489H,Economics and Finanace,M.E,9.04,3
+2011A0490A,Physics,B.E,6.18,2
+2011A0491A,Mathematics,B.E,9.31,3
+2011D0492D,Chemical Engineering,Ph.D,9.84,2
+2011A0493A,Humanities and Social Sciences,B.E,8.76,4
+2011A0494A,Electrical and Electronics Engineering,B.E,6.19,4
+2011H0495H,Physics,M.E,8.19,2
+2011A0496A,Mechanical Engineering,B.E,8.67,3
+2011A0497A,Biological Sciences,B.E,8.21,1
+2011S0498S,Biological Sciences,M.Sc,5.84,4
+2011H0499H,Humanities and Social Sciences,M.E,6.51,2
+2011H0500H,Electrical and Electronics Engineering,M.E,8.42,4
+2011D0501D,Humanities and Social Sciences,Ph.D,6.31,4
+2011H0502H,Biological Sciences,M.E,6.44,4
+2011A0503A,Electrical and Electronics Engineering,B.E,8.39,1
+2011A0504A,Chemical Engineering,B.E,9.59,3
+2011S0505S,Electrical and Electronics Engineering,M.Sc,8.05,3
+2011H0506H,Economics and Finanace,M.E,6.35,1
+2011H0507H,Computer Science and Information Systems,M.E,8.27,4
+2011A0508A,Humanities and Social Sciences,B.E,8.87,2
+2011A0509A,Physics,B.E,8.36,2
+2011A0510A,Mathematics,B.E,6.69,2
+2011H0511H,Economics and Finanace,M.E,7.74,1
+2011A0512A,Chemical Engineering,B.E,5.06,1
+2011H0513H,Mathematics,M.E,5.52,4
+2011A0514A,Economics and Finanace,B.E,6.1,3
+2011H0515H,Computer Science and Information Systems,M.E,5.97,1
+2011H0516H,Mechanical Engineering,M.E,5.46,2
+2011A0517A,Mechanical Engineering,B.E,8.19,1
+2011A0518A,Chemical Engineering,B.E,9.28,2
+2011A0519A,Electrical and Electronics Engineering,B.E,8.28,2
+2011S0520S,Chemical Engineering,M.Sc,8.48,3
+2011P0521P,Computer Science and Information Systems,B.Pharm,7.33,1
+2011P0522P,Pharmacy,B.Pharm,7.27,3
+2011H0523H,Electrical and Electronics Engineering,M.E,8.46,3
+2011A0524A,Computer Science and Information Systems,B.E,5.81,1
+2011A0525A,Computer Science and Information Systems,B.E,8.89,4
+2011P0526P,Electrical and Electronics Engineering,B.Pharm,6.66,1
+2011P0527P,Computer Science and Information Systems,B.Pharm,9.78,3
+2011A0528A,Chemisty,B.E,7.2,4
+2011A0529A,Civil Engineering,B.E,8.05,2
+2011A0530A,Pharmacy,B.E,7.46,2
+2011A0531A,Mathematics,B.E,8.84,2
+2011S0532S,Mechanical Engineering,M.Sc,8.22,4
+2011H0533H,Physics,M.E,6.29,1
+2011A0534A,Chemical Engineering,B.E,5.35,3
+2011A0535A,Humanities and Social Sciences,B.E,5.09,4
+2011A0536A,Chemisty,B.E,8.26,1
+2011H0537H,Biological Sciences,M.E,8.32,3
+2011A0538A,Chemisty,B.E,8.5,4
+2011D0539D,Mechanical Engineering,Ph.D,5.02,4
+2011D0540D,Humanities and Social Sciences,Ph.D,7.18,1
+2011H0541H,Mathematics,M.E,6.13,4
+2011A0542A,Physics,B.E,9.09,4
+2011D0543D,Chemical Engineering,Ph.D,7.84,3
+2011P0544P,Economics and Finanace,B.Pharm,8.41,4
+2011A0545A,Biological Sciences,B.E,8.16,1
+2011H0546H,Economics and Finanace,M.E,7.67,3
+2011S0547S,Chemical Engineering,M.Sc,9.21,3
+2011A0548A,Pharmacy,B.E,6.02,1
+2011S0549S,Electrical and Electronics Engineering,M.Sc,8.3,3
+2011S0550S,Physics,M.Sc,6.95,1
+2011A0551A,Pharmacy,B.E,8.44,4
+2011A0552A,Chemical Engineering,B.E,9.43,4
+2011H0553H,Physics,M.E,5.95,1
+2011A0554A,Civil Engineering,B.E,5.13,2
+2011A0555A,Humanities and Social Sciences,B.E,6.94,3
+2011A0556A,Humanities and Social Sciences,B.E,7.67,4
+2011A0557A,Biological Sciences,B.E,5.19,1
+2011A0558A,Economics and Finanace,B.E,8.94,1
+2011A0559A,Electrical and Electronics Engineering,B.E,5.59,4
+2011A0560A,Pharmacy,B.E,9.35,2
+2011A0561A,Physics,B.E,7.9,1
+2011H0562H,Biological Sciences,M.E,8.68,4
+2011H0563H,Pharmacy,M.E,5.1,1
+2011A0564A,Civil Engineering,B.E,8.51,2
+2011A0565A,Biological Sciences,B.E,5.86,1
+2011A0566A,Computer Science and Information Systems,B.E,9.1,1
+2011S0567S,Humanities and Social Sciences,M.Sc,8.06,1
+2011P0568P,Chemical Engineering,B.Pharm,5.57,2
+2011H0569H,Chemical Engineering,M.E,9.02,4
+2011A0570A,Economics and Finanace,B.E,9.06,4
+2011A0571A,Economics and Finanace,B.E,5.6,2
+2011A0572A,Economics and Finanace,B.E,9.18,2
+2011H0573H,Biological Sciences,M.E,7.97,3
+2011D0574D,Chemical Engineering,Ph.D,5.6,2
+2011A0575A,Electrical and Electronics Engineering,B.E,5.84,3
+2011A0576A,Mathematics,B.E,5.83,2
+2011P0577P,Mechanical Engineering,B.Pharm,5.2,1
+2011A0578A,Pharmacy,B.E,8.06,2
+2011H0579H,Biological Sciences,M.E,9.4,1
+2011A0580A,Biological Sciences,B.E,5.04,1
+2011A0581A,Physics,B.E,8.26,3
+2011D0582D,Electrical and Electronics Engineering,Ph.D,8.47,4
+2011A0583A,Physics,B.E,5.63,2
+2011A0584A,Pharmacy,B.E,6.35,4
+2011S0585S,Electrical and Electronics Engineering,M.Sc,6.2,2
+2011A0586A,Mechanical Engineering,B.E,8.46,2
+2011A0587A,Physics,B.E,7.5,1
+2011H0588H,Pharmacy,M.E,9.13,3
+2011A0589A,Economics and Finanace,B.E,7.09,2
+2011A0590A,Civil Engineering,B.E,5.59,1
+2011H0591H,Mechanical Engineering,M.E,6.81,2
+2011A0592A,Humanities and Social Sciences,B.E,8.85,2
+2011A0593A,Computer Science and Information Systems,B.E,5.27,1
+2011A0594A,Chemisty,B.E,8.43,4
+2011A0595A,Humanities and Social Sciences,B.E,5.88,1
+2011P0596P,Biological Sciences,B.Pharm,8.22,3
+2011A0597A,Civil Engineering,B.E,7.17,3
+2011A0598A,Mechanical Engineering,B.E,9.03,4
+2011H0599H,Biological Sciences,M.E,5.52,1
+2011A0600A,Mathematics,B.E,5.88,1
+2011A0601A,Humanities and Social Sciences,B.E,7.57,1
+2011S0602S,Civil Engineering,M.Sc,8.61,3
+2011A0603A,Electrical and Electronics Engineering,B.E,5.99,3
+2011D0604D,Civil Engineering,Ph.D,8.89,3
+2011H0605H,Civil Engineering,M.E,5.49,4
+2011A0606A,Civil Engineering,B.E,6.88,2
+2011P0607P,Chemical Engineering,B.Pharm,7.35,4
+2011A0608A,Biological Sciences,B.E,9.45,2
+2011H0609H,Civil Engineering,M.E,9.64,4
+2011H0610H,Chemisty,M.E,6.94,2
+2011H0611H,Humanities and Social Sciences,M.E,8.6,3
+2011A0612A,Computer Science and Information Systems,B.E,6.01,2
+2011D0613D,Biological Sciences,Ph.D,8.46,1
+2011P0614P,Computer Science and Information Systems,B.Pharm,5.68,4
+2011H0615H,Humanities and Social Sciences,M.E,7.09,3
+2011A0616A,Civil Engineering,B.E,9.43,2
+2011A0617A,Pharmacy,B.E,9.76,2
+2011A0618A,Mechanical Engineering,B.E,9.85,2
+2011A0619A,Chemical Engineering,B.E,7.06,4
+2011A0620A,Civil Engineering,B.E,7.96,4
+2011A0621A,Computer Science and Information Systems,B.E,5.07,4
+2011H0622H,Physics,M.E,9.36,2
+2011P0623P,Economics and Finanace,B.Pharm,7.17,2
+2011H0624H,Mechanical Engineering,M.E,9.73,1
+2011A0625A,Electrical and Electronics Engineering,B.E,9.9,1
+2011H0626H,Humanities and Social Sciences,M.E,8.67,1
+2011H0627H,Electrical and Electronics Engineering,M.E,7.66,4
+2011S0628S,Physics,M.Sc,9.11,4
+2011D0629D,Humanities and Social Sciences,Ph.D,6.2,1
+2011H0630H,Physics,M.E,8.66,2
+2011A0631A,Chemisty,B.E,6.79,2
+2011S0632S,Pharmacy,M.Sc,9.99,1
+2011A0633A,Humanities and Social Sciences,B.E,8.35,2
+2011P0634P,Humanities and Social Sciences,B.Pharm,9.29,1
+2011A0635A,Humanities and Social Sciences,B.E,7.32,2
+2011S0636S,Physics,M.Sc,7.03,3
+2011A0637A,Pharmacy,B.E,7.32,1
+2011S0638S,Pharmacy,M.Sc,5.35,3
+2011S0639S,Mathematics,M.Sc,5.16,4
+2011P0640P,Computer Science and Information Systems,B.Pharm,8.49,2
+2011A0641A,Pharmacy,B.E,5.4,3
+2011A0642A,Physics,B.E,9.66,3
+2011A0643A,Biological Sciences,B.E,5.55,3
+2011A0644A,Humanities and Social Sciences,B.E,8.1,3
+2011A0645A,Economics and Finanace,B.E,5.88,1
+2011A0646A,Mathematics,B.E,8.55,2
+2011P0647P,Chemisty,B.Pharm,9.91,2
+2011A0648A,Mathematics,B.E,5.57,4
+2011A0649A,Physics,B.E,9.7,2
+2011A0650A,Physics,B.E,8.8,3
+2011A0651A,Economics and Finanace,B.E,9.49,4
+2011A0652A,Computer Science and Information Systems,B.E,5.27,3
+2011H0653H,Economics and Finanace,M.E,7.26,1
+2011A0654A,Humanities and Social Sciences,B.E,8.55,3
+2011P0655P,Humanities and Social Sciences,B.Pharm,8.1,1
+2011A0656A,Civil Engineering,B.E,9.46,4
+2011A0657A,Chemical Engineering,B.E,5.4,2
+2011A0658A,Computer Science and Information Systems,B.E,9.79,1
+2011A0659A,Chemical Engineering,B.E,5.82,1
+2011A0660A,Physics,B.E,5.74,2
+2011A0661A,Civil Engineering,B.E,7.6,1
+2011A0662A,Computer Science and Information Systems,B.E,7.08,2
+2011A0663A,Humanities and Social Sciences,B.E,6.73,4
+2011H0664H,Physics,M.E,8.22,3
+2011P0665P,Civil Engineering,B.Pharm,5.31,2
+2011A0666A,Mathematics,B.E,8.22,4
+2011A0667A,Mechanical Engineering,B.E,6.71,3
+2011S0668S,Humanities and Social Sciences,M.Sc,7.97,4
+2011S0669S,Humanities and Social Sciences,M.Sc,6.52,2
+2011D0670D,Computer Science and Information Systems,Ph.D,5.86,3
+2011P0671P,Civil Engineering,B.Pharm,7.42,3
+2011S0672S,Biological Sciences,M.Sc,5.74,3
+2011S0673S,Humanities and Social Sciences,M.Sc,9.78,2
+2011A0674A,Physics,B.E,7.68,2
+2011H0675H,Chemisty,M.E,9.2,2
+2011H0676H,Chemisty,M.E,6.19,1
+2011A0677A,Economics and Finanace,B.E,7.87,4
+2011A0678A,Computer Science and Information Systems,B.E,6.85,2
+2011H0679H,Mathematics,M.E,8.54,3
+2011H0680H,Economics and Finanace,M.E,5.74,4
+2011H0681H,Mathematics,M.E,9.88,3
+2011S0682S,Chemical Engineering,M.Sc,9.6,4
+2011H0683H,Humanities and Social Sciences,M.E,8.84,4
+2011A0684A,Economics and Finanace,B.E,5.78,3
+2011A0685A,Pharmacy,B.E,8.53,4
+2011H0686H,Computer Science and Information Systems,M.E,9.85,2
+2011H0687H,Mechanical Engineering,M.E,8.64,4
+2011A0688A,Economics and Finanace,B.E,8.45,4
+2011A0689A,Biological Sciences,B.E,5.7,1
+2011A0690A,Computer Science and Information Systems,B.E,5.12,2
+2011P0691P,Humanities and Social Sciences,B.Pharm,6.79,3
+2011H0692H,Biological Sciences,M.E,8.04,2
+2011D0693D,Mechanical Engineering,Ph.D,7.63,3
+2011A0694A,Civil Engineering,B.E,5.11,4
+2011A0695A,Pharmacy,B.E,8.36,1
+2011P0696P,Electrical and Electronics Engineering,B.Pharm,5.97,3
+2011A0697A,Mechanical Engineering,B.E,8.03,1
+2011A0698A,Pharmacy,B.E,6.81,2
+2011P0699P,Electrical and Electronics Engineering,B.Pharm,6.85,3
+2011A0700A,Biological Sciences,B.E,6.42,3
+2011H0701H,Computer Science and Information Systems,M.E,9.89,1
+2011A0702A,Civil Engineering,B.E,8.64,4
+2011A0703A,Physics,B.E,9.96,4
+2011A0704A,Computer Science and Information Systems,B.E,5.82,4
+2011S0705S,Physics,M.Sc,9.48,2
+2011A0706A,Mechanical Engineering,B.E,7.99,2
+2011A0707A,Civil Engineering,B.E,6.52,3
+2011A0708A,Chemical Engineering,B.E,9.67,4
+2011A0709A,Chemical Engineering,B.E,5.03,3
+2011P0710P,Electrical and Electronics Engineering,B.Pharm,5.87,4
+2011H0711H,Physics,M.E,7.84,2
+2011A0712A,Civil Engineering,B.E,5.93,4
+2011H0713H,Computer Science and Information Systems,M.E,7.77,1
+2011H0714H,Computer Science and Information Systems,M.E,9.17,3
+2011H0715H,Humanities and Social Sciences,M.E,7.8,4
+2011A0716A,Civil Engineering,B.E,5.13,1
+2011H0717H,Chemisty,M.E,6.31,4
+2011S0718S,Chemical Engineering,M.Sc,8.27,3
+2011A0719A,Electrical and Electronics Engineering,B.E,5.9,2
+2011H0720H,Biological Sciences,M.E,5.6,3
+2011A0721A,Humanities and Social Sciences,B.E,9.97,1
+2011P0722P,Mechanical Engineering,B.Pharm,8.73,4
+2011D0723D,Mechanical Engineering,Ph.D,7.18,3
+2011D0724D,Pharmacy,Ph.D,8.43,1
+2011H0725H,Economics and Finanace,M.E,7.56,1
+2011A0726A,Computer Science and Information Systems,B.E,5.81,1
+2011A0727A,Chemisty,B.E,6.6,2
+2011A0728A,Economics and Finanace,B.E,5.82,3
+2011S0729S,Economics and Finanace,M.Sc,7.1,3
+2011A0730A,Biological Sciences,B.E,6.45,1
+2011H0731H,Mathematics,M.E,5.97,2
+2011A0732A,Chemical Engineering,B.E,7.99,2
+2011P0733P,Economics and Finanace,B.Pharm,9.36,3
+2011D0734D,Computer Science and Information Systems,Ph.D,8.43,3
+2011P0735P,Chemical Engineering,B.Pharm,7.67,3
+2011A0736A,Chemisty,B.E,5.06,3
+2011A0737A,Economics and Finanace,B.E,8.89,4
+2011A0738A,Economics and Finanace,B.E,9.6,2
+2011A0739A,Chemical Engineering,B.E,6.09,2
+2011A0740A,Civil Engineering,B.E,8.98,1
+2011H0741H,Electrical and Electronics Engineering,M.E,7.3,1
+2011H0742H,Chemical Engineering,M.E,9.09,1
+2011A0743A,Humanities and Social Sciences,B.E,6.74,3
+2011A0744A,Chemisty,B.E,9.09,3
+2011A0745A,Chemisty,B.E,8.55,1
+2011A0746A,Physics,B.E,9.07,2
+2011A0747A,Chemisty,B.E,9.28,2
+2011H0748H,Physics,M.E,6.13,2
+2011H0749H,Civil Engineering,M.E,5.65,1
+2011P0750P,Electrical and Electronics Engineering,B.Pharm,8.45,1
+2011A0751A,Chemical Engineering,B.E,5.09,4
+2011H0752H,Electrical and Electronics Engineering,M.E,5.21,1
+2011A0753A,Biological Sciences,B.E,8.97,1
+2011A0754A,Humanities and Social Sciences,B.E,5.59,3
+2011A0755A,Biological Sciences,B.E,5.33,1
+2011A0756A,Chemical Engineering,B.E,8.91,2
+2011H0757H,Mechanical Engineering,M.E,9.51,2
+2011A0758A,Pharmacy,B.E,6.76,1
+2011H0759H,Chemisty,M.E,9.23,3
+2011H0760H,Mechanical Engineering,M.E,6.74,2
+2011D0761D,Mathematics,Ph.D,8.9,2
+2011S0762S,Mathematics,M.Sc,7.85,1
+2011P0763P,Mechanical Engineering,B.Pharm,8.82,2
+2011A0764A,Physics,B.E,5.96,3
+2011A0765A,Chemisty,B.E,9.51,1
+2011A0766A,Physics,B.E,5.49,2
+2011A0767A,Mathematics,B.E,9.26,4
+2011S0768S,Economics and Finanace,M.Sc,8.49,2
+2011H0769H,Humanities and Social Sciences,M.E,8.37,1
+2011H0770H,Chemisty,M.E,9.17,4
+2011H0771H,Electrical and Electronics Engineering,M.E,6.07,2
+2011S0772S,Electrical and Electronics Engineering,M.Sc,5.56,3
+2011A0773A,Chemical Engineering,B.E,7.33,2
+2011A0774A,Humanities and Social Sciences,B.E,8.81,3
+2011A0775A,Mathematics,B.E,8.61,1
+2011P0776P,Economics and Finanace,B.Pharm,7.47,4
+2011H0777H,Computer Science and Information Systems,M.E,7.28,3
+2011A0778A,Pharmacy,B.E,9.88,4
+2011H0779H,Civil Engineering,M.E,7.77,3
+2011D0780D,Electrical and Electronics Engineering,Ph.D,5.94,1
+2011A0781A,Humanities and Social Sciences,B.E,9.7,3
+2011H0782H,Chemisty,M.E,5.06,4
+2011A0783A,Pharmacy,B.E,5.53,4
+2011A0784A,Mathematics,B.E,8.29,1
+2011A0785A,Chemical Engineering,B.E,5.72,4
+2011P0786P,Mechanical Engineering,B.Pharm,9.89,2
+2011A0787A,Chemical Engineering,B.E,6.82,2
+2011A0788A,Economics and Finanace,B.E,6.0,4
+2011P0789P,Chemical Engineering,B.Pharm,6.16,4
+2011A0790A,Physics,B.E,7.5,3
+2011A0791A,Pharmacy,B.E,9.72,3
+2011H0792H,Humanities and Social Sciences,M.E,8.33,4
+2011H0793H,Humanities and Social Sciences,M.E,7.56,2
+2011A0794A,Humanities and Social Sciences,B.E,5.54,3
+2011A0795A,Humanities and Social Sciences,B.E,7.49,2
+2011P0796P,Biological Sciences,B.Pharm,5.5,1
+2011D0797D,Chemical Engineering,Ph.D,7.49,1
+2011A0798A,Chemisty,B.E,6.91,3
+2011P0799P,Chemisty,B.Pharm,6.51,1
+2011H0800H,Chemical Engineering,M.E,8.31,4
+2011A0801A,Humanities and Social Sciences,B.E,6.01,4
+2011A0802A,Humanities and Social Sciences,B.E,7.52,3
+2011A0803A,Mathematics,B.E,7.73,1
+2011A0804A,Electrical and Electronics Engineering,B.E,9.4,1
+2011S0805S,Electrical and Electronics Engineering,M.Sc,7.25,4
+2011A0806A,Humanities and Social Sciences,B.E,7.3,1
+2011H0807H,Chemisty,M.E,7.78,3
+2011H0808H,Physics,M.E,5.82,4
+2011A0809A,Chemisty,B.E,6.56,4
+2011P0810P,Humanities and Social Sciences,B.Pharm,8.82,4
+2011A0811A,Pharmacy,B.E,7.77,4
+2011H0812H,Humanities and Social Sciences,M.E,7.81,2
+2011A0813A,Mathematics,B.E,5.28,3
+2011D0814D,Humanities and Social Sciences,Ph.D,7.96,4
+2011P0815P,Mechanical Engineering,B.Pharm,8.38,3
+2011A0816A,Economics and Finanace,B.E,5.31,1
+2011P0817P,Chemisty,B.Pharm,9.18,3
+2011A0818A,Physics,B.E,7.92,3
+2011A0819A,Electrical and Electronics Engineering,B.E,5.49,3
+2011A0820A,Economics and Finanace,B.E,7.06,1
+2011A0821A,Pharmacy,B.E,6.22,2
+2011A0822A,Pharmacy,B.E,6.56,1
+2011A0823A,Physics,B.E,5.33,3
+2011S0824S,Chemical Engineering,M.Sc,6.69,1
+2011H0825H,Mathematics,M.E,6.63,4
+2011A0826A,Pharmacy,B.E,9.32,4
+2011S0827S,Computer Science and Information Systems,M.Sc,5.1,4
+2011A0828A,Mechanical Engineering,B.E,5.11,3
+2011D0829D,Electrical and Electronics Engineering,Ph.D,7.85,3
+2011A0830A,Mechanical Engineering,B.E,5.49,4
+2011P0831P,Chemical Engineering,B.Pharm,8.45,2
+2011P0832P,Economics and Finanace,B.Pharm,7.48,3
+2011D0833D,Chemisty,Ph.D,8.07,3
+2011S0834S,Electrical and Electronics Engineering,M.Sc,6.01,1
+2011A0835A,Mathematics,B.E,6.07,3
+2011P0836P,Biological Sciences,B.Pharm,6.49,4
+2011A0837A,Civil Engineering,B.E,8.12,1
+2011A0838A,Physics,B.E,9.22,1
+2011H0839H,Mechanical Engineering,M.E,6.68,1
+2011A0840A,Mechanical Engineering,B.E,9.01,4
+2011A0841A,Electrical and Electronics Engineering,B.E,6.05,1
+2011A0842A,Pharmacy,B.E,9.12,3
+2011A0843A,Electrical and Electronics Engineering,B.E,8.32,3
+2011A0844A,Civil Engineering,B.E,7.07,3
+2011A0845A,Mechanical Engineering,B.E,7.58,2
+2011H0846H,Biological Sciences,M.E,8.14,2
+2011H0847H,Mechanical Engineering,M.E,7.5,4
+2011S0848S,Computer Science and Information Systems,M.Sc,9.69,4
+2011A0849A,Mechanical Engineering,B.E,8.63,1
+2011H0850H,Mathematics,M.E,6.0,4
+2011A0851A,Chemisty,B.E,6.2,3
+2011A0852A,Electrical and Electronics Engineering,B.E,7.05,1
+2011D0853D,Pharmacy,Ph.D,6.02,4
+2011A0854A,Computer Science and Information Systems,B.E,9.12,2
+2011A0855A,Computer Science and Information Systems,B.E,8.43,2
+2011H0856H,Electrical and Electronics Engineering,M.E,6.19,2
+2011A0857A,Civil Engineering,B.E,5.14,3
+2011A0858A,Humanities and Social Sciences,B.E,7.43,4
+2011A0859A,Electrical and Electronics Engineering,B.E,8.23,1
+2011H0860H,Civil Engineering,M.E,5.8,2
+2011A0861A,Biological Sciences,B.E,6.29,3
+2011A0862A,Pharmacy,B.E,7.75,1
+2011A0863A,Physics,B.E,7.43,1
+2011A0864A,Biological Sciences,B.E,9.3,1
+2011A0865A,Economics and Finanace,B.E,8.01,1
+2011A0866A,Electrical and Electronics Engineering,B.E,9.48,1
+2011A0867A,Electrical and Electronics Engineering,B.E,9.72,2
+2011H0868H,Civil Engineering,M.E,5.56,1
+2011A0869A,Mathematics,B.E,8.32,3
+2011S0870S,Humanities and Social Sciences,M.Sc,9.42,2
+2011A0871A,Mechanical Engineering,B.E,5.61,3
+2011A0872A,Economics and Finanace,B.E,9.16,4
+2011A0873A,Physics,B.E,8.72,4
+2011D0874D,Civil Engineering,Ph.D,5.72,2
+2011A0875A,Civil Engineering,B.E,9.85,4
+2011A0876A,Electrical and Electronics Engineering,B.E,6.27,1
+2011P0877P,Humanities and Social Sciences,B.Pharm,7.67,1
+2011A0878A,Economics and Finanace,B.E,7.73,4
+2011P0879P,Pharmacy,B.Pharm,6.23,3
+2011P0880P,Chemisty,B.Pharm,6.81,3
+2011A0881A,Computer Science and Information Systems,B.E,5.11,1
+2011P0882P,Pharmacy,B.Pharm,8.99,1
+2011A0883A,Physics,B.E,9.59,2
+2011A0884A,Computer Science and Information Systems,B.E,7.76,3
+2011H0885H,Pharmacy,M.E,9.79,3
+2011H0886H,Pharmacy,M.E,5.61,2
+2011H0887H,Humanities and Social Sciences,M.E,6.94,4
+2011H0888H,Computer Science and Information Systems,M.E,6.5,2
+2011A0889A,Computer Science and Information Systems,B.E,6.05,2
+2011H0890H,Humanities and Social Sciences,M.E,8.16,4
+2011A0891A,Biological Sciences,B.E,6.37,1
+2011A0892A,Humanities and Social Sciences,B.E,7.36,4
+2011S0893S,Economics and Finanace,M.Sc,8.59,1
+2011A0894A,Chemisty,B.E,8.49,1
+2011H0895H,Economics and Finanace,M.E,7.1,3
+2011H0896H,Humanities and Social Sciences,M.E,8.48,1
+2011A0897A,Pharmacy,B.E,8.21,4
+2011A0898A,Pharmacy,B.E,5.68,4
+2011P0899P,Civil Engineering,B.Pharm,8.14,3
+2011A0900A,Mechanical Engineering,B.E,5.41,2
+2011D0901D,Civil Engineering,Ph.D,7.58,2
+2011H0902H,Mechanical Engineering,M.E,8.43,3
+2011A0903A,Humanities and Social Sciences,B.E,7.39,2
+2011D0904D,Computer Science and Information Systems,Ph.D,5.87,3
+2011H0905H,Computer Science and Information Systems,M.E,5.99,4
+2011H0906H,Economics and Finanace,M.E,5.91,4
+2011A0907A,Mechanical Engineering,B.E,6.12,1
+2011D0908D,Mathematics,Ph.D,8.24,2
+2011P0909P,Chemical Engineering,B.Pharm,9.87,2
+2011A0910A,Computer Science and Information Systems,B.E,8.51,2
+2011P0911P,Biological Sciences,B.Pharm,7.01,4
+2011A0912A,Mechanical Engineering,B.E,6.3,1
+2011A0913A,Economics and Finanace,B.E,5.85,1
+2011A0914A,Biological Sciences,B.E,8.59,4
+2011P0915P,Humanities and Social Sciences,B.Pharm,9.14,4
+2011A0916A,Chemical Engineering,B.E,6.12,2
+2011P0917P,Civil Engineering,B.Pharm,9.73,3
+2011H0918H,Computer Science and Information Systems,M.E,8.73,4
+2011D0919D,Chemisty,Ph.D,7.16,2
+2011H0920H,Mechanical Engineering,M.E,6.08,3
+2011H0921H,Physics,M.E,8.39,4
+2011S0922S,Chemisty,M.Sc,7.04,2
+2011A0923A,Biological Sciences,B.E,6.45,3
+2011A0924A,Civil Engineering,B.E,8.09,2
+2011A0925A,Economics and Finanace,B.E,7.91,4
+2011A0926A,Chemical Engineering,B.E,5.05,2
+2011D0927D,Economics and Finanace,Ph.D,9.87,4
+2011A0928A,Pharmacy,B.E,6.06,4
+2011A0929A,Physics,B.E,7.12,3
+2011S0930S,Chemical Engineering,M.Sc,5.48,1
+2011A0931A,Biological Sciences,B.E,6.66,2
+2011P0932P,Humanities and Social Sciences,B.Pharm,9.54,1
+2011D0933D,Biological Sciences,Ph.D,6.27,4
+2011A0934A,Computer Science and Information Systems,B.E,9.89,3
+2011A0935A,Chemisty,B.E,9.84,1
+2011S0936S,Mechanical Engineering,M.Sc,5.9,2
+2011A0937A,Mathematics,B.E,7.46,3
+2011A0938A,Humanities and Social Sciences,B.E,5.66,3
+2011P0939P,Electrical and Electronics Engineering,B.Pharm,5.71,1
+2011D0940D,Economics and Finanace,Ph.D,5.22,2
+2011A0941A,Humanities and Social Sciences,B.E,9.36,3
+2011A0942A,Physics,B.E,6.8,4
+2011A0943A,Computer Science and Information Systems,B.E,9.51,3
+2011H0944H,Mechanical Engineering,M.E,9.15,3
+2011A0945A,Mathematics,B.E,6.57,2
+2011A0946A,Economics and Finanace,B.E,8.68,4
+2011A0947A,Chemisty,B.E,7.78,4
+2011A0948A,Biological Sciences,B.E,5.94,1
+2011A0949A,Civil Engineering,B.E,5.92,4
+2011A0950A,Computer Science and Information Systems,B.E,5.82,4
+2011S0951S,Electrical and Electronics Engineering,M.Sc,5.58,4
+2011A0952A,Biological Sciences,B.E,7.21,4
+2011S0953S,Humanities and Social Sciences,M.Sc,7.46,2
+2011S0954S,Chemical Engineering,M.Sc,6.75,2
+2011A0955A,Computer Science and Information Systems,B.E,5.9,2
+2011A0956A,Physics,B.E,7.54,3
+2011H0957H,Mechanical Engineering,M.E,9.45,2
+2011S0958S,Mechanical Engineering,M.Sc,9.99,1
+2011H0959H,Mathematics,M.E,8.83,2
+2011A0960A,Electrical and Electronics Engineering,B.E,9.6,2
+2011P0961P,Humanities and Social Sciences,B.Pharm,8.38,3
+2011H0962H,Biological Sciences,M.E,6.42,1
+2011A0963A,Electrical and Electronics Engineering,B.E,6.87,1
+2011H0964H,Economics and Finanace,M.E,5.77,1
+2011A0965A,Humanities and Social Sciences,B.E,9.15,4
+2011S0966S,Humanities and Social Sciences,M.Sc,8.14,3
+2011A0967A,Mechanical Engineering,B.E,8.29,3
+2011H0968H,Biological Sciences,M.E,8.28,4
+2011A0969A,Economics and Finanace,B.E,9.74,2
+2011A0970A,Civil Engineering,B.E,9.32,3
+2011A0971A,Economics and Finanace,B.E,8.99,1
+2011P0972P,Mechanical Engineering,B.Pharm,6.91,4
+2011A0973A,Computer Science and Information Systems,B.E,5.89,4
+2011A0974A,Chemical Engineering,B.E,5.1,2
+2011A0975A,Chemisty,B.E,6.94,4
+2011A0976A,Computer Science and Information Systems,B.E,8.24,2
+2011A0977A,Chemical Engineering,B.E,6.49,4
+2011A0978A,Physics,B.E,9.03,3
+2011A0979A,Pharmacy,B.E,8.02,3
+2011A0980A,Pharmacy,B.E,5.48,3
+2011A0981A,Mathematics,B.E,6.0,4
+2011S0982S,Electrical and Electronics Engineering,M.Sc,7.38,4
+2011A0983A,Chemical Engineering,B.E,8.78,3
+2011H0984H,Mechanical Engineering,M.E,5.93,4
+2011A0985A,Chemical Engineering,B.E,5.2,3
+2011A0986A,Humanities and Social Sciences,B.E,8.38,2
+2011A0987A,Humanities and Social Sciences,B.E,7.64,1
+2011H0988H,Computer Science and Information Systems,M.E,7.34,1
+2011A0989A,Humanities and Social Sciences,B.E,6.5,2
+2011P0990P,Pharmacy,B.Pharm,9.51,2
+2011D0991D,Mathematics,Ph.D,7.14,1
+2011A0992A,Mathematics,B.E,5.38,1
+2011H0993H,Mathematics,M.E,5.54,4
+2011S0994S,Electrical and Electronics Engineering,M.Sc,5.47,3
+2011H0995H,Economics and Finanace,M.E,6.27,1
+2011A0996A,Mathematics,B.E,5.08,4
+2011A0997A,Chemisty,B.E,8.93,4
+2011S0998S,Biological Sciences,M.Sc,5.42,3
+2011A0999A,Economics and Finanace,B.E,7.94,4
+2011A1000A,Pharmacy,B.E,7.25,3
+2011A1001A,Economics and Finanace,B.E,9.83,2
+2011A1002A,Civil Engineering,B.E,5.93,3
+2011P1003P,Pharmacy,B.Pharm,5.53,1
+2011P1004P,Biological Sciences,B.Pharm,6.97,1
+2011A1005A,Chemisty,B.E,8.28,4
+2011S1006S,Physics,M.Sc,7.03,4
+2011H1007H,Computer Science and Information Systems,M.E,8.09,3
+2011S1008S,Physics,M.Sc,8.37,4
+2011A1009A,Computer Science and Information Systems,B.E,5.44,2
+2011H1010H,Biological Sciences,M.E,5.95,1
+2011P1011P,Civil Engineering,B.Pharm,9.3,2
+2011A1012A,Humanities and Social Sciences,B.E,8.24,2
+2011P1013P,Electrical and Electronics Engineering,B.Pharm,9.21,2
+2011H1014H,Chemical Engineering,M.E,6.5,4
+2011A1015A,Chemisty,B.E,7.37,1
+2011S1016S,Chemical Engineering,M.Sc,5.83,2
+2011A1017A,Physics,B.E,8.51,4
+2011A1018A,Humanities and Social Sciences,B.E,5.1,4
+2011A1019A,Mechanical Engineering,B.E,6.21,3
+2011H1020H,Mechanical Engineering,M.E,9.15,4
+2011H1021H,Biological Sciences,M.E,6.67,1
+2011A1022A,Pharmacy,B.E,9.24,4
+2011A1023A,Electrical and Electronics Engineering,B.E,9.24,3
+2011P1024P,Biological Sciences,B.Pharm,7.44,4
+2011A1025A,Mathematics,B.E,7.96,4
+2011S1026S,Civil Engineering,M.Sc,8.57,1
+2011A1027A,Electrical and Electronics Engineering,B.E,7.88,1
+2011A1028A,Computer Science and Information Systems,B.E,9.46,4
+2011A1029A,Humanities and Social Sciences,B.E,5.58,3
+2011D1030D,Humanities and Social Sciences,Ph.D,8.49,1
+2011P1031P,Chemisty,B.Pharm,6.44,2
+2011A1032A,Humanities and Social Sciences,B.E,6.72,2
+2011A1033A,Mathematics,B.E,6.1,3
+2011H1034H,Mechanical Engineering,M.E,9.27,4
+2011A1035A,Chemisty,B.E,9.42,4
+2011A1036A,Electrical and Electronics Engineering,B.E,9.17,3
+2011D1037D,Humanities and Social Sciences,Ph.D,9.0,2
+2011H1038H,Mechanical Engineering,M.E,6.04,1
+2011S1039S,Pharmacy,M.Sc,7.41,2
+2011A1040A,Civil Engineering,B.E,5.78,4
+2011A1041A,Chemical Engineering,B.E,8.97,4
+2011A1042A,Computer Science and Information Systems,B.E,6.17,1
+2011P1043P,Biological Sciences,B.Pharm,6.79,3
+2011P1044P,Economics and Finanace,B.Pharm,8.38,2
+2011D1045D,Mathematics,Ph.D,5.16,1
+2011A1046A,Economics and Finanace,B.E,7.15,2
+2011P1047P,Chemical Engineering,B.Pharm,7.81,4
+2011A1048A,Computer Science and Information Systems,B.E,9.97,3
+2011P1049P,Biological Sciences,B.Pharm,8.85,3
+2011S1050S,Chemisty,M.Sc,9.27,1
+2011H1051H,Physics,M.E,5.25,4
+2011A1052A,Humanities and Social Sciences,B.E,9.81,1
+2011H1053H,Chemical Engineering,M.E,8.91,1
+2011P1054P,Biological Sciences,B.Pharm,7.54,2
+2011H1055H,Pharmacy,M.E,5.59,2
+2011A1056A,Economics and Finanace,B.E,5.79,3
+2011A1057A,Physics,B.E,7.21,4
+2011A1058A,Physics,B.E,9.35,2
+2011A1059A,Pharmacy,B.E,6.82,2
+2011A1060A,Chemical Engineering,B.E,9.24,4
+2011A1061A,Electrical and Electronics Engineering,B.E,8.85,1
+2011S1062S,Civil Engineering,M.Sc,9.17,4
+2011H1063H,Economics and Finanace,M.E,6.43,2
+2011A1064A,Chemical Engineering,B.E,6.33,4
+2011S1065S,Economics and Finanace,M.Sc,8.15,2
+2011H1066H,Chemisty,M.E,8.77,4
+2011A1067A,Civil Engineering,B.E,5.69,4
+2011P1068P,Electrical and Electronics Engineering,B.Pharm,9.59,4
+2011A1069A,Mathematics,B.E,8.97,3
+2011P1070P,Biological Sciences,B.Pharm,7.21,1
+2011H1071H,Physics,M.E,9.03,1
+2011A1072A,Chemical Engineering,B.E,6.69,4
+2011P1073P,Chemisty,B.Pharm,7.17,4
+2011P1074P,Biological Sciences,B.Pharm,8.3,2
+2011A1075A,Mechanical Engineering,B.E,5.29,3
+2011H1076H,Electrical and Electronics Engineering,M.E,7.01,3
+2011A1077A,Physics,B.E,8.71,3
+2011A1078A,Biological Sciences,B.E,9.14,2
+2011S1079S,Physics,M.Sc,7.02,2
+2011H1080H,Mathematics,M.E,8.12,4
+2011A1081A,Physics,B.E,6.73,4
+2011H1082H,Civil Engineering,M.E,9.4,1
+2011H1083H,Biological Sciences,M.E,7.69,4
+2011H1084H,Physics,M.E,8.59,2
+2011A1085A,Mathematics,B.E,9.96,3
+2011S1086S,Civil Engineering,M.Sc,5.46,3
+2011A1087A,Mathematics,B.E,6.7,2
+2011A1088A,Biological Sciences,B.E,5.14,3
+2011A1089A,Civil Engineering,B.E,9.16,3
+2011H1090H,Physics,M.E,7.11,1
+2011A1091A,Physics,B.E,5.3,3
+2011A1092A,Computer Science and Information Systems,B.E,8.13,3
+2011H1093H,Chemical Engineering,M.E,5.24,1
+2011S1094S,Humanities and Social Sciences,M.Sc,6.49,1
+2011A1095A,Humanities and Social Sciences,B.E,6.69,2
+2011A1096A,Physics,B.E,9.95,2
+2011D1097D,Economics and Finanace,Ph.D,6.5,2
+2011P1098P,Electrical and Electronics Engineering,B.Pharm,7.6,2
+2011S1099S,Chemical Engineering,M.Sc,6.64,2
+2011A1100A,Economics and Finanace,B.E,7.27,2
+2011A1101A,Physics,B.E,7.13,4
+2011A1102A,Chemical Engineering,B.E,5.46,4
+2011H1103H,Chemisty,M.E,7.38,4
+2011H1104H,Chemical Engineering,M.E,6.85,4
+2011A1105A,Mechanical Engineering,B.E,7.79,4
+2011A1106A,Computer Science and Information Systems,B.E,7.92,4
+2011A1107A,Humanities and Social Sciences,B.E,8.45,4
+2011A1108A,Physics,B.E,9.87,2
+2011A1109A,Chemisty,B.E,7.53,4
+2011A1110A,Physics,B.E,7.29,1
+2011A1111A,Physics,B.E,6.06,4
+2011A1112A,Biological Sciences,B.E,8.73,3
+2011H1113H,Chemical Engineering,M.E,8.01,4
+2011P1114P,Chemical Engineering,B.Pharm,5.6,3
+2011P1115P,Biological Sciences,B.Pharm,7.61,1
+2011H1116H,Economics and Finanace,M.E,6.52,3
+2011H1117H,Computer Science and Information Systems,M.E,6.47,1
+2011A1118A,Chemisty,B.E,5.71,4
+2011A1119A,Biological Sciences,B.E,9.68,3
+2011P1120P,Computer Science and Information Systems,B.Pharm,6.08,4
+2011A1121A,Biological Sciences,B.E,5.61,3
+2011P1122P,Chemical Engineering,B.Pharm,9.35,4
+2011A1123A,Humanities and Social Sciences,B.E,7.87,4
+2011H1124H,Economics and Finanace,M.E,8.91,4
+2011D1125D,Physics,Ph.D,9.17,2
+2011S1126S,Chemisty,M.Sc,7.52,4
+2011H1127H,Humanities and Social Sciences,M.E,8.34,2
+2011P1128P,Economics and Finanace,B.Pharm,5.45,4
+2011A1129A,Electrical and Electronics Engineering,B.E,6.16,4
+2011A1130A,Economics and Finanace,B.E,7.7,4
+2011D1131D,Physics,Ph.D,6.39,1
+2011S1132S,Chemisty,M.Sc,8.54,3
+2011A1133A,Mathematics,B.E,8.23,1
+2011P1134P,Civil Engineering,B.Pharm,9.78,1
+2011A1135A,Mechanical Engineering,B.E,7.61,4
+2011A1136A,Mathematics,B.E,9.48,1
+2011S1137S,Pharmacy,M.Sc,9.68,2
+2011H1138H,Biological Sciences,M.E,6.37,2
+2011A1139A,Civil Engineering,B.E,9.15,4
+2011A1140A,Chemical Engineering,B.E,9.03,3
+2011P1141P,Electrical and Electronics Engineering,B.Pharm,7.94,4
+2011A1142A,Biological Sciences,B.E,6.7,2
+2011H1143H,Electrical and Electronics Engineering,M.E,5.12,3
+2011H1144H,Electrical and Electronics Engineering,M.E,6.29,1
+2011H1145H,Chemical Engineering,M.E,7.71,3
+2011H1146H,Chemisty,M.E,5.91,1
+2011P1147P,Chemisty,B.Pharm,6.53,4
+2011H1148H,Pharmacy,M.E,5.85,3
+2011A1149A,Chemisty,B.E,5.14,1
+2011S1150S,Computer Science and Information Systems,M.Sc,6.95,3
+2011H1151H,Chemisty,M.E,7.06,3
+2011P1152P,Computer Science and Information Systems,B.Pharm,6.88,1
+2011A1153A,Biological Sciences,B.E,6.01,2
+2011A1154A,Humanities and Social Sciences,B.E,7.54,4
+2011D1155D,Chemical Engineering,Ph.D,6.35,3
+2011D1156D,Humanities and Social Sciences,Ph.D,7.77,1
+2011S1157S,Humanities and Social Sciences,M.Sc,5.14,2
+2011A1158A,Biological Sciences,B.E,6.35,1
+2011H1159H,Civil Engineering,M.E,8.81,2
+2011A1160A,Computer Science and Information Systems,B.E,7.84,4
+2011A1161A,Chemical Engineering,B.E,9.23,2
+2011P1162P,Chemisty,B.Pharm,6.87,2
+2011A1163A,Civil Engineering,B.E,7.69,4
+2011A1164A,Mathematics,B.E,7.26,1
+2011P1165P,Humanities and Social Sciences,B.Pharm,9.81,3
+2011A1166A,Pharmacy,B.E,9.86,1
+2011A1167A,Biological Sciences,B.E,9.67,4
+2011A1168A,Computer Science and Information Systems,B.E,7.99,4
+2011H1169H,Economics and Finanace,M.E,9.21,2
+2011P1170P,Mechanical Engineering,B.Pharm,9.2,3
+2011H1171H,Biological Sciences,M.E,5.81,1
+2011A1172A,Computer Science and Information Systems,B.E,5.45,1
+2011H1173H,Chemisty,M.E,8.63,3
+2011A1174A,Electrical and Electronics Engineering,B.E,6.05,3
+2011A1175A,Pharmacy,B.E,9.73,3
+2011H1176H,Physics,M.E,7.26,2
+2011A1177A,Pharmacy,B.E,9.92,3
+2011A1178A,Civil Engineering,B.E,7.3,3
+2011A1179A,Biological Sciences,B.E,9.57,2
+2011A1180A,Pharmacy,B.E,9.61,4
+2011P1181P,Biological Sciences,B.Pharm,9.51,2
+2011A1182A,Electrical and Electronics Engineering,B.E,7.78,4
+2011A1183A,Electrical and Electronics Engineering,B.E,7.69,1
+2011H1184H,Mathematics,M.E,5.15,4
+2011A1185A,Pharmacy,B.E,5.62,4
+2011A1186A,Mechanical Engineering,B.E,6.79,2
+2011S1187S,Physics,M.Sc,9.92,1
+2011H1188H,Humanities and Social Sciences,M.E,6.85,2
+2011A1189A,Humanities and Social Sciences,B.E,5.05,1
+2011H1190H,Computer Science and Information Systems,M.E,8.4,3
+2011H1191H,Civil Engineering,M.E,5.45,3
+2011D1192D,Physics,Ph.D,6.11,4
+2011A1193A,Economics and Finanace,B.E,5.18,4
+2011A1194A,Physics,B.E,8.53,2
+2011A1195A,Biological Sciences,B.E,5.98,4
+2011A1196A,Chemical Engineering,B.E,9.35,4
+2011S1197S,Chemisty,M.Sc,7.76,2
+2011A1198A,Chemical Engineering,B.E,7.94,1
+2011S1199S,Chemisty,M.Sc,6.3,2
+2011A1200A,Mathematics,B.E,8.64,3
+2011D1201D,Civil Engineering,Ph.D,9.24,1
+2011H1202H,Physics,M.E,8.39,3
+2011A1203A,Pharmacy,B.E,7.8,4
+2011P1204P,Biological Sciences,B.Pharm,9.69,1
+2011H1205H,Economics and Finanace,M.E,7.16,4
+2011S1206S,Computer Science and Information Systems,M.Sc,5.61,4
+2011A1207A,Humanities and Social Sciences,B.E,6.81,1
+2011H1208H,Physics,M.E,6.12,3
+2011S1209S,Electrical and Electronics Engineering,M.Sc,7.66,3
+2011A1210A,Biological Sciences,B.E,6.96,3
+2011H1211H,Chemical Engineering,M.E,9.4,1
+2011A1212A,Physics,B.E,6.13,4
+2011A1213A,Chemical Engineering,B.E,9.58,2
+2011P1214P,Chemisty,B.Pharm,6.65,1
+2011A1215A,Pharmacy,B.E,8.13,1
+2011A1216A,Humanities and Social Sciences,B.E,7.16,1
+2011A1217A,Mechanical Engineering,B.E,8.99,3
+2011A1218A,Computer Science and Information Systems,B.E,6.24,4
+2011A1219A,Civil Engineering,B.E,9.79,1
+2011A1220A,Economics and Finanace,B.E,7.6,2
+2011A1221A,Chemical Engineering,B.E,8.88,4
+2011A1222A,Chemical Engineering,B.E,8.13,1
+2011A1223A,Chemical Engineering,B.E,9.87,1
+2011H1224H,Electrical and Electronics Engineering,M.E,6.57,1
+2011S1225S,Chemisty,M.Sc,5.31,4
+2011S1226S,Biological Sciences,M.Sc,6.51,4
+2011S1227S,Chemical Engineering,M.Sc,5.51,1
+2011D1228D,Mathematics,Ph.D,5.26,4
+2011A1229A,Electrical and Electronics Engineering,B.E,5.48,4
+2011P1230P,Civil Engineering,B.Pharm,9.32,1
+2011A1231A,Humanities and Social Sciences,B.E,6.92,4
+2011S1232S,Mechanical Engineering,M.Sc,8.1,3
+2011A1233A,Pharmacy,B.E,9.69,1
+2011A1234A,Humanities and Social Sciences,B.E,7.59,2
+2011A1235A,Chemical Engineering,B.E,5.51,1
+2011A1236A,Mechanical Engineering,B.E,8.95,2
+2011S1237S,Mechanical Engineering,M.Sc,5.63,3
+2011S1238S,Economics and Finanace,M.Sc,7.11,4
+2011A1239A,Chemisty,B.E,6.22,1
+2011A1240A,Biological Sciences,B.E,5.64,4
+2011H1241H,Mathematics,M.E,9.8,3
+2011S1242S,Computer Science and Information Systems,M.Sc,7.92,2
+2011H1243H,Chemisty,M.E,7.35,3
+2011A1244A,Computer Science and Information Systems,B.E,6.84,1
+2011H1245H,Mathematics,M.E,7.93,2
+2011H1246H,Biological Sciences,M.E,6.19,1
+2011S1247S,Electrical and Electronics Engineering,M.Sc,6.72,2
+2011A1248A,Pharmacy,B.E,9.54,1
+2011H1249H,Economics and Finanace,M.E,5.95,4
+2011A1250A,Physics,B.E,8.46,4
+2011H1251H,Mechanical Engineering,M.E,8.46,3
+2011P1252P,Mechanical Engineering,B.Pharm,6.5,3
+2011A1253A,Chemisty,B.E,5.52,1
+2011A1254A,Humanities and Social Sciences,B.E,6.1,1
+2011P1255P,Pharmacy,B.Pharm,6.12,2
+2011A1256A,Humanities and Social Sciences,B.E,8.12,2
+2011A1257A,Humanities and Social Sciences,B.E,8.67,3
+2011A1258A,Physics,B.E,6.88,4
+2011P1259P,Chemisty,B.Pharm,9.13,1
+2011H1260H,Economics and Finanace,M.E,5.05,3
+2011P1261P,Biological Sciences,B.Pharm,7.77,2
+2011A1262A,Computer Science and Information Systems,B.E,7.2,3
+2011S1263S,Biological Sciences,M.Sc,9.88,2
+2011P1264P,Civil Engineering,B.Pharm,6.42,2
+2011A1265A,Computer Science and Information Systems,B.E,8.59,3
+2011S1266S,Mathematics,M.Sc,6.23,2
+2011P1267P,Biological Sciences,B.Pharm,5.88,3
+2011A1268A,Chemical Engineering,B.E,5.1,2
+2011A1269A,Electrical and Electronics Engineering,B.E,8.27,1
+2011H1270H,Economics and Finanace,M.E,9.68,3
+2011A1271A,Humanities and Social Sciences,B.E,6.2,3
+2011A1272A,Pharmacy,B.E,5.86,4
+2011P1273P,Chemical Engineering,B.Pharm,5.59,2
+2011S1274S,Civil Engineering,M.Sc,5.96,4
+2011H1275H,Physics,M.E,6.87,4
+2011A1276A,Pharmacy,B.E,6.22,1
+2011P1277P,Mechanical Engineering,B.Pharm,7.94,3
+2011A1278A,Chemisty,B.E,6.64,1
+2011A1279A,Pharmacy,B.E,8.98,2
+2011H1280H,Mathematics,M.E,9.84,4
+2011S1281S,Civil Engineering,M.Sc,8.64,4
+2011S1282S,Pharmacy,M.Sc,8.07,2
+2011S1283S,Mathematics,M.Sc,6.94,3
+2011A1284A,Humanities and Social Sciences,B.E,7.59,2
+2011A1285A,Economics and Finanace,B.E,8.56,4
+2011H1286H,Physics,M.E,9.78,4
+2011A1287A,Computer Science and Information Systems,B.E,7.91,1
+2011A1288A,Civil Engineering,B.E,6.1,2
+2011P1289P,Humanities and Social Sciences,B.Pharm,9.32,4
+2011H1290H,Civil Engineering,M.E,6.53,4
+2011A1291A,Mechanical Engineering,B.E,5.79,3
+2011S1292S,Computer Science and Information Systems,M.Sc,7.75,2
+2011H1293H,Chemical Engineering,M.E,6.48,3
+2011A1294A,Civil Engineering,B.E,7.92,4
+2011P1295P,Mechanical Engineering,B.Pharm,6.68,4
+2011A1296A,Humanities and Social Sciences,B.E,7.16,3
+2011A1297A,Humanities and Social Sciences,B.E,6.59,4
+2011H1298H,Biological Sciences,M.E,5.9,2
+2011A1299A,Computer Science and Information Systems,B.E,8.23,3
+2011H1300H,Chemical Engineering,M.E,6.47,1
+2011A1301A,Computer Science and Information Systems,B.E,9.63,1
+2011A1302A,Chemical Engineering,B.E,5.36,1
+2011P1303P,Civil Engineering,B.Pharm,6.67,3
+2011A1304A,Computer Science and Information Systems,B.E,6.51,3
+2011H1305H,Civil Engineering,M.E,8.53,2
+2011A1306A,Physics,B.E,8.7,3
+2011A1307A,Biological Sciences,B.E,8.85,3
+2011A1308A,Economics and Finanace,B.E,8.92,4
+2011H1309H,Electrical and Electronics Engineering,M.E,9.11,1
+2011H1310H,Humanities and Social Sciences,M.E,8.27,2
+2011A1311A,Electrical and Electronics Engineering,B.E,6.14,2
+2011A1312A,Humanities and Social Sciences,B.E,6.17,4
+2011A1313A,Physics,B.E,9.07,3
+2011H1314H,Chemical Engineering,M.E,6.57,2
+2011S1315S,Electrical and Electronics Engineering,M.Sc,8.85,4
+2011A1316A,Civil Engineering,B.E,7.19,1
+2011A1317A,Economics and Finanace,B.E,5.69,2
+2011A1318A,Computer Science and Information Systems,B.E,9.72,1
+2011A1319A,Humanities and Social Sciences,B.E,9.05,3
+2011A1320A,Economics and Finanace,B.E,6.13,4
+2011H1321H,Pharmacy,M.E,8.76,3
+2011H1322H,Economics and Finanace,M.E,7.93,1
+2011H1323H,Chemisty,M.E,5.77,3
+2011S1324S,Mechanical Engineering,M.Sc,8.15,4
+2011A1325A,Electrical and Electronics Engineering,B.E,6.02,4
+2011H1326H,Chemical Engineering,M.E,7.67,2
+2011A1327A,Humanities and Social Sciences,B.E,5.54,4
+2011P1328P,Pharmacy,B.Pharm,9.47,1
+2011A1329A,Chemisty,B.E,5.52,2
+2011H1330H,Biological Sciences,M.E,9.13,4
+2011A1331A,Biological Sciences,B.E,5.93,1
+2011A1332A,Electrical and Electronics Engineering,B.E,6.42,2
+2011H1333H,Computer Science and Information Systems,M.E,8.3,1
+2011A1334A,Humanities and Social Sciences,B.E,5.29,1
+2011A1335A,Chemisty,B.E,6.63,4
+2011H1336H,Electrical and Electronics Engineering,M.E,5.79,1
+2011A1337A,Chemisty,B.E,7.68,4
+2011A1338A,Physics,B.E,5.34,2
+2011H1339H,Chemisty,M.E,9.35,3
+2011H1340H,Electrical and Electronics Engineering,M.E,9.09,4
+2011P1341P,Chemisty,B.Pharm,8.02,3
+2011P1342P,Mechanical Engineering,B.Pharm,6.01,4
+2011D1343D,Computer Science and Information Systems,Ph.D,6.01,2
+2011A1344A,Humanities and Social Sciences,B.E,5.32,4
+2011A1345A,Mechanical Engineering,B.E,9.04,3
+2011A1346A,Mechanical Engineering,B.E,9.4,4
+2011A1347A,Humanities and Social Sciences,B.E,7.88,1
+2011A1348A,Computer Science and Information Systems,B.E,8.23,4
+2011P1349P,Economics and Finanace,B.Pharm,8.5,3
+2011H1350H,Electrical and Electronics Engineering,M.E,8.07,2
+2011A1351A,Electrical and Electronics Engineering,B.E,6.25,4
+2011A1352A,Humanities and Social Sciences,B.E,6.92,2
+2011A1353A,Physics,B.E,7.84,4
+2011A1354A,Physics,B.E,9.73,2
+2011H1355H,Chemisty,M.E,6.37,3
+2011A1356A,Pharmacy,B.E,9.58,2
+2011P1357P,Humanities and Social Sciences,B.Pharm,7.06,1
+2011A1358A,Economics and Finanace,B.E,5.38,1
+2011A1359A,Mathematics,B.E,8.83,3
+2011H1360H,Electrical and Electronics Engineering,M.E,7.25,3
+2011A1361A,Civil Engineering,B.E,7.53,4
+2011A1362A,Biological Sciences,B.E,5.37,4
+2011H1363H,Electrical and Electronics Engineering,M.E,6.72,4
+2011A1364A,Civil Engineering,B.E,6.98,1
+2011A1365A,Computer Science and Information Systems,B.E,5.57,2
+2011P1366P,Economics and Finanace,B.Pharm,8.35,4
+2011A1367A,Humanities and Social Sciences,B.E,7.31,1
+2011A1368A,Mathematics,B.E,8.29,4
+2011P1369P,Chemisty,B.Pharm,7.35,3
+2011A1370A,Chemisty,B.E,5.85,1
+2011A1371A,Mechanical Engineering,B.E,5.5,3
+2011H1372H,Chemical Engineering,M.E,7.67,4
+2011H1373H,Chemisty,M.E,5.39,1
+2011H1374H,Pharmacy,M.E,6.37,4
+2011A1375A,Economics and Finanace,B.E,5.89,1
+2011H1376H,Pharmacy,M.E,7.66,4
+2011A1377A,Physics,B.E,5.24,1
+2011A1378A,Electrical and Electronics Engineering,B.E,8.45,4
+2011A1379A,Biological Sciences,B.E,7.99,1
+2011A1380A,Electrical and Electronics Engineering,B.E,8.84,2
+2011P1381P,Economics and Finanace,B.Pharm,9.54,2
+2011D1382D,Chemical Engineering,Ph.D,5.08,1
+2011A1383A,Biological Sciences,B.E,6.69,2
+2011A1384A,Pharmacy,B.E,8.34,2
+2011A1385A,Chemical Engineering,B.E,8.98,2
+2011A1386A,Physics,B.E,5.84,4
+2011S1387S,Mathematics,M.Sc,5.54,3
+2011A1388A,Economics and Finanace,B.E,7.81,2
+2011A1389A,Mechanical Engineering,B.E,6.04,4
+2011A1390A,Electrical and Electronics Engineering,B.E,5.6,2
+2011H1391H,Chemical Engineering,M.E,6.78,2
+2011A1392A,Biological Sciences,B.E,7.01,3
+2011A1393A,Biological Sciences,B.E,6.95,4
+2011P1394P,Civil Engineering,B.Pharm,5.33,3
+2011A1395A,Pharmacy,B.E,8.12,1
+2011A1396A,Chemical Engineering,B.E,9.43,4
+2011A1397A,Computer Science and Information Systems,B.E,8.84,4
+2011D1398D,Chemical Engineering,Ph.D,8.56,2
+2011H1399H,Computer Science and Information Systems,M.E,9.8,3
+2011P1400P,Pharmacy,B.Pharm,8.48,2
+2011H1401H,Economics and Finanace,M.E,5.88,3
+2011H1402H,Pharmacy,M.E,7.41,3
+2011H1403H,Biological Sciences,M.E,8.04,4
+2011A1404A,Electrical and Electronics Engineering,B.E,7.56,2
+2011A1405A,Mathematics,B.E,7.94,1
+2011P1406P,Civil Engineering,B.Pharm,5.11,1
+2011H1407H,Computer Science and Information Systems,M.E,6.18,4
+2011H1408H,Civil Engineering,M.E,8.1,1
+2011A1409A,Chemisty,B.E,6.87,3
+2011A1410A,Civil Engineering,B.E,5.76,2
+2011A1411A,Pharmacy,B.E,5.19,4
+2011P1412P,Economics and Finanace,B.Pharm,5.67,3
+2011S1413S,Pharmacy,M.Sc,8.93,1
+2011A1414A,Mathematics,B.E,8.96,4
+2011P1415P,Pharmacy,B.Pharm,9.06,1
+2011A1416A,Civil Engineering,B.E,9.23,3
+2011A1417A,Economics and Finanace,B.E,6.21,1
+2011S1418S,Pharmacy,M.Sc,9.94,2
+2011D1419D,Mechanical Engineering,Ph.D,9.36,3
+2011H1420H,Chemisty,M.E,7.21,1
+2011S1421S,Chemical Engineering,M.Sc,9.35,1
+2011A1422A,Civil Engineering,B.E,5.26,2
+2011A1423A,Civil Engineering,B.E,5.63,2
+2011A1424A,Mechanical Engineering,B.E,7.74,2
+2011A1425A,Civil Engineering,B.E,7.54,4
+2011A1426A,Physics,B.E,7.34,2
+2011A1427A,Physics,B.E,5.99,4
+2011A1428A,Chemisty,B.E,8.03,3
+2011H1429H,Computer Science and Information Systems,M.E,7.88,2
+2011A1430A,Computer Science and Information Systems,B.E,9.31,4
+2011A1431A,Chemical Engineering,B.E,9.76,3
+2011S1432S,Electrical and Electronics Engineering,M.Sc,6.89,4
+2011S1433S,Humanities and Social Sciences,M.Sc,7.11,4
+2011A1434A,Chemisty,B.E,9.1,4
+2011P1435P,Biological Sciences,B.Pharm,8.81,4
+2011A1436A,Chemical Engineering,B.E,8.79,3
+2011A1437A,Mechanical Engineering,B.E,7.69,2
+2011A1438A,Computer Science and Information Systems,B.E,6.9,3
+2011P1439P,Humanities and Social Sciences,B.Pharm,6.42,4
+2011A1440A,Chemical Engineering,B.E,6.67,4
+2011P1441P,Civil Engineering,B.Pharm,5.77,2
+2011A1442A,Biological Sciences,B.E,5.06,3
+2011P1443P,Humanities and Social Sciences,B.Pharm,7.02,4
+2011A1444A,Electrical and Electronics Engineering,B.E,9.85,3
+2011A1445A,Electrical and Electronics Engineering,B.E,7.45,1
+2011H1446H,Electrical and Electronics Engineering,M.E,9.42,1
+2011H1447H,Electrical and Electronics Engineering,M.E,9.66,2
+2011A1448A,Civil Engineering,B.E,8.81,3
+2011A1449A,Physics,B.E,6.74,4
+2011H1450H,Pharmacy,M.E,8.44,1
+2011A1451A,Pharmacy,B.E,6.93,4
+2011A1452A,Physics,B.E,6.23,4
+2011S1453S,Biological Sciences,M.Sc,9.61,3
+2011H1454H,Pharmacy,M.E,8.53,1
+2011P1455P,Pharmacy,B.Pharm,8.23,3
+2011H1456H,Mechanical Engineering,M.E,7.28,2
+2011A1457A,Computer Science and Information Systems,B.E,6.24,2
+2011A1458A,Biological Sciences,B.E,5.58,1
+2011A1459A,Pharmacy,B.E,8.56,4
+2011H1460H,Electrical and Electronics Engineering,M.E,8.53,1
+2011S1461S,Mathematics,M.Sc,9.55,4
+2011A1462A,Chemisty,B.E,9.15,3
+2011A1463A,Physics,B.E,6.51,4
+2011S1464S,Mechanical Engineering,M.Sc,6.54,4
+2011P1465P,Chemical Engineering,B.Pharm,5.55,3
+2011A1466A,Chemisty,B.E,6.35,2
+2011A1467A,Physics,B.E,6.99,3
+2011D1468D,Biological Sciences,Ph.D,9.94,4
+2011S1469S,Biological Sciences,M.Sc,5.48,4
+2011S1470S,Mathematics,M.Sc,7.08,3
+2011A1471A,Physics,B.E,7.15,2
+2011A1472A,Economics and Finanace,B.E,5.93,2
+2011A1473A,Civil Engineering,B.E,7.43,1
+2011A1474A,Humanities and Social Sciences,B.E,7.84,2
+2011H1475H,Chemisty,M.E,6.0,2
+2011A1476A,Civil Engineering,B.E,6.3,4
+2011H1477H,Humanities and Social Sciences,M.E,8.13,1
+2011S1478S,Pharmacy,M.Sc,5.83,3
+2011D1479D,Chemical Engineering,Ph.D,6.89,3
+2011D1480D,Chemical Engineering,Ph.D,6.71,2
+2011P1481P,Humanities and Social Sciences,B.Pharm,7.43,1
+2011S1482S,Biological Sciences,M.Sc,5.31,1
+2011A1483A,Pharmacy,B.E,7.91,1
+2011A1484A,Chemical Engineering,B.E,6.06,1
+2011A1485A,Electrical and Electronics Engineering,B.E,8.01,3
+2011A1486A,Humanities and Social Sciences,B.E,7.37,3
+2011S1487S,Mechanical Engineering,M.Sc,7.15,3
+2011A1488A,Pharmacy,B.E,9.45,3
+2011A1489A,Civil Engineering,B.E,9.7,4
+2011S1490S,Electrical and Electronics Engineering,M.Sc,8.05,3
+2011A1491A,Economics and Finanace,B.E,9.03,1
+2011A1492A,Humanities and Social Sciences,B.E,9.35,4
+2011A1493A,Physics,B.E,9.18,2
+2011A1494A,Biological Sciences,B.E,8.01,3
+2011A1495A,Physics,B.E,8.76,2
+2011A1496A,Economics and Finanace,B.E,7.26,4
+2011D1497D,Mathematics,Ph.D,7.07,2
+2011S1498S,Biological Sciences,M.Sc,9.93,3
+2011A1499A,Biological Sciences,B.E,8.17,1
+2011S1500S,Physics,M.Sc,6.63,4
+2011H1501H,Civil Engineering,M.E,8.03,4
+2011P1502P,Mechanical Engineering,B.Pharm,8.97,3
+2011A1503A,Electrical and Electronics Engineering,B.E,9.7,4
+2011A1504A,Pharmacy,B.E,9.29,1
+2011A1505A,Physics,B.E,6.92,2
+2011A1506A,Physics,B.E,5.72,1
+2011A1507A,Chemisty,B.E,7.49,1
+2011H1508H,Computer Science and Information Systems,M.E,9.16,4
+2011H1509H,Chemisty,M.E,9.48,1
+2011A1510A,Humanities and Social Sciences,B.E,8.31,2
+2011H1511H,Civil Engineering,M.E,6.06,1
+2011A1512A,Chemical Engineering,B.E,7.17,1
+2011A1513A,Chemisty,B.E,9.65,3
+2011A1514A,Electrical and Electronics Engineering,B.E,8.83,2
+2011A1515A,Physics,B.E,6.29,4
+2011S1516S,Pharmacy,M.Sc,5.62,2
+2011P1517P,Pharmacy,B.Pharm,8.63,1
+2011H1518H,Physics,M.E,6.66,2
+2011H1519H,Mechanical Engineering,M.E,8.83,1
+2011A1520A,Pharmacy,B.E,6.72,4
+2011H1521H,Pharmacy,M.E,8.21,4
+2011A1522A,Civil Engineering,B.E,6.12,1
+2011H1523H,Computer Science and Information Systems,M.E,5.44,1
+2011A1524A,Economics and Finanace,B.E,8.7,2
+2011A1525A,Physics,B.E,9.71,3
+2011A1526A,Chemisty,B.E,9.27,4
+2011A1527A,Mechanical Engineering,B.E,8.68,3
+2011A1528A,Biological Sciences,B.E,7.95,2
+2011A1529A,Electrical and Electronics Engineering,B.E,9.9,3
+2011A1530A,Economics and Finanace,B.E,8.99,2
+2011A1531A,Mathematics,B.E,8.32,2
+2011H1532H,Chemical Engineering,M.E,6.98,4
+2011A1533A,Economics and Finanace,B.E,5.72,3
+2011H1534H,Civil Engineering,M.E,7.5,4
+2011H1535H,Chemisty,M.E,8.01,2
+2011A1536A,Physics,B.E,8.33,1
+2011P1537P,Mechanical Engineering,B.Pharm,6.6,1
+2011A1538A,Computer Science and Information Systems,B.E,9.98,4
+2011A1539A,Pharmacy,B.E,9.14,4
+2011A1540A,Computer Science and Information Systems,B.E,8.52,4
+2011A1541A,Biological Sciences,B.E,9.91,3
+2011A1542A,Chemisty,B.E,9.14,2
+2011D1543D,Physics,Ph.D,9.67,2
+2011H1544H,Physics,M.E,8.68,2
+2011A1545A,Humanities and Social Sciences,B.E,8.64,3
+2011S1546S,Pharmacy,M.Sc,9.56,2
+2011D1547D,Biological Sciences,Ph.D,7.74,3
+2011A1548A,Electrical and Electronics Engineering,B.E,8.39,3
+2011H1549H,Electrical and Electronics Engineering,M.E,6.96,3
+2011H1550H,Computer Science and Information Systems,M.E,8.48,2
+2011A1551A,Physics,B.E,9.28,4
+2011P1552P,Chemical Engineering,B.Pharm,5.65,1
+2011A1553A,Physics,B.E,6.52,2
+2011P1554P,Mechanical Engineering,B.Pharm,5.69,4
+2011S1555S,Computer Science and Information Systems,M.Sc,9.49,2
+2011A1556A,Civil Engineering,B.E,9.02,2
+2011H1557H,Physics,M.E,8.26,3
+2011H1558H,Physics,M.E,9.28,1
+2011H1559H,Pharmacy,M.E,8.93,2
+2011H1560H,Electrical and Electronics Engineering,M.E,9.75,4
+2011A1561A,Pharmacy,B.E,9.21,1
+2011H1562H,Chemical Engineering,M.E,6.78,4
+2011A1563A,Chemisty,B.E,9.73,1
+2011A1564A,Mathematics,B.E,8.25,4
+2011H1565H,Chemisty,M.E,8.13,4
+2011A1566A,Civil Engineering,B.E,5.17,2
+2011P1567P,Electrical and Electronics Engineering,B.Pharm,7.44,2
+2011S1568S,Pharmacy,M.Sc,8.73,1
+2011A1569A,Humanities and Social Sciences,B.E,9.32,4
+2011H1570H,Computer Science and Information Systems,M.E,8.16,4
+2011A1571A,Economics and Finanace,B.E,5.06,1
+2011H1572H,Chemical Engineering,M.E,5.61,2
+2011H1573H,Biological Sciences,M.E,7.93,4
+2011A1574A,Computer Science and Information Systems,B.E,8.47,1
+2011A1575A,Mechanical Engineering,B.E,5.91,4
+2011A1576A,Pharmacy,B.E,8.51,3
+2011A1577A,Mechanical Engineering,B.E,5.63,3
+2011P1578P,Chemical Engineering,B.Pharm,8.57,2
+2011P1579P,Electrical and Electronics Engineering,B.Pharm,9.06,1
+2011P1580P,Electrical and Electronics Engineering,B.Pharm,7.78,4
+2011D1581D,Chemical Engineering,Ph.D,7.59,1
+2011H1582H,Civil Engineering,M.E,9.83,1
+2011P1583P,Chemisty,B.Pharm,9.31,2
+2011A1584A,Biological Sciences,B.E,7.77,3
+2011D1585D,Chemical Engineering,Ph.D,5.2,2
+2011D1586D,Pharmacy,Ph.D,5.81,3
+2011H1587H,Biological Sciences,M.E,5.42,1
+2011A1588A,Mathematics,B.E,6.49,2
+2011H1589H,Electrical and Electronics Engineering,M.E,9.89,1
+2011D1590D,Civil Engineering,Ph.D,6.5,3
+2011P1591P,Pharmacy,B.Pharm,7.67,2
+2011S1592S,Mechanical Engineering,M.Sc,7.45,3
+2011A1593A,Mathematics,B.E,9.55,3
+2011A1594A,Mechanical Engineering,B.E,7.69,2
+2011A1595A,Physics,B.E,5.5,1
+2011H1596H,Civil Engineering,M.E,5.18,2
+2011A1597A,Computer Science and Information Systems,B.E,9.28,2
+2011A1598A,Chemisty,B.E,8.01,2
+2011P1599P,Mechanical Engineering,B.Pharm,6.8,2
+2011H1600H,Physics,M.E,8.11,1
+2011A1601A,Mathematics,B.E,6.27,4
+2011A1602A,Pharmacy,B.E,9.52,4
+2011S1603S,Humanities and Social Sciences,M.Sc,5.42,3
+2011H1604H,Pharmacy,M.E,7.13,2
+2011H1605H,Mathematics,M.E,6.02,3
+2011A1606A,Pharmacy,B.E,8.48,2
+2011A1607A,Physics,B.E,6.86,2
+2011H1608H,Electrical and Electronics Engineering,M.E,9.11,3
+2011P1609P,Electrical and Electronics Engineering,B.Pharm,6.89,2
+2011A1610A,Chemical Engineering,B.E,6.35,1
+2011P1611P,Pharmacy,B.Pharm,7.74,1
+2011P1612P,Economics and Finanace,B.Pharm,8.2,3
+2011A1613A,Economics and Finanace,B.E,8.89,2
+2011P1614P,Civil Engineering,B.Pharm,6.37,1
+2011A1615A,Electrical and Electronics Engineering,B.E,9.9,2
+2011A1616A,Electrical and Electronics Engineering,B.E,9.76,1
+2011S1617S,Chemisty,M.Sc,7.63,3
+2011A1618A,Mechanical Engineering,B.E,9.11,4
+2011A1619A,Chemical Engineering,B.E,7.64,3
+2011S1620S,Mathematics,M.Sc,6.36,1
+2011D1621D,Biological Sciences,Ph.D,5.85,4
+2011A1622A,Chemisty,B.E,6.73,4
+2011A1623A,Humanities and Social Sciences,B.E,7.96,3
+2011H1624H,Biological Sciences,M.E,8.43,2
+2011D1625D,Pharmacy,Ph.D,5.63,4
+2011P1626P,Mechanical Engineering,B.Pharm,8.68,1
+2011A1627A,Physics,B.E,8.2,3
+2011A1628A,Physics,B.E,8.89,4
+2011A1629A,Physics,B.E,7.29,4
+2011A1630A,Economics and Finanace,B.E,8.99,3
+2011A1631A,Computer Science and Information Systems,B.E,9.76,2
+2011H1632H,Computer Science and Information Systems,M.E,8.18,1
+2011S1633S,Computer Science and Information Systems,M.Sc,7.03,3
+2011A1634A,Chemical Engineering,B.E,8.17,1
+2011P1635P,Civil Engineering,B.Pharm,9.72,2
+2011A1636A,Mechanical Engineering,B.E,5.29,3
+2011A1637A,Mathematics,B.E,9.65,1
+2011P1638P,Electrical and Electronics Engineering,B.Pharm,8.39,2
+2011H1639H,Humanities and Social Sciences,M.E,7.49,1
+2011A1640A,Electrical and Electronics Engineering,B.E,5.07,2
+2011A1641A,Physics,B.E,5.04,4
+2011D1642D,Physics,Ph.D,7.67,3
+2011H1643H,Civil Engineering,M.E,9.97,1
+2011A1644A,Mechanical Engineering,B.E,7.24,2
+2011A1645A,Pharmacy,B.E,9.65,2
+2011H1646H,Chemisty,M.E,5.38,2
+2011D1647D,Mathematics,Ph.D,6.77,1
+2011A1648A,Electrical and Electronics Engineering,B.E,7.48,2
+2011H1649H,Economics and Finanace,M.E,9.85,3
+2011A1650A,Pharmacy,B.E,6.25,1
+2011A1651A,Computer Science and Information Systems,B.E,6.5,3
+2011A1652A,Computer Science and Information Systems,B.E,6.07,4
+2011A1653A,Civil Engineering,B.E,9.62,1
+2011H1654H,Humanities and Social Sciences,M.E,9.46,4
+2011D1655D,Biological Sciences,Ph.D,6.78,4
+2011A1656A,Economics and Finanace,B.E,6.49,1
+2011H1657H,Biological Sciences,M.E,6.75,2
+2011P1658P,Electrical and Electronics Engineering,B.Pharm,6.77,1
+2011A1659A,Electrical and Electronics Engineering,B.E,7.46,1
+2011A1660A,Mathematics,B.E,7.57,2
+2011A1661A,Electrical and Electronics Engineering,B.E,5.62,4
+2011A1662A,Biological Sciences,B.E,5.78,3
+2011A1663A,Civil Engineering,B.E,7.35,3
+2011S1664S,Computer Science and Information Systems,M.Sc,6.82,2
+2011A1665A,Mathematics,B.E,9.06,1
+2011S1666S,Humanities and Social Sciences,M.Sc,8.28,4
+2011A1667A,Chemisty,B.E,5.7,4
+2011A1668A,Biological Sciences,B.E,6.8,2
+2011A1669A,Chemical Engineering,B.E,5.95,1
+2011A1670A,Chemisty,B.E,6.97,3
+2011A1671A,Biological Sciences,B.E,5.8,2
+2011D1672D,Humanities and Social Sciences,Ph.D,9.8,3
+2011A1673A,Chemical Engineering,B.E,7.11,4
+2011A1674A,Pharmacy,B.E,8.57,3
+2011A1675A,Electrical and Electronics Engineering,B.E,7.51,4
+2011H1676H,Chemisty,M.E,5.55,1
+2011A1677A,Biological Sciences,B.E,5.63,3
+2011A1678A,Mathematics,B.E,5.07,2
+2011A1679A,Biological Sciences,B.E,8.39,3
+2011A1680A,Electrical and Electronics Engineering,B.E,9.88,1
+2011A1681A,Electrical and Electronics Engineering,B.E,7.4,3
+2011A1682A,Humanities and Social Sciences,B.E,5.41,4
+2011S1683S,Civil Engineering,M.Sc,8.09,2
+2011A1684A,Civil Engineering,B.E,6.41,1
+2011D1685D,Computer Science and Information Systems,Ph.D,9.97,2
+2011A1686A,Pharmacy,B.E,9.1,2
+2011S1687S,Humanities and Social Sciences,M.Sc,8.53,1
+2011P1688P,Mechanical Engineering,B.Pharm,5.91,2
+2011H1689H,Civil Engineering,M.E,5.6,4
+2011D1690D,Biological Sciences,Ph.D,6.37,2
+2011H1691H,Chemisty,M.E,7.13,2
+2011A1692A,Chemical Engineering,B.E,9.32,4
+2011A1693A,Electrical and Electronics Engineering,B.E,7.62,2
+2011A1694A,Civil Engineering,B.E,6.68,4
+2011S1695S,Biological Sciences,M.Sc,7.55,1
+2011S1696S,Computer Science and Information Systems,M.Sc,5.55,3
+2011H1697H,Computer Science and Information Systems,M.E,9.71,4
+2011P1698P,Civil Engineering,B.Pharm,6.6,1
+2011A1699A,Chemisty,B.E,5.2,1
+2011A1700A,Pharmacy,B.E,8.72,2
+2011A1701A,Computer Science and Information Systems,B.E,7.36,1
+2011H1702H,Electrical and Electronics Engineering,M.E,5.92,4
+2011A1703A,Economics and Finanace,B.E,6.67,1
+2011A1704A,Chemical Engineering,B.E,8.34,2
+2011A1705A,Economics and Finanace,B.E,6.8,3
+2011A1706A,Physics,B.E,8.89,3
+2011H1707H,Civil Engineering,M.E,8.25,2
+2011A1708A,Mechanical Engineering,B.E,6.92,1
+2011P1709P,Chemisty,B.Pharm,8.15,1
+2011A1710A,Biological Sciences,B.E,7.93,2
+2011A1711A,Civil Engineering,B.E,8.52,1
+2011A1712A,Chemical Engineering,B.E,9.71,3
+2011A1713A,Computer Science and Information Systems,B.E,8.63,2
+2011A1714A,Mathematics,B.E,8.6,1
+2011A1715A,Chemisty,B.E,5.96,3
+2011A1716A,Mathematics,B.E,9.88,3
+2011S1717S,Humanities and Social Sciences,M.Sc,8.15,1
+2011A1718A,Electrical and Electronics Engineering,B.E,5.34,4
+2011A1719A,Mathematics,B.E,9.66,1
+2011A1720A,Chemisty,B.E,8.0,2
+2011A1721A,Computer Science and Information Systems,B.E,5.23,1
+2011H1722H,Physics,M.E,5.95,4
+2011A1723A,Humanities and Social Sciences,B.E,8.42,1
+2011A1724A,Chemisty,B.E,7.19,4
+2011H1725H,Mathematics,M.E,8.9,4
+2011A1726A,Mechanical Engineering,B.E,6.36,2
+2011A1727A,Biological Sciences,B.E,5.8,2
+2011A1728A,Mechanical Engineering,B.E,8.48,4
+2011A1729A,Mathematics,B.E,8.54,3
+2011A1730A,Computer Science and Information Systems,B.E,9.26,3
+2011A1731A,Physics,B.E,6.34,1
+2011P1732P,Chemisty,B.Pharm,6.12,2
+2011A1733A,Computer Science and Information Systems,B.E,5.2,2
+2011H1734H,Computer Science and Information Systems,M.E,9.64,3
+2011H1735H,Biological Sciences,M.E,8.21,2
+2011A1736A,Civil Engineering,B.E,7.67,1
+2011H1737H,Pharmacy,M.E,6.74,3
+2011H1738H,Economics and Finanace,M.E,5.42,3
+2011D1739D,Physics,Ph.D,5.67,3
+2011S1740S,Economics and Finanace,M.Sc,9.93,1
+2011P1741P,Economics and Finanace,B.Pharm,6.1,3
+2011P1742P,Chemisty,B.Pharm,6.28,1
+2011P1743P,Pharmacy,B.Pharm,9.89,1
+2011H1744H,Physics,M.E,8.73,4
+2011A1745A,Pharmacy,B.E,6.29,2
+2011P1746P,Humanities and Social Sciences,B.Pharm,6.1,3
+2011P1747P,Civil Engineering,B.Pharm,7.91,4
+2011H1748H,Chemisty,M.E,7.23,4
+2011H1749H,Economics and Finanace,M.E,5.74,4
+2011A1750A,Chemical Engineering,B.E,7.48,4
+2011P1751P,Chemisty,B.Pharm,9.08,2
+2011H1752H,Civil Engineering,M.E,7.85,2
+2011A1753A,Pharmacy,B.E,6.41,3
+2011A1754A,Chemisty,B.E,9.43,4
+2011A1755A,Pharmacy,B.E,8.04,1
+2011A1756A,Chemisty,B.E,5.36,2
+2011H1757H,Humanities and Social Sciences,M.E,9.55,4
+2011H1758H,Chemical Engineering,M.E,8.62,2
+2011A1759A,Physics,B.E,8.75,1
+2011P1760P,Mechanical Engineering,B.Pharm,5.5,4
+2011H1761H,Biological Sciences,M.E,5.55,1
+2011P1762P,Pharmacy,B.Pharm,9.67,2
+2011S1763S,Civil Engineering,M.Sc,8.85,3
+2011H1764H,Chemisty,M.E,9.69,1
+2011D1765D,Biological Sciences,Ph.D,9.79,1
+2011H1766H,Mathematics,M.E,8.68,3
+2011A1767A,Physics,B.E,5.42,2
+2011H1768H,Humanities and Social Sciences,M.E,8.8,4
+2011A1769A,Chemisty,B.E,6.54,4
+2011D1770D,Chemisty,Ph.D,6.22,3
+2011H1771H,Pharmacy,M.E,7.72,1
+2011A1772A,Biological Sciences,B.E,5.51,3
+2011A1773A,Chemical Engineering,B.E,7.56,4
+2011H1774H,Chemisty,M.E,5.01,2
+2011A1775A,Biological Sciences,B.E,6.13,4
+2011A1776A,Chemisty,B.E,6.77,3
+2011A1777A,Civil Engineering,B.E,9.61,4
+2011A1778A,Pharmacy,B.E,9.42,1
+2011A1779A,Humanities and Social Sciences,B.E,5.85,1
+2011H1780H,Civil Engineering,M.E,5.51,3
+2011P1781P,Economics and Finanace,B.Pharm,5.38,3
+2011A1782A,Chemical Engineering,B.E,6.8,1
+2011A1783A,Biological Sciences,B.E,8.02,2
+2011H1784H,Electrical and Electronics Engineering,M.E,7.65,2
+2011P1785P,Pharmacy,B.Pharm,7.13,3
+2011S1786S,Mechanical Engineering,M.Sc,9.09,3
+2011A1787A,Chemical Engineering,B.E,6.36,4
+2011A1788A,Pharmacy,B.E,6.85,3
+2011H1789H,Physics,M.E,8.99,1
+2011H1790H,Chemisty,M.E,8.89,2
+2011A1791A,Economics and Finanace,B.E,5.74,4
+2011A1792A,Physics,B.E,8.98,4
+2011A1793A,Chemical Engineering,B.E,5.57,4
+2011H1794H,Physics,M.E,6.39,1
+2011A1795A,Economics and Finanace,B.E,9.97,2
+2011H1796H,Electrical and Electronics Engineering,M.E,6.76,4
+2011A1797A,Electrical and Electronics Engineering,B.E,7.41,4
+2011A1798A,Mechanical Engineering,B.E,8.97,3
+2011S1799S,Chemisty,M.Sc,9.01,2
+2011D1800D,Electrical and Electronics Engineering,Ph.D,7.09,4
+2011H1801H,Mathematics,M.E,7.67,2
+2011S1802S,Electrical and Electronics Engineering,M.Sc,5.42,4
+2011D1803D,Mathematics,Ph.D,7.89,2
+2011P1804P,Chemical Engineering,B.Pharm,6.18,1
+2011P1805P,Civil Engineering,B.Pharm,9.97,1
+2011A1806A,Economics and Finanace,B.E,7.79,2
+2011H1807H,Chemical Engineering,M.E,5.3,3
+2011A1808A,Economics and Finanace,B.E,9.24,2
+2011A1809A,Computer Science and Information Systems,B.E,7.3,4
+2011P1810P,Civil Engineering,B.Pharm,6.05,2
+2011H1811H,Biological Sciences,M.E,8.73,1
+2011S1812S,Physics,M.Sc,8.52,4
+2011A1813A,Physics,B.E,5.13,4
+2011S1814S,Economics and Finanace,M.Sc,5.27,1
+2011H1815H,Pharmacy,M.E,7.91,4
+2011A1816A,Mechanical Engineering,B.E,9.35,1
+2011A1817A,Chemisty,B.E,6.83,1
+2011H1818H,Civil Engineering,M.E,5.39,4
+2011A1819A,Chemisty,B.E,8.83,4
+2011S1820S,Physics,M.Sc,5.7,3
+2011A1821A,Humanities and Social Sciences,B.E,7.06,3
+2011H1822H,Humanities and Social Sciences,M.E,8.91,1
+2011S1823S,Computer Science and Information Systems,M.Sc,5.56,1
+2011A1824A,Pharmacy,B.E,5.16,2
+2011A1825A,Mathematics,B.E,5.8,4
+2011H1826H,Electrical and Electronics Engineering,M.E,8.4,4
+2011A1827A,Mathematics,B.E,8.56,3
+2011H1828H,Mechanical Engineering,M.E,7.51,2
+2011A1829A,Electrical and Electronics Engineering,B.E,9.66,3
+2011S1830S,Chemical Engineering,M.Sc,7.61,2
+2011S1831S,Physics,M.Sc,6.06,1
+2011A1832A,Civil Engineering,B.E,6.96,1
+2011A1833A,Physics,B.E,7.34,3
+2011A1834A,Pharmacy,B.E,8.21,4
+2011D1835D,Chemisty,Ph.D,5.27,3
+2011D1836D,Pharmacy,Ph.D,7.12,3
+2011A1837A,Chemical Engineering,B.E,5.52,3
+2011A1838A,Mechanical Engineering,B.E,8.89,3
+2011A1839A,Biological Sciences,B.E,6.2,2
+2011H1840H,Mathematics,M.E,5.53,2
+2011A1841A,Mechanical Engineering,B.E,5.05,3
+2011A1842A,Civil Engineering,B.E,7.76,1
+2011A1843A,Civil Engineering,B.E,6.35,1
+2011A1844A,Mechanical Engineering,B.E,9.93,4
+2011A1845A,Biological Sciences,B.E,5.24,1
+2011A1846A,Computer Science and Information Systems,B.E,5.04,3
+2011P1847P,Computer Science and Information Systems,B.Pharm,9.79,2
+2011P1848P,Economics and Finanace,B.Pharm,8.76,3
+2011P1849P,Chemisty,B.Pharm,8.51,1
+2011P1850P,Economics and Finanace,B.Pharm,7.04,1
+2011A1851A,Mathematics,B.E,9.04,2
+2011H1852H,Biological Sciences,M.E,7.94,4
+2011H1853H,Humanities and Social Sciences,M.E,7.93,1
+2011A1854A,Computer Science and Information Systems,B.E,5.81,4
+2011P1855P,Chemical Engineering,B.Pharm,9.43,1
+2011A1856A,Physics,B.E,6.16,2
+2011A1857A,Pharmacy,B.E,8.27,2
+2011A1858A,Mathematics,B.E,7.58,3
+2011A1859A,Humanities and Social Sciences,B.E,8.93,3
+2011H1860H,Computer Science and Information Systems,M.E,6.8,4
+2011P1861P,Biological Sciences,B.Pharm,9.45,4
+2011P1862P,Civil Engineering,B.Pharm,6.04,1
+2011A1863A,Chemisty,B.E,7.83,4
+2011A1864A,Chemical Engineering,B.E,9.02,2
+2011A1865A,Computer Science and Information Systems,B.E,7.74,1
+2011P1866P,Humanities and Social Sciences,B.Pharm,5.47,3
+2011P1867P,Chemisty,B.Pharm,9.67,2
+2011A1868A,Chemical Engineering,B.E,6.4,3
+2011P1869P,Economics and Finanace,B.Pharm,5.45,2
+2011D1870D,Physics,Ph.D,8.86,3
+2011P1871P,Humanities and Social Sciences,B.Pharm,9.89,4
+2011A1872A,Pharmacy,B.E,9.62,1
+2011D1873D,Mechanical Engineering,Ph.D,7.44,3
+2011A1874A,Computer Science and Information Systems,B.E,7.0,2
+2011A1875A,Humanities and Social Sciences,B.E,6.83,3
+2011A1876A,Economics and Finanace,B.E,5.42,4
+2011A1877A,Mathematics,B.E,7.25,1
+2011A1878A,Mechanical Engineering,B.E,9.89,1
+2011D1879D,Physics,Ph.D,8.95,1
+2011D1880D,Chemisty,Ph.D,9.27,3
+2011A1881A,Electrical and Electronics Engineering,B.E,5.79,4
+2011P1882P,Chemical Engineering,B.Pharm,6.12,4
+2011H1883H,Pharmacy,M.E,5.47,4
+2011A1884A,Humanities and Social Sciences,B.E,8.21,4
+2011P1885P,Chemical Engineering,B.Pharm,5.43,1
+2011S1886S,Electrical and Electronics Engineering,M.Sc,8.84,2
+2011P1887P,Electrical and Electronics Engineering,B.Pharm,6.64,3
+2011A1888A,Economics and Finanace,B.E,9.98,4
+2011S1889S,Civil Engineering,M.Sc,8.51,4
+2011P1890P,Chemical Engineering,B.Pharm,6.39,1
+2011A1891A,Mathematics,B.E,5.78,4
+2011A1892A,Chemisty,B.E,8.2,3
+2011A1893A,Mechanical Engineering,B.E,5.16,4
+2011A1894A,Biological Sciences,B.E,9.68,3
+2011A1895A,Electrical and Electronics Engineering,B.E,9.89,2
+2011A1896A,Biological Sciences,B.E,6.06,1
+2011A1897A,Pharmacy,B.E,7.11,3
+2011P1898P,Pharmacy,B.Pharm,5.88,2
+2011A1899A,Chemical Engineering,B.E,6.37,1
+2011A1900A,Computer Science and Information Systems,B.E,9.37,4
+2011S1901S,Electrical and Electronics Engineering,M.Sc,7.62,3
+2011S1902S,Chemisty,M.Sc,9.15,1
+2011A1903A,Electrical and Electronics Engineering,B.E,6.71,3
+2011H1904H,Chemisty,M.E,5.99,4
+2011A1905A,Humanities and Social Sciences,B.E,7.38,2
+2011P1906P,Electrical and Electronics Engineering,B.Pharm,6.77,4
+2011H1907H,Biological Sciences,M.E,7.8,2
+2011A1908A,Chemical Engineering,B.E,8.61,2
+2011A1909A,Economics and Finanace,B.E,8.32,3
+2011A1910A,Biological Sciences,B.E,5.75,4
+2011A1911A,Chemisty,B.E,7.5,3
+2011A1912A,Chemical Engineering,B.E,8.96,4
+2011A1913A,Computer Science and Information Systems,B.E,7.6,1
+2011A1914A,Humanities and Social Sciences,B.E,9.72,2
+2011H1915H,Pharmacy,M.E,7.25,1
+2011A1916A,Biological Sciences,B.E,6.09,2
+2011A1917A,Electrical and Electronics Engineering,B.E,8.48,2
+2011D1918D,Mechanical Engineering,Ph.D,6.89,3
+2011S1919S,Civil Engineering,M.Sc,9.76,1
+2011S1920S,Economics and Finanace,M.Sc,9.07,1
+2011H1921H,Computer Science and Information Systems,M.E,9.48,1
+2011A1922A,Physics,B.E,7.5,4
+2011A1923A,Electrical and Electronics Engineering,B.E,7.05,3
+2011A1924A,Mathematics,B.E,7.13,3
+2011A1925A,Chemical Engineering,B.E,9.63,4
+2011A1926A,Electrical and Electronics Engineering,B.E,6.87,2
+2011A1927A,Mathematics,B.E,7.18,3
+2011P1928P,Pharmacy,B.Pharm,8.44,4
+2011A1929A,Pharmacy,B.E,6.42,1
+2011D1930D,Chemical Engineering,Ph.D,9.03,1
+2011A1931A,Chemical Engineering,B.E,8.25,4
+2011A1932A,Chemical Engineering,B.E,7.48,1
+2011H1933H,Pharmacy,M.E,7.22,1
+2011A1934A,Pharmacy,B.E,6.45,4
+2011A1935A,Civil Engineering,B.E,6.11,4
+2011P1936P,Electrical and Electronics Engineering,B.Pharm,5.57,4
+2011A1937A,Chemical Engineering,B.E,6.75,4
+2011D1938D,Electrical and Electronics Engineering,Ph.D,9.54,4
+2011S1939S,Biological Sciences,M.Sc,9.7,2
+2011H1940H,Mathematics,M.E,6.42,3
+2011H1941H,Computer Science and Information Systems,M.E,9.19,4
+2011D1942D,Pharmacy,Ph.D,6.21,4
+2011P1943P,Biological Sciences,B.Pharm,5.08,2
+2011A1944A,Economics and Finanace,B.E,9.2,3
+2011H1945H,Economics and Finanace,M.E,5.85,4
+2011H1946H,Civil Engineering,M.E,7.78,4
+2011H1947H,Civil Engineering,M.E,8.08,4
+2011A1948A,Biological Sciences,B.E,9.01,4
+2011H1949H,Chemisty,M.E,9.7,4
+2011H1950H,Physics,M.E,5.87,3
+2011A1951A,Mathematics,B.E,5.79,2
+2011A1952A,Chemical Engineering,B.E,8.55,2
+2011A1953A,Mathematics,B.E,5.59,4
+2011A1954A,Pharmacy,B.E,9.58,2
+2011H1955H,Economics and Finanace,M.E,6.02,1
+2011A1956A,Biological Sciences,B.E,7.19,2
+2011A1957A,Biological Sciences,B.E,8.09,1
+2011A1958A,Mechanical Engineering,B.E,6.91,2
+2011S1959S,Humanities and Social Sciences,M.Sc,8.17,3
+2011A1960A,Chemisty,B.E,6.2,2
+2011H1961H,Computer Science and Information Systems,M.E,5.97,2
+2011A1962A,Physics,B.E,8.9,4
+2011D1963D,Computer Science and Information Systems,Ph.D,8.3,3
+2011A1964A,Chemical Engineering,B.E,9.67,1
+2011S1965S,Pharmacy,M.Sc,9.92,1
+2011A1966A,Chemical Engineering,B.E,7.3,1
+2011A1967A,Chemical Engineering,B.E,5.71,3
+2011A1968A,Chemisty,B.E,5.46,4
+2011S1969S,Economics and Finanace,M.Sc,9.56,2
+2011H1970H,Electrical and Electronics Engineering,M.E,5.5,1
+2011A1971A,Electrical and Electronics Engineering,B.E,5.37,1
+2011H1972H,Civil Engineering,M.E,8.44,4
+2011A1973A,Economics and Finanace,B.E,8.17,4
+2011A1974A,Chemisty,B.E,5.9,1
+2011A1975A,Chemisty,B.E,8.3,1
+2011A1976A,Chemical Engineering,B.E,9.88,3
+2011A1977A,Humanities and Social Sciences,B.E,9.97,1
+2011P1978P,Chemisty,B.Pharm,7.61,3
+2011S1979S,Chemical Engineering,M.Sc,5.96,1
+2011P1980P,Biological Sciences,B.Pharm,7.59,2
+2011D1981D,Civil Engineering,Ph.D,9.33,1
+2011S1982S,Civil Engineering,M.Sc,5.15,2
+2011H1983H,Civil Engineering,M.E,5.42,2
+2011S1984S,Computer Science and Information Systems,M.Sc,6.37,2
+2011A1985A,Chemical Engineering,B.E,6.74,3
+2011A1986A,Humanities and Social Sciences,B.E,8.73,4
+2011P1987P,Electrical and Electronics Engineering,B.Pharm,7.56,4
+2011D1988D,Civil Engineering,Ph.D,6.25,2
+2011A1989A,Pharmacy,B.E,9.23,3
+2011D1990D,Electrical and Electronics Engineering,Ph.D,5.51,3
+2011A1991A,Chemisty,B.E,8.97,4
+2011A1992A,Electrical and Electronics Engineering,B.E,9.41,4
+2011H1993H,Mechanical Engineering,M.E,8.74,3
+2011A1994A,Mechanical Engineering,B.E,5.54,4
+2011P1995P,Electrical and Electronics Engineering,B.Pharm,6.0,3
+2011A1996A,Economics and Finanace,B.E,9.49,1
+2011P1997P,Humanities and Social Sciences,B.Pharm,5.84,1
+2011P1998P,Computer Science and Information Systems,B.Pharm,7.93,3
+2011P1999P,Mechanical Engineering,B.Pharm,9.13,3
+2011A2000A,Electrical and Electronics Engineering,B.E,5.15,2
+2011A2001A,Economics and Finanace,B.E,7.15,2
+2011A2002A,Economics and Finanace,B.E,6.23,2
+2011A2003A,Pharmacy,B.E,6.86,2
+2011A2004A,Economics and Finanace,B.E,5.61,3
+2011S2005S,Physics,M.Sc,5.05,3
+2011A2006A,Civil Engineering,B.E,7.33,3
+2011P2007P,Civil Engineering,B.Pharm,7.81,4
+2011A2008A,Computer Science and Information Systems,B.E,8.01,2
+2011S2009S,Chemical Engineering,M.Sc,7.8,1
+2011P2010P,Mechanical Engineering,B.Pharm,9.46,4
+2011A2011A,Pharmacy,B.E,8.78,3
+2011H2012H,Economics and Finanace,M.E,5.99,1
+2011S2013S,Humanities and Social Sciences,M.Sc,7.49,3
+2011A2014A,Electrical and Electronics Engineering,B.E,5.6,4
+2011D2015D,Chemisty,Ph.D,8.01,4
+2011A2016A,Civil Engineering,B.E,7.88,3
+2011H2017H,Biological Sciences,M.E,8.22,1
+2011H2018H,Humanities and Social Sciences,M.E,6.42,4
+2011A2019A,Biological Sciences,B.E,9.48,1
+2011A2020A,Economics and Finanace,B.E,8.22,1
+2011A2021A,Humanities and Social Sciences,B.E,5.48,4
+2011H2022H,Physics,M.E,6.5,3
+2011D2023D,Economics and Finanace,Ph.D,7.0,3
+2011A2024A,Humanities and Social Sciences,B.E,8.06,4
+2011A2025A,Computer Science and Information Systems,B.E,8.48,4
+2011P2026P,Humanities and Social Sciences,B.Pharm,9.24,1
+2011P2027P,Economics and Finanace,B.Pharm,9.69,1
+2011A2028A,Biological Sciences,B.E,6.12,1
+2011A2029A,Chemisty,B.E,5.53,3
+2011A2030A,Physics,B.E,8.62,2
+2011A2031A,Chemisty,B.E,5.44,3
+2011A2032A,Mathematics,B.E,9.95,1
+2011A2033A,Computer Science and Information Systems,B.E,9.42,1
+2011A2034A,Chemical Engineering,B.E,5.24,3
+2011P2035P,Chemical Engineering,B.Pharm,6.32,4
+2011A2036A,Computer Science and Information Systems,B.E,8.49,2
+2011S2037S,Mechanical Engineering,M.Sc,7.3,2
+2011H2038H,Economics and Finanace,M.E,9.31,4
+2011A2039A,Pharmacy,B.E,7.23,1
+2011S2040S,Mathematics,M.Sc,7.64,4
+2011A2041A,Pharmacy,B.E,7.45,3
+2011H2042H,Economics and Finanace,M.E,8.86,4
+2011A2043A,Civil Engineering,B.E,5.46,3
+2011P2044P,Chemical Engineering,B.Pharm,6.77,2
+2011S2045S,Pharmacy,M.Sc,8.24,2
+2011A2046A,Physics,B.E,5.39,4
+2011S2047S,Biological Sciences,M.Sc,6.06,2
+2011A2048A,Humanities and Social Sciences,B.E,9.09,2
+2011A2049A,Humanities and Social Sciences,B.E,5.52,2
+2011A2050A,Mechanical Engineering,B.E,8.81,3
+2011A2051A,Computer Science and Information Systems,B.E,8.54,2
+2011H2052H,Mathematics,M.E,5.53,2
+2011P2053P,Civil Engineering,B.Pharm,9.58,4
+2011S2054S,Humanities and Social Sciences,M.Sc,9.34,2
+2011P2055P,Electrical and Electronics Engineering,B.Pharm,5.94,3
+2011S2056S,Electrical and Electronics Engineering,M.Sc,5.82,3
+2011A2057A,Mechanical Engineering,B.E,8.24,2
+2011S2058S,Humanities and Social Sciences,M.Sc,9.38,1
+2011H2059H,Civil Engineering,M.E,5.08,4
+2011A2060A,Chemisty,B.E,6.33,4
+2011A2061A,Pharmacy,B.E,7.65,3
+2011P2062P,Computer Science and Information Systems,B.Pharm,5.59,1
+2011A2063A,Economics and Finanace,B.E,7.16,2
+2011A2064A,Electrical and Electronics Engineering,B.E,7.51,3
+2011S2065S,Biological Sciences,M.Sc,7.21,3
+2011A2066A,Chemical Engineering,B.E,5.25,4
+2011A2067A,Physics,B.E,9.64,2
+2011D2068D,Computer Science and Information Systems,Ph.D,5.95,2
+2011A2069A,Mechanical Engineering,B.E,6.38,4
+2011A2070A,Mathematics,B.E,7.17,1
+2011P2071P,Pharmacy,B.Pharm,6.24,1
+2011A2072A,Civil Engineering,B.E,5.58,1
+2011S2073S,Mechanical Engineering,M.Sc,6.33,1
+2011A2074A,Mathematics,B.E,5.51,2
+2011A2075A,Mechanical Engineering,B.E,8.5,4
+2011A2076A,Electrical and Electronics Engineering,B.E,6.96,2
+2011A2077A,Physics,B.E,9.12,3
+2011A2078A,Humanities and Social Sciences,B.E,6.03,2
+2011A2079A,Economics and Finanace,B.E,8.18,3
+2011A2080A,Physics,B.E,5.02,2
+2011P2081P,Mechanical Engineering,B.Pharm,7.38,3
+2011A2082A,Physics,B.E,6.19,3
+2011A2083A,Pharmacy,B.E,5.35,2
+2011D2084D,Economics and Finanace,Ph.D,9.5,2
+2011H2085H,Biological Sciences,M.E,8.33,4
+2011A2086A,Economics and Finanace,B.E,5.1,3
+2011A2087A,Chemical Engineering,B.E,5.85,1
+2011H2088H,Mechanical Engineering,M.E,6.76,4
+2011H2089H,Mechanical Engineering,M.E,5.01,2
+2011A2090A,Humanities and Social Sciences,B.E,5.55,1
+2011H2091H,Mechanical Engineering,M.E,8.4,3
+2011A2092A,Civil Engineering,B.E,7.63,2
+2011A2093A,Chemisty,B.E,8.88,1
+2011H2094H,Computer Science and Information Systems,M.E,9.02,3
+2011A2095A,Humanities and Social Sciences,B.E,7.45,3
+2011P2096P,Computer Science and Information Systems,B.Pharm,8.32,3
+2011D2097D,Economics and Finanace,Ph.D,7.29,3
+2011H2098H,Computer Science and Information Systems,M.E,8.55,4
+2011A2099A,Chemical Engineering,B.E,6.35,1
+2011A2100A,Chemisty,B.E,9.89,2
+2011A2101A,Pharmacy,B.E,9.97,3
+2011A2102A,Humanities and Social Sciences,B.E,5.15,4
+2011A2103A,Economics and Finanace,B.E,6.03,1
+2011D2104D,Civil Engineering,Ph.D,9.6,4
+2011A2105A,Pharmacy,B.E,5.54,3
+2011A2106A,Pharmacy,B.E,8.39,4
+2011S2107S,Mathematics,M.Sc,5.87,3
+2011H2108H,Economics and Finanace,M.E,6.96,4
+2011H2109H,Computer Science and Information Systems,M.E,6.55,1
+2011S2110S,Mechanical Engineering,M.Sc,7.6,3
+2011A2111A,Mechanical Engineering,B.E,5.61,4
+2011A2112A,Mechanical Engineering,B.E,9.84,3
+2011P2113P,Computer Science and Information Systems,B.Pharm,5.55,1
+2011A2114A,Humanities and Social Sciences,B.E,9.64,2
+2011A2115A,Humanities and Social Sciences,B.E,8.4,3
+2011A2116A,Mechanical Engineering,B.E,7.79,2
+2011H2117H,Computer Science and Information Systems,M.E,7.43,1
+2011A2118A,Computer Science and Information Systems,B.E,5.08,1
+2011A2119A,Civil Engineering,B.E,6.42,1
+2011A2120A,Biological Sciences,B.E,7.44,1
+2011H2121H,Electrical and Electronics Engineering,M.E,6.76,1
+2011P2122P,Biological Sciences,B.Pharm,6.26,3
+2011H2123H,Computer Science and Information Systems,M.E,8.93,2
+2011A2124A,Chemical Engineering,B.E,8.57,2
+2011A2125A,Physics,B.E,5.98,1
+2011H2126H,Computer Science and Information Systems,M.E,6.09,4
+2011P2127P,Economics and Finanace,B.Pharm,6.24,4
+2011D2128D,Electrical and Electronics Engineering,Ph.D,7.0,1
+2011S2129S,Computer Science and Information Systems,M.Sc,9.6,3
+2011P2130P,Chemisty,B.Pharm,7.82,3
+2011H2131H,Mechanical Engineering,M.E,5.7,2
+2011A2132A,Computer Science and Information Systems,B.E,5.68,2
+2011P2133P,Computer Science and Information Systems,B.Pharm,6.52,3
+2011A2134A,Mechanical Engineering,B.E,9.64,4
+2011A2135A,Mathematics,B.E,5.92,4
+2011A2136A,Chemical Engineering,B.E,5.69,4
+2011A2137A,Physics,B.E,6.57,3
+2011A2138A,Humanities and Social Sciences,B.E,6.77,4
+2011A2139A,Electrical and Electronics Engineering,B.E,9.81,4
+2011A2140A,Biological Sciences,B.E,9.56,1
+2011A2141A,Electrical and Electronics Engineering,B.E,5.44,2
+2011A2142A,Mechanical Engineering,B.E,9.53,2
+2011A2143A,Mechanical Engineering,B.E,7.56,2
+2011A2144A,Mechanical Engineering,B.E,7.72,3
+2011D2145D,Biological Sciences,Ph.D,8.78,4
+2011A2146A,Chemisty,B.E,7.01,1
+2011A2147A,Humanities and Social Sciences,B.E,9.04,4
+2011A2148A,Biological Sciences,B.E,5.42,3
+2011D2149D,Pharmacy,Ph.D,5.54,1
+2011A2150A,Computer Science and Information Systems,B.E,7.83,3
+2011A2151A,Biological Sciences,B.E,5.61,1
+2011A2152A,Physics,B.E,6.03,2
+2011A2153A,Mathematics,B.E,8.7,4
+2011P2154P,Chemisty,B.Pharm,6.12,2
+2011A2155A,Computer Science and Information Systems,B.E,8.14,1
+2011H2156H,Humanities and Social Sciences,M.E,8.12,2
+2011A2157A,Chemical Engineering,B.E,5.34,2
+2011H2158H,Mechanical Engineering,M.E,9.4,1
+2011A2159A,Civil Engineering,B.E,6.02,4
+2011P2160P,Biological Sciences,B.Pharm,9.16,4
+2011H2161H,Electrical and Electronics Engineering,M.E,5.28,1
+2011A2162A,Computer Science and Information Systems,B.E,7.02,2
+2011H2163H,Civil Engineering,M.E,9.21,3
+2011A2164A,Mechanical Engineering,B.E,8.41,1
+2011H2165H,Electrical and Electronics Engineering,M.E,5.73,1
+2011A2166A,Chemisty,B.E,5.71,2
+2011A2167A,Chemisty,B.E,7.56,2
+2011A2168A,Humanities and Social Sciences,B.E,7.4,3
+2011P2169P,Pharmacy,B.Pharm,5.5,4
+2011P2170P,Economics and Finanace,B.Pharm,8.34,4
+2011A2171A,Electrical and Electronics Engineering,B.E,8.49,1
+2011A2172A,Humanities and Social Sciences,B.E,7.08,4
+2011A2173A,Chemisty,B.E,5.14,4
+2011A2174A,Chemical Engineering,B.E,7.82,1
+2011A2175A,Mechanical Engineering,B.E,6.51,4
+2011D2176D,Biological Sciences,Ph.D,9.54,3
+2011P2177P,Chemisty,B.Pharm,7.34,4
+2011A2178A,Computer Science and Information Systems,B.E,5.05,2
+2011H2179H,Economics and Finanace,M.E,7.5,2
+2011A2180A,Economics and Finanace,B.E,9.51,4
+2011A2181A,Mathematics,B.E,5.31,2
+2011P2182P,Economics and Finanace,B.Pharm,8.28,3
+2011S2183S,Humanities and Social Sciences,M.Sc,8.58,2
+2011A2184A,Computer Science and Information Systems,B.E,8.92,3
+2011P2185P,Electrical and Electronics Engineering,B.Pharm,5.34,4
+2011A2186A,Electrical and Electronics Engineering,B.E,9.81,2
+2011A2187A,Mechanical Engineering,B.E,8.54,3
+2011D2188D,Chemisty,Ph.D,8.49,3
+2011A2189A,Mechanical Engineering,B.E,8.09,4
+2011P2190P,Chemical Engineering,B.Pharm,5.22,2
+2011A2191A,Civil Engineering,B.E,5.48,1
+2011A2192A,Humanities and Social Sciences,B.E,9.67,4
+2011A2193A,Economics and Finanace,B.E,8.8,2
+2011A2194A,Chemical Engineering,B.E,9.5,2
+2011A2195A,Physics,B.E,9.46,4
+2011A2196A,Chemical Engineering,B.E,5.31,3
+2011A2197A,Chemical Engineering,B.E,5.19,1
+2011A2198A,Humanities and Social Sciences,B.E,8.82,1
+2011H2199H,Chemisty,M.E,6.61,4
+2011H2200H,Electrical and Electronics Engineering,M.E,5.67,2
+2011A2201A,Civil Engineering,B.E,6.26,4
+2011P2202P,Pharmacy,B.Pharm,6.43,2
+2011P2203P,Chemisty,B.Pharm,7.17,2
+2011S2204S,Chemical Engineering,M.Sc,7.91,1
+2011A2205A,Civil Engineering,B.E,5.17,2
+2011D2206D,Biological Sciences,Ph.D,6.8,4
+2011A2207A,Mechanical Engineering,B.E,7.73,1
+2011A2208A,Economics and Finanace,B.E,5.93,4
+2011S2209S,Civil Engineering,M.Sc,9.16,4
+2011A2210A,Mathematics,B.E,6.76,2
+2011A2211A,Chemical Engineering,B.E,7.19,4
+2011A2212A,Chemical Engineering,B.E,7.85,2
+2011A2213A,Mathematics,B.E,6.49,1
+2011A2214A,Humanities and Social Sciences,B.E,6.15,3
+2011A2215A,Biological Sciences,B.E,6.12,3
+2011A2216A,Computer Science and Information Systems,B.E,6.95,3
+2011S2217S,Chemical Engineering,M.Sc,9.36,2
+2011S2218S,Computer Science and Information Systems,M.Sc,5.37,2
+2011A2219A,Mathematics,B.E,9.66,3
+2011A2220A,Electrical and Electronics Engineering,B.E,8.09,1
+2011A2221A,Mechanical Engineering,B.E,7.35,3
+2011A2222A,Pharmacy,B.E,5.15,3
+2011A2223A,Electrical and Electronics Engineering,B.E,6.3,3
+2011A2224A,Biological Sciences,B.E,5.7,3
+2011A2225A,Pharmacy,B.E,9.56,1
+2011A2226A,Civil Engineering,B.E,7.47,1
+2011A2227A,Economics and Finanace,B.E,9.91,4
+2011A2228A,Mechanical Engineering,B.E,8.7,1
+2011P2229P,Humanities and Social Sciences,B.Pharm,9.73,3
+2011S2230S,Physics,M.Sc,5.21,1
+2011A2231A,Humanities and Social Sciences,B.E,7.54,3
+2011A2232A,Electrical and Electronics Engineering,B.E,7.39,2
+2011P2233P,Biological Sciences,B.Pharm,9.66,1
+2011A2234A,Civil Engineering,B.E,7.67,4
+2011A2235A,Pharmacy,B.E,8.42,1
+2011A2236A,Mathematics,B.E,7.41,4
+2011A2237A,Electrical and Electronics Engineering,B.E,8.48,4
+2011A2238A,Physics,B.E,7.13,2
+2011A2239A,Chemical Engineering,B.E,7.19,3
+2011A2240A,Economics and Finanace,B.E,5.97,4
+2011A2241A,Biological Sciences,B.E,6.19,1
+2011S2242S,Mechanical Engineering,M.Sc,5.05,4
+2011H2243H,Physics,M.E,8.76,1
+2011A2244A,Biological Sciences,B.E,9.37,2
+2011A2245A,Biological Sciences,B.E,5.38,2
+2011P2246P,Humanities and Social Sciences,B.Pharm,5.9,1
+2011H2247H,Economics and Finanace,M.E,6.75,2
+2011A2248A,Computer Science and Information Systems,B.E,5.65,4
+2011H2249H,Humanities and Social Sciences,M.E,8.29,1
+2011P2250P,Chemical Engineering,B.Pharm,6.25,2
+2011H2251H,Humanities and Social Sciences,M.E,8.53,3
+2011H2252H,Civil Engineering,M.E,7.22,3
+2011A2253A,Economics and Finanace,B.E,8.9,3
+2011A2254A,Pharmacy,B.E,6.22,3
+2011H2255H,Economics and Finanace,M.E,8.49,1
+2011A2256A,Biological Sciences,B.E,6.73,4
+2011A2257A,Physics,B.E,9.75,4
+2011A2258A,Computer Science and Information Systems,B.E,5.39,2
+2011S2259S,Mathematics,M.Sc,6.15,2
+2011P2260P,Chemical Engineering,B.Pharm,6.86,2
+2011A2261A,Biological Sciences,B.E,9.89,4
+2011H2262H,Pharmacy,M.E,8.82,1
+2011H2263H,Biological Sciences,M.E,7.49,1
+2011A2264A,Computer Science and Information Systems,B.E,6.39,4
+2011P2265P,Computer Science and Information Systems,B.Pharm,9.14,1
+2011H2266H,Biological Sciences,M.E,6.4,4
+2011H2267H,Humanities and Social Sciences,M.E,5.09,4
+2011S2268S,Electrical and Electronics Engineering,M.Sc,7.22,2
+2011P2269P,Civil Engineering,B.Pharm,6.9,4
+2011H2270H,Mathematics,M.E,5.26,3
+2011A2271A,Biological Sciences,B.E,7.71,3
+2011S2272S,Biological Sciences,M.Sc,9.55,3
+2011H2273H,Computer Science and Information Systems,M.E,9.05,2
+2011S2274S,Biological Sciences,M.Sc,6.7,4
+2011A2275A,Electrical and Electronics Engineering,B.E,8.91,1
+2011A2276A,Chemical Engineering,B.E,7.77,3
+2011A2277A,Mathematics,B.E,7.32,3
+2011S2278S,Chemisty,M.Sc,9.8,4
+2011A2279A,Physics,B.E,9.96,2
+2011A2280A,Chemisty,B.E,9.54,3
+2011D2281D,Pharmacy,Ph.D,9.75,1
+2011P2282P,Civil Engineering,B.Pharm,8.86,3
+2011A2283A,Economics and Finanace,B.E,7.86,1
+2011A2284A,Mechanical Engineering,B.E,6.37,3
+2011H2285H,Pharmacy,M.E,6.25,1
+2011S2286S,Chemical Engineering,M.Sc,6.53,3
+2011A2287A,Computer Science and Information Systems,B.E,9.24,4
+2011H2288H,Humanities and Social Sciences,M.E,5.09,1
+2011A2289A,Humanities and Social Sciences,B.E,5.19,3
+2011A2290A,Humanities and Social Sciences,B.E,8.19,2
+2011H2291H,Electrical and Electronics Engineering,M.E,5.29,1
+2011A2292A,Computer Science and Information Systems,B.E,9.49,3
+2011A2293A,Chemical Engineering,B.E,7.2,3
+2011H2294H,Computer Science and Information Systems,M.E,6.3,4
+2011A2295A,Chemisty,B.E,6.14,2
+2011P2296P,Chemisty,B.Pharm,9.36,1
+2011S2297S,Civil Engineering,M.Sc,5.57,1
+2011A2298A,Chemisty,B.E,8.42,4
+2011H2299H,Mechanical Engineering,M.E,6.59,2
+2011A2300A,Biological Sciences,B.E,9.76,3
+2011A2301A,Computer Science and Information Systems,B.E,5.08,3
+2011A2302A,Mathematics,B.E,8.59,2
+2011A2303A,Economics and Finanace,B.E,5.55,4
+2011H2304H,Chemical Engineering,M.E,7.56,2
+2011A2305A,Civil Engineering,B.E,6.63,3
+2011H2306H,Pharmacy,M.E,7.08,4
+2011A2307A,Computer Science and Information Systems,B.E,5.72,3
+2011A2308A,Mechanical Engineering,B.E,8.94,3
+2011H2309H,Electrical and Electronics Engineering,M.E,9.49,3
+2011H2310H,Humanities and Social Sciences,M.E,9.71,3
+2011A2311A,Mechanical Engineering,B.E,5.16,3
+2011S2312S,Biological Sciences,M.Sc,6.45,2
+2011A2313A,Mechanical Engineering,B.E,5.13,2
+2011P2314P,Economics and Finanace,B.Pharm,7.55,3
+2011P2315P,Civil Engineering,B.Pharm,6.89,1
+2011A2316A,Pharmacy,B.E,8.63,4
+2011A2317A,Pharmacy,B.E,5.39,1
+2011A2318A,Civil Engineering,B.E,7.83,4
+2011A2319A,Mathematics,B.E,8.67,1
+2011A2320A,Mechanical Engineering,B.E,7.36,4
+2011P2321P,Economics and Finanace,B.Pharm,6.35,3
+2011A2322A,Civil Engineering,B.E,6.64,3
+2011A2323A,Civil Engineering,B.E,7.28,1
+2011S2324S,Physics,M.Sc,6.21,4
+2011A2325A,Economics and Finanace,B.E,5.4,1
+2011A2326A,Economics and Finanace,B.E,8.27,2
+2011A2327A,Humanities and Social Sciences,B.E,8.93,2
+2011H2328H,Mechanical Engineering,M.E,9.14,2
+2011H2329H,Mathematics,M.E,6.22,4
+2011A2330A,Pharmacy,B.E,7.92,2
+2011A2331A,Mechanical Engineering,B.E,6.3,3
+2011A2332A,Economics and Finanace,B.E,6.57,1
+2011A2333A,Electrical and Electronics Engineering,B.E,7.11,2
+2011A2334A,Mechanical Engineering,B.E,7.47,2
+2011D2335D,Chemisty,Ph.D,9.38,1
+2011A2336A,Chemisty,B.E,5.6,3
+2011A2337A,Mathematics,B.E,8.56,4
+2011A2338A,Physics,B.E,5.5,1
+2011P2339P,Electrical and Electronics Engineering,B.Pharm,5.12,2
+2011A2340A,Chemical Engineering,B.E,5.66,4
+2011H2341H,Electrical and Electronics Engineering,M.E,6.77,4
+2011H2342H,Physics,M.E,7.78,3
+2011P2343P,Chemical Engineering,B.Pharm,6.68,3
+2011S2344S,Mechanical Engineering,M.Sc,8.04,1
+2011A2345A,Physics,B.E,5.23,3
+2011H2346H,Humanities and Social Sciences,M.E,9.55,4
+2011A2347A,Physics,B.E,9.17,3
+2011A2348A,Humanities and Social Sciences,B.E,8.5,2
+2011A2349A,Physics,B.E,8.83,1
+2011A2350A,Chemisty,B.E,9.48,3
+2011P2351P,Pharmacy,B.Pharm,8.25,4
+2011P2352P,Economics and Finanace,B.Pharm,7.19,3
+2011D2353D,Chemical Engineering,Ph.D,6.16,4
+2011D2354D,Economics and Finanace,Ph.D,5.24,4
+2011A2355A,Computer Science and Information Systems,B.E,6.61,3
+2011A2356A,Chemisty,B.E,9.77,1
+2011A2357A,Physics,B.E,9.41,2
+2011S2358S,Electrical and Electronics Engineering,M.Sc,7.6,3
+2011H2359H,Chemical Engineering,M.E,6.74,2
+2011A2360A,Chemical Engineering,B.E,6.44,4
+2011A2361A,Humanities and Social Sciences,B.E,6.12,2
+2011A2362A,Computer Science and Information Systems,B.E,9.7,3
+2011H2363H,Mechanical Engineering,M.E,8.77,2
+2011A2364A,Pharmacy,B.E,6.39,1
+2011A2365A,Civil Engineering,B.E,7.76,2
+2011P2366P,Biological Sciences,B.Pharm,7.99,1
+2011A2367A,Mathematics,B.E,7.69,2
+2011A2368A,Biological Sciences,B.E,7.44,1
+2011A2369A,Economics and Finanace,B.E,6.02,4
+2011A2370A,Physics,B.E,7.22,2
+2011A2371A,Humanities and Social Sciences,B.E,6.47,1
+2011A2372A,Physics,B.E,8.53,1
+2011A2373A,Humanities and Social Sciences,B.E,9.44,4
+2011A2374A,Computer Science and Information Systems,B.E,5.43,2
+2011D2375D,Computer Science and Information Systems,Ph.D,8.66,1
+2011A2376A,Economics and Finanace,B.E,9.02,2
+2011A2377A,Physics,B.E,5.37,2
+2011A2378A,Mathematics,B.E,6.68,4
+2011S2379S,Pharmacy,M.Sc,8.68,1
+2011P2380P,Economics and Finanace,B.Pharm,9.46,1
+2011S2381S,Electrical and Electronics Engineering,M.Sc,5.5,3
+2011H2382H,Civil Engineering,M.E,9.21,1
+2011H2383H,Pharmacy,M.E,8.14,2
+2011H2384H,Chemisty,M.E,7.93,2
+2011H2385H,Pharmacy,M.E,5.98,4
+2011H2386H,Chemisty,M.E,7.42,2
+2011H2387H,Physics,M.E,7.48,2
+2011A2388A,Civil Engineering,B.E,8.17,1
+2011A2389A,Mathematics,B.E,9.29,2
+2011A2390A,Biological Sciences,B.E,7.17,4
+2011A2391A,Mathematics,B.E,8.06,2
+2011A2392A,Biological Sciences,B.E,7.09,3
+2011A2393A,Mechanical Engineering,B.E,6.9,2
+2011A2394A,Pharmacy,B.E,6.74,2
+2011D2395D,Computer Science and Information Systems,Ph.D,9.2,3
+2011A2396A,Pharmacy,B.E,7.43,4
+2011S2397S,Mechanical Engineering,M.Sc,6.79,4
+2011A2398A,Computer Science and Information Systems,B.E,5.48,1
+2011D2399D,Computer Science and Information Systems,Ph.D,7.1,4
+2011A2400A,Economics and Finanace,B.E,6.24,4
+2011A2401A,Chemical Engineering,B.E,5.88,3
+2011A2402A,Pharmacy,B.E,5.57,4
+2011A2403A,Physics,B.E,5.64,4
+2011A2404A,Humanities and Social Sciences,B.E,8.01,2
+2011A2405A,Biological Sciences,B.E,6.45,2
+2011P2406P,Electrical and Electronics Engineering,B.Pharm,5.3,3
+2011A2407A,Computer Science and Information Systems,B.E,8.37,4
+2011P2408P,Electrical and Electronics Engineering,B.Pharm,9.05,4
+2011S2409S,Electrical and Electronics Engineering,M.Sc,6.3,1
+2011P2410P,Computer Science and Information Systems,B.Pharm,7.43,2
+2011A2411A,Economics and Finanace,B.E,8.18,1
+2011A2412A,Computer Science and Information Systems,B.E,7.24,2
+2011H2413H,Mechanical Engineering,M.E,9.38,2
+2011A2414A,Pharmacy,B.E,5.55,3
+2011H2415H,Chemisty,M.E,8.02,1
+2011P2416P,Biological Sciences,B.Pharm,9.01,1
+2011A2417A,Physics,B.E,6.67,3
+2011A2418A,Mathematics,B.E,5.32,1
+2011A2419A,Mathematics,B.E,6.05,2
+2011A2420A,Chemisty,B.E,9.19,4
+2011A2421A,Physics,B.E,6.15,2
+2011A2422A,Economics and Finanace,B.E,6.66,2
+2011A2423A,Mathematics,B.E,8.67,1
+2011A2424A,Biological Sciences,B.E,9.23,1
+2011H2425H,Mathematics,M.E,6.99,4
+2011A2426A,Biological Sciences,B.E,5.78,3
+2011A2427A,Biological Sciences,B.E,6.15,2
+2011A2428A,Biological Sciences,B.E,6.36,1
+2011S2429S,Electrical and Electronics Engineering,M.Sc,8.28,2
+2011H2430H,Physics,M.E,9.38,1
+2011A2431A,Chemical Engineering,B.E,5.37,4
+2011H2432H,Biological Sciences,M.E,5.07,2
+2011A2433A,Chemical Engineering,B.E,8.68,4
+2011D2434D,Civil Engineering,Ph.D,9.16,3
+2011A2435A,Economics and Finanace,B.E,7.13,1
+2011A2436A,Computer Science and Information Systems,B.E,6.37,2
+2011P2437P,Chemical Engineering,B.Pharm,6.32,4
+2011P2438P,Electrical and Electronics Engineering,B.Pharm,6.46,1
+2011A2439A,Civil Engineering,B.E,9.83,3
+2011A2440A,Humanities and Social Sciences,B.E,6.42,2
+2011A2441A,Electrical and Electronics Engineering,B.E,5.09,4
+2011A2442A,Physics,B.E,6.97,3
+2011A2443A,Mathematics,B.E,8.57,4
+2011H2444H,Civil Engineering,M.E,7.89,1
+2011A2445A,Electrical and Electronics Engineering,B.E,8.86,4
+2011H2446H,Economics and Finanace,M.E,7.38,1
+2011S2447S,Pharmacy,M.Sc,6.55,2
+2011A2448A,Pharmacy,B.E,9.88,1
+2011H2449H,Mathematics,M.E,5.85,4
+2011A2450A,Mechanical Engineering,B.E,6.25,2
+2011S2451S,Electrical and Electronics Engineering,M.Sc,8.08,4
+2011H2452H,Mathematics,M.E,8.62,2
+2011A2453A,Biological Sciences,B.E,8.84,3
+2011A2454A,Electrical and Electronics Engineering,B.E,6.56,3
+2011H2455H,Chemisty,M.E,5.18,4
+2011H2456H,Biological Sciences,M.E,6.34,2
+2011S2457S,Mathematics,M.Sc,8.97,4
+2011A2458A,Economics and Finanace,B.E,9.8,2
+2011H2459H,Economics and Finanace,M.E,7.31,4
+2011A2460A,Mathematics,B.E,7.77,1
+2011H2461H,Chemical Engineering,M.E,7.13,1
+2011H2462H,Electrical and Electronics Engineering,M.E,5.64,1
+2011A2463A,Chemisty,B.E,7.6,1
+2011S2464S,Chemisty,M.Sc,5.99,1
+2011H2465H,Biological Sciences,M.E,9.43,4
+2011A2466A,Chemisty,B.E,8.13,4
+2011S2467S,Chemisty,M.Sc,8.74,4
+2011A2468A,Electrical and Electronics Engineering,B.E,5.05,1
+2011A2469A,Electrical and Electronics Engineering,B.E,9.98,3
+2011P2470P,Economics and Finanace,B.Pharm,8.08,3
+2011S2471S,Mechanical Engineering,M.Sc,8.25,2
+2011A2472A,Computer Science and Information Systems,B.E,7.62,2
+2011A2473A,Mechanical Engineering,B.E,9.76,3
+2011A2474A,Mathematics,B.E,8.02,4
+2011D2475D,Humanities and Social Sciences,Ph.D,6.05,3
+2011S2476S,Physics,M.Sc,8.6,2
+2011P2477P,Chemisty,B.Pharm,7.62,4
+2011S2478S,Biological Sciences,M.Sc,6.59,2
+2011H2479H,Chemisty,M.E,7.35,1
+2011D2480D,Computer Science and Information Systems,Ph.D,8.51,2
+2011A2481A,Physics,B.E,5.47,4
+2011A2482A,Economics and Finanace,B.E,5.47,4
+2011A2483A,Mechanical Engineering,B.E,5.78,3
+2011A2484A,Pharmacy,B.E,7.8,2
+2011H2485H,Economics and Finanace,M.E,8.14,2
+2011H2486H,Computer Science and Information Systems,M.E,6.42,4
+2011A2487A,Mechanical Engineering,B.E,8.65,3
+2011A2488A,Mechanical Engineering,B.E,8.83,3
+2011S2489S,Mathematics,M.Sc,7.71,2
+2011D2490D,Chemical Engineering,Ph.D,7.96,1
+2011A2491A,Physics,B.E,6.08,2
+2011H2492H,Computer Science and Information Systems,M.E,7.82,2
+2011S2493S,Mathematics,M.Sc,7.94,4
+2011P2494P,Economics and Finanace,B.Pharm,7.88,3
+2011A2495A,Physics,B.E,9.36,4
+2011D2496D,Civil Engineering,Ph.D,5.84,2
+2011H2497H,Civil Engineering,M.E,5.46,2
+2011P2498P,Chemisty,B.Pharm,5.82,1
+2011D2499D,Economics and Finanace,Ph.D,5.39,1
+2011A2500A,Chemisty,B.E,7.56,4
+2011A2501A,Electrical and Electronics Engineering,B.E,8.32,3
+2011A2502A,Computer Science and Information Systems,B.E,7.5,1
+2011A2503A,Civil Engineering,B.E,7.8,4
+2011A2504A,Electrical and Electronics Engineering,B.E,8.53,3
+2011A2505A,Computer Science and Information Systems,B.E,9.19,3
+2011H2506H,Mathematics,M.E,5.39,2
+2011A2507A,Chemisty,B.E,9.73,3
+2011H2508H,Physics,M.E,5.71,4
+2011P2509P,Humanities and Social Sciences,B.Pharm,7.45,3
+2011H2510H,Pharmacy,M.E,5.6,4
+2011D2511D,Pharmacy,Ph.D,6.74,1
+2011H2512H,Economics and Finanace,M.E,9.28,3
+2011A2513A,Physics,B.E,7.12,2
+2011S2514S,Electrical and Electronics Engineering,M.Sc,6.87,1
+2011A2515A,Civil Engineering,B.E,7.21,2
+2011A2516A,Biological Sciences,B.E,7.93,3
+2011P2517P,Chemical Engineering,B.Pharm,9.56,3
+2011A2518A,Mathematics,B.E,9.61,3
+2011A2519A,Biological Sciences,B.E,8.24,4
+2011A2520A,Electrical and Electronics Engineering,B.E,5.22,3
+2011A2521A,Computer Science and Information Systems,B.E,8.13,1
+2011A2522A,Physics,B.E,9.64,4
+2011A2523A,Humanities and Social Sciences,B.E,5.87,1
+2011A2524A,Biological Sciences,B.E,6.85,2
+2011H2525H,Physics,M.E,8.68,2
+2011A2526A,Chemical Engineering,B.E,7.1,1
+2011A2527A,Biological Sciences,B.E,7.22,1
+2011A2528A,Economics and Finanace,B.E,5.49,3
+2011A2529A,Civil Engineering,B.E,8.28,1
+2011A2530A,Economics and Finanace,B.E,9.19,3
+2011A2531A,Physics,B.E,5.85,3
+2011P2532P,Biological Sciences,B.Pharm,9.7,4
+2011A2533A,Electrical and Electronics Engineering,B.E,9.19,1
+2011A2534A,Chemical Engineering,B.E,5.96,2
+2011P2535P,Computer Science and Information Systems,B.Pharm,5.42,4
+2011P2536P,Biological Sciences,B.Pharm,6.38,2
+2011A2537A,Physics,B.E,7.53,2
+2011H2538H,Pharmacy,M.E,8.73,1
+2011P2539P,Computer Science and Information Systems,B.Pharm,6.37,3
+2011D2540D,Chemical Engineering,Ph.D,6.71,1
+2011H2541H,Mechanical Engineering,M.E,9.65,1
+2011A2542A,Chemical Engineering,B.E,9.59,2
+2011A2543A,Physics,B.E,5.43,3
+2011H2544H,Mechanical Engineering,M.E,8.13,1
+2011A2545A,Chemisty,B.E,8.94,2
+2011P2546P,Pharmacy,B.Pharm,6.87,1
+2011P2547P,Civil Engineering,B.Pharm,6.54,2
+2011D2548D,Physics,Ph.D,8.78,2
+2011H2549H,Computer Science and Information Systems,M.E,5.27,3
+2011A2550A,Chemisty,B.E,6.39,3
+2011A2551A,Electrical and Electronics Engineering,B.E,6.13,2
+2011A2552A,Computer Science and Information Systems,B.E,9.42,2
+2011A2553A,Computer Science and Information Systems,B.E,6.3,4
+2011A2554A,Computer Science and Information Systems,B.E,5.46,3
+2011H2555H,Mechanical Engineering,M.E,6.82,4
+2011H2556H,Pharmacy,M.E,8.44,2
+2011H2557H,Biological Sciences,M.E,9.75,4
+2011H2558H,Chemisty,M.E,7.69,2
+2011H2559H,Physics,M.E,7.17,3
+2011P2560P,Civil Engineering,B.Pharm,6.71,3
+2011A2561A,Chemical Engineering,B.E,7.57,2
+2011S2562S,Computer Science and Information Systems,M.Sc,6.09,3
+2011H2563H,Biological Sciences,M.E,9.61,2
+2011P2564P,Humanities and Social Sciences,B.Pharm,5.7,3
+2011A2565A,Economics and Finanace,B.E,7.82,1
+2011A2566A,Economics and Finanace,B.E,8.51,3
+2011H2567H,Biological Sciences,M.E,5.79,4
+2011H2568H,Economics and Finanace,M.E,6.68,1
+2011A2569A,Chemisty,B.E,9.57,3
+2011A2570A,Chemisty,B.E,7.33,2
+2011A2571A,Biological Sciences,B.E,7.2,4
+2011P2572P,Mechanical Engineering,B.Pharm,7.88,4
+2011H2573H,Physics,M.E,7.0,2
+2011A2574A,Computer Science and Information Systems,B.E,8.62,3
+2011A2575A,Humanities and Social Sciences,B.E,8.39,3
+2011A2576A,Biological Sciences,B.E,9.85,2
+2011S2577S,Mathematics,M.Sc,5.54,4
+2011A2578A,Computer Science and Information Systems,B.E,9.77,4
+2011A2579A,Mechanical Engineering,B.E,5.14,2
+2011H2580H,Computer Science and Information Systems,M.E,9.43,2
+2011A2581A,Mechanical Engineering,B.E,8.76,2
+2011H2582H,Pharmacy,M.E,6.67,1
+2011A2583A,Chemical Engineering,B.E,6.55,2
+2011A2584A,Economics and Finanace,B.E,7.29,2
+2011P2585P,Humanities and Social Sciences,B.Pharm,5.0,2
+2011H2586H,Civil Engineering,M.E,9.41,3
+2011S2587S,Computer Science and Information Systems,M.Sc,5.4,2
+2011P2588P,Civil Engineering,B.Pharm,7.18,2
+2011S2589S,Chemisty,M.Sc,8.42,3
+2011A2590A,Biological Sciences,B.E,7.39,3
+2011A2591A,Chemical Engineering,B.E,7.35,4
+2011H2592H,Physics,M.E,6.06,4
+2011A2593A,Pharmacy,B.E,6.88,4
+2011A2594A,Physics,B.E,6.21,1
+2011A2595A,Electrical and Electronics Engineering,B.E,5.64,2
+2011P2596P,Electrical and Electronics Engineering,B.Pharm,8.87,3
+2011H2597H,Pharmacy,M.E,8.65,4
+2011A2598A,Mechanical Engineering,B.E,6.97,1
+2011A2599A,Economics and Finanace,B.E,7.44,1
+2011A2600A,Civil Engineering,B.E,9.43,2
+2011S2601S,Civil Engineering,M.Sc,6.85,3
+2011P2602P,Biological Sciences,B.Pharm,8.05,4
+2011P2603P,Chemical Engineering,B.Pharm,8.23,2
+2011H2604H,Humanities and Social Sciences,M.E,5.94,2
+2011A2605A,Computer Science and Information Systems,B.E,7.18,3
+2011P2606P,Electrical and Electronics Engineering,B.Pharm,8.27,4
+2011A2607A,Chemisty,B.E,6.42,4
+2011A2608A,Pharmacy,B.E,9.11,1
+2011H2609H,Computer Science and Information Systems,M.E,9.79,4
+2011H2610H,Chemisty,M.E,5.82,1
+2011A2611A,Humanities and Social Sciences,B.E,9.03,3
+2011P2612P,Pharmacy,B.Pharm,8.66,4
+2011P2613P,Biological Sciences,B.Pharm,5.8,2
+2011H2614H,Mechanical Engineering,M.E,7.53,4
+2011A2615A,Biological Sciences,B.E,7.43,4
+2011P2616P,Electrical and Electronics Engineering,B.Pharm,8.86,3
+2011A2617A,Electrical and Electronics Engineering,B.E,6.29,1
+2011A2618A,Mechanical Engineering,B.E,9.04,4
+2011D2619D,Mathematics,Ph.D,6.86,4
+2011H2620H,Physics,M.E,6.68,3
+2011S2621S,Chemical Engineering,M.Sc,8.93,4
+2011A2622A,Mathematics,B.E,8.8,1
+2011H2623H,Chemisty,M.E,5.03,3
+2011A2624A,Civil Engineering,B.E,7.57,4
+2011H2625H,Electrical and Electronics Engineering,M.E,5.24,3
+2011A2626A,Biological Sciences,B.E,5.61,4
+2011D2627D,Humanities and Social Sciences,Ph.D,6.84,3
+2011A2628A,Computer Science and Information Systems,B.E,7.13,3
+2011H2629H,Biological Sciences,M.E,7.71,2
+2011A2630A,Computer Science and Information Systems,B.E,6.78,1
+2011S2631S,Humanities and Social Sciences,M.Sc,6.62,1
+2011A2632A,Mechanical Engineering,B.E,5.56,1
+2011S2633S,Mathematics,M.Sc,8.69,2
+2011P2634P,Chemisty,B.Pharm,5.42,1
+2011A2635A,Chemisty,B.E,8.63,4
+2011H2636H,Electrical and Electronics Engineering,M.E,9.46,3
+2011H2637H,Humanities and Social Sciences,M.E,8.44,2
+2011P2638P,Mechanical Engineering,B.Pharm,7.29,1
+2011A2639A,Economics and Finanace,B.E,6.86,2
+2011H2640H,Mechanical Engineering,M.E,9.88,1
+2011A2641A,Electrical and Electronics Engineering,B.E,7.56,1
+2011A2642A,Economics and Finanace,B.E,9.64,3
+2011A2643A,Electrical and Electronics Engineering,B.E,7.0,2
+2011A2644A,Physics,B.E,6.28,1
+2011H2645H,Electrical and Electronics Engineering,M.E,9.83,2
+2011A2646A,Mechanical Engineering,B.E,6.3,3
+2011P2647P,Mechanical Engineering,B.Pharm,7.57,2
+2011A2648A,Physics,B.E,8.99,3
+2011A2649A,Mechanical Engineering,B.E,7.36,4
+2011A2650A,Computer Science and Information Systems,B.E,8.73,2
+2011A2651A,Computer Science and Information Systems,B.E,7.51,1
+2011H2652H,Mechanical Engineering,M.E,6.99,2
+2011A2653A,Pharmacy,B.E,6.42,1
+2011A2654A,Electrical and Electronics Engineering,B.E,6.04,4
+2011A2655A,Pharmacy,B.E,5.65,3
+2011A2656A,Humanities and Social Sciences,B.E,8.0,3
+2011A2657A,Chemical Engineering,B.E,6.11,1
+2011A2658A,Physics,B.E,6.62,1
+2011A2659A,Mechanical Engineering,B.E,6.44,4
+2011A2660A,Mechanical Engineering,B.E,7.1,3
+2011P2661P,Electrical and Electronics Engineering,B.Pharm,7.38,1
+2011A2662A,Economics and Finanace,B.E,6.7,3
+2011P2663P,Humanities and Social Sciences,B.Pharm,5.76,4
+2011A2664A,Civil Engineering,B.E,7.66,2
+2011A2665A,Pharmacy,B.E,6.95,4
+2011A2666A,Biological Sciences,B.E,8.3,1
+2011A2667A,Pharmacy,B.E,7.43,3
+2011A2668A,Chemical Engineering,B.E,6.04,3
+2011A2669A,Computer Science and Information Systems,B.E,6.46,3
+2011A2670A,Humanities and Social Sciences,B.E,8.37,1
+2011H2671H,Chemisty,M.E,8.12,2
+2011A2672A,Mechanical Engineering,B.E,6.76,4
+2011D2673D,Electrical and Electronics Engineering,Ph.D,9.98,1
+2011A2674A,Computer Science and Information Systems,B.E,7.78,4
+2011P2675P,Civil Engineering,B.Pharm,6.88,2
+2011D2676D,Electrical and Electronics Engineering,Ph.D,8.04,1
+2011A2677A,Chemical Engineering,B.E,6.98,2
+2011A2678A,Chemical Engineering,B.E,7.85,2
+2011P2679P,Chemisty,B.Pharm,8.83,4
+2011P2680P,Electrical and Electronics Engineering,B.Pharm,6.76,2
+2011A2681A,Electrical and Electronics Engineering,B.E,9.5,3
+2011H2682H,Economics and Finanace,M.E,8.85,1
+2011P2683P,Pharmacy,B.Pharm,9.42,3
+2011A2684A,Mathematics,B.E,7.68,4
+2011D2685D,Civil Engineering,Ph.D,9.3,4
+2011A2686A,Humanities and Social Sciences,B.E,6.43,4
+2011H2687H,Chemisty,M.E,9.62,2
+2011A2688A,Electrical and Electronics Engineering,B.E,6.44,3
+2011H2689H,Humanities and Social Sciences,M.E,8.28,1
+2011H2690H,Electrical and Electronics Engineering,M.E,7.9,4
+2011D2691D,Electrical and Electronics Engineering,Ph.D,7.05,1
+2011H2692H,Mechanical Engineering,M.E,6.12,1
+2011H2693H,Mechanical Engineering,M.E,7.85,4
+2011D2694D,Biological Sciences,Ph.D,6.63,2
+2011P2695P,Chemisty,B.Pharm,7.85,4
+2011H2696H,Pharmacy,M.E,5.45,3
+2011A2697A,Biological Sciences,B.E,8.71,4
+2011H2698H,Mathematics,M.E,7.56,2
+2011A2699A,Chemisty,B.E,7.29,2
+2011A2700A,Chemisty,B.E,7.36,2
+2011A2701A,Economics and Finanace,B.E,5.66,1
+2011A2702A,Biological Sciences,B.E,6.04,4
+2011H2703H,Humanities and Social Sciences,M.E,6.23,4
+2011H2704H,Civil Engineering,M.E,8.98,4
+2011A2705A,Mathematics,B.E,8.21,3
+2011A2706A,Chemisty,B.E,6.22,1
+2011S2707S,Biological Sciences,M.Sc,8.74,4
+2011A2708A,Mathematics,B.E,9.98,4
+2011S2709S,Chemical Engineering,M.Sc,8.92,3
+2011A2710A,Physics,B.E,7.69,1
+2011A2711A,Humanities and Social Sciences,B.E,7.4,1
+2011A2712A,Computer Science and Information Systems,B.E,9.06,1
+2011H2713H,Economics and Finanace,M.E,7.0,4
+2011A2714A,Electrical and Electronics Engineering,B.E,8.94,1
+2011D2715D,Chemisty,Ph.D,9.24,1
+2011H2716H,Physics,M.E,5.84,4
+2011P2717P,Pharmacy,B.Pharm,6.7,2
+2011P2718P,Humanities and Social Sciences,B.Pharm,6.05,1
+2011P2719P,Economics and Finanace,B.Pharm,8.21,1
+2011H2720H,Humanities and Social Sciences,M.E,9.5,4
+2011A2721A,Civil Engineering,B.E,8.78,3
+2011A2722A,Computer Science and Information Systems,B.E,8.45,3
+2011H2723H,Humanities and Social Sciences,M.E,8.5,3
+2011D2724D,Mechanical Engineering,Ph.D,5.18,2
+2011H2725H,Chemisty,M.E,7.61,1
+2011A2726A,Civil Engineering,B.E,9.4,3
+2011A2727A,Physics,B.E,6.46,2
+2011H2728H,Mechanical Engineering,M.E,8.17,4
+2011P2729P,Humanities and Social Sciences,B.Pharm,8.37,2
+2011A2730A,Physics,B.E,9.03,2
+2011A2731A,Chemisty,B.E,8.04,4
+2011H2732H,Computer Science and Information Systems,M.E,8.18,1
+2011A2733A,Civil Engineering,B.E,7.92,2
+2011A2734A,Mechanical Engineering,B.E,5.06,3
+2011A2735A,Physics,B.E,7.54,4
+2011H2736H,Humanities and Social Sciences,M.E,8.09,2
+2011P2737P,Economics and Finanace,B.Pharm,8.22,3
+2011P2738P,Economics and Finanace,B.Pharm,6.89,4
+2011A2739A,Pharmacy,B.E,5.85,4
+2011A2740A,Chemisty,B.E,7.42,4
+2011A2741A,Biological Sciences,B.E,8.34,1
+2011H2742H,Economics and Finanace,M.E,6.12,2
+2011A2743A,Civil Engineering,B.E,5.75,1
+2011A2744A,Pharmacy,B.E,5.98,4
+2011A2745A,Humanities and Social Sciences,B.E,7.85,1
+2011H2746H,Physics,M.E,9.23,2
+2011A2747A,Physics,B.E,6.01,1
+2011H2748H,Electrical and Electronics Engineering,M.E,8.13,3
+2011S2749S,Mathematics,M.Sc,5.34,1
+2011A2750A,Biological Sciences,B.E,7.23,2
+2011A2751A,Civil Engineering,B.E,6.28,2
+2011D2752D,Physics,Ph.D,9.68,2
+2011D2753D,Civil Engineering,Ph.D,8.45,4
+2011A2754A,Chemisty,B.E,5.2,3
+2011S2755S,Mathematics,M.Sc,6.39,2
+2011A2756A,Physics,B.E,9.15,1
+2011H2757H,Chemisty,M.E,7.61,1
+2011A2758A,Civil Engineering,B.E,6.14,4
+2011A2759A,Humanities and Social Sciences,B.E,5.49,1
+2011A2760A,Economics and Finanace,B.E,8.95,1
+2011A2761A,Civil Engineering,B.E,7.39,4
+2011A2762A,Chemical Engineering,B.E,7.38,1
+2011A2763A,Mathematics,B.E,7.95,4
+2011A2764A,Computer Science and Information Systems,B.E,7.85,4
+2011A2765A,Chemical Engineering,B.E,8.6,4
+2011A2766A,Pharmacy,B.E,5.97,4
+2011A2767A,Biological Sciences,B.E,6.26,4
+2011H2768H,Mechanical Engineering,M.E,6.35,2
+2011A2769A,Economics and Finanace,B.E,7.54,3
+2011H2770H,Pharmacy,M.E,6.5,2
+2011A2771A,Economics and Finanace,B.E,6.38,3
+2011P2772P,Pharmacy,B.Pharm,7.2,2
+2011A2773A,Humanities and Social Sciences,B.E,5.03,4
+2011H2774H,Humanities and Social Sciences,M.E,5.82,1
+2011P2775P,Electrical and Electronics Engineering,B.Pharm,8.36,1
+2011H2776H,Humanities and Social Sciences,M.E,6.71,2
+2011A2777A,Civil Engineering,B.E,8.89,2
+2011H2778H,Civil Engineering,M.E,6.54,3
+2011A2779A,Economics and Finanace,B.E,8.83,4
+2011A2780A,Chemical Engineering,B.E,8.42,2
+2011H2781H,Mechanical Engineering,M.E,8.36,3
+2011A2782A,Chemisty,B.E,5.96,4
+2011H2783H,Chemisty,M.E,9.26,2
+2011D2784D,Economics and Finanace,Ph.D,9.78,4
+2011H2785H,Pharmacy,M.E,7.98,4
+2011A2786A,Physics,B.E,6.35,3
+2011H2787H,Humanities and Social Sciences,M.E,9.67,3
+2011A2788A,Economics and Finanace,B.E,5.72,3
+2011S2789S,Physics,M.Sc,6.77,3
+2011D2790D,Humanities and Social Sciences,Ph.D,6.54,4
+2011A2791A,Electrical and Electronics Engineering,B.E,5.03,4
+2011A2792A,Biological Sciences,B.E,9.84,3
+2011A2793A,Pharmacy,B.E,9.03,4
+2011P2794P,Computer Science and Information Systems,B.Pharm,5.1,2
+2011A2795A,Civil Engineering,B.E,8.31,3
+2011S2796S,Computer Science and Information Systems,M.Sc,9.16,1
+2011H2797H,Economics and Finanace,M.E,7.14,4
+2011P2798P,Economics and Finanace,B.Pharm,7.79,2
+2011A2799A,Civil Engineering,B.E,8.09,4
+2011H2800H,Computer Science and Information Systems,M.E,5.53,2
+2011A2801A,Chemisty,B.E,6.63,4
+2011A2802A,Physics,B.E,7.96,1
+2011D2803D,Pharmacy,Ph.D,6.95,4
+2011A2804A,Civil Engineering,B.E,6.4,4
+2011A2805A,Biological Sciences,B.E,5.51,3
+2011P2806P,Computer Science and Information Systems,B.Pharm,7.69,4
+2011A2807A,Computer Science and Information Systems,B.E,5.56,2
+2011P2808P,Chemical Engineering,B.Pharm,6.62,4
+2011H2809H,Chemisty,M.E,9.37,3
+2011A2810A,Mechanical Engineering,B.E,6.0,1
+2011A2811A,Humanities and Social Sciences,B.E,6.23,3
+2011H2812H,Mathematics,M.E,7.66,3
+2011H2813H,Physics,M.E,5.11,1
+2011A2814A,Physics,B.E,8.56,3
+2011H2815H,Economics and Finanace,M.E,9.53,4
+2011H2816H,Physics,M.E,9.42,2
+2011A2817A,Economics and Finanace,B.E,7.34,4
+2011A2818A,Economics and Finanace,B.E,6.67,3
+2011D2819D,Computer Science and Information Systems,Ph.D,8.02,1
+2011A2820A,Chemisty,B.E,5.6,4
+2011H2821H,Electrical and Electronics Engineering,M.E,6.98,4
+2011H2822H,Biological Sciences,M.E,9.16,1
+2011A2823A,Mathematics,B.E,6.87,4
+2011A2824A,Biological Sciences,B.E,9.8,3
+2011A2825A,Mathematics,B.E,7.46,3
+2011A2826A,Pharmacy,B.E,5.34,1
+2011H2827H,Mechanical Engineering,M.E,5.46,1
+2011A2828A,Mathematics,B.E,5.79,1
+2011A2829A,Mechanical Engineering,B.E,9.61,2
+2011D2830D,Chemical Engineering,Ph.D,8.84,4
+2011A2831A,Computer Science and Information Systems,B.E,7.33,2
+2011A2832A,Pharmacy,B.E,6.65,2
+2011A2833A,Pharmacy,B.E,7.88,4
+2011A2834A,Mathematics,B.E,8.91,4
+2011S2835S,Biological Sciences,M.Sc,7.01,3
+2011A2836A,Biological Sciences,B.E,8.12,4
+2011A2837A,Biological Sciences,B.E,5.04,3
+2011H2838H,Electrical and Electronics Engineering,M.E,5.75,2
+2011A2839A,Mechanical Engineering,B.E,8.37,3
+2011H2840H,Mathematics,M.E,7.29,2
+2011A2841A,Mechanical Engineering,B.E,9.63,2
+2011A2842A,Civil Engineering,B.E,8.86,2
+2011S2843S,Computer Science and Information Systems,M.Sc,5.91,1
+2011S2844S,Mathematics,M.Sc,8.01,1
+2011P2845P,Chemisty,B.Pharm,7.7,1
+2011A2846A,Economics and Finanace,B.E,9.35,2
+2011A2847A,Pharmacy,B.E,6.04,3
+2011A2848A,Chemisty,B.E,7.12,3
+2011A2849A,Civil Engineering,B.E,9.68,2
+2011A2850A,Economics and Finanace,B.E,5.14,4
+2011H2851H,Chemical Engineering,M.E,9.17,4
+2011D2852D,Biological Sciences,Ph.D,7.22,2
+2011P2853P,Electrical and Electronics Engineering,B.Pharm,5.25,4
+2011A2854A,Electrical and Electronics Engineering,B.E,5.99,4
+2011A2855A,Mechanical Engineering,B.E,9.07,1
+2011A2856A,Chemisty,B.E,7.53,1
+2011A2857A,Chemisty,B.E,8.78,1
+2011H2858H,Humanities and Social Sciences,M.E,8.7,3
+2011S2859S,Physics,M.Sc,9.98,4
+2011A2860A,Civil Engineering,B.E,6.05,1
+2011A2861A,Mathematics,B.E,6.8,3
+2011H2862H,Mathematics,M.E,5.56,4
+2011A2863A,Biological Sciences,B.E,5.04,4
+2011A2864A,Electrical and Electronics Engineering,B.E,9.81,1
+2011H2865H,Economics and Finanace,M.E,6.8,3
+2011H2866H,Chemical Engineering,M.E,7.17,3
+2011H2867H,Civil Engineering,M.E,10.0,1
+2011A2868A,Pharmacy,B.E,8.22,4
+2011H2869H,Humanities and Social Sciences,M.E,5.08,3
+2011A2870A,Physics,B.E,8.24,3
+2011S2871S,Biological Sciences,M.Sc,5.7,2
+2011A2872A,Chemisty,B.E,7.82,2
+2011A2873A,Mathematics,B.E,5.78,4
+2011S2874S,Biological Sciences,M.Sc,5.31,2
+2011S2875S,Physics,M.Sc,8.3,3
+2011P2876P,Mechanical Engineering,B.Pharm,7.07,2
+2011A2877A,Electrical and Electronics Engineering,B.E,5.86,2
+2011A2878A,Physics,B.E,9.05,2
+2011H2879H,Economics and Finanace,M.E,9.4,1
+2011A2880A,Chemisty,B.E,5.15,2
+2011A2881A,Computer Science and Information Systems,B.E,7.02,3
+2011H2882H,Computer Science and Information Systems,M.E,8.11,1
+2011A2883A,Biological Sciences,B.E,6.66,4
+2011A2884A,Biological Sciences,B.E,8.67,2
+2011A2885A,Electrical and Electronics Engineering,B.E,5.23,4
+2011P2886P,Mechanical Engineering,B.Pharm,8.61,2
+2011S2887S,Chemisty,M.Sc,5.5,3
+2011A2888A,Civil Engineering,B.E,5.46,1
+2011P2889P,Chemical Engineering,B.Pharm,9.84,4
+2011A2890A,Electrical and Electronics Engineering,B.E,9.28,4
+2011A2891A,Chemisty,B.E,9.28,1
+2011H2892H,Computer Science and Information Systems,M.E,7.38,3
+2011A2893A,Chemisty,B.E,6.61,3
+2011A2894A,Mechanical Engineering,B.E,8.34,1
+2011A2895A,Humanities and Social Sciences,B.E,7.46,2
+2011H2896H,Chemisty,M.E,6.1,2
+2011A2897A,Chemisty,B.E,6.13,1
+2011A2898A,Physics,B.E,5.47,4
+2011P2899P,Computer Science and Information Systems,B.Pharm,9.43,1
+2011A2900A,Civil Engineering,B.E,6.13,2
+2011A2901A,Physics,B.E,8.3,3
+2011P2902P,Humanities and Social Sciences,B.Pharm,8.34,3
+2011A2903A,Chemisty,B.E,6.64,3
+2011A2904A,Pharmacy,B.E,5.73,1
+2011A2905A,Physics,B.E,9.53,4
+2011A2906A,Pharmacy,B.E,5.24,2
+2011A2907A,Chemisty,B.E,5.07,1
+2011H2908H,Civil Engineering,M.E,5.81,3
+2011H2909H,Biological Sciences,M.E,7.86,4
+2011A2910A,Economics and Finanace,B.E,5.94,4
+2011A2911A,Humanities and Social Sciences,B.E,9.96,4
+2011A2912A,Mechanical Engineering,B.E,6.31,4
+2011H2913H,Chemical Engineering,M.E,8.72,3
+2011A2914A,Economics and Finanace,B.E,9.98,2
+2011A2915A,Computer Science and Information Systems,B.E,6.7,4
+2011A2916A,Mathematics,B.E,7.28,1
+2011A2917A,Pharmacy,B.E,9.28,3
+2011A2918A,Chemical Engineering,B.E,8.91,4
+2011A2919A,Pharmacy,B.E,5.13,2
+2011A2920A,Chemical Engineering,B.E,6.14,4
+2011P2921P,Chemical Engineering,B.Pharm,5.6,3
+2011S2922S,Chemisty,M.Sc,9.37,3
+2011D2923D,Humanities and Social Sciences,Ph.D,7.18,1
+2011P2924P,Chemisty,B.Pharm,6.99,2
+2011H2925H,Chemisty,M.E,9.2,2
+2011H2926H,Biological Sciences,M.E,5.99,3
+2011P2927P,Mechanical Engineering,B.Pharm,8.9,1
+2011A2928A,Mathematics,B.E,6.81,2
+2011H2929H,Physics,M.E,9.74,2
+2011P2930P,Economics and Finanace,B.Pharm,5.79,2
+2011A2931A,Pharmacy,B.E,8.17,2
+2011A2932A,Physics,B.E,5.76,4
+2011A2933A,Civil Engineering,B.E,6.39,4
+2011P2934P,Computer Science and Information Systems,B.Pharm,6.95,4
+2011D2935D,Humanities and Social Sciences,Ph.D,7.34,2
+2011S2936S,Physics,M.Sc,9.69,1
+2011D2937D,Chemical Engineering,Ph.D,6.26,3
+2011A2938A,Civil Engineering,B.E,9.62,1
+2011H2939H,Biological Sciences,M.E,8.78,2
+2011H2940H,Chemisty,M.E,7.4,2
+2011A2941A,Civil Engineering,B.E,6.96,2
+2011A2942A,Pharmacy,B.E,7.1,2
+2011H2943H,Civil Engineering,M.E,9.17,1
+2011A2944A,Civil Engineering,B.E,9.82,3
+2011S2945S,Chemisty,M.Sc,9.46,1
+2011A2946A,Physics,B.E,8.7,2
+2011A2947A,Civil Engineering,B.E,7.22,3
+2011A2948A,Economics and Finanace,B.E,5.05,1
+2011H2949H,Mathematics,M.E,6.56,1
+2011A2950A,Pharmacy,B.E,7.99,2
+2011A2951A,Pharmacy,B.E,7.19,1
+2011H2952H,Mathematics,M.E,8.71,4
+2011A2953A,Chemisty,B.E,5.35,3
+2011H2954H,Computer Science and Information Systems,M.E,9.75,1
+2011A2955A,Electrical and Electronics Engineering,B.E,9.19,3
+2011H2956H,Chemical Engineering,M.E,8.13,4
+2011A2957A,Mechanical Engineering,B.E,5.84,4
+2011A2958A,Computer Science and Information Systems,B.E,6.12,1
+2011A2959A,Chemical Engineering,B.E,9.99,3
+2011H2960H,Civil Engineering,M.E,9.35,4
+2011P2961P,Electrical and Electronics Engineering,B.Pharm,7.11,1
+2011H2962H,Computer Science and Information Systems,M.E,9.21,3
+2011D2963D,Computer Science and Information Systems,Ph.D,8.2,3
+2011A2964A,Electrical and Electronics Engineering,B.E,8.33,3
+2011A2965A,Economics and Finanace,B.E,5.42,1
+2011P2966P,Humanities and Social Sciences,B.Pharm,6.21,4
+2011A2967A,Civil Engineering,B.E,7.96,3
+2011H2968H,Chemical Engineering,M.E,9.99,4
+2011A2969A,Mathematics,B.E,8.03,4
+2011A2970A,Mechanical Engineering,B.E,7.59,4
+2011H2971H,Biological Sciences,M.E,8.01,1
+2011A2972A,Mechanical Engineering,B.E,5.47,2
+2011A2973A,Economics and Finanace,B.E,7.9,4
+2011P2974P,Electrical and Electronics Engineering,B.Pharm,8.59,1
+2011S2975S,Economics and Finanace,M.Sc,8.24,4
+2011A2976A,Humanities and Social Sciences,B.E,7.87,1
+2011D2977D,Electrical and Electronics Engineering,Ph.D,9.07,4
+2011A2978A,Pharmacy,B.E,9.54,2
+2011P2979P,Mechanical Engineering,B.Pharm,5.9,3
+2011A2980A,Chemical Engineering,B.E,6.46,4
+2011A2981A,Biological Sciences,B.E,8.65,3
+2011A2982A,Economics and Finanace,B.E,9.09,3
+2011S2983S,Economics and Finanace,M.Sc,9.87,2
+2011A2984A,Computer Science and Information Systems,B.E,7.23,1
+2011P2985P,Economics and Finanace,B.Pharm,7.29,3
+2011H2986H,Chemisty,M.E,6.05,3
+2011P2987P,Electrical and Electronics Engineering,B.Pharm,8.77,2
+2011P2988P,Humanities and Social Sciences,B.Pharm,9.28,3
+2011H2989H,Economics and Finanace,M.E,8.08,2
+2011H2990H,Economics and Finanace,M.E,9.14,1
+2011A2991A,Physics,B.E,5.45,4
+2011H2992H,Economics and Finanace,M.E,8.11,2
+2011A2993A,Electrical and Electronics Engineering,B.E,6.01,4
+2011H2994H,Economics and Finanace,M.E,6.69,4
+2011P2995P,Economics and Finanace,B.Pharm,8.77,2
+2011A2996A,Economics and Finanace,B.E,5.08,2
+2011S2997S,Mechanical Engineering,M.Sc,6.55,3
+2011A2998A,Mathematics,B.E,7.69,4
+2011S2999S,Mechanical Engineering,M.Sc,8.48,2
+2011H3000H,Chemical Engineering,M.E,5.45,4
+2011H3001H,Computer Science and Information Systems,M.E,5.73,3
+2011A3002A,Mathematics,B.E,6.77,2
+2011A3003A,Electrical and Electronics Engineering,B.E,5.52,3
+2011A3004A,Mechanical Engineering,B.E,7.85,1
+2011A3005A,Economics and Finanace,B.E,10.0,4
+2011A3006A,Biological Sciences,B.E,6.23,2
+2011P3007P,Pharmacy,B.Pharm,9.96,1
+2011A3008A,Humanities and Social Sciences,B.E,6.12,2
+2011A3009A,Civil Engineering,B.E,9.38,4
+2011A3010A,Pharmacy,B.E,9.06,2
+2011H3011H,Biological Sciences,M.E,6.48,1
+2011A3012A,Mechanical Engineering,B.E,7.42,4
+2011A3013A,Electrical and Electronics Engineering,B.E,7.78,2
+2011A3014A,Electrical and Electronics Engineering,B.E,5.93,4
+2011A3015A,Pharmacy,B.E,7.88,4
+2011A3016A,Physics,B.E,6.31,3
+2011P3017P,Computer Science and Information Systems,B.Pharm,7.16,3
+2011P3018P,Civil Engineering,B.Pharm,6.6,3
+2011A3019A,Chemical Engineering,B.E,9.79,2
+2011H3020H,Economics and Finanace,M.E,9.3,2
+2011A3021A,Mathematics,B.E,7.89,1
+2011H3022H,Mathematics,M.E,8.54,3
+2011S3023S,Chemical Engineering,M.Sc,9.04,2
+2011A3024A,Physics,B.E,6.74,2
+2011A3025A,Humanities and Social Sciences,B.E,6.35,1
+2011H3026H,Humanities and Social Sciences,M.E,8.09,4
+2011A3027A,Mechanical Engineering,B.E,7.18,2
+2011S3028S,Biological Sciences,M.Sc,7.8,1
+2011P3029P,Economics and Finanace,B.Pharm,7.38,2
+2011A3030A,Chemical Engineering,B.E,8.41,1
+2011H3031H,Physics,M.E,6.38,3
+2011H3032H,Physics,M.E,5.14,4
+2011H3033H,Electrical and Electronics Engineering,M.E,8.52,2
+2011H3034H,Electrical and Electronics Engineering,M.E,6.08,4
+2011A3035A,Computer Science and Information Systems,B.E,7.69,3
+2011H3036H,Economics and Finanace,M.E,6.16,4
+2011H3037H,Chemisty,M.E,8.83,3
+2011A3038A,Biological Sciences,B.E,9.85,1
+2011A3039A,Physics,B.E,8.77,1
+2011A3040A,Chemical Engineering,B.E,8.07,4
+2011H3041H,Physics,M.E,5.81,2
+2011A3042A,Civil Engineering,B.E,9.9,2
+2011H3043H,Chemisty,M.E,5.15,4
+2011A3044A,Physics,B.E,5.6,1
+2011A3045A,Chemical Engineering,B.E,9.73,4
+2011H3046H,Electrical and Electronics Engineering,M.E,6.91,4
+2011A3047A,Chemisty,B.E,9.24,2
+2011A3048A,Chemical Engineering,B.E,6.56,2
+2011A3049A,Physics,B.E,7.15,3
+2011H3050H,Humanities and Social Sciences,M.E,5.45,3
+2011A3051A,Electrical and Electronics Engineering,B.E,6.0,3
+2011S3052S,Pharmacy,M.Sc,8.17,3
+2011A3053A,Humanities and Social Sciences,B.E,8.76,3
+2011A3054A,Biological Sciences,B.E,9.4,1
+2011A3055A,Mathematics,B.E,5.3,3
+2011D3056D,Chemical Engineering,Ph.D,5.84,1
+2011H3057H,Biological Sciences,M.E,6.63,3
+2011A3058A,Biological Sciences,B.E,9.0,3
+2011A3059A,Chemical Engineering,B.E,9.78,2
+2011A3060A,Pharmacy,B.E,8.1,2
+2011H3061H,Mathematics,M.E,6.09,3
+2011A3062A,Chemical Engineering,B.E,9.36,2
+2011P3063P,Mechanical Engineering,B.Pharm,6.87,2
+2011S3064S,Humanities and Social Sciences,M.Sc,8.53,2
+2011P3065P,Chemisty,B.Pharm,9.07,4
+2011D3066D,Biological Sciences,Ph.D,8.11,1
+2011P3067P,Computer Science and Information Systems,B.Pharm,9.68,1
+2011H3068H,Economics and Finanace,M.E,8.42,2
+2011A3069A,Chemical Engineering,B.E,7.49,2
+2011A3070A,Mechanical Engineering,B.E,9.6,4
+2011H3071H,Pharmacy,M.E,7.74,4
+2011P3072P,Humanities and Social Sciences,B.Pharm,9.72,1
+2011A3073A,Economics and Finanace,B.E,6.23,2
+2011A3074A,Civil Engineering,B.E,9.8,4
+2011H3075H,Civil Engineering,M.E,8.97,1
+2011A3076A,Economics and Finanace,B.E,5.29,4
+2011H3077H,Pharmacy,M.E,8.54,1
+2011A3078A,Mathematics,B.E,5.45,3
+2011A3079A,Mathematics,B.E,7.81,4
+2011A3080A,Mathematics,B.E,8.22,3
+2011A3081A,Economics and Finanace,B.E,5.68,2
+2011S3082S,Computer Science and Information Systems,M.Sc,9.72,4
+2011A3083A,Electrical and Electronics Engineering,B.E,7.18,1
+2011P3084P,Humanities and Social Sciences,B.Pharm,5.12,1
+2011H3085H,Economics and Finanace,M.E,7.81,4
+2011H3086H,Computer Science and Information Systems,M.E,7.49,3
+2011A3087A,Pharmacy,B.E,8.49,1
+2011A3088A,Civil Engineering,B.E,9.73,3
+2011A3089A,Mechanical Engineering,B.E,8.74,2
+2011A3090A,Pharmacy,B.E,6.57,1
+2011H3091H,Mathematics,M.E,5.14,3
+2011S3092S,Electrical and Electronics Engineering,M.Sc,5.94,1
+2011A3093A,Pharmacy,B.E,9.37,2
+2011A3094A,Mathematics,B.E,6.85,1
+2011A3095A,Civil Engineering,B.E,5.49,2
+2011H3096H,Civil Engineering,M.E,8.56,1
+2011A3097A,Physics,B.E,6.02,2
+2011H3098H,Mechanical Engineering,M.E,8.2,1
+2011A3099A,Biological Sciences,B.E,9.61,2
+2011A3100A,Physics,B.E,5.58,3
+2011H3101H,Biological Sciences,M.E,9.52,3
+2011A3102A,Chemisty,B.E,9.94,2
+2011A3103A,Economics and Finanace,B.E,9.59,4
+2011A3104A,Biological Sciences,B.E,5.78,2
+2011H3105H,Mechanical Engineering,M.E,8.34,4
+2011A3106A,Pharmacy,B.E,7.85,3
+2011A3107A,Civil Engineering,B.E,9.7,3
+2011A3108A,Electrical and Electronics Engineering,B.E,8.45,4
+2011H3109H,Electrical and Electronics Engineering,M.E,6.89,2
+2011A3110A,Humanities and Social Sciences,B.E,6.27,1
+2011H3111H,Pharmacy,M.E,8.46,1
+2011D3112D,Physics,Ph.D,8.84,2
+2011H3113H,Pharmacy,M.E,8.45,1
+2011H3114H,Pharmacy,M.E,5.57,2
+2011H3115H,Humanities and Social Sciences,M.E,5.33,3
+2011A3116A,Chemisty,B.E,9.72,3
+2011A3117A,Pharmacy,B.E,8.58,4
+2011A3118A,Computer Science and Information Systems,B.E,7.68,3
+2011A3119A,Mechanical Engineering,B.E,6.31,1
+2011A3120A,Electrical and Electronics Engineering,B.E,9.11,2
+2011H3121H,Chemical Engineering,M.E,7.77,4
+2011P3122P,Civil Engineering,B.Pharm,5.64,1
+2011P3123P,Humanities and Social Sciences,B.Pharm,7.39,1
+2011A3124A,Civil Engineering,B.E,5.19,4
+2011A3125A,Chemisty,B.E,5.42,1
+2011A3126A,Civil Engineering,B.E,7.18,3
+2011A3127A,Humanities and Social Sciences,B.E,8.69,4
+2011P3128P,Mechanical Engineering,B.Pharm,8.85,2
+2011A3129A,Civil Engineering,B.E,8.62,1
+2011A3130A,Mechanical Engineering,B.E,5.07,2
+2011A3131A,Economics and Finanace,B.E,9.3,3
+2011A3132A,Chemisty,B.E,6.75,2
+2011A3133A,Pharmacy,B.E,5.28,4
+2011S3134S,Chemisty,M.Sc,9.73,1
+2011H3135H,Civil Engineering,M.E,5.92,2
+2011A3136A,Economics and Finanace,B.E,8.29,4
+2011A3137A,Biological Sciences,B.E,9.36,1
+2011A3138A,Civil Engineering,B.E,8.01,3
+2011A3139A,Mathematics,B.E,5.81,3
+2011H3140H,Biological Sciences,M.E,5.56,1
+2011A3141A,Electrical and Electronics Engineering,B.E,7.59,1
+2011H3142H,Mechanical Engineering,M.E,8.6,3
+2011H3143H,Economics and Finanace,M.E,5.19,1
+2011H3144H,Pharmacy,M.E,6.17,4
+2011A3145A,Biological Sciences,B.E,7.81,4
+2011P3146P,Mechanical Engineering,B.Pharm,5.6,2
+2011H3147H,Pharmacy,M.E,5.18,1
+2011H3148H,Biological Sciences,M.E,8.24,4
+2011A3149A,Mechanical Engineering,B.E,8.22,3
+2011A3150A,Pharmacy,B.E,8.08,4
+2011S3151S,Physics,M.Sc,6.19,4
+2011H3152H,Mechanical Engineering,M.E,6.25,4
+2011A3153A,Humanities and Social Sciences,B.E,9.6,2
+2011H3154H,Humanities and Social Sciences,M.E,7.68,3
+2011A3155A,Civil Engineering,B.E,5.72,2
+2011A3156A,Electrical and Electronics Engineering,B.E,10.0,2
+2011D3157D,Economics and Finanace,Ph.D,8.7,4
+2011A3158A,Computer Science and Information Systems,B.E,5.72,4
+2011D3159D,Electrical and Electronics Engineering,Ph.D,8.55,2
+2011H3160H,Electrical and Electronics Engineering,M.E,5.63,3
+2011S3161S,Civil Engineering,M.Sc,9.71,4
+2011D3162D,Electrical and Electronics Engineering,Ph.D,7.3,4
+2011A3163A,Humanities and Social Sciences,B.E,9.76,4
+2011A3164A,Economics and Finanace,B.E,6.69,4
+2011A3165A,Chemisty,B.E,8.62,2
+2011H3166H,Civil Engineering,M.E,6.08,2
+2011P3167P,Mechanical Engineering,B.Pharm,5.97,3
+2011S3168S,Humanities and Social Sciences,M.Sc,7.74,4
+2011A3169A,Economics and Finanace,B.E,8.22,2
+2011A3170A,Electrical and Electronics Engineering,B.E,5.71,1
+2011A3171A,Mathematics,B.E,8.26,3
+2011A3172A,Mechanical Engineering,B.E,7.06,2
+2011A3173A,Civil Engineering,B.E,6.69,2
+2011A3174A,Pharmacy,B.E,6.92,4
+2011A3175A,Chemisty,B.E,9.72,1
+2011D3176D,Physics,Ph.D,6.03,2
+2011D3177D,Computer Science and Information Systems,Ph.D,9.92,2
+2011A3178A,Pharmacy,B.E,7.01,2
+2011A3179A,Chemisty,B.E,7.06,4
+2011A3180A,Civil Engineering,B.E,9.34,2
+2011A3181A,Humanities and Social Sciences,B.E,6.58,1
+2011A3182A,Pharmacy,B.E,5.49,1
+2011A3183A,Chemical Engineering,B.E,5.11,1
+2011A3184A,Economics and Finanace,B.E,9.26,3
+2011H3185H,Economics and Finanace,M.E,6.02,2
+2011A3186A,Civil Engineering,B.E,6.54,1
+2011H3187H,Economics and Finanace,M.E,8.12,3
+2011H3188H,Mechanical Engineering,M.E,9.52,4
+2011H3189H,Humanities and Social Sciences,M.E,6.69,2
+2011P3190P,Computer Science and Information Systems,B.Pharm,6.52,2
+2011A3191A,Chemisty,B.E,5.82,1
+2011P3192P,Mechanical Engineering,B.Pharm,7.05,4
+2011A3193A,Physics,B.E,9.92,2
+2011A3194A,Chemical Engineering,B.E,8.32,2
+2011H3195H,Humanities and Social Sciences,M.E,5.49,1
+2011A3196A,Chemisty,B.E,9.4,4
+2011A3197A,Electrical and Electronics Engineering,B.E,7.38,1
+2011S3198S,Mechanical Engineering,M.Sc,8.44,3
+2011A3199A,Humanities and Social Sciences,B.E,7.92,2
+2011H3200H,Humanities and Social Sciences,M.E,9.47,4
+2011D3201D,Pharmacy,Ph.D,7.83,3
+2011P3202P,Chemical Engineering,B.Pharm,9.43,1
+2011A3203A,Chemisty,B.E,5.67,3
+2011H3204H,Pharmacy,M.E,6.97,2
+2011H3205H,Chemical Engineering,M.E,9.96,2
+2011A3206A,Pharmacy,B.E,6.6,1
+2011P3207P,Economics and Finanace,B.Pharm,8.01,4
+2011A3208A,Biological Sciences,B.E,8.11,4
+2011S3209S,Chemisty,M.Sc,6.83,3
+2011P3210P,Civil Engineering,B.Pharm,7.57,1
+2011A3211A,Humanities and Social Sciences,B.E,6.59,2
+2011H3212H,Biological Sciences,M.E,8.25,3
+2011H3213H,Computer Science and Information Systems,M.E,7.24,4
+2011A3214A,Economics and Finanace,B.E,5.2,4
+2011A3215A,Pharmacy,B.E,5.4,1
+2011D3216D,Chemisty,Ph.D,9.36,1
+2011A3217A,Physics,B.E,7.87,3
+2011A3218A,Electrical and Electronics Engineering,B.E,6.0,4
+2011A3219A,Electrical and Electronics Engineering,B.E,6.94,3
+2011D3220D,Physics,Ph.D,6.88,3
+2011H3221H,Mathematics,M.E,9.27,4
+2011H3222H,Electrical and Electronics Engineering,M.E,8.54,2
+2011P3223P,Economics and Finanace,B.Pharm,8.6,2
+2011P3224P,Humanities and Social Sciences,B.Pharm,6.41,1
+2011A3225A,Humanities and Social Sciences,B.E,9.59,1
+2011A3226A,Pharmacy,B.E,9.57,1
+2011H3227H,Biological Sciences,M.E,9.05,1
+2011A3228A,Civil Engineering,B.E,5.37,3
+2011A3229A,Chemical Engineering,B.E,5.77,2
+2011H3230H,Chemical Engineering,M.E,9.32,1
+2011A3231A,Physics,B.E,5.07,3
+2011A3232A,Mechanical Engineering,B.E,5.35,4
+2011A3233A,Pharmacy,B.E,9.37,1
+2011A3234A,Mechanical Engineering,B.E,5.61,2
+2011A3235A,Civil Engineering,B.E,9.59,1
+2011H3236H,Chemisty,M.E,5.46,1
+2011A3237A,Biological Sciences,B.E,7.16,2
+2011P3238P,Civil Engineering,B.Pharm,5.25,1
+2011A3239A,Electrical and Electronics Engineering,B.E,6.6,2
+2011P3240P,Humanities and Social Sciences,B.Pharm,9.09,4
+2011A3241A,Mechanical Engineering,B.E,8.53,4
+2011S3242S,Computer Science and Information Systems,M.Sc,8.66,1
+2011D3243D,Humanities and Social Sciences,Ph.D,5.92,1
+2011A3244A,Chemical Engineering,B.E,5.88,2
+2011D3245D,Computer Science and Information Systems,Ph.D,5.72,2
+2011A3246A,Physics,B.E,5.62,1
+2011A3247A,Civil Engineering,B.E,5.94,3
+2011H3248H,Civil Engineering,M.E,5.81,3
+2011D3249D,Mechanical Engineering,Ph.D,7.06,3
+2011A3250A,Civil Engineering,B.E,7.13,3
+2011A3251A,Physics,B.E,6.2,1
+2011A3252A,Pharmacy,B.E,9.45,3
+2011A3253A,Computer Science and Information Systems,B.E,8.77,1
+2011A3254A,Biological Sciences,B.E,5.31,3
+2011A3255A,Physics,B.E,5.3,4
+2011D3256D,Chemical Engineering,Ph.D,8.37,4
+2011A3257A,Biological Sciences,B.E,9.89,1
+2011S3258S,Economics and Finanace,M.Sc,7.94,3
+2011A3259A,Physics,B.E,8.41,1
+2011A3260A,Mechanical Engineering,B.E,6.31,3
+2011A3261A,Humanities and Social Sciences,B.E,6.79,4
+2011S3262S,Economics and Finanace,M.Sc,7.5,4
+2011A3263A,Economics and Finanace,B.E,7.73,2
+2011A3264A,Civil Engineering,B.E,7.94,1
+2011A3265A,Physics,B.E,6.76,4
+2011D3266D,Humanities and Social Sciences,Ph.D,6.62,4
+2011S3267S,Humanities and Social Sciences,M.Sc,9.34,4
+2011A3268A,Humanities and Social Sciences,B.E,5.76,4
+2011A3269A,Electrical and Electronics Engineering,B.E,9.75,2
+2011H3270H,Economics and Finanace,M.E,6.91,2
+2011A3271A,Electrical and Electronics Engineering,B.E,6.83,4
+2011A3272A,Pharmacy,B.E,9.53,2
+2011A3273A,Mechanical Engineering,B.E,9.73,2
+2011P3274P,Chemical Engineering,B.Pharm,5.08,4
+2011A3275A,Chemisty,B.E,6.35,2
+2011H3276H,Biological Sciences,M.E,7.49,2
+2011H3277H,Computer Science and Information Systems,M.E,9.15,3
+2011A3278A,Civil Engineering,B.E,5.95,4
+2011H3279H,Electrical and Electronics Engineering,M.E,7.18,2
+2011A3280A,Humanities and Social Sciences,B.E,9.85,1
+2011A3281A,Economics and Finanace,B.E,9.81,1
+2011A3282A,Economics and Finanace,B.E,8.53,3
+2011S3283S,Chemisty,M.Sc,6.18,4
+2011A3284A,Civil Engineering,B.E,7.08,1
+2011A3285A,Computer Science and Information Systems,B.E,8.16,3
+2011A3286A,Pharmacy,B.E,6.55,4
+2011A3287A,Mechanical Engineering,B.E,5.61,2
+2011A3288A,Mathematics,B.E,6.41,3
+2011A3289A,Physics,B.E,9.32,3
+2011H3290H,Mechanical Engineering,M.E,9.85,1
+2011A3291A,Biological Sciences,B.E,7.24,4
+2011A3292A,Civil Engineering,B.E,6.05,3
+2011A3293A,Physics,B.E,6.17,3
+2011S3294S,Pharmacy,M.Sc,9.58,4
+2011P3295P,Computer Science and Information Systems,B.Pharm,7.77,3
+2011A3296A,Physics,B.E,5.97,2
+2011P3297P,Economics and Finanace,B.Pharm,8.91,2
+2011A3298A,Physics,B.E,7.96,2
+2011A3299A,Civil Engineering,B.E,7.44,4
+2011P3300P,Biological Sciences,B.Pharm,6.57,1
+2011H3301H,Electrical and Electronics Engineering,M.E,8.75,3
+2011H3302H,Chemical Engineering,M.E,7.65,4
+2011A3303A,Mechanical Engineering,B.E,9.5,3
+2011A3304A,Chemical Engineering,B.E,7.25,2
+2011D3305D,Computer Science and Information Systems,Ph.D,8.56,3
+2011A3306A,Biological Sciences,B.E,7.37,2
+2011A3307A,Pharmacy,B.E,5.02,3
+2011S3308S,Mechanical Engineering,M.Sc,7.41,2
+2011A3309A,Computer Science and Information Systems,B.E,9.78,4
+2011A3310A,Economics and Finanace,B.E,8.02,2
+2011A3311A,Pharmacy,B.E,5.94,1
+2011H3312H,Computer Science and Information Systems,M.E,8.67,2
+2011A3313A,Mathematics,B.E,8.99,3
+2011H3314H,Civil Engineering,M.E,8.95,4
+2011A3315A,Physics,B.E,9.09,1
+2011A3316A,Computer Science and Information Systems,B.E,6.3,2
+2011A3317A,Computer Science and Information Systems,B.E,5.13,4
+2011A3318A,Chemical Engineering,B.E,6.84,2
+2011A3319A,Humanities and Social Sciences,B.E,8.13,2
+2011A3320A,Mechanical Engineering,B.E,7.22,3
+2011A3321A,Chemical Engineering,B.E,9.68,4
+2011P3322P,Computer Science and Information Systems,B.Pharm,5.99,4
+2011A3323A,Computer Science and Information Systems,B.E,5.81,2
+2011P3324P,Economics and Finanace,B.Pharm,9.78,1
+2011H3325H,Biological Sciences,M.E,9.34,4
+2011A3326A,Economics and Finanace,B.E,5.71,4
+2011A3327A,Mathematics,B.E,5.13,4
+2011A3328A,Pharmacy,B.E,6.62,2
+2011A3329A,Economics and Finanace,B.E,8.07,1
+2011A3330A,Pharmacy,B.E,6.41,1
+2011H3331H,Mathematics,M.E,5.28,2
+2011A3332A,Humanities and Social Sciences,B.E,5.32,1
+2011A3333A,Chemisty,B.E,5.76,2
+2011A3334A,Physics,B.E,6.18,3
+2011D3335D,Economics and Finanace,Ph.D,6.69,4
+2011S3336S,Economics and Finanace,M.Sc,8.75,4
+2011S3337S,Electrical and Electronics Engineering,M.Sc,7.73,4
+2011A3338A,Pharmacy,B.E,8.95,2
+2011P3339P,Chemical Engineering,B.Pharm,9.07,4
+2011A3340A,Chemisty,B.E,5.58,3
+2011A3341A,Civil Engineering,B.E,6.2,1
+2011A3342A,Biological Sciences,B.E,8.21,2
+2011A3343A,Humanities and Social Sciences,B.E,5.21,2
+2011S3344S,Civil Engineering,M.Sc,9.75,2
+2011A3345A,Mathematics,B.E,6.6,4
+2011A3346A,Pharmacy,B.E,8.35,1
+2011A3347A,Mathematics,B.E,8.83,4
+2011A3348A,Biological Sciences,B.E,8.35,4
+2011S3349S,Mathematics,M.Sc,5.34,2
+2011H3350H,Mechanical Engineering,M.E,5.18,2
+2011A3351A,Mechanical Engineering,B.E,7.46,3
+2011P3352P,Chemical Engineering,B.Pharm,7.91,3
+2011A3353A,Mathematics,B.E,9.49,2
+2011A3354A,Electrical and Electronics Engineering,B.E,6.06,1
+2011A3355A,Pharmacy,B.E,8.72,3
+2011H3356H,Computer Science and Information Systems,M.E,7.78,4
+2011S3357S,Chemisty,M.Sc,9.17,3
+2011A3358A,Economics and Finanace,B.E,5.98,3
+2011A3359A,Electrical and Electronics Engineering,B.E,5.6,3
+2011A3360A,Humanities and Social Sciences,B.E,5.14,4
+2011A3361A,Civil Engineering,B.E,5.92,1
+2011A3362A,Electrical and Electronics Engineering,B.E,9.02,2
+2011S3363S,Civil Engineering,M.Sc,8.8,3
+2011H3364H,Physics,M.E,8.37,3
+2011A3365A,Economics and Finanace,B.E,7.32,2
+2011S3366S,Mechanical Engineering,M.Sc,9.45,3
+2011H3367H,Civil Engineering,M.E,7.56,3
+2011A3368A,Biological Sciences,B.E,6.08,2
+2011P3369P,Economics and Finanace,B.Pharm,6.03,4
+2011A3370A,Physics,B.E,6.64,4
+2011A3371A,Mechanical Engineering,B.E,8.77,4
+2011A3372A,Humanities and Social Sciences,B.E,7.8,3
+2011A3373A,Pharmacy,B.E,9.29,2
+2011P3374P,Chemical Engineering,B.Pharm,8.08,1
+2011S3375S,Biological Sciences,M.Sc,8.1,1
+2011A3376A,Computer Science and Information Systems,B.E,9.65,3
+2011A3377A,Humanities and Social Sciences,B.E,6.91,2
+2011A3378A,Chemical Engineering,B.E,5.27,2
+2011A3379A,Pharmacy,B.E,5.95,4
+2011A3380A,Physics,B.E,9.38,1
+2011S3381S,Computer Science and Information Systems,M.Sc,7.09,1
+2011A3382A,Computer Science and Information Systems,B.E,8.85,1
+2011A3383A,Computer Science and Information Systems,B.E,5.71,4
+2011S3384S,Civil Engineering,M.Sc,5.6,1
+2011A3385A,Humanities and Social Sciences,B.E,5.87,1
+2011A3386A,Chemical Engineering,B.E,8.62,4
+2011H3387H,Mechanical Engineering,M.E,8.47,3
+2011S3388S,Computer Science and Information Systems,M.Sc,5.11,4
+2011H3389H,Chemical Engineering,M.E,8.66,2
+2011S3390S,Civil Engineering,M.Sc,5.33,4
+2011P3391P,Biological Sciences,B.Pharm,5.19,4
+2011A3392A,Humanities and Social Sciences,B.E,7.06,1
+2011A3393A,Mechanical Engineering,B.E,9.49,1
+2011A3394A,Computer Science and Information Systems,B.E,8.55,4
+2011A3395A,Civil Engineering,B.E,9.01,1
+2011P3396P,Pharmacy,B.Pharm,6.36,2
+2011S3397S,Civil Engineering,M.Sc,8.45,1
+2011A3398A,Pharmacy,B.E,5.22,4
+2011A3399A,Mathematics,B.E,9.76,4
+2011A3400A,Civil Engineering,B.E,8.58,1
+2011A3401A,Computer Science and Information Systems,B.E,6.82,3
+2011H3402H,Humanities and Social Sciences,M.E,9.1,2
+2011A3403A,Economics and Finanace,B.E,8.29,3
+2011S3404S,Physics,M.Sc,7.76,2
+2011A3405A,Economics and Finanace,B.E,8.68,3
+2011A3406A,Electrical and Electronics Engineering,B.E,5.87,4
+2011A3407A,Economics and Finanace,B.E,7.34,3
+2011A3408A,Computer Science and Information Systems,B.E,5.74,4
+2011H3409H,Pharmacy,M.E,7.71,3
+2011H3410H,Electrical and Electronics Engineering,M.E,5.43,3
+2011A3411A,Chemisty,B.E,6.66,3
+2011P3412P,Pharmacy,B.Pharm,7.33,2
+2011D3413D,Biological Sciences,Ph.D,6.72,2
+2011A3414A,Mechanical Engineering,B.E,6.71,2
+2011H3415H,Mechanical Engineering,M.E,5.7,2
+2011A3416A,Physics,B.E,6.98,4
+2011H3417H,Chemical Engineering,M.E,9.95,1
+2011P3418P,Chemical Engineering,B.Pharm,7.88,3
+2011H3419H,Mathematics,M.E,8.32,2
+2011S3420S,Physics,M.Sc,6.13,3
+2011A3421A,Humanities and Social Sciences,B.E,5.58,3
+2011P3422P,Electrical and Electronics Engineering,B.Pharm,7.62,4
+2011A3423A,Civil Engineering,B.E,7.89,4
+2011A3424A,Physics,B.E,8.76,1
+2011P3425P,Civil Engineering,B.Pharm,8.2,4
+2011A3426A,Chemisty,B.E,9.17,2
+2011A3427A,Physics,B.E,5.0,1
+2011H3428H,Humanities and Social Sciences,M.E,5.72,1
+2011S3429S,Physics,M.Sc,9.75,2
+2011A3430A,Electrical and Electronics Engineering,B.E,6.51,2
+2011A3431A,Mathematics,B.E,8.19,2
+2011S3432S,Biological Sciences,M.Sc,5.08,3
+2011S3433S,Chemical Engineering,M.Sc,6.04,1
+2011A3434A,Chemical Engineering,B.E,6.27,1
+2011S3435S,Electrical and Electronics Engineering,M.Sc,9.72,4
+2011P3436P,Biological Sciences,B.Pharm,8.49,3
+2011H3437H,Economics and Finanace,M.E,6.94,2
+2011A3438A,Computer Science and Information Systems,B.E,7.14,4
+2011A3439A,Pharmacy,B.E,8.07,1
+2011A3440A,Pharmacy,B.E,7.46,1
+2011A3441A,Humanities and Social Sciences,B.E,6.6,1
+2011P3442P,Computer Science and Information Systems,B.Pharm,8.5,4
+2011A3443A,Mathematics,B.E,8.85,4
+2011A3444A,Physics,B.E,7.94,3
+2011H3445H,Pharmacy,M.E,7.45,1
+2011H3446H,Electrical and Electronics Engineering,M.E,5.19,4
+2011A3447A,Chemical Engineering,B.E,7.37,1
+2011D3448D,Chemical Engineering,Ph.D,6.23,1
+2011A3449A,Humanities and Social Sciences,B.E,6.9,3
+2011A3450A,Civil Engineering,B.E,8.02,4
+2011A3451A,Biological Sciences,B.E,6.61,4
+2011H3452H,Civil Engineering,M.E,8.07,1
+2011A3453A,Biological Sciences,B.E,8.42,1
+2011H3454H,Mathematics,M.E,7.22,2
+2011H3455H,Humanities and Social Sciences,M.E,6.37,4
+2011A3456A,Mathematics,B.E,8.27,1
+2011A3457A,Computer Science and Information Systems,B.E,7.93,4
+2011A3458A,Chemisty,B.E,9.51,3
+2011P3459P,Chemisty,B.Pharm,5.2,3
+2011A3460A,Electrical and Electronics Engineering,B.E,5.55,2
+2011A3461A,Chemical Engineering,B.E,6.0,4
+2011A3462A,Civil Engineering,B.E,5.03,2
+2011A3463A,Electrical and Electronics Engineering,B.E,5.22,2
+2011S3464S,Civil Engineering,M.Sc,6.7,4
+2011H3465H,Civil Engineering,M.E,8.57,1
+2011A3466A,Chemical Engineering,B.E,5.82,2
+2011A3467A,Physics,B.E,9.89,1
+2011H3468H,Humanities and Social Sciences,M.E,7.48,4
+2011H3469H,Biological Sciences,M.E,8.54,3
+2011A3470A,Pharmacy,B.E,7.72,4
+2011A3471A,Humanities and Social Sciences,B.E,5.17,4
+2011A3472A,Mathematics,B.E,8.51,1
+2011A3473A,Chemical Engineering,B.E,5.44,3
+2011A3474A,Humanities and Social Sciences,B.E,7.01,2
+2011A3475A,Chemisty,B.E,5.61,2
+2011A3476A,Chemical Engineering,B.E,7.85,2
+2011P3477P,Humanities and Social Sciences,B.Pharm,8.3,3
+2011H3478H,Mathematics,M.E,6.32,1
+2011D3479D,Pharmacy,Ph.D,5.93,4
+2011A3480A,Chemical Engineering,B.E,7.8,2
+2011A3481A,Civil Engineering,B.E,5.74,2
+2011A3482A,Physics,B.E,8.51,1
+2011H3483H,Economics and Finanace,M.E,5.3,1
+2011H3484H,Chemical Engineering,M.E,7.62,3
+2011A3485A,Mechanical Engineering,B.E,7.65,3
+2011A3486A,Chemisty,B.E,6.6,2
+2011A3487A,Humanities and Social Sciences,B.E,9.01,2
+2011D3488D,Pharmacy,Ph.D,7.37,4
+2011A3489A,Civil Engineering,B.E,5.5,4
+2011A3490A,Mathematics,B.E,8.17,1
+2011A3491A,Chemisty,B.E,8.34,2
+2011A3492A,Chemical Engineering,B.E,7.39,1
+2011D3493D,Mechanical Engineering,Ph.D,5.82,4
+2011A3494A,Pharmacy,B.E,6.81,2
+2011S3495S,Computer Science and Information Systems,M.Sc,7.03,4
+2011H3496H,Biological Sciences,M.E,9.35,4
+2011S3497S,Biological Sciences,M.Sc,5.96,3
+2011S3498S,Electrical and Electronics Engineering,M.Sc,7.25,2
+2011P3499P,Chemisty,B.Pharm,7.4,4
+2011A3500A,Pharmacy,B.E,9.36,2
+2011A3501A,Civil Engineering,B.E,7.99,3
+2011S3502S,Humanities and Social Sciences,M.Sc,8.87,4
+2011A3503A,Mechanical Engineering,B.E,5.15,1
+2011A3504A,Mathematics,B.E,5.42,2
+2011H3505H,Pharmacy,M.E,5.2,3
+2011A3506A,Electrical and Electronics Engineering,B.E,6.4,3
+2011A3507A,Computer Science and Information Systems,B.E,9.18,3
+2011A3508A,Computer Science and Information Systems,B.E,9.28,4
+2011A3509A,Mathematics,B.E,7.44,2
+2011A3510A,Humanities and Social Sciences,B.E,6.69,4
+2011A3511A,Economics and Finanace,B.E,7.66,1
+2011P3512P,Computer Science and Information Systems,B.Pharm,8.15,3
+2011A3513A,Computer Science and Information Systems,B.E,7.97,2
+2011A3514A,Economics and Finanace,B.E,9.63,3
+2011D3515D,Civil Engineering,Ph.D,7.83,3
+2011A3516A,Computer Science and Information Systems,B.E,5.96,3
+2011H3517H,Mathematics,M.E,8.38,3
+2011P3518P,Computer Science and Information Systems,B.Pharm,7.99,2
+2011A3519A,Mechanical Engineering,B.E,9.45,2
+2011A3520A,Physics,B.E,6.48,3
+2011P3521P,Economics and Finanace,B.Pharm,6.02,4
+2011H3522H,Mechanical Engineering,M.E,7.6,1
+2011A3523A,Physics,B.E,8.61,3
+2011A3524A,Pharmacy,B.E,6.24,3
+2011A3525A,Chemisty,B.E,9.44,4
+2011P3526P,Economics and Finanace,B.Pharm,6.23,4
+2011H3527H,Physics,M.E,6.35,4
+2011A3528A,Mathematics,B.E,6.71,3
+2011H3529H,Mechanical Engineering,M.E,5.36,1
+2011A3530A,Electrical and Electronics Engineering,B.E,9.07,4
+2011A3531A,Biological Sciences,B.E,5.33,3
+2011A3532A,Humanities and Social Sciences,B.E,7.27,3
+2011A3533A,Mathematics,B.E,7.84,2
+2011A3534A,Computer Science and Information Systems,B.E,5.25,4
+2011S3535S,Pharmacy,M.Sc,9.91,1
+2011H3536H,Humanities and Social Sciences,M.E,7.19,3
+2011S3537S,Chemical Engineering,M.Sc,5.7,1
+2011A3538A,Economics and Finanace,B.E,8.8,1
+2011S3539S,Biological Sciences,M.Sc,9.24,3
+2011A3540A,Chemical Engineering,B.E,7.74,3
+2011A3541A,Chemisty,B.E,8.92,4
+2011A3542A,Civil Engineering,B.E,5.2,1
+2011A3543A,Biological Sciences,B.E,5.56,3
+2011S3544S,Computer Science and Information Systems,M.Sc,7.15,2
+2011A3545A,Civil Engineering,B.E,8.09,3
+2011A3546A,Mathematics,B.E,6.77,2
+2011A3547A,Chemisty,B.E,5.11,3
+2011A3548A,Civil Engineering,B.E,5.86,4
+2011A3549A,Civil Engineering,B.E,7.71,1
+2011H3550H,Chemisty,M.E,5.46,3
+2011H3551H,Humanities and Social Sciences,M.E,5.62,2
+2011A3552A,Electrical and Electronics Engineering,B.E,6.1,4
+2011A3553A,Mechanical Engineering,B.E,5.83,2
+2011A3554A,Civil Engineering,B.E,6.4,1
+2011A3555A,Civil Engineering,B.E,8.36,4
+2011A3556A,Mechanical Engineering,B.E,9.3,4
+2011H3557H,Humanities and Social Sciences,M.E,6.07,1
+2011A3558A,Chemical Engineering,B.E,7.04,4
+2011A3559A,Humanities and Social Sciences,B.E,5.75,4
+2011A3560A,Mechanical Engineering,B.E,8.75,1
+2011H3561H,Mathematics,M.E,8.83,2
+2011P3562P,Pharmacy,B.Pharm,7.46,3
+2011S3563S,Economics and Finanace,M.Sc,5.1,4
+2011D3564D,Humanities and Social Sciences,Ph.D,8.03,3
+2011A3565A,Chemisty,B.E,8.52,4
+2011A3566A,Chemisty,B.E,8.94,2
+2011S3567S,Civil Engineering,M.Sc,6.57,4
+2011A3568A,Computer Science and Information Systems,B.E,6.24,3
+2011S3569S,Civil Engineering,M.Sc,6.9,4
+2011H3570H,Biological Sciences,M.E,8.43,2
+2011A3571A,Pharmacy,B.E,8.49,4
+2011P3572P,Biological Sciences,B.Pharm,6.94,3
+2011A3573A,Economics and Finanace,B.E,6.9,4
+2011A3574A,Electrical and Electronics Engineering,B.E,8.62,4
+2011A3575A,Chemical Engineering,B.E,7.19,3
+2011H3576H,Civil Engineering,M.E,6.35,3
+2011H3577H,Humanities and Social Sciences,M.E,5.79,2
+2011A3578A,Mechanical Engineering,B.E,8.23,2
+2011S3579S,Biological Sciences,M.Sc,9.9,3
+2011H3580H,Biological Sciences,M.E,8.8,1
+2011A3581A,Physics,B.E,9.58,1
+2011A3582A,Mechanical Engineering,B.E,8.48,1
+2011A3583A,Computer Science and Information Systems,B.E,5.4,3
+2011A3584A,Humanities and Social Sciences,B.E,5.75,2
+2011H3585H,Electrical and Electronics Engineering,M.E,6.39,2
+2011A3586A,Civil Engineering,B.E,7.05,2
+2011A3587A,Mathematics,B.E,5.33,1
+2011H3588H,Mechanical Engineering,M.E,5.26,2
+2011A3589A,Computer Science and Information Systems,B.E,7.74,4
+2011P3590P,Chemisty,B.Pharm,6.18,2
+2011S3591S,Mechanical Engineering,M.Sc,8.56,1
+2011D3592D,Chemical Engineering,Ph.D,6.35,2
+2011D3593D,Mathematics,Ph.D,5.62,4
+2011P3594P,Economics and Finanace,B.Pharm,8.62,2
+2011A3595A,Mathematics,B.E,9.66,2
+2011A3596A,Biological Sciences,B.E,6.63,2
+2011A3597A,Computer Science and Information Systems,B.E,7.57,1
+2011P3598P,Biological Sciences,B.Pharm,6.97,2
+2011A3599A,Biological Sciences,B.E,7.35,2
+2011A3600A,Civil Engineering,B.E,9.31,3
+2011H3601H,Mechanical Engineering,M.E,8.92,4
+2011A3602A,Civil Engineering,B.E,7.27,1
+2011H3603H,Physics,M.E,6.24,1
+2011H3604H,Chemical Engineering,M.E,9.91,2
+2011A3605A,Biological Sciences,B.E,6.44,4
+2011S3606S,Pharmacy,M.Sc,8.77,4
+2011D3607D,Mathematics,Ph.D,7.33,3
+2011A3608A,Mechanical Engineering,B.E,7.89,4
+2011D3609D,Computer Science and Information Systems,Ph.D,7.62,4
+2011P3610P,Chemisty,B.Pharm,7.52,4
+2011D3611D,Chemisty,Ph.D,9.02,2
+2011A3612A,Chemical Engineering,B.E,8.0,3
+2011A3613A,Computer Science and Information Systems,B.E,5.58,4
+2011A3614A,Electrical and Electronics Engineering,B.E,6.88,3
+2011A3615A,Biological Sciences,B.E,6.57,2
+2011S3616S,Biological Sciences,M.Sc,6.08,2
+2011A3617A,Humanities and Social Sciences,B.E,9.33,2
+2011A3618A,Pharmacy,B.E,8.97,4
+2011D3619D,Civil Engineering,Ph.D,5.71,2
+2011P3620P,Humanities and Social Sciences,B.Pharm,6.26,4
+2011A3621A,Humanities and Social Sciences,B.E,8.56,3
+2011A3622A,Civil Engineering,B.E,7.32,4
+2011H3623H,Biological Sciences,M.E,6.23,2
+2011A3624A,Pharmacy,B.E,9.61,3
+2011A3625A,Economics and Finanace,B.E,5.27,4
+2011A3626A,Electrical and Electronics Engineering,B.E,9.44,4
+2011S3627S,Chemical Engineering,M.Sc,7.99,3
+2011P3628P,Humanities and Social Sciences,B.Pharm,5.2,4
+2011A3629A,Chemical Engineering,B.E,6.76,2
+2011A3630A,Computer Science and Information Systems,B.E,9.61,2
+2011P3631P,Biological Sciences,B.Pharm,9.96,2
+2011A3632A,Physics,B.E,8.56,3
+2011A3633A,Biological Sciences,B.E,5.12,2
+2011A3634A,Pharmacy,B.E,7.61,1
+2011A3635A,Humanities and Social Sciences,B.E,7.02,4
+2011A3636A,Economics and Finanace,B.E,8.11,3
+2011A3637A,Economics and Finanace,B.E,5.25,1
+2011P3638P,Humanities and Social Sciences,B.Pharm,8.79,4
+2011H3639H,Mathematics,M.E,5.18,1
+2011A3640A,Chemisty,B.E,9.66,4
+2011P3641P,Economics and Finanace,B.Pharm,8.3,4
+2011A3642A,Physics,B.E,8.61,3
+2011H3643H,Chemisty,M.E,5.71,2
+2011H3644H,Chemical Engineering,M.E,8.08,3
+2011A3645A,Electrical and Electronics Engineering,B.E,6.1,1
+2011A3646A,Computer Science and Information Systems,B.E,5.06,2
+2011A3647A,Civil Engineering,B.E,7.09,2
+2011A3648A,Electrical and Electronics Engineering,B.E,9.0,2
+2011P3649P,Electrical and Electronics Engineering,B.Pharm,7.74,3
+2011H3650H,Civil Engineering,M.E,5.0,1
+2011H3651H,Chemisty,M.E,9.29,3
+2011P3652P,Humanities and Social Sciences,B.Pharm,8.94,2
+2011H3653H,Humanities and Social Sciences,M.E,9.58,2
+2011A3654A,Pharmacy,B.E,7.47,1
+2011A3655A,Pharmacy,B.E,7.3,3
+2011A3656A,Mechanical Engineering,B.E,8.64,3
+2011S3657S,Humanities and Social Sciences,M.Sc,9.78,3
+2011A3658A,Mechanical Engineering,B.E,7.79,3
+2011P3659P,Pharmacy,B.Pharm,8.32,2
+2011A3660A,Pharmacy,B.E,8.41,3
+2011H3661H,Mechanical Engineering,M.E,8.89,2
+2011A3662A,Civil Engineering,B.E,9.07,4
+2011H3663H,Humanities and Social Sciences,M.E,6.36,3
+2011P3664P,Humanities and Social Sciences,B.Pharm,9.86,4
+2011S3665S,Biological Sciences,M.Sc,9.76,3
+2011A3666A,Computer Science and Information Systems,B.E,5.53,2
+2011A3667A,Mathematics,B.E,6.12,2
+2011A3668A,Civil Engineering,B.E,7.32,2
+2011D3669D,Chemical Engineering,Ph.D,8.49,3
+2011A3670A,Electrical and Electronics Engineering,B.E,8.71,4
+2011A3671A,Mechanical Engineering,B.E,6.66,1
+2011A3672A,Civil Engineering,B.E,5.81,4
+2011H3673H,Pharmacy,M.E,5.33,3
+2011D3674D,Biological Sciences,Ph.D,7.18,4
+2011A3675A,Chemisty,B.E,7.07,1
+2011A3676A,Economics and Finanace,B.E,9.69,1
+2011A3677A,Computer Science and Information Systems,B.E,6.18,4
+2011A3678A,Electrical and Electronics Engineering,B.E,7.94,4
+2011A3679A,Electrical and Electronics Engineering,B.E,9.25,3
+2011A3680A,Civil Engineering,B.E,8.05,2
+2011A3681A,Economics and Finanace,B.E,5.8,3
+2011A3682A,Mechanical Engineering,B.E,6.88,1
+2011A3683A,Chemical Engineering,B.E,5.41,1
+2011A3684A,Chemisty,B.E,7.7,4
+2011A3685A,Chemical Engineering,B.E,9.67,2
+2011A3686A,Biological Sciences,B.E,5.01,2
+2011A3687A,Biological Sciences,B.E,5.67,3
+2011A3688A,Pharmacy,B.E,8.43,3
+2011A3689A,Pharmacy,B.E,7.86,1
+2011A3690A,Chemisty,B.E,9.46,3
+2011D3691D,Chemical Engineering,Ph.D,5.19,1
+2011A3692A,Biological Sciences,B.E,8.07,2
+2011P3693P,Chemisty,B.Pharm,9.49,4
+2011A3694A,Chemical Engineering,B.E,6.34,3
+2011D3695D,Mechanical Engineering,Ph.D,9.18,1
+2011A3696A,Mechanical Engineering,B.E,6.42,1
+2011A3697A,Humanities and Social Sciences,B.E,8.03,3
+2011P3698P,Chemisty,B.Pharm,8.22,1
+2011A3699A,Humanities and Social Sciences,B.E,8.03,3
+2011A3700A,Biological Sciences,B.E,6.97,3
+2011A3701A,Pharmacy,B.E,5.81,4
+2011A3702A,Humanities and Social Sciences,B.E,6.79,3
+2011H3703H,Computer Science and Information Systems,M.E,8.27,4
+2011A3704A,Electrical and Electronics Engineering,B.E,9.03,2
+2011A3705A,Computer Science and Information Systems,B.E,8.33,2
+2011H3706H,Civil Engineering,M.E,7.31,2
+2011S3707S,Biological Sciences,M.Sc,5.4,1
+2011A3708A,Chemisty,B.E,5.54,4
+2011D3709D,Chemisty,Ph.D,5.75,1
+2011A3710A,Computer Science and Information Systems,B.E,8.85,3
+2011H3711H,Mechanical Engineering,M.E,6.2,4
+2011A3712A,Electrical and Electronics Engineering,B.E,7.05,3
+2011H3713H,Physics,M.E,6.05,4
+2011H3714H,Pharmacy,M.E,5.17,2
+2011H3715H,Electrical and Electronics Engineering,M.E,5.96,1
+2011A3716A,Biological Sciences,B.E,5.16,3
+2011S3717S,Electrical and Electronics Engineering,M.Sc,5.93,4
+2011A3718A,Humanities and Social Sciences,B.E,8.29,4
+2011A3719A,Physics,B.E,9.31,4
+2011H3720H,Chemisty,M.E,9.08,4
+2011H3721H,Pharmacy,M.E,6.57,2
+2011A3722A,Biological Sciences,B.E,9.35,2
+2011H3723H,Computer Science and Information Systems,M.E,7.08,4
+2011S3724S,Economics and Finanace,M.Sc,5.74,2
+2011A3725A,Civil Engineering,B.E,7.56,4
+2011D3726D,Computer Science and Information Systems,Ph.D,9.54,2
+2011H3727H,Electrical and Electronics Engineering,M.E,5.19,1
+2011P3728P,Pharmacy,B.Pharm,6.8,3
+2011A3729A,Mechanical Engineering,B.E,6.87,1
+2011A3730A,Chemical Engineering,B.E,7.41,2
+2011H3731H,Civil Engineering,M.E,5.74,3
+2011S3732S,Mathematics,M.Sc,6.95,2
+2011A3733A,Electrical and Electronics Engineering,B.E,8.85,1
+2011S3734S,Humanities and Social Sciences,M.Sc,9.82,3
+2011A3735A,Mathematics,B.E,9.98,4
+2011D3736D,Biological Sciences,Ph.D,6.42,1
+2011A3737A,Electrical and Electronics Engineering,B.E,7.95,1
+2011H3738H,Humanities and Social Sciences,M.E,9.15,4
+2011A3739A,Humanities and Social Sciences,B.E,9.57,2
+2011P3740P,Economics and Finanace,B.Pharm,9.17,2
+2011A3741A,Humanities and Social Sciences,B.E,6.32,1
+2011A3742A,Civil Engineering,B.E,8.34,3
+2011H3743H,Electrical and Electronics Engineering,M.E,6.33,2
+2011A3744A,Biological Sciences,B.E,6.11,4
+2011A3745A,Civil Engineering,B.E,6.98,4
+2011A3746A,Biological Sciences,B.E,9.79,3
+2011A3747A,Mathematics,B.E,9.07,4
+2011A3748A,Biological Sciences,B.E,7.51,3
+2011A3749A,Mechanical Engineering,B.E,8.32,4
+2011A3750A,Mechanical Engineering,B.E,6.07,3
+2011A3751A,Chemical Engineering,B.E,9.28,4
+2011A3752A,Mathematics,B.E,8.63,2
+2011A3753A,Mathematics,B.E,8.28,1
+2011A3754A,Pharmacy,B.E,7.15,3
+2011S3755S,Pharmacy,M.Sc,6.23,4
+2011P3756P,Biological Sciences,B.Pharm,5.5,3
+2011A3757A,Chemisty,B.E,8.29,3
+2011S3758S,Electrical and Electronics Engineering,M.Sc,5.81,4
+2011A3759A,Civil Engineering,B.E,8.65,3
+2011S3760S,Chemical Engineering,M.Sc,8.83,3
+2011D3761D,Computer Science and Information Systems,Ph.D,9.99,1
+2011D3762D,Chemical Engineering,Ph.D,9.91,1
+2011H3763H,Biological Sciences,M.E,9.77,1
+2011A3764A,Computer Science and Information Systems,B.E,9.83,1
+2011A3765A,Humanities and Social Sciences,B.E,6.69,4
+2011S3766S,Mathematics,M.Sc,5.61,3
+2011H3767H,Chemical Engineering,M.E,6.78,1
+2011A3768A,Economics and Finanace,B.E,5.88,2
+2011D3769D,Mathematics,Ph.D,9.72,1
+2011P3770P,Mechanical Engineering,B.Pharm,9.02,1
+2011A3771A,Chemical Engineering,B.E,5.81,3
+2011S3772S,Chemisty,M.Sc,7.61,2
+2011D3773D,Humanities and Social Sciences,Ph.D,9.96,3
+2011P3774P,Biological Sciences,B.Pharm,6.7,4
+2011A3775A,Electrical and Electronics Engineering,B.E,5.52,4
+2011H3776H,Civil Engineering,M.E,5.84,4
+2011A3777A,Mechanical Engineering,B.E,8.74,1
+2011H3778H,Physics,M.E,6.13,4
+2011H3779H,Mathematics,M.E,8.85,4
+2011A3780A,Economics and Finanace,B.E,8.21,2
+2011P3781P,Biological Sciences,B.Pharm,5.18,2
+2011H3782H,Biological Sciences,M.E,7.85,1
+2011A3783A,Pharmacy,B.E,9.67,3
+2011A3784A,Electrical and Electronics Engineering,B.E,8.75,1
+2011A3785A,Economics and Finanace,B.E,9.31,1
+2011P3786P,Chemisty,B.Pharm,9.22,1
+2011D3787D,Mechanical Engineering,Ph.D,5.68,4
+2011H3788H,Mathematics,M.E,9.98,3
+2011P3789P,Chemical Engineering,B.Pharm,8.12,1
+2011A3790A,Pharmacy,B.E,6.59,3
+2011H3791H,Mathematics,M.E,9.11,3
+2011A3792A,Biological Sciences,B.E,9.29,1
+2011A3793A,Computer Science and Information Systems,B.E,8.32,2
+2011A3794A,Physics,B.E,6.29,4
+2011H3795H,Chemisty,M.E,6.4,4
+2011A3796A,Chemical Engineering,B.E,9.88,3
+2011P3797P,Chemical Engineering,B.Pharm,7.49,3
+2011A3798A,Electrical and Electronics Engineering,B.E,5.11,3
+2011H3799H,Economics and Finanace,M.E,5.92,1
+2011H3800H,Chemisty,M.E,9.66,1
+2011D3801D,Economics and Finanace,Ph.D,5.57,3
+2011D3802D,Economics and Finanace,Ph.D,6.59,1
+2011H3803H,Chemisty,M.E,7.88,1
+2011A3804A,Civil Engineering,B.E,5.25,3
+2011H3805H,Mathematics,M.E,8.77,1
+2011S3806S,Physics,M.Sc,7.74,3
+2011H3807H,Mathematics,M.E,8.29,1
+2011A3808A,Electrical and Electronics Engineering,B.E,8.76,1
+2011P3809P,Computer Science and Information Systems,B.Pharm,9.59,4
+2011H3810H,Chemical Engineering,M.E,8.29,3
+2011H3811H,Physics,M.E,5.26,1
+2011H3812H,Chemical Engineering,M.E,9.74,1
+2011H3813H,Chemical Engineering,M.E,9.46,1
+2011A3814A,Humanities and Social Sciences,B.E,9.05,4
+2011S3815S,Mathematics,M.Sc,5.53,2
+2011P3816P,Mechanical Engineering,B.Pharm,9.7,2
+2011D3817D,Chemical Engineering,Ph.D,6.67,2
+2011H3818H,Pharmacy,M.E,9.59,1
+2011A3819A,Pharmacy,B.E,9.06,4
+2011H3820H,Civil Engineering,M.E,8.64,2
+2011A3821A,Chemisty,B.E,8.69,2
+2011A3822A,Electrical and Electronics Engineering,B.E,5.03,3
+2011A3823A,Mechanical Engineering,B.E,8.97,2
+2011A3824A,Humanities and Social Sciences,B.E,7.74,1
+2011A3825A,Electrical and Electronics Engineering,B.E,6.06,4
+2011A3826A,Civil Engineering,B.E,9.13,3
+2011A3827A,Economics and Finanace,B.E,5.68,4
+2011H3828H,Mechanical Engineering,M.E,6.44,2
+2011A3829A,Mechanical Engineering,B.E,9.28,1
+2011A3830A,Physics,B.E,7.1,4
+2011S3831S,Biological Sciences,M.Sc,9.89,4
+2011D3832D,Mechanical Engineering,Ph.D,5.96,3
+2011S3833S,Physics,M.Sc,5.64,2
+2011P3834P,Pharmacy,B.Pharm,7.9,2
+2011A3835A,Chemisty,B.E,8.56,2
+2011P3836P,Civil Engineering,B.Pharm,8.72,1
+2011H3837H,Pharmacy,M.E,6.97,2
+2011A3838A,Computer Science and Information Systems,B.E,9.8,1
+2011A3839A,Pharmacy,B.E,6.05,1
+2011A3840A,Physics,B.E,5.07,1
+2011H3841H,Economics and Finanace,M.E,6.03,2
+2011A3842A,Chemisty,B.E,8.62,1
+2011D3843D,Economics and Finanace,Ph.D,6.63,4
+2011S3844S,Electrical and Electronics Engineering,M.Sc,8.3,3
+2011H3845H,Humanities and Social Sciences,M.E,8.32,2
+2011A3846A,Civil Engineering,B.E,6.95,2
+2011A3847A,Pharmacy,B.E,9.29,2
+2011S3848S,Humanities and Social Sciences,M.Sc,7.44,3
+2011S3849S,Electrical and Electronics Engineering,M.Sc,5.24,1
+2011H3850H,Electrical and Electronics Engineering,M.E,7.32,1
+2011A3851A,Biological Sciences,B.E,8.74,3
+2011P3852P,Civil Engineering,B.Pharm,7.07,3
+2011A3853A,Chemisty,B.E,6.42,2
+2011P3854P,Electrical and Electronics Engineering,B.Pharm,8.85,4
+2011A3855A,Mathematics,B.E,5.33,4
+2011H3856H,Economics and Finanace,M.E,6.52,2
+2011P3857P,Humanities and Social Sciences,B.Pharm,6.0,3
+2011D3858D,Humanities and Social Sciences,Ph.D,9.82,3
+2011A3859A,Chemisty,B.E,7.4,4
+2011A3860A,Chemisty,B.E,5.09,2
+2011H3861H,Pharmacy,M.E,7.43,2
+2011H3862H,Mathematics,M.E,7.55,2
+2011A3863A,Chemical Engineering,B.E,6.34,3
+2011A3864A,Mathematics,B.E,6.27,1
+2011A3865A,Computer Science and Information Systems,B.E,9.31,3
+2011P3866P,Electrical and Electronics Engineering,B.Pharm,5.1,1
+2011A3867A,Civil Engineering,B.E,9.49,3
+2011A3868A,Civil Engineering,B.E,8.79,2
+2011H3869H,Pharmacy,M.E,7.49,1
+2011H3870H,Chemisty,M.E,9.79,3
+2011A3871A,Physics,B.E,8.85,4
+2011A3872A,Mechanical Engineering,B.E,6.71,4
+2011S3873S,Civil Engineering,M.Sc,5.94,3
+2011A3874A,Physics,B.E,8.82,3
+2011A3875A,Physics,B.E,9.02,2
+2011A3876A,Pharmacy,B.E,7.01,3
+2011S3877S,Chemical Engineering,M.Sc,6.9,2
+2011A3878A,Civil Engineering,B.E,6.62,3
+2011A3879A,Economics and Finanace,B.E,7.36,2
+2011S3880S,Mathematics,M.Sc,6.67,2
+2011A3881A,Electrical and Electronics Engineering,B.E,9.79,1
+2011D3882D,Physics,Ph.D,5.38,2
+2011H3883H,Civil Engineering,M.E,7.05,1
+2011H3884H,Civil Engineering,M.E,7.34,1
+2011A3885A,Chemical Engineering,B.E,8.4,4
+2011A3886A,Physics,B.E,5.68,2
+2011A3887A,Civil Engineering,B.E,6.85,1
+2011P3888P,Computer Science and Information Systems,B.Pharm,5.06,4
+2011A3889A,Chemical Engineering,B.E,9.96,4
+2011H3890H,Civil Engineering,M.E,5.47,2
+2011A3891A,Mechanical Engineering,B.E,5.59,3
+2011A3892A,Mechanical Engineering,B.E,7.68,2
+2011A3893A,Biological Sciences,B.E,7.38,3
+2011H3894H,Mathematics,M.E,5.84,1
+2011A3895A,Humanities and Social Sciences,B.E,9.09,2
+2011S3896S,Electrical and Electronics Engineering,M.Sc,9.44,1
+2011A3897A,Chemical Engineering,B.E,7.52,2
+2011A3898A,Mechanical Engineering,B.E,6.39,4
+2011A3899A,Physics,B.E,6.74,3
+2011A3900A,Humanities and Social Sciences,B.E,7.78,2
+2011H3901H,Biological Sciences,M.E,8.69,1
+2011A3902A,Pharmacy,B.E,6.38,2
+2011S3903S,Chemisty,M.Sc,6.17,1
+2011S3904S,Physics,M.Sc,5.9,2
+2011A3905A,Civil Engineering,B.E,5.66,4
+2011H3906H,Biological Sciences,M.E,8.31,2
+2011A3907A,Mechanical Engineering,B.E,5.67,1
+2011A3908A,Physics,B.E,9.56,2
+2011A3909A,Economics and Finanace,B.E,8.14,3
+2011A3910A,Pharmacy,B.E,7.16,1
+2011A3911A,Chemisty,B.E,7.37,1
+2011A3912A,Chemisty,B.E,6.87,2
+2011P3913P,Pharmacy,B.Pharm,9.21,4
+2011A3914A,Chemical Engineering,B.E,5.42,2
+2011S3915S,Civil Engineering,M.Sc,5.37,4
+2011H3916H,Chemical Engineering,M.E,7.17,2
+2011P3917P,Computer Science and Information Systems,B.Pharm,8.57,3
+2011A3918A,Humanities and Social Sciences,B.E,5.79,2
+2011A3919A,Humanities and Social Sciences,B.E,7.12,4
+2011A3920A,Computer Science and Information Systems,B.E,6.58,2
+2011A3921A,Physics,B.E,8.99,1
+2011A3922A,Civil Engineering,B.E,7.03,4
+2011A3923A,Mathematics,B.E,7.32,1
+2011A3924A,Mechanical Engineering,B.E,5.58,2
+2011A3925A,Biological Sciences,B.E,6.15,1
+2011A3926A,Mathematics,B.E,7.4,2
+2011A3927A,Biological Sciences,B.E,7.59,2
+2011A3928A,Chemisty,B.E,6.2,1
+2011H3929H,Mathematics,M.E,9.29,1

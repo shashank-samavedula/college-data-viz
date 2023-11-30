@@ -1,0 +1,3261 @@
+Student ID,Course,Degree,CGPA,Year
+2010A0001A,Pharmacy,B.E,5.45,3
+2010A0002A,Civil Engineering,B.E,8.72,3
+2010H0003H,Electrical and Electronics Engineering,M.E,8.94,3
+2010A0004A,Economics and Finanace,B.E,6.3,3
+2010A0005A,Humanities and Social Sciences,B.E,9.26,4
+2010P0006P,Biological Sciences,B.Pharm,9.33,1
+2010A0007A,Humanities and Social Sciences,B.E,9.45,1
+2010A0008A,Pharmacy,B.E,6.91,3
+2010P0009P,Electrical and Electronics Engineering,B.Pharm,5.27,2
+2010A0010A,Chemisty,B.E,9.96,3
+2010H0011H,Electrical and Electronics Engineering,M.E,9.94,4
+2010P0012P,Chemisty,B.Pharm,6.58,2
+2010A0013A,Chemical Engineering,B.E,7.44,2
+2010A0014A,Economics and Finanace,B.E,8.17,1
+2010A0015A,Humanities and Social Sciences,B.E,6.37,2
+2010A0016A,Mechanical Engineering,B.E,8.82,4
+2010H0017H,Chemical Engineering,M.E,5.65,4
+2010P0018P,Pharmacy,B.Pharm,7.15,4
+2010S0019S,Humanities and Social Sciences,M.Sc,6.92,1
+2010A0020A,Mathematics,B.E,6.0,3
+2010D0021D,Biological Sciences,Ph.D,9.46,2
+2010A0022A,Biological Sciences,B.E,8.38,2
+2010A0023A,Civil Engineering,B.E,8.47,3
+2010S0024S,Computer Science and Information Systems,M.Sc,5.64,4
+2010A0025A,Mathematics,B.E,7.94,2
+2010A0026A,Chemical Engineering,B.E,9.12,3
+2010H0027H,Computer Science and Information Systems,M.E,7.28,3
+2010P0028P,Electrical and Electronics Engineering,B.Pharm,9.44,2
+2010H0029H,Economics and Finanace,M.E,9.98,4
+2010A0030A,Economics and Finanace,B.E,8.75,2
+2010A0031A,Electrical and Electronics Engineering,B.E,5.1,2
+2010H0032H,Physics,M.E,9.92,2
+2010A0033A,Physics,B.E,5.11,2
+2010H0034H,Chemical Engineering,M.E,6.83,1
+2010H0035H,Electrical and Electronics Engineering,M.E,9.38,3
+2010S0036S,Mathematics,M.Sc,8.12,1
+2010H0037H,Pharmacy,M.E,5.54,1
+2010H0038H,Biological Sciences,M.E,8.45,4
+2010A0039A,Humanities and Social Sciences,B.E,6.9,3
+2010P0040P,Humanities and Social Sciences,B.Pharm,8.51,2
+2010D0041D,Physics,Ph.D,8.43,1
+2010H0042H,Computer Science and Information Systems,M.E,7.1,1
+2010A0043A,Pharmacy,B.E,7.6,2
+2010A0044A,Electrical and Electronics Engineering,B.E,9.15,1
+2010D0045D,Mathematics,Ph.D,8.59,1
+2010A0046A,Computer Science and Information Systems,B.E,5.57,1
+2010S0047S,Humanities and Social Sciences,M.Sc,5.99,2
+2010P0048P,Computer Science and Information Systems,B.Pharm,9.16,2
+2010H0049H,Economics and Finanace,M.E,8.52,3
+2010S0050S,Chemisty,M.Sc,5.2,4
+2010S0051S,Civil Engineering,M.Sc,8.44,4
+2010S0052S,Economics and Finanace,M.Sc,6.17,1
+2010H0053H,Pharmacy,M.E,5.45,1
+2010S0054S,Mechanical Engineering,M.Sc,8.35,2
+2010A0055A,Chemical Engineering,B.E,8.9,1
+2010A0056A,Physics,B.E,8.62,3
+2010A0057A,Pharmacy,B.E,6.16,3
+2010H0058H,Computer Science and Information Systems,M.E,7.32,1
+2010A0059A,Chemisty,B.E,9.37,3
+2010A0060A,Economics and Finanace,B.E,9.01,3
+2010A0061A,Electrical and Electronics Engineering,B.E,8.69,1
+2010A0062A,Biological Sciences,B.E,5.05,2
+2010P0063P,Pharmacy,B.Pharm,8.24,3
+2010D0064D,Economics and Finanace,Ph.D,9.47,3
+2010H0065H,Physics,M.E,5.46,3
+2010P0066P,Chemisty,B.Pharm,5.57,4
+2010A0067A,Humanities and Social Sciences,B.E,6.36,4
+2010D0068D,Physics,Ph.D,9.25,4
+2010A0069A,Pharmacy,B.E,9.43,2
+2010A0070A,Chemical Engineering,B.E,5.66,1
+2010S0071S,Chemisty,M.Sc,5.52,4
+2010A0072A,Mechanical Engineering,B.E,8.39,2
+2010A0073A,Mechanical Engineering,B.E,6.9,3
+2010S0074S,Mechanical Engineering,M.Sc,5.14,2
+2010H0075H,Humanities and Social Sciences,M.E,9.6,1
+2010A0076A,Electrical and Electronics Engineering,B.E,7.2,1
+2010A0077A,Computer Science and Information Systems,B.E,8.27,1
+2010S0078S,Physics,M.Sc,9.34,2
+2010P0079P,Pharmacy,B.Pharm,9.37,1
+2010P0080P,Electrical and Electronics Engineering,B.Pharm,8.31,2
+2010S0081S,Humanities and Social Sciences,M.Sc,6.73,4
+2010D0082D,Chemisty,Ph.D,9.2,1
+2010A0083A,Biological Sciences,B.E,8.22,2
+2010H0084H,Mathematics,M.E,9.24,4
+2010A0085A,Chemisty,B.E,5.37,4
+2010H0086H,Economics and Finanace,M.E,6.2,3
+2010H0087H,Biological Sciences,M.E,7.53,4
+2010A0088A,Electrical and Electronics Engineering,B.E,9.09,1
+2010P0089P,Humanities and Social Sciences,B.Pharm,7.22,4
+2010A0090A,Chemical Engineering,B.E,9.28,4
+2010A0091A,Economics and Finanace,B.E,5.59,4
+2010A0092A,Physics,B.E,8.27,1
+2010A0093A,Electrical and Electronics Engineering,B.E,7.06,1
+2010A0094A,Chemical Engineering,B.E,8.96,3
+2010A0095A,Mathematics,B.E,7.81,4
+2010H0096H,Economics and Finanace,M.E,6.82,1
+2010S0097S,Civil Engineering,M.Sc,9.22,3
+2010A0098A,Mathematics,B.E,8.84,4
+2010A0099A,Physics,B.E,8.29,4
+2010P0100P,Chemical Engineering,B.Pharm,5.49,2
+2010A0101A,Biological Sciences,B.E,6.71,3
+2010H0102H,Mathematics,M.E,7.61,1
+2010H0103H,Biological Sciences,M.E,9.48,4
+2010H0104H,Chemisty,M.E,9.11,4
+2010A0105A,Chemical Engineering,B.E,6.27,2
+2010A0106A,Civil Engineering,B.E,5.6,4
+2010S0107S,Civil Engineering,M.Sc,7.29,2
+2010S0108S,Physics,M.Sc,6.69,4
+2010H0109H,Biological Sciences,M.E,9.63,1
+2010P0110P,Humanities and Social Sciences,B.Pharm,7.29,2
+2010A0111A,Humanities and Social Sciences,B.E,5.02,1
+2010A0112A,Mathematics,B.E,9.68,4
+2010A0113A,Mathematics,B.E,8.91,2
+2010A0114A,Physics,B.E,7.89,2
+2010A0115A,Chemical Engineering,B.E,6.94,3
+2010A0116A,Mathematics,B.E,9.41,4
+2010A0117A,Mechanical Engineering,B.E,9.58,2
+2010A0118A,Computer Science and Information Systems,B.E,6.99,3
+2010H0119H,Computer Science and Information Systems,M.E,7.26,2
+2010D0120D,Chemisty,Ph.D,7.06,3
+2010A0121A,Physics,B.E,7.74,3
+2010A0122A,Physics,B.E,8.68,2
+2010A0123A,Civil Engineering,B.E,6.05,3
+2010A0124A,Pharmacy,B.E,6.73,2
+2010A0125A,Physics,B.E,8.25,2
+2010A0126A,Mathematics,B.E,7.71,3
+2010A0127A,Physics,B.E,5.58,3
+2010H0128H,Mathematics,M.E,7.4,4
+2010A0129A,Pharmacy,B.E,8.74,3
+2010S0130S,Electrical and Electronics Engineering,M.Sc,9.04,1
+2010A0131A,Biological Sciences,B.E,6.9,1
+2010D0132D,Pharmacy,Ph.D,5.28,3
+2010A0133A,Chemisty,B.E,9.92,3
+2010H0134H,Chemisty,M.E,9.2,3
+2010H0135H,Civil Engineering,M.E,8.77,1
+2010A0136A,Economics and Finanace,B.E,9.07,1
+2010S0137S,Mechanical Engineering,M.Sc,9.34,2
+2010S0138S,Physics,M.Sc,8.24,4
+2010A0139A,Civil Engineering,B.E,7.55,3
+2010H0140H,Physics,M.E,8.32,4
+2010H0141H,Electrical and Electronics Engineering,M.E,7.08,3
+2010A0142A,Mathematics,B.E,5.27,3
+2010A0143A,Civil Engineering,B.E,8.1,4
+2010S0144S,Civil Engineering,M.Sc,9.56,3
+2010A0145A,Mechanical Engineering,B.E,7.73,2
+2010A0146A,Physics,B.E,9.82,3
+2010A0147A,Humanities and Social Sciences,B.E,5.89,1
+2010A0148A,Chemisty,B.E,9.81,1
+2010A0149A,Electrical and Electronics Engineering,B.E,5.2,3
+2010A0150A,Mathematics,B.E,6.32,2
+2010A0151A,Mechanical Engineering,B.E,9.23,1
+2010P0152P,Economics and Finanace,B.Pharm,7.33,2
+2010A0153A,Biological Sciences,B.E,5.77,3
+2010D0154D,Mechanical Engineering,Ph.D,5.25,3
+2010H0155H,Humanities and Social Sciences,M.E,8.95,3
+2010P0156P,Chemical Engineering,B.Pharm,8.92,3
+2010A0157A,Mathematics,B.E,6.1,2
+2010A0158A,Mathematics,B.E,5.34,2
+2010P0159P,Electrical and Electronics Engineering,B.Pharm,7.72,4
+2010A0160A,Chemical Engineering,B.E,6.75,2
+2010A0161A,Pharmacy,B.E,6.66,3
+2010S0162S,Computer Science and Information Systems,M.Sc,6.09,4
+2010P0163P,Pharmacy,B.Pharm,5.04,3
+2010A0164A,Humanities and Social Sciences,B.E,6.2,2
+2010S0165S,Biological Sciences,M.Sc,8.41,3
+2010A0166A,Electrical and Electronics Engineering,B.E,9.58,1
+2010A0167A,Electrical and Electronics Engineering,B.E,6.28,3
+2010P0168P,Biological Sciences,B.Pharm,9.56,3
+2010D0169D,Mathematics,Ph.D,9.01,4
+2010H0170H,Humanities and Social Sciences,M.E,5.22,2
+2010H0171H,Economics and Finanace,M.E,7.57,1
+2010A0172A,Chemisty,B.E,9.86,1
+2010P0173P,Pharmacy,B.Pharm,5.33,2
+2010H0174H,Pharmacy,M.E,7.12,1
+2010A0175A,Civil Engineering,B.E,7.69,4
+2010A0176A,Pharmacy,B.E,9.08,1
+2010A0177A,Physics,B.E,8.43,1
+2010A0178A,Humanities and Social Sciences,B.E,8.58,1
+2010A0179A,Chemical Engineering,B.E,5.37,2
+2010A0180A,Computer Science and Information Systems,B.E,7.79,2
+2010A0181A,Computer Science and Information Systems,B.E,7.04,4
+2010A0182A,Pharmacy,B.E,7.02,3
+2010H0183H,Biological Sciences,M.E,6.95,1
+2010A0184A,Mathematics,B.E,5.03,1
+2010H0185H,Physics,M.E,7.93,1
+2010D0186D,Economics and Finanace,Ph.D,9.64,1
+2010A0187A,Computer Science and Information Systems,B.E,8.93,3
+2010A0188A,Mechanical Engineering,B.E,5.43,4
+2010A0189A,Electrical and Electronics Engineering,B.E,6.98,1
+2010A0190A,Humanities and Social Sciences,B.E,5.78,2
+2010H0191H,Chemisty,M.E,8.73,3
+2010P0192P,Pharmacy,B.Pharm,5.72,3
+2010A0193A,Biological Sciences,B.E,7.77,2
+2010A0194A,Chemical Engineering,B.E,5.21,4
+2010H0195H,Mathematics,M.E,7.74,1
+2010S0196S,Computer Science and Information Systems,M.Sc,6.05,3
+2010A0197A,Civil Engineering,B.E,7.06,2
+2010H0198H,Chemisty,M.E,5.92,3
+2010A0199A,Civil Engineering,B.E,5.57,1
+2010D0200D,Mathematics,Ph.D,7.31,1
+2010H0201H,Computer Science and Information Systems,M.E,8.36,3
+2010A0202A,Chemical Engineering,B.E,5.99,4
+2010A0203A,Economics and Finanace,B.E,6.79,2
+2010D0204D,Chemical Engineering,Ph.D,6.43,1
+2010H0205H,Civil Engineering,M.E,6.59,4
+2010A0206A,Economics and Finanace,B.E,8.08,3
+2010A0207A,Physics,B.E,7.92,3
+2010S0208S,Economics and Finanace,M.Sc,9.79,2
+2010A0209A,Biological Sciences,B.E,6.57,2
+2010A0210A,Physics,B.E,8.7,4
+2010S0211S,Computer Science and Information Systems,M.Sc,9.2,2
+2010A0212A,Pharmacy,B.E,8.66,4
+2010A0213A,Humanities and Social Sciences,B.E,7.23,3
+2010S0214S,Humanities and Social Sciences,M.Sc,7.76,2
+2010A0215A,Pharmacy,B.E,8.03,3
+2010S0216S,Chemisty,M.Sc,9.46,2
+2010A0217A,Computer Science and Information Systems,B.E,8.67,1
+2010H0218H,Physics,M.E,5.38,1
+2010A0219A,Mathematics,B.E,8.16,4
+2010H0220H,Mechanical Engineering,M.E,6.06,1
+2010A0221A,Mathematics,B.E,6.3,4
+2010P0222P,Pharmacy,B.Pharm,8.88,3
+2010P0223P,Electrical and Electronics Engineering,B.Pharm,6.12,3
+2010H0224H,Chemisty,M.E,7.32,1
+2010H0225H,Electrical and Electronics Engineering,M.E,6.82,1
+2010A0226A,Pharmacy,B.E,6.19,2
+2010A0227A,Mathematics,B.E,5.7,2
+2010H0228H,Chemisty,M.E,7.83,2
+2010S0229S,Physics,M.Sc,8.66,3
+2010H0230H,Biological Sciences,M.E,6.09,4
+2010D0231D,Civil Engineering,Ph.D,5.31,3
+2010P0232P,Civil Engineering,B.Pharm,5.21,2
+2010A0233A,Mathematics,B.E,9.54,3
+2010A0234A,Electrical and Electronics Engineering,B.E,7.35,4
+2010A0235A,Biological Sciences,B.E,5.2,3
+2010A0236A,Chemical Engineering,B.E,8.52,3
+2010P0237P,Computer Science and Information Systems,B.Pharm,7.89,2
+2010A0238A,Electrical and Electronics Engineering,B.E,8.27,3
+2010A0239A,Mechanical Engineering,B.E,8.27,1
+2010A0240A,Mathematics,B.E,6.26,2
+2010P0241P,Electrical and Electronics Engineering,B.Pharm,6.76,3
+2010H0242H,Humanities and Social Sciences,M.E,8.96,1
+2010H0243H,Mathematics,M.E,9.41,4
+2010A0244A,Chemisty,B.E,6.15,3
+2010A0245A,Civil Engineering,B.E,5.75,2
+2010H0246H,Economics and Finanace,M.E,8.01,1
+2010A0247A,Pharmacy,B.E,6.15,3
+2010P0248P,Chemical Engineering,B.Pharm,7.41,4
+2010S0249S,Humanities and Social Sciences,M.Sc,6.05,2
+2010A0250A,Pharmacy,B.E,9.17,1
+2010A0251A,Civil Engineering,B.E,5.22,2
+2010H0252H,Chemisty,M.E,8.15,1
+2010H0253H,Mechanical Engineering,M.E,5.73,2
+2010A0254A,Computer Science and Information Systems,B.E,9.61,4
+2010S0255S,Mechanical Engineering,M.Sc,9.85,1
+2010A0256A,Physics,B.E,8.64,3
+2010H0257H,Chemical Engineering,M.E,6.08,4
+2010A0258A,Humanities and Social Sciences,B.E,5.85,4
+2010P0259P,Mechanical Engineering,B.Pharm,5.71,2
+2010A0260A,Mechanical Engineering,B.E,8.3,3
+2010A0261A,Chemisty,B.E,8.62,3
+2010A0262A,Humanities and Social Sciences,B.E,7.98,1
+2010A0263A,Civil Engineering,B.E,6.89,2
+2010H0264H,Chemical Engineering,M.E,5.08,4
+2010A0265A,Chemisty,B.E,8.03,2
+2010A0266A,Humanities and Social Sciences,B.E,9.51,1
+2010A0267A,Mathematics,B.E,7.52,1
+2010H0268H,Chemical Engineering,M.E,7.41,2
+2010P0269P,Mechanical Engineering,B.Pharm,7.7,1
+2010A0270A,Pharmacy,B.E,8.25,4
+2010H0271H,Economics and Finanace,M.E,9.37,4
+2010A0272A,Civil Engineering,B.E,9.69,4
+2010A0273A,Electrical and Electronics Engineering,B.E,6.75,1
+2010A0274A,Electrical and Electronics Engineering,B.E,5.67,4
+2010A0275A,Civil Engineering,B.E,9.55,1
+2010H0276H,Computer Science and Information Systems,M.E,7.99,4
+2010A0277A,Computer Science and Information Systems,B.E,5.95,1
+2010A0278A,Mechanical Engineering,B.E,7.61,1
+2010A0279A,Electrical and Electronics Engineering,B.E,8.27,3
+2010A0280A,Electrical and Electronics Engineering,B.E,6.81,2
+2010A0281A,Electrical and Electronics Engineering,B.E,8.26,3
+2010P0282P,Computer Science and Information Systems,B.Pharm,9.27,4
+2010A0283A,Mechanical Engineering,B.E,6.83,3
+2010H0284H,Pharmacy,M.E,6.99,2
+2010D0285D,Electrical and Electronics Engineering,Ph.D,7.76,4
+2010A0286A,Chemisty,B.E,6.85,4
+2010H0287H,Computer Science and Information Systems,M.E,9.94,3
+2010H0288H,Physics,M.E,6.99,2
+2010A0289A,Pharmacy,B.E,5.6,2
+2010D0290D,Humanities and Social Sciences,Ph.D,8.92,2
+2010P0291P,Chemical Engineering,B.Pharm,6.07,4
+2010A0292A,Economics and Finanace,B.E,9.0,1
+2010A0293A,Chemisty,B.E,6.95,1
+2010A0294A,Chemical Engineering,B.E,9.12,4
+2010H0295H,Mechanical Engineering,M.E,7.18,1
+2010S0296S,Computer Science and Information Systems,M.Sc,6.11,1
+2010P0297P,Mechanical Engineering,B.Pharm,5.19,4
+2010H0298H,Electrical and Electronics Engineering,M.E,8.07,3
+2010H0299H,Physics,M.E,9.82,1
+2010S0300S,Chemisty,M.Sc,8.2,4
+2010A0301A,Biological Sciences,B.E,6.01,3
+2010A0302A,Civil Engineering,B.E,5.17,2
+2010A0303A,Mechanical Engineering,B.E,5.85,1
+2010A0304A,Economics and Finanace,B.E,6.2,1
+2010A0305A,Chemisty,B.E,5.43,3
+2010H0306H,Electrical and Electronics Engineering,M.E,6.77,4
+2010A0307A,Electrical and Electronics Engineering,B.E,7.93,1
+2010P0308P,Chemical Engineering,B.Pharm,9.6,3
+2010A0309A,Physics,B.E,9.15,3
+2010A0310A,Economics and Finanace,B.E,9.82,3
+2010H0311H,Civil Engineering,M.E,8.03,2
+2010D0312D,Humanities and Social Sciences,Ph.D,9.65,1
+2010A0313A,Computer Science and Information Systems,B.E,5.88,1
+2010H0314H,Mathematics,M.E,5.36,3
+2010A0315A,Economics and Finanace,B.E,9.74,3
+2010H0316H,Mathematics,M.E,9.07,3
+2010A0317A,Physics,B.E,7.21,4
+2010H0318H,Mechanical Engineering,M.E,7.42,2
+2010P0319P,Economics and Finanace,B.Pharm,9.81,4
+2010A0320A,Pharmacy,B.E,7.3,1
+2010D0321D,Humanities and Social Sciences,Ph.D,5.58,1
+2010A0322A,Electrical and Electronics Engineering,B.E,8.17,2
+2010A0323A,Pharmacy,B.E,8.51,3
+2010P0324P,Electrical and Electronics Engineering,B.Pharm,9.78,1
+2010S0325S,Physics,M.Sc,9.16,2
+2010A0326A,Computer Science and Information Systems,B.E,5.47,3
+2010A0327A,Chemical Engineering,B.E,7.77,2
+2010A0328A,Humanities and Social Sciences,B.E,6.57,2
+2010A0329A,Mechanical Engineering,B.E,6.35,2
+2010A0330A,Humanities and Social Sciences,B.E,8.69,2
+2010S0331S,Physics,M.Sc,6.21,3
+2010H0332H,Civil Engineering,M.E,6.15,2
+2010A0333A,Mechanical Engineering,B.E,6.78,1
+2010A0334A,Chemical Engineering,B.E,9.6,4
+2010A0335A,Mechanical Engineering,B.E,5.03,1
+2010H0336H,Humanities and Social Sciences,M.E,6.86,3
+2010H0337H,Humanities and Social Sciences,M.E,9.49,3
+2010A0338A,Humanities and Social Sciences,B.E,5.91,3
+2010P0339P,Electrical and Electronics Engineering,B.Pharm,6.11,2
+2010S0340S,Biological Sciences,M.Sc,7.63,4
+2010A0341A,Humanities and Social Sciences,B.E,9.7,1
+2010D0342D,Mathematics,Ph.D,6.74,2
+2010A0343A,Humanities and Social Sciences,B.E,9.88,4
+2010A0344A,Economics and Finanace,B.E,8.45,1
+2010D0345D,Pharmacy,Ph.D,6.05,1
+2010H0346H,Economics and Finanace,M.E,6.81,3
+2010A0347A,Chemisty,B.E,7.74,2
+2010H0348H,Computer Science and Information Systems,M.E,7.36,3
+2010S0349S,Economics and Finanace,M.Sc,5.92,4
+2010A0350A,Civil Engineering,B.E,7.1,3
+2010A0351A,Economics and Finanace,B.E,9.27,3
+2010A0352A,Humanities and Social Sciences,B.E,5.9,2
+2010A0353A,Mechanical Engineering,B.E,8.43,1
+2010H0354H,Physics,M.E,6.35,2
+2010A0355A,Mathematics,B.E,7.16,4
+2010A0356A,Civil Engineering,B.E,5.73,2
+2010A0357A,Humanities and Social Sciences,B.E,9.03,2
+2010H0358H,Electrical and Electronics Engineering,M.E,7.5,3
+2010P0359P,Humanities and Social Sciences,B.Pharm,6.5,1
+2010H0360H,Electrical and Electronics Engineering,M.E,5.49,2
+2010D0361D,Biological Sciences,Ph.D,6.08,3
+2010A0362A,Humanities and Social Sciences,B.E,9.19,1
+2010A0363A,Humanities and Social Sciences,B.E,8.72,3
+2010A0364A,Economics and Finanace,B.E,6.8,3
+2010P0365P,Economics and Finanace,B.Pharm,5.1,1
+2010P0366P,Economics and Finanace,B.Pharm,9.34,2
+2010A0367A,Mechanical Engineering,B.E,7.88,2
+2010A0368A,Computer Science and Information Systems,B.E,6.78,4
+2010A0369A,Physics,B.E,7.23,1
+2010H0370H,Electrical and Electronics Engineering,M.E,8.07,4
+2010A0371A,Pharmacy,B.E,9.78,2
+2010A0372A,Pharmacy,B.E,9.04,3
+2010H0373H,Electrical and Electronics Engineering,M.E,8.16,4
+2010A0374A,Chemical Engineering,B.E,5.4,3
+2010A0375A,Civil Engineering,B.E,6.57,3
+2010P0376P,Computer Science and Information Systems,B.Pharm,8.03,4
+2010A0377A,Computer Science and Information Systems,B.E,9.44,3
+2010A0378A,Physics,B.E,7.93,4
+2010H0379H,Electrical and Electronics Engineering,M.E,5.84,1
+2010A0380A,Chemisty,B.E,8.64,3
+2010A0381A,Physics,B.E,8.5,1
+2010H0382H,Civil Engineering,M.E,5.83,1
+2010S0383S,Chemical Engineering,M.Sc,5.32,4
+2010P0384P,Biological Sciences,B.Pharm,5.13,4
+2010S0385S,Mathematics,M.Sc,8.82,1
+2010A0386A,Chemical Engineering,B.E,6.31,2
+2010A0387A,Chemical Engineering,B.E,8.27,4
+2010A0388A,Computer Science and Information Systems,B.E,6.15,3
+2010A0389A,Humanities and Social Sciences,B.E,8.13,2
+2010H0390H,Mathematics,M.E,9.19,1
+2010D0391D,Biological Sciences,Ph.D,8.32,3
+2010A0392A,Humanities and Social Sciences,B.E,7.34,3
+2010A0393A,Mathematics,B.E,7.22,2
+2010A0394A,Mechanical Engineering,B.E,7.99,4
+2010D0395D,Mathematics,Ph.D,8.2,3
+2010A0396A,Economics and Finanace,B.E,7.41,2
+2010A0397A,Chemical Engineering,B.E,7.21,3
+2010A0398A,Electrical and Electronics Engineering,B.E,6.3,3
+2010H0399H,Biological Sciences,M.E,5.0,2
+2010A0400A,Economics and Finanace,B.E,6.43,1
+2010D0401D,Physics,Ph.D,9.61,4
+2010A0402A,Computer Science and Information Systems,B.E,5.05,4
+2010H0403H,Computer Science and Information Systems,M.E,7.99,1
+2010H0404H,Mathematics,M.E,6.87,4
+2010A0405A,Mathematics,B.E,7.19,2
+2010A0406A,Chemisty,B.E,8.57,4
+2010P0407P,Electrical and Electronics Engineering,B.Pharm,6.1,1
+2010A0408A,Electrical and Electronics Engineering,B.E,8.13,3
+2010H0409H,Computer Science and Information Systems,M.E,8.24,3
+2010A0410A,Electrical and Electronics Engineering,B.E,5.94,1
+2010P0411P,Chemisty,B.Pharm,5.68,1
+2010H0412H,Pharmacy,M.E,7.28,4
+2010A0413A,Computer Science and Information Systems,B.E,8.5,4
+2010A0414A,Civil Engineering,B.E,6.6,2
+2010A0415A,Biological Sciences,B.E,9.85,1
+2010A0416A,Chemisty,B.E,9.86,3
+2010A0417A,Computer Science and Information Systems,B.E,5.63,4
+2010A0418A,Physics,B.E,5.04,1
+2010A0419A,Chemisty,B.E,5.07,2
+2010H0420H,Economics and Finanace,M.E,7.1,4
+2010A0421A,Economics and Finanace,B.E,7.32,1
+2010H0422H,Economics and Finanace,M.E,5.4,2
+2010A0423A,Biological Sciences,B.E,6.33,4
+2010H0424H,Chemical Engineering,M.E,7.72,2
+2010H0425H,Civil Engineering,M.E,9.48,3
+2010P0426P,Electrical and Electronics Engineering,B.Pharm,9.14,1
+2010A0427A,Physics,B.E,6.24,4
+2010S0428S,Civil Engineering,M.Sc,8.69,1
+2010D0429D,Civil Engineering,Ph.D,7.3,1
+2010D0430D,Mathematics,Ph.D,8.33,2
+2010H0431H,Humanities and Social Sciences,M.E,6.95,3
+2010A0432A,Economics and Finanace,B.E,5.79,1
+2010D0433D,Physics,Ph.D,9.69,1
+2010A0434A,Computer Science and Information Systems,B.E,7.41,3
+2010A0435A,Civil Engineering,B.E,6.8,1
+2010P0436P,Pharmacy,B.Pharm,6.09,1
+2010H0437H,Civil Engineering,M.E,8.16,3
+2010A0438A,Biological Sciences,B.E,5.84,3
+2010P0439P,Mechanical Engineering,B.Pharm,5.6,2
+2010A0440A,Biological Sciences,B.E,9.84,4
+2010A0441A,Physics,B.E,7.98,3
+2010A0442A,Chemical Engineering,B.E,6.24,4
+2010H0443H,Chemical Engineering,M.E,8.43,3
+2010P0444P,Pharmacy,B.Pharm,5.3,3
+2010A0445A,Pharmacy,B.E,5.77,1
+2010A0446A,Chemisty,B.E,7.44,3
+2010A0447A,Mathematics,B.E,8.94,3
+2010H0448H,Humanities and Social Sciences,M.E,8.67,1
+2010A0449A,Physics,B.E,6.89,2
+2010H0450H,Computer Science and Information Systems,M.E,9.49,4
+2010H0451H,Physics,M.E,7.19,3
+2010A0452A,Mathematics,B.E,8.49,2
+2010A0453A,Mechanical Engineering,B.E,5.93,3
+2010P0454P,Economics and Finanace,B.Pharm,8.66,3
+2010P0455P,Mechanical Engineering,B.Pharm,9.57,2
+2010S0456S,Chemical Engineering,M.Sc,7.66,4
+2010A0457A,Computer Science and Information Systems,B.E,9.1,3
+2010P0458P,Humanities and Social Sciences,B.Pharm,5.0,4
+2010A0459A,Physics,B.E,5.93,1
+2010P0460P,Mechanical Engineering,B.Pharm,9.28,2
+2010S0461S,Economics and Finanace,M.Sc,8.61,4
+2010H0462H,Civil Engineering,M.E,7.62,4
+2010A0463A,Mathematics,B.E,5.77,3
+2010H0464H,Economics and Finanace,M.E,7.05,3
+2010A0465A,Chemical Engineering,B.E,5.48,1
+2010S0466S,Biological Sciences,M.Sc,9.18,2
+2010H0467H,Chemisty,M.E,9.37,2
+2010A0468A,Chemical Engineering,B.E,7.43,1
+2010P0469P,Biological Sciences,B.Pharm,7.86,4
+2010P0470P,Pharmacy,B.Pharm,7.45,3
+2010A0471A,Biological Sciences,B.E,6.83,1
+2010P0472P,Biological Sciences,B.Pharm,9.65,2
+2010H0473H,Pharmacy,M.E,7.46,1
+2010A0474A,Humanities and Social Sciences,B.E,9.01,1
+2010D0475D,Economics and Finanace,Ph.D,7.79,4
+2010S0476S,Economics and Finanace,M.Sc,8.97,1
+2010A0477A,Mechanical Engineering,B.E,6.33,1
+2010A0478A,Physics,B.E,5.35,3
+2010H0479H,Chemical Engineering,M.E,9.72,1
+2010A0480A,Chemical Engineering,B.E,8.63,4
+2010P0481P,Civil Engineering,B.Pharm,5.97,2
+2010A0482A,Mechanical Engineering,B.E,8.13,2
+2010P0483P,Electrical and Electronics Engineering,B.Pharm,8.73,3
+2010P0484P,Pharmacy,B.Pharm,7.29,4
+2010A0485A,Chemical Engineering,B.E,5.83,2
+2010D0486D,Mathematics,Ph.D,7.01,3
+2010A0487A,Pharmacy,B.E,5.79,4
+2010P0488P,Economics and Finanace,B.Pharm,9.51,3
+2010P0489P,Economics and Finanace,B.Pharm,7.06,4
+2010S0490S,Physics,M.Sc,6.62,2
+2010A0491A,Mechanical Engineering,B.E,7.73,4
+2010A0492A,Mathematics,B.E,9.63,3
+2010A0493A,Economics and Finanace,B.E,9.81,4
+2010A0494A,Electrical and Electronics Engineering,B.E,5.0,1
+2010A0495A,Computer Science and Information Systems,B.E,7.98,2
+2010H0496H,Computer Science and Information Systems,M.E,5.03,2
+2010A0497A,Civil Engineering,B.E,9.28,1
+2010H0498H,Physics,M.E,9.11,2
+2010A0499A,Chemical Engineering,B.E,5.19,3
+2010A0500A,Chemisty,B.E,5.69,3
+2010A0501A,Mechanical Engineering,B.E,6.25,3
+2010A0502A,Computer Science and Information Systems,B.E,5.46,4
+2010A0503A,Mechanical Engineering,B.E,9.59,1
+2010A0504A,Physics,B.E,6.62,4
+2010A0505A,Chemisty,B.E,7.44,1
+2010H0506H,Mechanical Engineering,M.E,8.21,1
+2010H0507H,Physics,M.E,9.04,4
+2010S0508S,Chemical Engineering,M.Sc,8.9,3
+2010A0509A,Economics and Finanace,B.E,9.4,4
+2010A0510A,Electrical and Electronics Engineering,B.E,9.65,1
+2010A0511A,Civil Engineering,B.E,8.74,1
+2010S0512S,Pharmacy,M.Sc,8.89,4
+2010A0513A,Biological Sciences,B.E,6.52,1
+2010S0514S,Economics and Finanace,M.Sc,7.7,2
+2010P0515P,Economics and Finanace,B.Pharm,7.51,2
+2010H0516H,Chemisty,M.E,5.25,4
+2010H0517H,Humanities and Social Sciences,M.E,8.76,1
+2010A0518A,Civil Engineering,B.E,7.16,4
+2010A0519A,Chemisty,B.E,5.66,1
+2010A0520A,Humanities and Social Sciences,B.E,7.86,1
+2010S0521S,Mathematics,M.Sc,7.0,1
+2010A0522A,Electrical and Electronics Engineering,B.E,7.51,2
+2010A0523A,Chemisty,B.E,7.4,2
+2010S0524S,Humanities and Social Sciences,M.Sc,6.98,2
+2010H0525H,Mathematics,M.E,8.08,2
+2010A0526A,Civil Engineering,B.E,5.36,4
+2010D0527D,Economics and Finanace,Ph.D,8.42,1
+2010A0528A,Chemical Engineering,B.E,8.36,4
+2010H0529H,Economics and Finanace,M.E,6.74,3
+2010A0530A,Economics and Finanace,B.E,7.97,1
+2010A0531A,Computer Science and Information Systems,B.E,5.85,3
+2010H0532H,Mechanical Engineering,M.E,9.11,4
+2010A0533A,Mechanical Engineering,B.E,5.73,1
+2010A0534A,Civil Engineering,B.E,6.0,3
+2010P0535P,Chemisty,B.Pharm,8.79,1
+2010H0536H,Chemical Engineering,M.E,8.7,2
+2010A0537A,Mechanical Engineering,B.E,9.63,3
+2010H0538H,Biological Sciences,M.E,6.72,1
+2010A0539A,Computer Science and Information Systems,B.E,7.25,1
+2010D0540D,Economics and Finanace,Ph.D,6.05,2
+2010S0541S,Civil Engineering,M.Sc,7.73,3
+2010A0542A,Mathematics,B.E,7.42,2
+2010P0543P,Pharmacy,B.Pharm,5.09,1
+2010H0544H,Computer Science and Information Systems,M.E,5.85,3
+2010D0545D,Civil Engineering,Ph.D,8.95,3
+2010A0546A,Biological Sciences,B.E,7.32,1
+2010P0547P,Chemical Engineering,B.Pharm,6.94,3
+2010S0548S,Pharmacy,M.Sc,9.26,3
+2010A0549A,Chemical Engineering,B.E,5.1,4
+2010D0550D,Civil Engineering,Ph.D,9.9,1
+2010A0551A,Economics and Finanace,B.E,7.42,1
+2010A0552A,Chemisty,B.E,5.99,4
+2010P0553P,Biological Sciences,B.Pharm,5.2,3
+2010H0554H,Economics and Finanace,M.E,7.45,2
+2010A0555A,Biological Sciences,B.E,6.73,3
+2010A0556A,Economics and Finanace,B.E,8.13,2
+2010D0557D,Mathematics,Ph.D,6.38,1
+2010A0558A,Pharmacy,B.E,6.29,4
+2010H0559H,Biological Sciences,M.E,9.72,3
+2010D0560D,Civil Engineering,Ph.D,5.76,4
+2010A0561A,Pharmacy,B.E,5.69,4
+2010A0562A,Mathematics,B.E,9.8,2
+2010P0563P,Electrical and Electronics Engineering,B.Pharm,6.2,2
+2010A0564A,Electrical and Electronics Engineering,B.E,9.85,3
+2010S0565S,Humanities and Social Sciences,M.Sc,7.71,2
+2010S0566S,Pharmacy,M.Sc,5.69,2
+2010H0567H,Chemisty,M.E,6.54,2
+2010D0568D,Electrical and Electronics Engineering,Ph.D,9.98,2
+2010H0569H,Pharmacy,M.E,9.67,2
+2010P0570P,Economics and Finanace,B.Pharm,5.34,1
+2010A0571A,Chemisty,B.E,6.59,2
+2010S0572S,Physics,M.Sc,5.15,3
+2010S0573S,Electrical and Electronics Engineering,M.Sc,9.81,3
+2010P0574P,Humanities and Social Sciences,B.Pharm,8.73,3
+2010H0575H,Chemisty,M.E,8.9,1
+2010A0576A,Chemisty,B.E,5.92,3
+2010H0577H,Mechanical Engineering,M.E,7.84,2
+2010D0578D,Mechanical Engineering,Ph.D,6.16,1
+2010S0579S,Economics and Finanace,M.Sc,5.4,4
+2010A0580A,Chemisty,B.E,7.51,4
+2010A0581A,Physics,B.E,8.25,2
+2010S0582S,Electrical and Electronics Engineering,M.Sc,7.46,2
+2010A0583A,Chemisty,B.E,5.97,1
+2010A0584A,Electrical and Electronics Engineering,B.E,8.82,1
+2010A0585A,Computer Science and Information Systems,B.E,9.75,2
+2010A0586A,Physics,B.E,8.36,2
+2010P0587P,Civil Engineering,B.Pharm,5.33,4
+2010H0588H,Mechanical Engineering,M.E,7.45,3
+2010A0589A,Humanities and Social Sciences,B.E,9.44,4
+2010H0590H,Electrical and Electronics Engineering,M.E,8.88,4
+2010A0591A,Physics,B.E,6.56,1
+2010A0592A,Mathematics,B.E,5.55,4
+2010P0593P,Biological Sciences,B.Pharm,9.39,2
+2010A0594A,Mathematics,B.E,7.69,1
+2010S0595S,Mathematics,M.Sc,6.94,1
+2010A0596A,Civil Engineering,B.E,6.46,4
+2010H0597H,Computer Science and Information Systems,M.E,8.87,3
+2010A0598A,Humanities and Social Sciences,B.E,5.83,3
+2010H0599H,Mechanical Engineering,M.E,9.6,2
+2010A0600A,Humanities and Social Sciences,B.E,9.15,4
+2010H0601H,Chemical Engineering,M.E,8.61,1
+2010D0602D,Chemisty,Ph.D,8.89,2
+2010A0603A,Electrical and Electronics Engineering,B.E,7.07,4
+2010A0604A,Biological Sciences,B.E,5.89,2
+2010A0605A,Humanities and Social Sciences,B.E,5.45,3
+2010H0606H,Physics,M.E,8.24,2
+2010A0607A,Physics,B.E,8.67,1
+2010A0608A,Chemical Engineering,B.E,8.53,3
+2010A0609A,Chemical Engineering,B.E,7.62,4
+2010A0610A,Physics,B.E,8.96,2
+2010A0611A,Electrical and Electronics Engineering,B.E,7.75,1
+2010A0612A,Chemisty,B.E,9.56,2
+2010A0613A,Chemisty,B.E,9.34,2
+2010H0614H,Physics,M.E,5.26,3
+2010H0615H,Computer Science and Information Systems,M.E,8.65,4
+2010H0616H,Computer Science and Information Systems,M.E,8.13,1
+2010H0617H,Chemisty,M.E,9.8,1
+2010S0618S,Mechanical Engineering,M.Sc,8.83,1
+2010A0619A,Humanities and Social Sciences,B.E,7.49,4
+2010A0620A,Mathematics,B.E,9.04,4
+2010P0621P,Civil Engineering,B.Pharm,6.08,4
+2010D0622D,Humanities and Social Sciences,Ph.D,7.05,1
+2010A0623A,Mechanical Engineering,B.E,8.0,2
+2010A0624A,Mathematics,B.E,6.39,2
+2010A0625A,Biological Sciences,B.E,5.92,1
+2010H0626H,Pharmacy,M.E,6.75,2
+2010H0627H,Biological Sciences,M.E,8.33,3
+2010S0628S,Economics and Finanace,M.Sc,9.6,1
+2010P0629P,Chemical Engineering,B.Pharm,7.08,2
+2010A0630A,Chemisty,B.E,8.36,2
+2010A0631A,Humanities and Social Sciences,B.E,8.75,3
+2010S0632S,Biological Sciences,M.Sc,5.47,3
+2010H0633H,Economics and Finanace,M.E,6.84,4
+2010A0634A,Chemical Engineering,B.E,8.79,1
+2010S0635S,Computer Science and Information Systems,M.Sc,7.35,1
+2010H0636H,Physics,M.E,9.3,3
+2010P0637P,Electrical and Electronics Engineering,B.Pharm,7.62,2
+2010A0638A,Mechanical Engineering,B.E,5.29,1
+2010A0639A,Humanities and Social Sciences,B.E,8.62,3
+2010S0640S,Electrical and Electronics Engineering,M.Sc,8.04,3
+2010H0641H,Computer Science and Information Systems,M.E,7.63,3
+2010A0642A,Chemisty,B.E,8.07,4
+2010A0643A,Mathematics,B.E,8.65,4
+2010P0644P,Humanities and Social Sciences,B.Pharm,9.04,2
+2010A0645A,Physics,B.E,6.45,2
+2010A0646A,Biological Sciences,B.E,5.59,4
+2010P0647P,Pharmacy,B.Pharm,8.98,2
+2010D0648D,Mechanical Engineering,Ph.D,9.99,4
+2010H0649H,Biological Sciences,M.E,6.67,2
+2010A0650A,Biological Sciences,B.E,8.2,3
+2010A0651A,Computer Science and Information Systems,B.E,8.95,3
+2010H0652H,Computer Science and Information Systems,M.E,7.53,3
+2010A0653A,Biological Sciences,B.E,5.57,3
+2010S0654S,Economics and Finanace,M.Sc,6.98,1
+2010A0655A,Chemisty,B.E,5.97,3
+2010A0656A,Pharmacy,B.E,7.4,4
+2010H0657H,Biological Sciences,M.E,8.23,4
+2010D0658D,Chemisty,Ph.D,8.14,3
+2010A0659A,Humanities and Social Sciences,B.E,8.92,4
+2010A0660A,Physics,B.E,5.28,3
+2010H0661H,Mechanical Engineering,M.E,8.62,3
+2010A0662A,Mathematics,B.E,7.68,2
+2010A0663A,Mechanical Engineering,B.E,8.43,3
+2010A0664A,Chemical Engineering,B.E,9.85,3
+2010A0665A,Biological Sciences,B.E,6.7,4
+2010D0666D,Pharmacy,Ph.D,7.67,2
+2010A0667A,Mechanical Engineering,B.E,8.03,2
+2010A0668A,Mechanical Engineering,B.E,5.58,3
+2010A0669A,Physics,B.E,9.29,1
+2010A0670A,Computer Science and Information Systems,B.E,7.07,4
+2010A0671A,Civil Engineering,B.E,6.86,3
+2010H0672H,Civil Engineering,M.E,7.63,2
+2010A0673A,Chemical Engineering,B.E,6.87,1
+2010A0674A,Civil Engineering,B.E,9.57,4
+2010P0675P,Biological Sciences,B.Pharm,9.0,2
+2010A0676A,Civil Engineering,B.E,6.7,4
+2010H0677H,Physics,M.E,9.37,3
+2010S0678S,Economics and Finanace,M.Sc,5.72,1
+2010A0679A,Mathematics,B.E,8.38,2
+2010P0680P,Civil Engineering,B.Pharm,8.62,4
+2010H0681H,Electrical and Electronics Engineering,M.E,8.57,1
+2010A0682A,Biological Sciences,B.E,6.55,1
+2010H0683H,Pharmacy,M.E,9.24,1
+2010H0684H,Economics and Finanace,M.E,7.33,1
+2010H0685H,Chemical Engineering,M.E,7.6,3
+2010S0686S,Biological Sciences,M.Sc,7.89,3
+2010H0687H,Pharmacy,M.E,9.46,3
+2010D0688D,Civil Engineering,Ph.D,5.96,3
+2010P0689P,Economics and Finanace,B.Pharm,8.86,1
+2010H0690H,Computer Science and Information Systems,M.E,5.75,3
+2010S0691S,Chemical Engineering,M.Sc,5.08,1
+2010A0692A,Civil Engineering,B.E,7.71,3
+2010A0693A,Computer Science and Information Systems,B.E,5.71,3
+2010A0694A,Mechanical Engineering,B.E,6.22,1
+2010P0695P,Computer Science and Information Systems,B.Pharm,8.07,3
+2010H0696H,Mathematics,M.E,7.22,2
+2010A0697A,Biological Sciences,B.E,7.35,1
+2010D0698D,Chemical Engineering,Ph.D,6.92,1
+2010H0699H,Electrical and Electronics Engineering,M.E,6.96,4
+2010A0700A,Mechanical Engineering,B.E,6.78,3
+2010P0701P,Civil Engineering,B.Pharm,8.56,1
+2010H0702H,Humanities and Social Sciences,M.E,7.84,1
+2010A0703A,Physics,B.E,7.34,4
+2010P0704P,Computer Science and Information Systems,B.Pharm,8.42,4
+2010A0705A,Humanities and Social Sciences,B.E,6.16,2
+2010P0706P,Chemisty,B.Pharm,9.31,3
+2010H0707H,Economics and Finanace,M.E,6.96,3
+2010H0708H,Economics and Finanace,M.E,7.27,1
+2010A0709A,Chemical Engineering,B.E,7.38,3
+2010P0710P,Humanities and Social Sciences,B.Pharm,7.31,2
+2010A0711A,Computer Science and Information Systems,B.E,8.84,2
+2010A0712A,Mathematics,B.E,5.51,1
+2010A0713A,Economics and Finanace,B.E,7.78,1
+2010A0714A,Computer Science and Information Systems,B.E,7.66,4
+2010A0715A,Mechanical Engineering,B.E,7.07,2
+2010A0716A,Mathematics,B.E,5.8,4
+2010S0717S,Electrical and Electronics Engineering,M.Sc,5.33,2
+2010A0718A,Physics,B.E,7.95,4
+2010A0719A,Mechanical Engineering,B.E,8.94,2
+2010A0720A,Chemisty,B.E,8.31,1
+2010A0721A,Physics,B.E,9.65,4
+2010S0722S,Chemical Engineering,M.Sc,7.96,4
+2010P0723P,Economics and Finanace,B.Pharm,7.78,4
+2010H0724H,Chemisty,M.E,6.54,4
+2010H0725H,Chemical Engineering,M.E,7.99,4
+2010A0726A,Economics and Finanace,B.E,7.47,1
+2010D0727D,Chemical Engineering,Ph.D,6.09,2
+2010H0728H,Mechanical Engineering,M.E,9.52,1
+2010H0729H,Chemisty,M.E,8.3,4
+2010A0730A,Mathematics,B.E,6.46,4
+2010A0731A,Civil Engineering,B.E,6.03,3
+2010A0732A,Computer Science and Information Systems,B.E,7.85,3
+2010H0733H,Electrical and Electronics Engineering,M.E,8.59,3
+2010H0734H,Chemical Engineering,M.E,7.91,4
+2010A0735A,Chemisty,B.E,9.26,1
+2010A0736A,Economics and Finanace,B.E,9.51,1
+2010A0737A,Biological Sciences,B.E,8.52,3
+2010A0738A,Chemical Engineering,B.E,9.31,1
+2010A0739A,Civil Engineering,B.E,7.16,4
+2010A0740A,Pharmacy,B.E,6.59,4
+2010A0741A,Electrical and Electronics Engineering,B.E,6.91,2
+2010P0742P,Pharmacy,B.Pharm,5.87,2
+2010H0743H,Civil Engineering,M.E,7.78,3
+2010A0744A,Electrical and Electronics Engineering,B.E,5.77,2
+2010A0745A,Chemisty,B.E,5.06,1
+2010A0746A,Chemisty,B.E,8.61,4
+2010A0747A,Pharmacy,B.E,7.18,2
+2010A0748A,Chemical Engineering,B.E,5.69,4
+2010A0749A,Humanities and Social Sciences,B.E,9.47,4
+2010P0750P,Mechanical Engineering,B.Pharm,5.9,4
+2010A0751A,Mathematics,B.E,9.1,4
+2010P0752P,Economics and Finanace,B.Pharm,6.13,4
+2010A0753A,Mechanical Engineering,B.E,5.04,4
+2010S0754S,Physics,M.Sc,6.18,3
+2010H0755H,Electrical and Electronics Engineering,M.E,9.63,3
+2010D0756D,Biological Sciences,Ph.D,9.89,4
+2010D0757D,Physics,Ph.D,6.84,4
+2010A0758A,Physics,B.E,5.4,3
+2010H0759H,Humanities and Social Sciences,M.E,7.58,1
+2010A0760A,Civil Engineering,B.E,7.36,1
+2010P0761P,Pharmacy,B.Pharm,8.17,3
+2010A0762A,Mechanical Engineering,B.E,5.26,3
+2010A0763A,Mathematics,B.E,8.89,4
+2010S0764S,Humanities and Social Sciences,M.Sc,7.56,4
+2010P0765P,Mechanical Engineering,B.Pharm,8.67,4
+2010A0766A,Economics and Finanace,B.E,9.8,3
+2010H0767H,Computer Science and Information Systems,M.E,5.84,3
+2010A0768A,Physics,B.E,8.93,3
+2010A0769A,Biological Sciences,B.E,8.15,2
+2010H0770H,Mechanical Engineering,M.E,5.26,3
+2010H0771H,Physics,M.E,8.12,3
+2010H0772H,Humanities and Social Sciences,M.E,5.41,1
+2010A0773A,Computer Science and Information Systems,B.E,6.26,3
+2010A0774A,Computer Science and Information Systems,B.E,9.29,1
+2010S0775S,Physics,M.Sc,5.56,2
+2010A0776A,Mechanical Engineering,B.E,8.69,4
+2010H0777H,Economics and Finanace,M.E,9.04,3
+2010H0778H,Physics,M.E,6.18,2
+2010P0779P,Biological Sciences,B.Pharm,6.71,1
+2010A0780A,Chemisty,B.E,7.98,2
+2010A0781A,Humanities and Social Sciences,B.E,8.76,4
+2010A0782A,Electrical and Electronics Engineering,B.E,6.19,4
+2010H0783H,Physics,M.E,8.19,2
+2010A0784A,Mechanical Engineering,B.E,8.67,3
+2010H0785H,Biological Sciences,M.E,8.21,1
+2010P0786P,Biological Sciences,B.Pharm,5.84,4
+2010A0787A,Humanities and Social Sciences,B.E,6.51,2
+2010A0788A,Electrical and Electronics Engineering,B.E,8.42,4
+2010P0789P,Humanities and Social Sciences,B.Pharm,6.31,4
+2010P0790P,Biological Sciences,B.Pharm,6.44,4
+2010H0791H,Electrical and Electronics Engineering,M.E,8.39,1
+2010A0792A,Chemical Engineering,B.E,9.59,3
+2010A0793A,Electrical and Electronics Engineering,B.E,8.05,3
+2010A0794A,Economics and Finanace,B.E,6.35,1
+2010A0795A,Computer Science and Information Systems,B.E,8.27,4
+2010P0796P,Humanities and Social Sciences,B.Pharm,8.87,2
+2010S0797S,Physics,M.Sc,8.36,2
+2010S0798S,Mathematics,M.Sc,6.69,2
+2010D0799D,Economics and Finanace,Ph.D,7.74,1
+2010A0800A,Chemical Engineering,B.E,5.06,1
+2010P0801P,Chemical Engineering,B.Pharm,8.43,3
+2010A0802A,Civil Engineering,B.E,8.63,3
+2010H0803H,Civil Engineering,M.E,5.17,1
+2010A0804A,Biological Sciences,B.E,9.69,2
+2010A0805A,Mechanical Engineering,B.E,8.19,1
+2010P0806P,Chemical Engineering,B.Pharm,9.28,2
+2010A0807A,Electrical and Electronics Engineering,B.E,8.28,2
+2010P0808P,Chemical Engineering,B.Pharm,8.48,3
+2010P0809P,Computer Science and Information Systems,B.Pharm,7.33,1
+2010A0810A,Pharmacy,B.E,7.27,3
+2010A0811A,Electrical and Electronics Engineering,B.E,8.46,3
+2010H0812H,Computer Science and Information Systems,M.E,5.81,1
+2010A0813A,Computer Science and Information Systems,B.E,8.89,4
+2010H0814H,Electrical and Electronics Engineering,M.E,6.66,1
+2010D0815D,Computer Science and Information Systems,Ph.D,9.78,3
+2010A0816A,Chemisty,B.E,7.2,4
+2010D0817D,Civil Engineering,Ph.D,8.05,2
+2010A0818A,Pharmacy,B.E,7.46,2
+2010D0819D,Mathematics,Ph.D,8.84,2
+2010H0820H,Mechanical Engineering,M.E,8.22,4
+2010D0821D,Physics,Ph.D,6.29,1
+2010S0822S,Chemical Engineering,M.Sc,5.35,3
+2010A0823A,Humanities and Social Sciences,B.E,5.09,4
+2010A0824A,Chemisty,B.E,8.26,1
+2010A0825A,Biological Sciences,B.E,8.32,3
+2010P0826P,Chemisty,B.Pharm,8.5,4
+2010D0827D,Mechanical Engineering,Ph.D,5.02,4
+2010S0828S,Humanities and Social Sciences,M.Sc,7.18,1
+2010A0829A,Mathematics,B.E,6.13,4
+2010P0830P,Humanities and Social Sciences,B.Pharm,5.61,3
+2010P0831P,Economics and Finanace,B.Pharm,8.41,4
+2010D0832D,Biological Sciences,Ph.D,8.16,1
+2010A0833A,Economics and Finanace,B.E,7.67,3
+2010A0834A,Chemical Engineering,B.E,9.21,3
+2010P0835P,Pharmacy,B.Pharm,6.02,1
+2010A0836A,Electrical and Electronics Engineering,B.E,8.3,3
+2010A0837A,Physics,B.E,6.95,1
+2010H0838H,Pharmacy,M.E,8.44,4
+2010A0839A,Chemical Engineering,B.E,9.43,4
+2010A0840A,Physics,B.E,5.95,1
+2010H0841H,Civil Engineering,M.E,5.13,2
+2010H0842H,Humanities and Social Sciences,M.E,6.94,3
+2010A0843A,Humanities and Social Sciences,B.E,7.67,4
+2010A0844A,Biological Sciences,B.E,5.19,1
+2010A0845A,Economics and Finanace,B.E,8.94,1
+2010A0846A,Electrical and Electronics Engineering,B.E,5.59,4
+2010P0847P,Pharmacy,B.Pharm,9.35,2
+2010A0848A,Physics,B.E,7.9,1
+2010P0849P,Biological Sciences,B.Pharm,8.68,4
+2010H0850H,Pharmacy,M.E,5.1,1
+2010A0851A,Civil Engineering,B.E,8.51,2
+2010H0852H,Biological Sciences,M.E,5.86,1
+2010S0853S,Computer Science and Information Systems,M.Sc,9.1,1
+2010D0854D,Humanities and Social Sciences,Ph.D,8.06,1
+2010H0855H,Chemical Engineering,M.E,5.57,2
+2010D0856D,Chemical Engineering,Ph.D,9.02,4
+2010A0857A,Economics and Finanace,B.E,9.06,4
+2010P0858P,Economics and Finanace,B.Pharm,5.6,2
+2010H0859H,Economics and Finanace,M.E,9.18,2
+2010H0860H,Biological Sciences,M.E,7.97,3
+2010D0861D,Chemical Engineering,Ph.D,5.6,2
+2010A0862A,Electrical and Electronics Engineering,B.E,5.84,3
+2010H0863H,Mathematics,M.E,5.83,2
+2010P0864P,Mechanical Engineering,B.Pharm,5.2,1
+2010P0865P,Pharmacy,B.Pharm,8.06,2
+2010D0866D,Biological Sciences,Ph.D,9.4,1
+2010A0867A,Biological Sciences,B.E,5.04,1
+2010H0868H,Physics,M.E,8.26,3
+2010H0869H,Electrical and Electronics Engineering,M.E,8.47,4
+2010S0870S,Physics,M.Sc,5.63,2
+2010A0871A,Pharmacy,B.E,6.35,4
+2010A0872A,Electrical and Electronics Engineering,B.E,6.2,2
+2010A0873A,Mechanical Engineering,B.E,8.46,2
+2010A0874A,Physics,B.E,7.5,1
+2010A0875A,Pharmacy,B.E,9.13,3
+2010A0876A,Economics and Finanace,B.E,7.09,2
+2010A0877A,Civil Engineering,B.E,5.59,1
+2010A0878A,Mechanical Engineering,B.E,6.81,2
+2010H0879H,Humanities and Social Sciences,M.E,8.85,2
+2010A0880A,Computer Science and Information Systems,B.E,5.27,1
+2010S0881S,Chemisty,M.Sc,8.43,4
+2010A0882A,Humanities and Social Sciences,B.E,5.88,1
+2010A0883A,Biological Sciences,B.E,8.22,3
+2010A0884A,Civil Engineering,B.E,7.17,3
+2010A0885A,Mechanical Engineering,B.E,9.03,4
+2010A0886A,Biological Sciences,B.E,5.52,1
+2010A0887A,Mathematics,B.E,5.88,1
+2010A0888A,Humanities and Social Sciences,B.E,7.57,1
+2010D0889D,Civil Engineering,Ph.D,8.61,3
+2010S0890S,Electrical and Electronics Engineering,M.Sc,5.99,3
+2010A0891A,Civil Engineering,B.E,8.89,3
+2010H0892H,Civil Engineering,M.E,5.49,4
+2010D0893D,Civil Engineering,Ph.D,6.88,2
+2010A0894A,Chemical Engineering,B.E,7.35,4
+2010A0895A,Biological Sciences,B.E,9.45,2
+2010D0896D,Civil Engineering,Ph.D,9.64,4
+2010P0897P,Chemisty,B.Pharm,6.94,2
+2010A0898A,Humanities and Social Sciences,B.E,8.6,3
+2010H0899H,Computer Science and Information Systems,M.E,6.01,2
+2010A0900A,Biological Sciences,B.E,8.46,1
+2010A0901A,Computer Science and Information Systems,B.E,5.68,4
+2010A0902A,Humanities and Social Sciences,B.E,7.09,3
+2010D0903D,Civil Engineering,Ph.D,9.43,2
+2010H0904H,Pharmacy,M.E,9.76,2
+2010P0905P,Mechanical Engineering,B.Pharm,9.85,2
+2010A0906A,Chemical Engineering,B.E,7.06,4
+2010A0907A,Civil Engineering,B.E,7.96,4
+2010A0908A,Computer Science and Information Systems,B.E,5.07,4
+2010H0909H,Physics,M.E,9.36,2
+2010A0910A,Economics and Finanace,B.E,7.17,2
+2010H0911H,Mechanical Engineering,M.E,9.73,1
+2010H0912H,Electrical and Electronics Engineering,M.E,9.9,1
+2010A0913A,Humanities and Social Sciences,B.E,8.67,1
+2010H0914H,Electrical and Electronics Engineering,M.E,7.66,4
+2010D0915D,Physics,Ph.D,9.11,4
+2010D0916D,Humanities and Social Sciences,Ph.D,6.2,1
+2010S0917S,Physics,M.Sc,8.66,2
+2010D0918D,Chemisty,Ph.D,6.79,2
+2010D0919D,Pharmacy,Ph.D,9.99,1
+2010A0920A,Humanities and Social Sciences,B.E,8.35,2
+2010A0921A,Physics,B.E,7.3,1
+2010A0922A,Humanities and Social Sciences,B.E,7.32,2
+2010H0923H,Physics,M.E,7.03,3
+2010H0924H,Pharmacy,M.E,7.32,1
+2010A0925A,Pharmacy,B.E,5.35,3
+2010H0926H,Mathematics,M.E,5.16,4
+2010A0927A,Computer Science and Information Systems,B.E,8.49,2
+2010H0928H,Pharmacy,M.E,5.4,3
+2010A0929A,Physics,B.E,9.66,3
+2010A0930A,Biological Sciences,B.E,5.55,3
+2010S0931S,Humanities and Social Sciences,M.Sc,8.1,3
+2010D0932D,Economics and Finanace,Ph.D,5.88,1
+2010H0933H,Mathematics,M.E,8.55,2
+2010A0934A,Chemisty,B.E,9.91,2
+2010P0935P,Chemical Engineering,B.Pharm,8.25,2
+2010A0936A,Physics,B.E,8.8,3
+2010H0937H,Economics and Finanace,M.E,9.49,4
+2010A0938A,Computer Science and Information Systems,B.E,5.27,3
+2010A0939A,Economics and Finanace,B.E,7.26,1
+2010A0940A,Humanities and Social Sciences,B.E,8.55,3
+2010P0941P,Humanities and Social Sciences,B.Pharm,8.1,1
+2010P0942P,Civil Engineering,B.Pharm,9.46,4
+2010H0943H,Chemical Engineering,M.E,5.4,2
+2010A0944A,Computer Science and Information Systems,B.E,9.79,1
+2010A0945A,Chemical Engineering,B.E,5.82,1
+2010A0946A,Physics,B.E,5.74,2
+2010H0947H,Civil Engineering,M.E,7.6,1
+2010S0948S,Computer Science and Information Systems,M.Sc,7.08,2
+2010A0949A,Humanities and Social Sciences,B.E,6.73,4
+2010P0950P,Pharmacy,B.Pharm,5.11,2
+2010H0951H,Chemical Engineering,M.E,5.11,2
+2010P0952P,Pharmacy,B.Pharm,6.68,3
+2010A0953A,Pharmacy,B.E,8.23,3
+2010H0954H,Humanities and Social Sciences,M.E,7.97,4
+2010H0955H,Humanities and Social Sciences,M.E,6.52,2
+2010S0956S,Computer Science and Information Systems,M.Sc,5.86,3
+2010A0957A,Civil Engineering,B.E,7.42,3
+2010A0958A,Biological Sciences,B.E,5.74,3
+2010S0959S,Humanities and Social Sciences,M.Sc,9.78,2
+2010A0960A,Physics,B.E,7.68,2
+2010A0961A,Chemisty,B.E,9.2,2
+2010H0962H,Chemisty,M.E,6.19,1
+2010A0963A,Economics and Finanace,B.E,7.87,4
+2010H0964H,Computer Science and Information Systems,M.E,6.85,2
+2010A0965A,Mathematics,B.E,8.54,3
+2010H0966H,Economics and Finanace,M.E,5.74,4
+2010H0967H,Mathematics,M.E,9.88,3
+2010A0968A,Chemical Engineering,B.E,9.6,4
+2010P0969P,Humanities and Social Sciences,B.Pharm,8.84,4
+2010H0970H,Economics and Finanace,M.E,5.78,3
+2010H0971H,Pharmacy,M.E,8.53,4
+2010A0972A,Computer Science and Information Systems,B.E,9.85,2
+2010A0973A,Mechanical Engineering,B.E,8.64,4
+2010A0974A,Economics and Finanace,B.E,8.45,4
+2010P0975P,Biological Sciences,B.Pharm,5.7,1
+2010H0976H,Computer Science and Information Systems,M.E,5.12,2
+2010A0977A,Humanities and Social Sciences,B.E,6.79,3
+2010H0978H,Biological Sciences,M.E,8.04,2
+2010H0979H,Mechanical Engineering,M.E,7.63,3
+2010S0980S,Civil Engineering,M.Sc,5.11,4
+2010A0981A,Pharmacy,B.E,8.36,1
+2010H0982H,Mathematics,M.E,6.97,4
+2010A0983A,Economics and Finanace,B.E,8.02,1
+2010A0984A,Pharmacy,B.E,6.81,2
+2010A0985A,Physics,B.E,9.27,3
+2010S0986S,Electrical and Electronics Engineering,M.Sc,6.86,3
+2010P0987P,Economics and Finanace,B.Pharm,6.76,4
+2010D0988D,Mathematics,Ph.D,5.44,4
+2010A0989A,Physics,B.E,9.96,4
+2010D0990D,Computer Science and Information Systems,Ph.D,5.82,4
+2010A0991A,Physics,B.E,9.48,2
+2010A0992A,Mechanical Engineering,B.E,7.99,2
+2010A0993A,Civil Engineering,B.E,6.52,3
+2010A0994A,Chemical Engineering,B.E,9.67,4
+2010D0995D,Chemical Engineering,Ph.D,5.03,3
+2010A0996A,Electrical and Electronics Engineering,B.E,5.87,4
+2010P0997P,Mechanical Engineering,B.Pharm,8.78,2
+2010A0998A,Civil Engineering,B.E,5.93,4
+2010A0999A,Computer Science and Information Systems,B.E,7.77,1
+2010A1000A,Computer Science and Information Systems,B.E,9.17,3
+2010H1001H,Humanities and Social Sciences,M.E,7.8,4
+2010A1002A,Civil Engineering,B.E,5.13,1
+2010S1003S,Chemisty,M.Sc,6.31,4
+2010A1004A,Chemical Engineering,B.E,8.27,3
+2010H1005H,Electrical and Electronics Engineering,M.E,5.9,2
+2010H1006H,Biological Sciences,M.E,5.6,3
+2010P1007P,Humanities and Social Sciences,B.Pharm,9.97,1
+2010A1008A,Mechanical Engineering,B.E,8.73,4
+2010S1009S,Mechanical Engineering,M.Sc,7.18,3
+2010S1010S,Pharmacy,M.Sc,8.43,1
+2010S1011S,Economics and Finanace,M.Sc,7.56,1
+2010A1012A,Computer Science and Information Systems,B.E,5.81,1
+2010H1013H,Chemisty,M.E,6.6,2
+2010A1014A,Economics and Finanace,B.E,5.82,3
+2010H1015H,Economics and Finanace,M.E,7.1,3
+2010P1016P,Biological Sciences,B.Pharm,6.45,1
+2010H1017H,Mathematics,M.E,5.97,2
+2010A1018A,Chemical Engineering,B.E,7.99,2
+2010A1019A,Mathematics,B.E,6.61,3
+2010S1020S,Pharmacy,M.Sc,9.0,3
+2010A1021A,Pharmacy,B.E,8.49,3
+2010H1022H,Chemical Engineering,M.E,7.67,3
+2010P1023P,Chemisty,B.Pharm,5.06,3
+2010A1024A,Economics and Finanace,B.E,8.89,4
+2010A1025A,Economics and Finanace,B.E,9.6,2
+2010A1026A,Chemical Engineering,B.E,6.09,2
+2010H1027H,Civil Engineering,M.E,8.98,1
+2010A1028A,Electrical and Electronics Engineering,B.E,7.3,1
+2010S1029S,Chemical Engineering,M.Sc,9.09,1
+2010A1030A,Humanities and Social Sciences,B.E,6.74,3
+2010A1031A,Chemisty,B.E,9.09,3
+2010P1032P,Chemisty,B.Pharm,8.55,1
+2010H1033H,Physics,M.E,9.07,2
+2010A1034A,Chemisty,B.E,9.28,2
+2010A1035A,Physics,B.E,6.13,2
+2010A1036A,Civil Engineering,B.E,5.65,1
+2010A1037A,Electrical and Electronics Engineering,B.E,8.45,1
+2010A1038A,Chemical Engineering,B.E,5.09,4
+2010S1039S,Electrical and Electronics Engineering,M.Sc,5.21,1
+2010H1040H,Biological Sciences,M.E,8.97,1
+2010A1041A,Humanities and Social Sciences,B.E,5.59,3
+2010A1042A,Biological Sciences,B.E,5.33,1
+2010P1043P,Chemical Engineering,B.Pharm,8.91,2
+2010A1044A,Mechanical Engineering,B.E,9.51,2
+2010A1045A,Pharmacy,B.E,6.76,1
+2010A1046A,Chemisty,B.E,9.23,3
+2010A1047A,Mechanical Engineering,B.E,6.74,2
+2010P1048P,Mechanical Engineering,B.Pharm,6.21,1
+2010A1049A,Chemical Engineering,B.E,9.1,1
+2010H1050H,Mathematics,M.E,6.08,2
+2010A1051A,Computer Science and Information Systems,B.E,5.86,1
+2010P1052P,Chemical Engineering,B.Pharm,9.62,4
+2010H1053H,Economics and Finanace,M.E,8.49,2
+2010A1054A,Humanities and Social Sciences,B.E,8.37,1
+2010P1055P,Chemisty,B.Pharm,9.17,4
+2010S1056S,Electrical and Electronics Engineering,M.Sc,6.07,2
+2010H1057H,Electrical and Electronics Engineering,M.E,5.56,3
+2010A1058A,Chemical Engineering,B.E,7.33,2
+2010D1059D,Humanities and Social Sciences,Ph.D,8.81,3
+2010A1060A,Mathematics,B.E,8.61,1
+2010H1061H,Economics and Finanace,M.E,7.47,4
+2010S1062S,Computer Science and Information Systems,M.Sc,7.28,3
+2010A1063A,Pharmacy,B.E,9.88,4
+2010A1064A,Civil Engineering,B.E,7.77,3
+2010A1065A,Electrical and Electronics Engineering,B.E,5.94,1
+2010A1066A,Humanities and Social Sciences,B.E,9.7,3
+2010P1067P,Chemisty,B.Pharm,5.06,4
+2010A1068A,Pharmacy,B.E,5.53,4
+2010D1069D,Mathematics,Ph.D,8.29,1
+2010A1070A,Chemical Engineering,B.E,5.72,4
+2010A1071A,Physics,B.E,7.95,1
+2010H1072H,Physics,M.E,9.63,2
+2010A1073A,Chemical Engineering,B.E,6.82,2
+2010A1074A,Economics and Finanace,B.E,6.0,4
+2010D1075D,Chemical Engineering,Ph.D,6.16,4
+2010D1076D,Physics,Ph.D,7.5,3
+2010P1077P,Pharmacy,B.Pharm,9.72,3
+2010P1078P,Humanities and Social Sciences,B.Pharm,8.33,4
+2010A1079A,Humanities and Social Sciences,B.E,7.56,2
+2010P1080P,Humanities and Social Sciences,B.Pharm,5.54,3
+2010A1081A,Humanities and Social Sciences,B.E,7.49,2
+2010A1082A,Biological Sciences,B.E,5.5,1
+2010H1083H,Chemical Engineering,M.E,7.49,1
+2010P1084P,Chemisty,B.Pharm,6.91,3
+2010H1085H,Chemisty,M.E,6.51,1
+2010D1086D,Chemical Engineering,Ph.D,8.31,4
+2010A1087A,Humanities and Social Sciences,B.E,6.01,4
+2010H1088H,Humanities and Social Sciences,M.E,7.52,3
+2010A1089A,Mathematics,B.E,7.73,1
+2010A1090A,Electrical and Electronics Engineering,B.E,9.4,1
+2010A1091A,Electrical and Electronics Engineering,B.E,7.25,4
+2010H1092H,Humanities and Social Sciences,M.E,7.3,1
+2010A1093A,Chemisty,B.E,7.78,3
+2010A1094A,Physics,B.E,5.82,4
+2010A1095A,Chemisty,B.E,6.56,4
+2010A1096A,Humanities and Social Sciences,B.E,8.82,4
+2010H1097H,Pharmacy,M.E,7.77,4
+2010A1098A,Humanities and Social Sciences,B.E,7.81,2
+2010A1099A,Mathematics,B.E,5.28,3
+2010P1100P,Humanities and Social Sciences,B.Pharm,7.96,4
+2010A1101A,Mechanical Engineering,B.E,8.38,3
+2010A1102A,Economics and Finanace,B.E,5.31,1
+2010H1103H,Chemisty,M.E,9.18,3
+2010H1104H,Physics,M.E,7.92,3
+2010H1105H,Electrical and Electronics Engineering,M.E,5.49,3
+2010A1106A,Economics and Finanace,B.E,7.06,1
+2010A1107A,Pharmacy,B.E,6.22,2
+2010P1108P,Pharmacy,B.Pharm,6.56,1
+2010A1109A,Physics,B.E,5.33,3
+2010A1110A,Chemical Engineering,B.E,6.69,1
+2010A1111A,Mathematics,B.E,6.63,4
+2010A1112A,Pharmacy,B.E,9.32,4
+2010A1113A,Computer Science and Information Systems,B.E,5.1,4
+2010A1114A,Mechanical Engineering,B.E,5.11,3
+2010A1115A,Electrical and Electronics Engineering,B.E,7.85,3
+2010A1116A,Mechanical Engineering,B.E,5.49,4
+2010H1117H,Chemical Engineering,M.E,8.45,2
+2010D1118D,Economics and Finanace,Ph.D,7.48,3
+2010A1119A,Chemisty,B.E,8.07,3
+2010P1120P,Electrical and Electronics Engineering,B.Pharm,6.01,1
+2010A1121A,Mathematics,B.E,6.07,3
+2010S1122S,Biological Sciences,M.Sc,6.49,4
+2010A1123A,Civil Engineering,B.E,8.12,1
+2010A1124A,Physics,B.E,9.22,1
+2010A1125A,Mechanical Engineering,B.E,6.68,1
+2010H1126H,Mechanical Engineering,M.E,9.01,4
+2010P1127P,Electrical and Electronics Engineering,B.Pharm,6.05,1
+2010A1128A,Pharmacy,B.E,9.12,3
+2010A1129A,Electrical and Electronics Engineering,B.E,8.32,3
+2010P1130P,Civil Engineering,B.Pharm,7.07,3
+2010P1131P,Mechanical Engineering,B.Pharm,7.58,2
+2010H1132H,Biological Sciences,M.E,8.14,2
+2010A1133A,Mechanical Engineering,B.E,7.5,4
+2010A1134A,Computer Science and Information Systems,B.E,9.69,4
+2010H1135H,Mechanical Engineering,M.E,8.63,1
+2010P1136P,Civil Engineering,B.Pharm,6.82,2
+2010P1137P,Civil Engineering,B.Pharm,5.75,3
+2010H1138H,Electrical and Electronics Engineering,M.E,7.05,1
+2010H1139H,Pharmacy,M.E,6.02,4
+2010P1140P,Computer Science and Information Systems,B.Pharm,9.12,2
+2010P1141P,Computer Science and Information Systems,B.Pharm,8.43,2
+2010A1142A,Electrical and Electronics Engineering,B.E,6.19,2
+2010A1143A,Civil Engineering,B.E,5.14,3
+2010A1144A,Humanities and Social Sciences,B.E,7.43,4
+2010A1145A,Electrical and Electronics Engineering,B.E,8.23,1
+2010A1146A,Civil Engineering,B.E,5.8,2
+2010D1147D,Biological Sciences,Ph.D,6.29,3
+2010P1148P,Pharmacy,B.Pharm,7.75,1
+2010S1149S,Physics,M.Sc,7.43,1
+2010A1150A,Biological Sciences,B.E,9.3,1
+2010A1151A,Economics and Finanace,B.E,8.01,1
+2010H1152H,Electrical and Electronics Engineering,M.E,9.48,1
+2010P1153P,Electrical and Electronics Engineering,B.Pharm,9.72,2
+2010A1154A,Civil Engineering,B.E,5.56,1
+2010P1155P,Pharmacy,B.Pharm,9.14,3
+2010A1156A,Humanities and Social Sciences,B.E,9.42,2
+2010A1157A,Mechanical Engineering,B.E,5.61,3
+2010A1158A,Economics and Finanace,B.E,9.16,4
+2010A1159A,Physics,B.E,8.72,4
+2010H1160H,Civil Engineering,M.E,5.72,2
+2010A1161A,Civil Engineering,B.E,9.85,4
+2010H1162H,Electrical and Electronics Engineering,M.E,6.27,1
+2010A1163A,Humanities and Social Sciences,B.E,7.67,1
+2010D1164D,Economics and Finanace,Ph.D,7.73,4
+2010H1165H,Pharmacy,M.E,6.23,3
+2010S1166S,Chemisty,M.Sc,6.81,3
+2010D1167D,Computer Science and Information Systems,Ph.D,5.11,1
+2010A1168A,Physics,B.E,8.31,1
+2010A1169A,Physics,B.E,9.59,2
+2010A1170A,Computer Science and Information Systems,B.E,7.76,3
+2010S1171S,Pharmacy,M.Sc,9.79,3
+2010D1172D,Pharmacy,Ph.D,5.61,2
+2010A1173A,Humanities and Social Sciences,B.E,6.94,4
+2010S1174S,Computer Science and Information Systems,M.Sc,6.5,2
+2010A1175A,Computer Science and Information Systems,B.E,6.05,2
+2010H1176H,Humanities and Social Sciences,M.E,8.16,4
+2010H1177H,Biological Sciences,M.E,6.37,1
+2010P1178P,Humanities and Social Sciences,B.Pharm,7.36,4
+2010P1179P,Economics and Finanace,B.Pharm,8.59,1
+2010A1180A,Chemisty,B.E,8.49,1
+2010S1181S,Economics and Finanace,M.Sc,7.1,3
+2010S1182S,Humanities and Social Sciences,M.Sc,8.48,1
+2010S1183S,Pharmacy,M.Sc,8.21,4
+2010H1184H,Pharmacy,M.E,5.68,4
+2010H1185H,Civil Engineering,M.E,8.14,3
+2010H1186H,Mechanical Engineering,M.E,5.41,2
+2010H1187H,Civil Engineering,M.E,7.58,2
+2010A1188A,Mechanical Engineering,B.E,8.43,3
+2010A1189A,Humanities and Social Sciences,B.E,7.39,2
+2010H1190H,Computer Science and Information Systems,M.E,5.87,3
+2010A1191A,Computer Science and Information Systems,B.E,5.99,4
+2010P1192P,Economics and Finanace,B.Pharm,5.91,4
+2010A1193A,Mechanical Engineering,B.E,6.12,1
+2010A1194A,Mathematics,B.E,8.24,2
+2010A1195A,Chemical Engineering,B.E,9.87,2
+2010H1196H,Computer Science and Information Systems,M.E,8.51,2
+2010P1197P,Biological Sciences,B.Pharm,7.01,4
+2010A1198A,Mechanical Engineering,B.E,6.3,1
+2010A1199A,Economics and Finanace,B.E,5.85,1
+2010S1200S,Biological Sciences,M.Sc,8.59,4
+2010H1201H,Humanities and Social Sciences,M.E,9.14,4
+2010A1202A,Chemical Engineering,B.E,6.12,2
+2010P1203P,Civil Engineering,B.Pharm,9.73,3
+2010A1204A,Computer Science and Information Systems,B.E,8.73,4
+2010A1205A,Chemisty,B.E,7.16,2
+2010S1206S,Mechanical Engineering,M.Sc,6.08,3
+2010H1207H,Physics,M.E,8.39,4
+2010A1208A,Chemisty,B.E,7.04,2
+2010A1209A,Biological Sciences,B.E,6.45,3
+2010A1210A,Civil Engineering,B.E,8.09,2
+2010S1211S,Economics and Finanace,M.Sc,7.91,4
+2010H1212H,Chemical Engineering,M.E,5.05,2
+2010S1213S,Economics and Finanace,M.Sc,9.87,4
+2010P1214P,Pharmacy,B.Pharm,6.06,4
+2010A1215A,Physics,B.E,7.12,3
+2010H1216H,Chemical Engineering,M.E,5.48,1
+2010S1217S,Biological Sciences,M.Sc,6.66,2
+2010A1218A,Humanities and Social Sciences,B.E,9.54,1
+2010P1219P,Biological Sciences,B.Pharm,6.27,4
+2010A1220A,Computer Science and Information Systems,B.E,9.89,3
+2010A1221A,Chemisty,B.E,9.84,1
+2010P1222P,Mechanical Engineering,B.Pharm,5.9,2
+2010H1223H,Mathematics,M.E,7.46,3
+2010A1224A,Humanities and Social Sciences,B.E,5.66,3
+2010A1225A,Physics,B.E,7.65,2
+2010A1226A,Computer Science and Information Systems,B.E,5.58,1
+2010A1227A,Chemisty,B.E,7.5,3
+2010H1228H,Physics,M.E,6.8,4
+2010A1229A,Computer Science and Information Systems,B.E,9.51,3
+2010A1230A,Mechanical Engineering,B.E,9.15,3
+2010S1231S,Mathematics,M.Sc,6.57,2
+2010H1232H,Economics and Finanace,M.E,8.68,4
+2010P1233P,Chemisty,B.Pharm,7.78,4
+2010A1234A,Biological Sciences,B.E,5.94,1
+2010A1235A,Civil Engineering,B.E,5.92,4
+2010H1236H,Computer Science and Information Systems,M.E,5.82,4
+2010S1237S,Electrical and Electronics Engineering,M.Sc,5.58,4
+2010H1238H,Biological Sciences,M.E,7.21,4
+2010A1239A,Humanities and Social Sciences,B.E,7.46,2
+2010A1240A,Chemical Engineering,B.E,6.75,2
+2010A1241A,Computer Science and Information Systems,B.E,5.9,2
+2010A1242A,Physics,B.E,7.54,3
+2010A1243A,Mechanical Engineering,B.E,9.45,2
+2010A1244A,Mechanical Engineering,B.E,9.99,1
+2010A1245A,Mathematics,B.E,8.83,2
+2010A1246A,Electrical and Electronics Engineering,B.E,9.6,2
+2010A1247A,Humanities and Social Sciences,B.E,8.38,3
+2010H1248H,Biological Sciences,M.E,6.42,1
+2010P1249P,Electrical and Electronics Engineering,B.Pharm,6.87,1
+2010A1250A,Economics and Finanace,B.E,5.77,1
+2010A1251A,Humanities and Social Sciences,B.E,9.15,4
+2010P1252P,Humanities and Social Sciences,B.Pharm,8.14,3
+2010H1253H,Mechanical Engineering,M.E,8.29,3
+2010A1254A,Biological Sciences,B.E,8.28,4
+2010P1255P,Economics and Finanace,B.Pharm,9.74,2
+2010A1256A,Civil Engineering,B.E,9.32,3
+2010H1257H,Economics and Finanace,M.E,8.99,1
+2010A1258A,Mathematics,B.E,9.76,4
+2010S1259S,Chemical Engineering,M.Sc,6.99,2
+2010H1260H,Civil Engineering,M.E,9.83,4
+2010P1261P,Chemical Engineering,B.Pharm,5.1,2
+2010P1262P,Chemisty,B.Pharm,6.94,4
+2010A1263A,Computer Science and Information Systems,B.E,8.24,2
+2010A1264A,Chemical Engineering,B.E,6.49,4
+2010A1265A,Physics,B.E,9.03,3
+2010A1266A,Pharmacy,B.E,8.02,3
+2010A1267A,Pharmacy,B.E,5.48,3
+2010A1268A,Mathematics,B.E,6.0,4
+2010H1269H,Electrical and Electronics Engineering,M.E,7.38,4
+2010A1270A,Chemical Engineering,B.E,8.78,3
+2010D1271D,Mechanical Engineering,Ph.D,5.93,4
+2010S1272S,Chemical Engineering,M.Sc,5.2,3
+2010H1273H,Humanities and Social Sciences,M.E,8.38,2
+2010H1274H,Humanities and Social Sciences,M.E,7.64,1
+2010H1275H,Computer Science and Information Systems,M.E,7.34,1
+2010H1276H,Humanities and Social Sciences,M.E,6.5,2
+2010P1277P,Pharmacy,B.Pharm,9.51,2
+2010H1278H,Mathematics,M.E,7.14,1
+2010P1279P,Chemical Engineering,B.Pharm,9.59,1
+2010A1280A,Mathematics,B.E,7.12,1
+2010H1281H,Humanities and Social Sciences,M.E,8.3,3
+2010A1282A,Economics and Finanace,B.E,6.27,1
+2010A1283A,Mathematics,B.E,5.08,4
+2010A1284A,Chemisty,B.E,8.93,4
+2010S1285S,Biological Sciences,M.Sc,5.42,3
+2010A1286A,Economics and Finanace,B.E,7.94,4
+2010A1287A,Pharmacy,B.E,7.25,3
+2010S1288S,Economics and Finanace,M.Sc,9.83,2
+2010P1289P,Civil Engineering,B.Pharm,5.93,3
+2010P1290P,Pharmacy,B.Pharm,5.53,1
+2010A1291A,Biological Sciences,B.E,6.97,1
+2010A1292A,Chemisty,B.E,8.28,4
+2010A1293A,Physics,B.E,7.03,4
+2010A1294A,Computer Science and Information Systems,B.E,8.09,3
+2010H1295H,Physics,M.E,8.37,4
+2010A1296A,Computer Science and Information Systems,B.E,5.44,2
+2010A1297A,Biological Sciences,B.E,5.95,1
+2010H1298H,Physics,M.E,9.85,1
+2010H1299H,Civil Engineering,M.E,7.41,2
+2010A1300A,Pharmacy,B.E,6.21,2
+2010A1301A,Chemical Engineering,B.E,6.5,4
+2010D1302D,Chemisty,Ph.D,7.37,1
+2010H1303H,Chemical Engineering,M.E,5.83,2
+2010A1304A,Physics,B.E,8.51,4
+2010A1305A,Humanities and Social Sciences,B.E,5.1,4
+2010A1306A,Mechanical Engineering,B.E,6.21,3
+2010H1307H,Mechanical Engineering,M.E,9.15,4
+2010A1308A,Biological Sciences,B.E,6.67,1
+2010A1309A,Pharmacy,B.E,9.24,4
+2010A1310A,Electrical and Electronics Engineering,B.E,9.24,3
+2010P1311P,Biological Sciences,B.Pharm,7.44,4
+2010H1312H,Mathematics,M.E,7.96,4
+2010A1313A,Civil Engineering,B.E,8.57,1
+2010A1314A,Electrical and Electronics Engineering,B.E,7.88,1
+2010A1315A,Computer Science and Information Systems,B.E,9.46,4
+2010P1316P,Humanities and Social Sciences,B.Pharm,5.58,3
+2010A1317A,Humanities and Social Sciences,B.E,8.49,1
+2010H1318H,Chemisty,M.E,6.44,2
+2010A1319A,Humanities and Social Sciences,B.E,6.72,2
+2010H1320H,Mathematics,M.E,6.1,3
+2010P1321P,Mechanical Engineering,B.Pharm,9.27,4
+2010P1322P,Chemisty,B.Pharm,9.42,4
+2010H1323H,Electrical and Electronics Engineering,M.E,9.17,3
+2010A1324A,Humanities and Social Sciences,B.E,9.0,2
+2010S1325S,Mechanical Engineering,M.Sc,6.04,1
+2010P1326P,Pharmacy,B.Pharm,7.41,2
+2010A1327A,Civil Engineering,B.E,5.78,4
+2010A1328A,Chemical Engineering,B.E,8.97,4
+2010S1329S,Computer Science and Information Systems,M.Sc,6.17,1
+2010A1330A,Biological Sciences,B.E,6.79,3
+2010S1331S,Economics and Finanace,M.Sc,8.38,2
+2010A1332A,Mathematics,B.E,5.16,1
+2010H1333H,Economics and Finanace,M.E,7.15,2
+2010A1334A,Chemical Engineering,B.E,7.81,4
+2010S1335S,Computer Science and Information Systems,M.Sc,9.97,3
+2010H1336H,Biological Sciences,M.E,8.85,3
+2010P1337P,Chemisty,B.Pharm,9.27,1
+2010A1338A,Physics,B.E,5.25,4
+2010A1339A,Humanities and Social Sciences,B.E,9.81,1
+2010A1340A,Chemical Engineering,B.E,8.91,1
+2010H1341H,Mathematics,M.E,5.21,1
+2010A1342A,Chemisty,B.E,8.15,2
+2010A1343A,Economics and Finanace,B.E,5.79,3
+2010P1344P,Humanities and Social Sciences,B.Pharm,8.81,4
+2010A1345A,Physics,B.E,9.35,2
+2010A1346A,Pharmacy,B.E,6.82,2
+2010A1347A,Chemical Engineering,B.E,9.24,4
+2010H1348H,Electrical and Electronics Engineering,M.E,8.85,1
+2010H1349H,Civil Engineering,M.E,9.17,4
+2010A1350A,Economics and Finanace,B.E,6.43,2
+2010D1351D,Chemical Engineering,Ph.D,6.33,4
+2010A1352A,Economics and Finanace,B.E,8.15,2
+2010A1353A,Chemisty,B.E,8.77,4
+2010H1354H,Civil Engineering,M.E,5.69,4
+2010H1355H,Electrical and Electronics Engineering,M.E,9.59,4
+2010D1356D,Mathematics,Ph.D,8.97,3
+2010A1357A,Biological Sciences,B.E,7.21,1
+2010S1358S,Physics,M.Sc,9.03,1
+2010A1359A,Chemical Engineering,B.E,6.69,4
+2010H1360H,Chemisty,M.E,7.17,4
+2010A1361A,Biological Sciences,B.E,8.3,2
+2010H1362H,Mechanical Engineering,M.E,5.29,3
+2010A1363A,Electrical and Electronics Engineering,B.E,7.01,3
+2010S1364S,Physics,M.Sc,8.71,3
+2010A1365A,Biological Sciences,B.E,9.14,2
+2010A1366A,Physics,B.E,7.02,2
+2010A1367A,Mathematics,B.E,8.12,4
+2010A1368A,Physics,B.E,6.73,4
+2010P1369P,Civil Engineering,B.Pharm,9.4,1
+2010A1370A,Biological Sciences,B.E,7.69,4
+2010A1371A,Physics,B.E,8.59,2
+2010A1372A,Mathematics,B.E,9.96,3
+2010H1373H,Civil Engineering,M.E,5.46,3
+2010A1374A,Mathematics,B.E,6.7,2
+2010H1375H,Biological Sciences,M.E,5.14,3
+2010H1376H,Civil Engineering,M.E,9.16,3
+2010A1377A,Physics,B.E,7.11,1
+2010A1378A,Physics,B.E,5.3,3
+2010A1379A,Computer Science and Information Systems,B.E,8.13,3
+2010H1380H,Chemical Engineering,M.E,5.24,1
+2010H1381H,Humanities and Social Sciences,M.E,6.49,1
+2010A1382A,Humanities and Social Sciences,B.E,6.69,2
+2010S1383S,Physics,M.Sc,9.95,2
+2010P1384P,Economics and Finanace,B.Pharm,6.5,2
+2010P1385P,Electrical and Electronics Engineering,B.Pharm,7.6,2
+2010D1386D,Chemical Engineering,Ph.D,6.64,2
+2010A1387A,Economics and Finanace,B.E,7.27,2
+2010A1388A,Physics,B.E,7.13,4
+2010H1389H,Chemical Engineering,M.E,5.46,4
+2010A1390A,Chemisty,B.E,7.38,4
+2010H1391H,Chemical Engineering,M.E,6.85,4
+2010A1392A,Mechanical Engineering,B.E,7.79,4
+2010A1393A,Computer Science and Information Systems,B.E,7.92,4
+2010A1394A,Humanities and Social Sciences,B.E,8.45,4
+2010H1395H,Physics,M.E,9.87,2
+2010H1396H,Chemisty,M.E,7.53,4
+2010A1397A,Physics,B.E,7.29,1
+2010A1398A,Physics,B.E,6.06,4
+2010A1399A,Biological Sciences,B.E,8.73,3
+2010H1400H,Chemical Engineering,M.E,8.01,4
+2010P1401P,Chemical Engineering,B.Pharm,5.6,3
+2010A1402A,Biological Sciences,B.E,7.61,1
+2010H1403H,Economics and Finanace,M.E,6.52,3
+2010A1404A,Computer Science and Information Systems,B.E,6.47,1
+2010D1405D,Chemisty,Ph.D,5.71,4
+2010P1406P,Biological Sciences,B.Pharm,9.68,3
+2010S1407S,Computer Science and Information Systems,M.Sc,6.08,4
+2010A1408A,Biological Sciences,B.E,5.61,3
+2010A1409A,Chemical Engineering,B.E,9.35,4
+2010P1410P,Humanities and Social Sciences,B.Pharm,7.87,4
+2010H1411H,Economics and Finanace,M.E,8.91,4
+2010P1412P,Mechanical Engineering,B.Pharm,5.66,2
+2010D1413D,Mathematics,Ph.D,8.18,4
+2010A1414A,Pharmacy,B.E,7.25,3
+2010A1415A,Chemical Engineering,B.E,9.0,4
+2010S1416S,Electrical and Electronics Engineering,M.Sc,6.16,4
+2010A1417A,Economics and Finanace,B.E,7.7,4
+2010A1418A,Physics,B.E,6.39,1
+2010D1419D,Chemisty,Ph.D,8.54,3
+2010H1420H,Mathematics,M.E,8.23,1
+2010A1421A,Civil Engineering,B.E,9.78,1
+2010H1422H,Mechanical Engineering,M.E,7.61,4
+2010A1423A,Mathematics,B.E,9.48,1
+2010A1424A,Pharmacy,B.E,9.68,2
+2010P1425P,Biological Sciences,B.Pharm,6.37,2
+2010H1426H,Civil Engineering,M.E,9.15,4
+2010A1427A,Chemical Engineering,B.E,9.03,3
+2010P1428P,Electrical and Electronics Engineering,B.Pharm,7.94,4
+2010A1429A,Biological Sciences,B.E,6.7,2
+2010A1430A,Electrical and Electronics Engineering,B.E,5.12,3
+2010P1431P,Electrical and Electronics Engineering,B.Pharm,6.29,1
+2010S1432S,Chemical Engineering,M.Sc,7.71,3
+2010A1433A,Chemisty,B.E,5.91,1
+2010H1434H,Chemisty,M.E,6.53,4
+2010H1435H,Pharmacy,M.E,5.85,3
+2010A1436A,Chemisty,B.E,5.14,1
+2010P1437P,Computer Science and Information Systems,B.Pharm,6.95,3
+2010P1438P,Chemisty,B.Pharm,7.06,3
+2010H1439H,Computer Science and Information Systems,M.E,6.88,1
+2010A1440A,Biological Sciences,B.E,6.01,2
+2010H1441H,Humanities and Social Sciences,M.E,7.54,4
+2010A1442A,Chemical Engineering,B.E,6.35,3
+2010S1443S,Humanities and Social Sciences,M.Sc,7.77,1
+2010A1444A,Humanities and Social Sciences,B.E,5.14,2
+2010A1445A,Biological Sciences,B.E,6.35,1
+2010A1446A,Civil Engineering,B.E,8.81,2
+2010H1447H,Computer Science and Information Systems,M.E,7.84,4
+2010A1448A,Chemical Engineering,B.E,9.23,2
+2010P1449P,Chemisty,B.Pharm,6.87,2
+2010P1450P,Civil Engineering,B.Pharm,7.69,4
+2010A1451A,Mathematics,B.E,7.26,1
+2010S1452S,Humanities and Social Sciences,M.Sc,9.81,3
+2010A1453A,Pharmacy,B.E,9.86,1
+2010A1454A,Biological Sciences,B.E,9.67,4
+2010H1455H,Computer Science and Information Systems,M.E,7.99,4
+2010A1456A,Economics and Finanace,B.E,9.21,2
+2010S1457S,Mechanical Engineering,M.Sc,9.2,3
+2010H1458H,Biological Sciences,M.E,5.81,1
+2010H1459H,Computer Science and Information Systems,M.E,5.45,1
+2010A1460A,Chemisty,B.E,8.63,3
+2010P1461P,Electrical and Electronics Engineering,B.Pharm,6.05,3
+2010D1462D,Pharmacy,Ph.D,9.73,3
+2010A1463A,Physics,B.E,7.26,2
+2010H1464H,Pharmacy,M.E,9.92,3
+2010H1465H,Civil Engineering,M.E,7.3,3
+2010S1466S,Biological Sciences,M.Sc,9.57,2
+2010A1467A,Pharmacy,B.E,9.61,4
+2010A1468A,Biological Sciences,B.E,9.51,2
+2010A1469A,Electrical and Electronics Engineering,B.E,7.78,4
+2010A1470A,Electrical and Electronics Engineering,B.E,7.69,1
+2010A1471A,Mathematics,B.E,5.15,4
+2010A1472A,Pharmacy,B.E,5.62,4
+2010A1473A,Mechanical Engineering,B.E,6.79,2
+2010S1474S,Physics,M.Sc,9.92,1
+2010D1475D,Humanities and Social Sciences,Ph.D,6.85,2
+2010S1476S,Humanities and Social Sciences,M.Sc,5.05,1
+2010A1477A,Computer Science and Information Systems,B.E,8.4,3
+2010H1478H,Civil Engineering,M.E,5.45,3
+2010H1479H,Physics,M.E,6.11,4
+2010H1480H,Economics and Finanace,M.E,5.18,4
+2010P1481P,Mechanical Engineering,B.Pharm,6.05,2
+2010A1482A,Pharmacy,B.E,6.98,3
+2010P1483P,Mechanical Engineering,B.Pharm,7.5,2
+2010H1484H,Mathematics,M.E,5.97,2
+2010A1485A,Chemical Engineering,B.E,7.94,1
+2010P1486P,Chemisty,B.Pharm,6.3,2
+2010A1487A,Mathematics,B.E,8.64,3
+2010H1488H,Civil Engineering,M.E,9.24,1
+2010H1489H,Physics,M.E,8.39,3
+2010H1490H,Pharmacy,M.E,7.8,4
+2010A1491A,Biological Sciences,B.E,9.69,1
+2010P1492P,Economics and Finanace,B.Pharm,7.16,4
+2010A1493A,Computer Science and Information Systems,B.E,5.61,4
+2010A1494A,Humanities and Social Sciences,B.E,6.81,1
+2010A1495A,Physics,B.E,6.12,3
+2010H1496H,Electrical and Electronics Engineering,M.E,7.66,3
+2010A1497A,Biological Sciences,B.E,6.96,3
+2010P1498P,Chemical Engineering,B.Pharm,9.4,1
+2010A1499A,Physics,B.E,6.13,4
+2010P1500P,Chemical Engineering,B.Pharm,9.58,2
+2010H1501H,Chemisty,M.E,6.65,1
+2010S1502S,Pharmacy,M.Sc,8.13,1
+2010A1503A,Humanities and Social Sciences,B.E,7.16,1
+2010A1504A,Mechanical Engineering,B.E,8.99,3
+2010P1505P,Computer Science and Information Systems,B.Pharm,6.24,4
+2010A1506A,Civil Engineering,B.E,9.79,1
+2010D1507D,Economics and Finanace,Ph.D,7.6,2
+2010A1508A,Chemical Engineering,B.E,8.88,4
+2010A1509A,Chemical Engineering,B.E,8.13,1
+2010P1510P,Chemical Engineering,B.Pharm,9.87,1
+2010P1511P,Electrical and Electronics Engineering,B.Pharm,6.57,1
+2010H1512H,Chemisty,M.E,5.31,4
+2010A1513A,Biological Sciences,B.E,6.51,4
+2010H1514H,Chemical Engineering,M.E,5.51,1
+2010A1515A,Mathematics,B.E,5.26,4
+2010H1516H,Electrical and Electronics Engineering,M.E,5.48,4
+2010A1517A,Civil Engineering,B.E,9.32,1
+2010A1518A,Humanities and Social Sciences,B.E,6.92,4
+2010P1519P,Mechanical Engineering,B.Pharm,8.1,3
+2010P1520P,Pharmacy,B.Pharm,9.69,1
+2010H1521H,Humanities and Social Sciences,M.E,7.59,2
+2010H1522H,Chemical Engineering,M.E,5.51,1
+2010A1523A,Mechanical Engineering,B.E,8.95,2
+2010A1524A,Mechanical Engineering,B.E,5.63,3
+2010P1525P,Economics and Finanace,B.Pharm,7.11,4
+2010P1526P,Chemisty,B.Pharm,6.22,1
+2010A1527A,Biological Sciences,B.E,5.64,4
+2010A1528A,Mathematics,B.E,9.8,3
+2010A1529A,Computer Science and Information Systems,B.E,7.92,2
+2010S1530S,Chemisty,M.Sc,7.35,3
+2010H1531H,Computer Science and Information Systems,M.E,6.84,1
+2010A1532A,Mathematics,B.E,7.93,2
+2010A1533A,Biological Sciences,B.E,6.19,1
+2010A1534A,Electrical and Electronics Engineering,B.E,6.72,2
+2010A1535A,Pharmacy,B.E,9.54,1
+2010A1536A,Economics and Finanace,B.E,5.95,4
+2010P1537P,Humanities and Social Sciences,B.Pharm,8.0,3
+2010A1538A,Mechanical Engineering,B.E,7.83,3
+2010A1539A,Mechanical Engineering,B.E,6.5,3
+2010A1540A,Chemisty,B.E,5.52,1
+2010A1541A,Humanities and Social Sciences,B.E,6.1,1
+2010A1542A,Pharmacy,B.E,6.12,2
+2010A1543A,Humanities and Social Sciences,B.E,8.12,2
+2010A1544A,Humanities and Social Sciences,B.E,8.67,3
+2010A1545A,Physics,B.E,6.88,4
+2010A1546A,Chemisty,B.E,9.13,1
+2010A1547A,Economics and Finanace,B.E,5.05,3
+2010A1548A,Biological Sciences,B.E,7.77,2
+2010A1549A,Computer Science and Information Systems,B.E,7.2,3
+2010A1550A,Biological Sciences,B.E,9.88,2
+2010A1551A,Civil Engineering,B.E,6.42,2
+2010P1552P,Computer Science and Information Systems,B.Pharm,8.59,3
+2010S1553S,Mathematics,M.Sc,6.23,2
+2010A1554A,Biological Sciences,B.E,5.88,3
+2010A1555A,Chemical Engineering,B.E,5.1,2
+2010A1556A,Electrical and Electronics Engineering,B.E,8.27,1
+2010P1557P,Economics and Finanace,B.Pharm,9.68,3
+2010A1558A,Humanities and Social Sciences,B.E,6.2,3
+2010P1559P,Pharmacy,B.Pharm,5.86,4
+2010A1560A,Physics,B.E,5.33,2
+2010H1561H,Chemisty,M.E,8.97,2
+2010A1562A,Mathematics,B.E,6.89,3
+2010S1563S,Economics and Finanace,M.Sc,8.0,2
+2010P1564P,Biological Sciences,B.Pharm,8.82,2
+2010A1565A,Mathematics,B.E,6.47,2
+2010A1566A,Economics and Finanace,B.E,6.24,3
+2010A1567A,Chemisty,B.E,9.26,4
+2010A1568A,Civil Engineering,B.E,8.64,4
+2010A1569A,Pharmacy,B.E,8.07,2
+2010P1570P,Electrical and Electronics Engineering,B.Pharm,8.76,3
+2010A1571A,Humanities and Social Sciences,B.E,7.59,2
+2010P1572P,Economics and Finanace,B.Pharm,8.56,4
+2010A1573A,Physics,B.E,9.78,4
+2010H1574H,Computer Science and Information Systems,M.E,7.91,1
+2010H1575H,Civil Engineering,M.E,6.1,2
+2010A1576A,Humanities and Social Sciences,B.E,9.32,4
+2010H1577H,Civil Engineering,M.E,6.53,4
+2010H1578H,Mechanical Engineering,M.E,5.79,3
+2010P1579P,Computer Science and Information Systems,B.Pharm,7.75,2
+2010A1580A,Chemical Engineering,B.E,6.48,3
+2010P1581P,Civil Engineering,B.Pharm,7.92,4
+2010A1582A,Mathematics,B.E,8.11,4
+2010A1583A,Humanities and Social Sciences,B.E,7.34,4
+2010P1584P,Economics and Finanace,B.Pharm,9.02,3
+2010A1585A,Computer Science and Information Systems,B.E,6.91,2
+2010S1586S,Humanities and Social Sciences,M.Sc,6.17,1
+2010D1587D,Economics and Finanace,Ph.D,9.51,3
+2010D1588D,Mathematics,Ph.D,7.56,1
+2010A1589A,Computer Science and Information Systems,B.E,9.63,1
+2010P1590P,Chemical Engineering,B.Pharm,5.36,1
+2010A1591A,Mathematics,B.E,6.0,2
+2010A1592A,Pharmacy,B.E,6.65,3
+2010A1593A,Physics,B.E,9.08,3
+2010P1594P,Civil Engineering,B.Pharm,8.53,2
+2010A1595A,Physics,B.E,8.7,3
+2010A1596A,Biological Sciences,B.E,8.85,3
+2010A1597A,Economics and Finanace,B.E,8.92,4
+2010S1598S,Electrical and Electronics Engineering,M.Sc,9.11,1
+2010A1599A,Humanities and Social Sciences,B.E,8.27,2
+2010A1600A,Electrical and Electronics Engineering,B.E,6.14,2
+2010A1601A,Humanities and Social Sciences,B.E,6.17,4
+2010A1602A,Physics,B.E,9.07,3
+2010A1603A,Chemical Engineering,B.E,6.57,2
+2010A1604A,Electrical and Electronics Engineering,B.E,8.85,4
+2010A1605A,Civil Engineering,B.E,7.19,1
+2010S1606S,Economics and Finanace,M.Sc,5.69,2
+2010D1607D,Computer Science and Information Systems,Ph.D,9.72,1
+2010P1608P,Humanities and Social Sciences,B.Pharm,9.05,3
+2010A1609A,Economics and Finanace,B.E,6.13,4
+2010H1610H,Pharmacy,M.E,8.76,3
+2010P1611P,Economics and Finanace,B.Pharm,7.93,1
+2010P1612P,Chemisty,B.Pharm,5.77,3
+2010A1613A,Mechanical Engineering,B.E,8.15,4
+2010H1614H,Electrical and Electronics Engineering,M.E,6.02,4
+2010A1615A,Chemical Engineering,B.E,7.67,2
+2010H1616H,Humanities and Social Sciences,M.E,5.54,4
+2010P1617P,Pharmacy,B.Pharm,9.47,1
+2010A1618A,Chemisty,B.E,5.52,2
+2010A1619A,Biological Sciences,B.E,9.13,4
+2010A1620A,Biological Sciences,B.E,5.93,1
+2010A1621A,Electrical and Electronics Engineering,B.E,6.42,2
+2010A1622A,Computer Science and Information Systems,B.E,8.3,1
+2010S1623S,Humanities and Social Sciences,M.Sc,5.29,1
+2010S1624S,Chemisty,M.Sc,6.63,4
+2010A1625A,Electrical and Electronics Engineering,B.E,5.79,1
+2010S1626S,Chemisty,M.Sc,7.68,4
+2010A1627A,Physics,B.E,5.34,2
+2010H1628H,Chemisty,M.E,9.35,3
+2010H1629H,Electrical and Electronics Engineering,M.E,9.09,4
+2010A1630A,Chemisty,B.E,8.02,3
+2010P1631P,Mechanical Engineering,B.Pharm,6.01,4
+2010A1632A,Computer Science and Information Systems,B.E,6.01,2
+2010A1633A,Humanities and Social Sciences,B.E,5.32,4
+2010A1634A,Mechanical Engineering,B.E,9.04,3
+2010D1635D,Mechanical Engineering,Ph.D,9.4,4
+2010S1636S,Humanities and Social Sciences,M.Sc,7.88,1
+2010A1637A,Computer Science and Information Systems,B.E,8.23,4
+2010P1638P,Economics and Finanace,B.Pharm,8.5,3
+2010H1639H,Electrical and Electronics Engineering,M.E,8.07,2
+2010A1640A,Electrical and Electronics Engineering,B.E,6.25,4
+2010A1641A,Humanities and Social Sciences,B.E,6.92,2
+2010A1642A,Physics,B.E,7.84,4
+2010H1643H,Physics,M.E,9.73,2
+2010D1644D,Chemisty,Ph.D,6.37,3
+2010A1645A,Pharmacy,B.E,9.58,2
+2010A1646A,Humanities and Social Sciences,B.E,7.06,1
+2010A1647A,Economics and Finanace,B.E,5.38,1
+2010S1648S,Mathematics,M.Sc,8.83,3
+2010A1649A,Electrical and Electronics Engineering,B.E,7.25,3
+2010A1650A,Civil Engineering,B.E,7.53,4
+2010A1651A,Biological Sciences,B.E,5.37,4
+2010H1652H,Electrical and Electronics Engineering,M.E,6.72,4
+2010A1653A,Civil Engineering,B.E,6.98,1
+2010S1654S,Computer Science and Information Systems,M.Sc,5.57,2
+2010H1655H,Economics and Finanace,M.E,8.35,4
+2010H1656H,Humanities and Social Sciences,M.E,7.31,1
+2010A1657A,Mathematics,B.E,8.29,4
+2010S1658S,Chemisty,M.Sc,7.35,3
+2010A1659A,Chemisty,B.E,5.85,1
+2010A1660A,Mechanical Engineering,B.E,5.5,3
+2010A1661A,Chemical Engineering,B.E,7.67,4
+2010H1662H,Chemisty,M.E,5.39,1
+2010A1663A,Pharmacy,B.E,6.37,4
+2010H1664H,Economics and Finanace,M.E,5.89,1
+2010A1665A,Pharmacy,B.E,7.66,4
+2010H1666H,Physics,M.E,5.24,1
+2010D1667D,Electrical and Electronics Engineering,Ph.D,8.45,4
+2010A1668A,Biological Sciences,B.E,7.99,1
+2010P1669P,Electrical and Electronics Engineering,B.Pharm,8.84,2
+2010H1670H,Economics and Finanace,M.E,9.54,2
+2010S1671S,Chemical Engineering,M.Sc,5.08,1
+2010A1672A,Biological Sciences,B.E,6.69,2
+2010P1673P,Pharmacy,B.Pharm,8.34,2
+2010A1674A,Chemical Engineering,B.E,8.98,2
+2010H1675H,Physics,M.E,5.84,4
+2010S1676S,Mathematics,M.Sc,5.54,3
+2010A1677A,Economics and Finanace,B.E,7.81,2
+2010H1678H,Mechanical Engineering,M.E,6.04,4
+2010A1679A,Electrical and Electronics Engineering,B.E,5.6,2
+2010A1680A,Chemical Engineering,B.E,6.78,2
+2010A1681A,Biological Sciences,B.E,7.01,3
+2010A1682A,Biological Sciences,B.E,6.95,4
+2010D1683D,Civil Engineering,Ph.D,5.33,3
+2010A1684A,Pharmacy,B.E,8.12,1
+2010H1685H,Chemical Engineering,M.E,9.43,4
+2010H1686H,Computer Science and Information Systems,M.E,8.84,4
+2010H1687H,Chemical Engineering,M.E,8.56,2
+2010A1688A,Computer Science and Information Systems,B.E,9.8,3
+2010S1689S,Pharmacy,M.Sc,8.48,2
+2010P1690P,Economics and Finanace,B.Pharm,5.88,3
+2010P1691P,Pharmacy,B.Pharm,7.41,3
+2010D1692D,Biological Sciences,Ph.D,8.04,4
+2010S1693S,Electrical and Electronics Engineering,M.Sc,7.56,2
+2010A1694A,Mathematics,B.E,7.94,1
+2010A1695A,Civil Engineering,B.E,5.11,1
+2010P1696P,Computer Science and Information Systems,B.Pharm,6.18,4
+2010A1697A,Civil Engineering,B.E,8.1,1
+2010H1698H,Chemisty,M.E,6.87,3
+2010A1699A,Civil Engineering,B.E,5.76,2
+2010P1700P,Pharmacy,B.Pharm,5.19,4
+2010D1701D,Physics,Ph.D,9.39,2
+2010D1702D,Computer Science and Information Systems,Ph.D,6.59,1
+2010D1703D,Mathematics,Ph.D,8.96,4
+2010H1704H,Pharmacy,M.E,9.06,1
+2010H1705H,Civil Engineering,M.E,9.23,3
+2010P1706P,Economics and Finanace,B.Pharm,6.21,1
+2010H1707H,Pharmacy,M.E,9.94,2
+2010A1708A,Mechanical Engineering,B.E,9.36,3
+2010H1709H,Chemisty,M.E,7.21,1
+2010D1710D,Chemical Engineering,Ph.D,9.35,1
+2010S1711S,Civil Engineering,M.Sc,5.26,2
+2010A1712A,Civil Engineering,B.E,5.63,2
+2010A1713A,Mechanical Engineering,B.E,7.74,2
+2010S1714S,Civil Engineering,M.Sc,7.54,4
+2010A1715A,Physics,B.E,7.34,2
+2010A1716A,Physics,B.E,5.99,4
+2010D1717D,Chemisty,Ph.D,8.03,3
+2010A1718A,Computer Science and Information Systems,B.E,7.88,2
+2010S1719S,Computer Science and Information Systems,M.Sc,9.31,4
+2010H1720H,Chemical Engineering,M.E,9.76,3
+2010H1721H,Electrical and Electronics Engineering,M.E,6.89,4
+2010H1722H,Humanities and Social Sciences,M.E,7.11,4
+2010H1723H,Chemisty,M.E,9.1,4
+2010A1724A,Biological Sciences,B.E,8.81,4
+2010H1725H,Chemical Engineering,M.E,8.79,3
+2010P1726P,Mechanical Engineering,B.Pharm,7.69,2
+2010S1727S,Computer Science and Information Systems,M.Sc,6.9,3
+2010H1728H,Humanities and Social Sciences,M.E,6.42,4
+2010A1729A,Chemical Engineering,B.E,6.67,4
+2010A1730A,Civil Engineering,B.E,5.77,2
+2010A1731A,Biological Sciences,B.E,5.06,3
+2010D1732D,Humanities and Social Sciences,Ph.D,7.02,4
+2010S1733S,Electrical and Electronics Engineering,M.Sc,9.85,3
+2010A1734A,Electrical and Electronics Engineering,B.E,7.45,1
+2010P1735P,Electrical and Electronics Engineering,B.Pharm,9.42,1
+2010A1736A,Electrical and Electronics Engineering,B.E,9.66,2
+2010A1737A,Civil Engineering,B.E,8.81,3
+2010A1738A,Physics,B.E,6.74,4
+2010A1739A,Pharmacy,B.E,8.44,1
+2010A1740A,Pharmacy,B.E,6.93,4
+2010A1741A,Physics,B.E,6.23,4
+2010A1742A,Biological Sciences,B.E,9.61,3
+2010A1743A,Pharmacy,B.E,8.53,1
+2010A1744A,Physics,B.E,8.33,2
+2010A1745A,Computer Science and Information Systems,B.E,8.03,2
+2010A1746A,Computer Science and Information Systems,B.E,6.24,2
+2010A1747A,Biological Sciences,B.E,5.58,1
+2010A1748A,Pharmacy,B.E,8.56,4
+2010A1749A,Electrical and Electronics Engineering,B.E,8.53,1
+2010A1750A,Mathematics,B.E,9.55,4
+2010A1751A,Chemisty,B.E,9.15,3
+2010A1752A,Physics,B.E,6.51,4
+2010H1753H,Mechanical Engineering,M.E,6.54,4
+2010A1754A,Physics,B.E,9.35,1
+2010A1755A,Pharmacy,B.E,7.86,3
+2010A1756A,Chemisty,B.E,6.35,2
+2010A1757A,Physics,B.E,6.99,3
+2010A1758A,Biological Sciences,B.E,9.94,4
+2010A1759A,Biological Sciences,B.E,5.48,4
+2010A1760A,Mathematics,B.E,7.08,3
+2010H1761H,Physics,M.E,7.15,2
+2010P1762P,Economics and Finanace,B.Pharm,5.93,2
+2010A1763A,Civil Engineering,B.E,7.43,1
+2010P1764P,Humanities and Social Sciences,B.Pharm,7.84,2
+2010P1765P,Chemisty,B.Pharm,6.0,2
+2010A1766A,Civil Engineering,B.E,6.3,4
+2010P1767P,Humanities and Social Sciences,B.Pharm,8.13,1
+2010P1768P,Pharmacy,B.Pharm,5.83,3
+2010S1769S,Chemical Engineering,M.Sc,6.89,3
+2010A1770A,Chemical Engineering,B.E,6.71,2
+2010A1771A,Humanities and Social Sciences,B.E,7.43,1
+2010A1772A,Biological Sciences,B.E,5.31,1
+2010S1773S,Pharmacy,M.Sc,7.91,1
+2010A1774A,Chemical Engineering,B.E,6.06,1
+2010A1775A,Electrical and Electronics Engineering,B.E,8.01,3
+2010H1776H,Humanities and Social Sciences,M.E,7.37,3
+2010H1777H,Mechanical Engineering,M.E,7.15,3
+2010A1778A,Pharmacy,B.E,9.45,3
+2010H1779H,Civil Engineering,M.E,9.7,4
+2010A1780A,Electrical and Electronics Engineering,B.E,8.05,3
+2010A1781A,Economics and Finanace,B.E,9.03,1
+2010S1782S,Humanities and Social Sciences,M.Sc,9.35,4
+2010D1783D,Physics,Ph.D,9.18,2
+2010H1784H,Biological Sciences,M.E,8.01,3
+2010H1785H,Physics,M.E,8.76,2
+2010A1786A,Economics and Finanace,B.E,7.26,4
+2010D1787D,Mathematics,Ph.D,7.07,2
+2010S1788S,Biological Sciences,M.Sc,9.93,3
+2010A1789A,Biological Sciences,B.E,8.17,1
+2010A1790A,Physics,B.E,6.63,4
+2010P1791P,Civil Engineering,B.Pharm,8.03,4
+2010A1792A,Physics,B.E,8.06,1
+2010P1793P,Economics and Finanace,B.Pharm,7.14,4
+2010A1794A,Pharmacy,B.E,9.29,1
+2010A1795A,Physics,B.E,6.92,2
+2010A1796A,Physics,B.E,5.72,1
+2010D1797D,Chemisty,Ph.D,7.49,1
+2010D1798D,Computer Science and Information Systems,Ph.D,9.16,4
+2010A1799A,Chemisty,B.E,9.48,1
+2010A1800A,Humanities and Social Sciences,B.E,8.31,2
+2010A1801A,Civil Engineering,B.E,6.06,1
+2010H1802H,Chemical Engineering,M.E,7.17,1
+2010A1803A,Chemisty,B.E,9.65,3
+2010P1804P,Electrical and Electronics Engineering,B.Pharm,8.83,2
+2010A1805A,Physics,B.E,6.29,4
+2010H1806H,Pharmacy,M.E,5.62,2
+2010A1807A,Mathematics,B.E,8.17,4
+2010A1808A,Chemical Engineering,B.E,8.98,3
+2010A1809A,Civil Engineering,B.E,9.66,1
+2010A1810A,Pharmacy,B.E,6.72,4
+2010A1811A,Pharmacy,B.E,8.21,4
+2010A1812A,Civil Engineering,B.E,6.12,1
+2010A1813A,Computer Science and Information Systems,B.E,5.44,1
+2010A1814A,Economics and Finanace,B.E,8.7,2
+2010A1815A,Physics,B.E,9.71,3
+2010H1816H,Chemisty,M.E,9.27,4
+2010D1817D,Mechanical Engineering,Ph.D,8.68,3
+2010H1818H,Biological Sciences,M.E,7.95,2
+2010A1819A,Electrical and Electronics Engineering,B.E,9.9,3
+2010A1820A,Economics and Finanace,B.E,8.99,2
+2010A1821A,Mathematics,B.E,8.32,2
+2010A1822A,Chemical Engineering,B.E,6.98,4
+2010A1823A,Economics and Finanace,B.E,5.72,3
+2010A1824A,Civil Engineering,B.E,7.5,4
+2010A1825A,Chemisty,B.E,8.01,2
+2010P1826P,Pharmacy,B.Pharm,9.25,1
+2010A1827A,Mechanical Engineering,B.E,6.6,1
+2010A1828A,Computer Science and Information Systems,B.E,9.98,4
+2010H1829H,Pharmacy,M.E,9.14,4
+2010A1830A,Computer Science and Information Systems,B.E,8.52,4
+2010A1831A,Biological Sciences,B.E,9.91,3
+2010H1832H,Chemisty,M.E,9.14,2
+2010H1833H,Physics,M.E,9.67,2
+2010H1834H,Physics,M.E,8.68,2
+2010A1835A,Humanities and Social Sciences,B.E,8.64,3
+2010A1836A,Pharmacy,B.E,9.56,2
+2010H1837H,Biological Sciences,M.E,7.74,3
+2010H1838H,Electrical and Electronics Engineering,M.E,8.39,3
+2010A1839A,Electrical and Electronics Engineering,B.E,6.96,3
+2010P1840P,Computer Science and Information Systems,B.Pharm,8.48,2
+2010H1841H,Physics,M.E,9.28,4
+2010H1842H,Chemical Engineering,M.E,5.65,1
+2010A1843A,Physics,B.E,6.52,2
+2010A1844A,Mechanical Engineering,B.E,5.69,4
+2010A1845A,Computer Science and Information Systems,B.E,9.49,2
+2010A1846A,Civil Engineering,B.E,9.02,2
+2010A1847A,Physics,B.E,8.26,3
+2010H1848H,Physics,M.E,9.28,1
+2010S1849S,Pharmacy,M.Sc,8.93,2
+2010H1850H,Electrical and Electronics Engineering,M.E,9.75,4
+2010A1851A,Pharmacy,B.E,9.21,1
+2010S1852S,Chemical Engineering,M.Sc,6.78,4
+2010A1853A,Chemisty,B.E,9.73,1
+2010H1854H,Mathematics,M.E,8.25,4
+2010D1855D,Chemisty,Ph.D,8.13,4
+2010S1856S,Civil Engineering,M.Sc,5.17,2
+2010S1857S,Electrical and Electronics Engineering,M.Sc,7.44,2
+2010A1858A,Pharmacy,B.E,8.73,1
+2010A1859A,Humanities and Social Sciences,B.E,9.32,4
+2010H1860H,Computer Science and Information Systems,M.E,8.16,4
+2010H1861H,Economics and Finanace,M.E,5.06,1
+2010A1862A,Chemical Engineering,B.E,5.61,2
+2010D1863D,Biological Sciences,Ph.D,7.93,4
+2010A1864A,Computer Science and Information Systems,B.E,8.47,1
+2010A1865A,Mechanical Engineering,B.E,5.91,4
+2010P1866P,Pharmacy,B.Pharm,8.51,3
+2010A1867A,Mechanical Engineering,B.E,5.63,3
+2010A1868A,Chemical Engineering,B.E,8.57,2
+2010A1869A,Electrical and Electronics Engineering,B.E,9.06,1
+2010A1870A,Electrical and Electronics Engineering,B.E,7.78,4
+2010A1871A,Chemical Engineering,B.E,7.59,1
+2010A1872A,Civil Engineering,B.E,9.83,1
+2010A1873A,Chemisty,B.E,9.31,2
+2010A1874A,Biological Sciences,B.E,7.77,3
+2010A1875A,Chemical Engineering,B.E,5.2,2
+2010P1876P,Pharmacy,B.Pharm,5.81,3
+2010H1877H,Biological Sciences,M.E,5.42,1
+2010P1878P,Computer Science and Information Systems,B.Pharm,6.82,2
+2010A1879A,Electrical and Electronics Engineering,B.E,9.89,1
+2010S1880S,Civil Engineering,M.Sc,6.5,3
+2010A1881A,Pharmacy,B.E,7.67,2
+2010S1882S,Mechanical Engineering,M.Sc,7.45,3
+2010P1883P,Economics and Finanace,B.Pharm,8.03,2
+2010A1884A,Physics,B.E,5.5,1
+2010P1885P,Civil Engineering,B.Pharm,5.18,2
+2010A1886A,Computer Science and Information Systems,B.E,9.28,2
+2010A1887A,Chemisty,B.E,8.01,2
+2010A1888A,Mechanical Engineering,B.E,6.8,2
+2010P1889P,Mechanical Engineering,B.Pharm,7.11,3
+2010A1890A,Computer Science and Information Systems,B.E,6.91,2
+2010A1891A,Electrical and Electronics Engineering,B.E,7.28,3
+2010A1892A,Pharmacy,B.E,7.13,2
+2010P1893P,Civil Engineering,B.Pharm,5.35,3
+2010A1894A,Pharmacy,B.E,8.48,2
+2010H1895H,Physics,M.E,6.86,2
+2010P1896P,Electrical and Electronics Engineering,B.Pharm,9.11,3
+2010P1897P,Electrical and Electronics Engineering,B.Pharm,6.89,2
+2010S1898S,Chemical Engineering,M.Sc,6.35,1
+2010A1899A,Pharmacy,B.E,7.74,1
+2010H1900H,Economics and Finanace,M.E,8.2,3
+2010A1901A,Economics and Finanace,B.E,8.89,2
+2010H1902H,Civil Engineering,M.E,6.37,1
+2010A1903A,Electrical and Electronics Engineering,B.E,9.9,2
+2010A1904A,Electrical and Electronics Engineering,B.E,9.76,1
+2010H1905H,Chemisty,M.E,7.63,3
+2010A1906A,Mechanical Engineering,B.E,9.11,4
+2010A1907A,Chemical Engineering,B.E,7.64,3
+2010P1908P,Computer Science and Information Systems,B.Pharm,8.04,1
+2010P1909P,Chemisty,B.Pharm,6.59,4
+2010D1910D,Chemisty,Ph.D,6.73,4
+2010A1911A,Humanities and Social Sciences,B.E,7.96,3
+2010D1912D,Biological Sciences,Ph.D,8.43,2
+2010A1913A,Pharmacy,B.E,5.63,4
+2010A1914A,Mechanical Engineering,B.E,8.68,1
+2010A1915A,Physics,B.E,8.2,3
+2010P1916P,Civil Engineering,B.Pharm,8.39,4
+2010D1917D,Physics,Ph.D,7.29,4
+2010S1918S,Economics and Finanace,M.Sc,8.99,3
+2010S1919S,Computer Science and Information Systems,M.Sc,9.76,2
+2010A1920A,Computer Science and Information Systems,B.E,8.18,1
+2010A1921A,Computer Science and Information Systems,B.E,7.03,3
+2010A1922A,Chemical Engineering,B.E,8.17,1
+2010H1923H,Physics,M.E,6.2,1
+2010P1924P,Chemisty,B.Pharm,7.88,1
+2010A1925A,Physics,B.E,6.43,4
+2010A1926A,Biological Sciences,B.E,9.81,4
+2010A1927A,Pharmacy,B.E,7.54,2
+2010H1928H,Humanities and Social Sciences,M.E,7.49,1
+2010A1929A,Electrical and Electronics Engineering,B.E,5.07,2
+2010A1930A,Physics,B.E,5.04,4
+2010A1931A,Physics,B.E,7.67,3
+2010S1932S,Civil Engineering,M.Sc,9.97,1
+2010H1933H,Mechanical Engineering,M.E,7.24,2
+2010S1934S,Pharmacy,M.Sc,9.65,2
+2010P1935P,Chemisty,B.Pharm,5.38,2
+2010A1936A,Mathematics,B.E,6.77,1
+2010S1937S,Electrical and Electronics Engineering,M.Sc,7.48,2
+2010A1938A,Economics and Finanace,B.E,9.85,3
+2010A1939A,Pharmacy,B.E,6.25,1
+2010A1940A,Computer Science and Information Systems,B.E,6.5,3
+2010S1941S,Computer Science and Information Systems,M.Sc,6.07,4
+2010A1942A,Civil Engineering,B.E,9.62,1
+2010A1943A,Humanities and Social Sciences,B.E,9.46,4
+2010A1944A,Biological Sciences,B.E,6.78,4
+2010P1945P,Economics and Finanace,B.Pharm,6.49,1
+2010P1946P,Biological Sciences,B.Pharm,6.75,2
+2010A1947A,Electrical and Electronics Engineering,B.E,6.77,1
+2010A1948A,Electrical and Electronics Engineering,B.E,7.46,1
+2010A1949A,Mathematics,B.E,7.57,2
+2010A1950A,Electrical and Electronics Engineering,B.E,5.62,4
+2010A1951A,Biological Sciences,B.E,5.78,3
+2010S1952S,Civil Engineering,M.Sc,7.35,3
+2010A1953A,Computer Science and Information Systems,B.E,6.82,2
+2010H1954H,Mathematics,M.E,9.06,1
+2010A1955A,Humanities and Social Sciences,B.E,8.28,4
+2010S1956S,Chemisty,M.Sc,5.7,4
+2010S1957S,Biological Sciences,M.Sc,6.8,2
+2010A1958A,Chemical Engineering,B.E,5.95,1
+2010A1959A,Chemisty,B.E,6.97,3
+2010A1960A,Biological Sciences,B.E,5.8,2
+2010A1961A,Humanities and Social Sciences,B.E,9.8,3
+2010H1962H,Chemical Engineering,M.E,7.11,4
+2010A1963A,Pharmacy,B.E,8.57,3
+2010A1964A,Electrical and Electronics Engineering,B.E,7.51,4
+2010H1965H,Chemisty,M.E,5.55,1
+2010A1966A,Biological Sciences,B.E,5.63,3
+2010P1967P,Biological Sciences,B.Pharm,8.84,2
+2010H1968H,Biological Sciences,M.E,8.39,3
+2010H1969H,Electrical and Electronics Engineering,M.E,9.88,1
+2010P1970P,Electrical and Electronics Engineering,B.Pharm,7.4,3
+2010H1971H,Humanities and Social Sciences,M.E,5.41,4
+2010H1972H,Civil Engineering,M.E,8.09,2
+2010H1973H,Civil Engineering,M.E,6.41,1
+2010H1974H,Computer Science and Information Systems,M.E,9.97,2
+2010A1975A,Pharmacy,B.E,9.1,2
+2010P1976P,Humanities and Social Sciences,B.Pharm,8.53,1
+2010P1977P,Mechanical Engineering,B.Pharm,5.91,2
+2010A1978A,Civil Engineering,B.E,5.6,4
+2010A1979A,Biological Sciences,B.E,6.37,2
+2010A1980A,Chemisty,B.E,7.13,2
+2010A1981A,Chemical Engineering,B.E,9.32,4
+2010H1982H,Electrical and Electronics Engineering,M.E,7.62,2
+2010D1983D,Civil Engineering,Ph.D,6.68,4
+2010A1984A,Biological Sciences,B.E,7.55,1
+2010A1985A,Computer Science and Information Systems,B.E,5.55,3
+2010A1986A,Computer Science and Information Systems,B.E,9.71,4
+2010A1987A,Civil Engineering,B.E,6.6,1
+2010A1988A,Chemisty,B.E,5.2,1
+2010P1989P,Pharmacy,B.Pharm,8.72,2
+2010P1990P,Computer Science and Information Systems,B.Pharm,7.36,1
+2010A1991A,Electrical and Electronics Engineering,B.E,5.92,4
+2010H1992H,Economics and Finanace,M.E,6.67,1
+2010H1993H,Chemical Engineering,M.E,8.34,2
+2010A1994A,Economics and Finanace,B.E,6.8,3
+2010A1995A,Physics,B.E,8.89,3
+2010S1996S,Civil Engineering,M.Sc,8.25,2
+2010P1997P,Mechanical Engineering,B.Pharm,6.92,1
+2010A1998A,Chemisty,B.E,8.15,1
+2010P1999P,Biological Sciences,B.Pharm,7.93,2
+2010A2000A,Civil Engineering,B.E,8.52,1
+2010H2001H,Chemical Engineering,M.E,9.71,3
+2010A2002A,Computer Science and Information Systems,B.E,8.63,2
+2010P2003P,Chemisty,B.Pharm,5.22,2
+2010A2004A,Electrical and Electronics Engineering,B.E,7.75,3
+2010S2005S,Mathematics,M.Sc,9.88,3
+2010A2006A,Humanities and Social Sciences,B.E,8.15,1
+2010A2007A,Electrical and Electronics Engineering,B.E,5.34,4
+2010A2008A,Mathematics,B.E,9.66,1
+2010A2009A,Chemisty,B.E,8.0,2
+2010H2010H,Computer Science and Information Systems,M.E,5.23,1
+2010P2011P,Civil Engineering,B.Pharm,8.7,4
+2010A2012A,Humanities and Social Sciences,B.E,8.42,1
+2010H2013H,Chemisty,M.E,7.19,4
+2010H2014H,Mathematics,M.E,8.9,4
+2010H2015H,Mechanical Engineering,M.E,6.36,2
+2010A2016A,Biological Sciences,B.E,5.8,2
+2010H2017H,Mechanical Engineering,M.E,8.48,4
+2010A2018A,Mathematics,B.E,8.54,3
+2010A2019A,Computer Science and Information Systems,B.E,9.26,3
+2010H2020H,Physics,M.E,6.34,1
+2010H2021H,Chemisty,M.E,6.12,2
+2010A2022A,Computer Science and Information Systems,B.E,5.2,2
+2010A2023A,Computer Science and Information Systems,B.E,9.64,3
+2010H2024H,Biological Sciences,M.E,8.21,2
+2010A2025A,Civil Engineering,B.E,7.67,1
+2010H2026H,Pharmacy,M.E,6.74,3
+2010H2027H,Economics and Finanace,M.E,5.42,3
+2010H2028H,Physics,M.E,5.67,3
+2010H2029H,Economics and Finanace,M.E,9.93,1
+2010A2030A,Economics and Finanace,B.E,6.1,3
+2010S2031S,Chemisty,M.Sc,6.28,1
+2010H2032H,Mathematics,M.E,8.29,1
+2010A2033A,Physics,B.E,8.73,4
+2010A2034A,Pharmacy,B.E,6.29,2
+2010A2035A,Humanities and Social Sciences,B.E,6.1,3
+2010A2036A,Civil Engineering,B.E,7.91,4
+2010P2037P,Chemisty,B.Pharm,7.23,4
+2010A2038A,Economics and Finanace,B.E,5.74,4
+2010A2039A,Chemical Engineering,B.E,7.48,4
+2010A2040A,Chemisty,B.E,9.08,2
+2010P2041P,Civil Engineering,B.Pharm,7.85,2
+2010H2042H,Pharmacy,M.E,6.41,3
+2010A2043A,Chemisty,B.E,9.43,4
+2010A2044A,Pharmacy,B.E,8.04,1
+2010A2045A,Chemisty,B.E,5.36,2
+2010P2046P,Humanities and Social Sciences,B.Pharm,9.55,4
+2010A2047A,Chemical Engineering,B.E,8.62,2
+2010A2048A,Physics,B.E,8.75,1
+2010H2049H,Mechanical Engineering,M.E,5.5,4
+2010S2050S,Biological Sciences,M.Sc,5.55,1
+2010A2051A,Pharmacy,B.E,9.67,2
+2010A2052A,Civil Engineering,B.E,8.85,3
+2010H2053H,Chemisty,M.E,9.69,1
+2010H2054H,Biological Sciences,M.E,9.79,1
+2010A2055A,Mathematics,B.E,8.68,3
+2010A2056A,Physics,B.E,5.42,2
+2010P2057P,Humanities and Social Sciences,B.Pharm,8.8,4
+2010A2058A,Chemisty,B.E,6.54,4
+2010A2059A,Chemisty,B.E,6.22,3
+2010A2060A,Pharmacy,B.E,7.72,1
+2010A2061A,Biological Sciences,B.E,5.51,3
+2010A2062A,Chemical Engineering,B.E,7.56,4
+2010A2063A,Chemisty,B.E,5.01,2
+2010A2064A,Biological Sciences,B.E,6.13,4
+2010A2065A,Chemisty,B.E,6.77,3
+2010A2066A,Civil Engineering,B.E,9.61,4
+2010A2067A,Pharmacy,B.E,9.42,1
+2010P2068P,Humanities and Social Sciences,B.Pharm,5.85,1
+2010A2069A,Civil Engineering,B.E,5.51,3
+2010H2070H,Economics and Finanace,M.E,5.38,3
+2010H2071H,Chemical Engineering,M.E,6.8,1
+2010A2072A,Biological Sciences,B.E,8.02,2
+2010H2073H,Electrical and Electronics Engineering,M.E,7.65,2
+2010A2074A,Pharmacy,B.E,7.13,3
+2010P2075P,Mechanical Engineering,B.Pharm,9.09,3
+2010S2076S,Chemical Engineering,M.Sc,6.36,4
+2010S2077S,Pharmacy,M.Sc,6.85,3
+2010A2078A,Physics,B.E,8.99,1
+2010A2079A,Chemisty,B.E,8.89,2
+2010P2080P,Economics and Finanace,B.Pharm,5.74,4
+2010P2081P,Humanities and Social Sciences,B.Pharm,9.07,1
+2010A2082A,Mechanical Engineering,B.E,7.14,3
+2010H2083H,Chemisty,M.E,5.45,2
+2010H2084H,Chemisty,M.E,8.84,3
+2010P2085P,Economics and Finanace,B.Pharm,7.47,4
+2010A2086A,Physics,B.E,9.86,3
+2010A2087A,Chemisty,B.E,9.01,2
+2010H2088H,Electrical and Electronics Engineering,M.E,7.09,4
+2010S2089S,Mathematics,M.Sc,7.67,2
+2010S2090S,Electrical and Electronics Engineering,M.Sc,5.42,4
+2010H2091H,Mathematics,M.E,7.89,2
+2010D2092D,Physics,Ph.D,5.44,3
+2010H2093H,Biological Sciences,M.E,6.02,1
+2010D2094D,Economics and Finanace,Ph.D,7.79,2
+2010H2095H,Chemical Engineering,M.E,5.3,3
+2010A2096A,Economics and Finanace,B.E,9.24,2
+2010S2097S,Computer Science and Information Systems,M.Sc,7.3,4
+2010A2098A,Civil Engineering,B.E,6.05,2
+2010A2099A,Biological Sciences,B.E,8.73,1
+2010H2100H,Physics,M.E,8.52,4
+2010A2101A,Physics,B.E,5.13,4
+2010P2102P,Economics and Finanace,B.Pharm,5.27,1
+2010H2103H,Pharmacy,M.E,7.91,4
+2010A2104A,Mechanical Engineering,B.E,9.35,1
+2010D2105D,Chemisty,Ph.D,6.83,1
+2010H2106H,Civil Engineering,M.E,5.39,4
+2010A2107A,Chemisty,B.E,8.83,4
+2010A2108A,Physics,B.E,5.7,3
+2010S2109S,Humanities and Social Sciences,M.Sc,7.06,3
+2010A2110A,Humanities and Social Sciences,B.E,8.91,1
+2010H2111H,Computer Science and Information Systems,M.E,5.56,1
+2010A2112A,Pharmacy,B.E,5.16,2
+2010D2113D,Mathematics,Ph.D,5.8,4
+2010A2114A,Electrical and Electronics Engineering,B.E,8.4,4
+2010H2115H,Mathematics,M.E,8.56,3
+2010P2116P,Mechanical Engineering,B.Pharm,7.51,2
+2010S2117S,Electrical and Electronics Engineering,M.Sc,9.66,3
+2010D2118D,Chemical Engineering,Ph.D,7.61,2
+2010P2119P,Civil Engineering,B.Pharm,7.0,1
+2010P2120P,Civil Engineering,B.Pharm,6.96,1
+2010A2121A,Physics,B.E,7.34,3
+2010A2122A,Pharmacy,B.E,8.21,4
+2010A2123A,Chemisty,B.E,5.27,3
+2010S2124S,Pharmacy,M.Sc,7.12,3
+2010A2125A,Chemical Engineering,B.E,5.52,3
+2010A2126A,Mechanical Engineering,B.E,8.89,3
+2010A2127A,Biological Sciences,B.E,6.2,2
+2010A2128A,Mathematics,B.E,5.53,2
+2010A2129A,Mechanical Engineering,B.E,5.05,3
+2010H2130H,Civil Engineering,M.E,7.76,1
+2010H2131H,Civil Engineering,M.E,6.35,1
+2010A2132A,Mechanical Engineering,B.E,9.93,4
+2010A2133A,Biological Sciences,B.E,5.24,1
+2010S2134S,Computer Science and Information Systems,M.Sc,5.04,3
+2010A2135A,Computer Science and Information Systems,B.E,9.79,2
+2010A2136A,Economics and Finanace,B.E,8.76,3
+2010A2137A,Chemisty,B.E,8.51,1
+2010S2138S,Economics and Finanace,M.Sc,7.04,1
+2010A2139A,Mathematics,B.E,9.04,2
+2010A2140A,Biological Sciences,B.E,7.94,4
+2010H2141H,Humanities and Social Sciences,M.E,7.93,1
+2010A2142A,Computer Science and Information Systems,B.E,5.81,4
+2010S2143S,Chemical Engineering,M.Sc,9.43,1
+2010A2144A,Physics,B.E,6.16,2
+2010A2145A,Pharmacy,B.E,8.27,2
+2010A2146A,Mathematics,B.E,7.58,3
+2010H2147H,Humanities and Social Sciences,M.E,8.93,3
+2010S2148S,Computer Science and Information Systems,M.Sc,6.8,4
+2010H2149H,Biological Sciences,M.E,9.45,4
+2010A2150A,Civil Engineering,B.E,6.04,1
+2010P2151P,Chemisty,B.Pharm,7.83,4
+2010A2152A,Chemical Engineering,B.E,9.02,2
+2010A2153A,Computer Science and Information Systems,B.E,7.74,1
+2010A2154A,Humanities and Social Sciences,B.E,5.47,3
+2010A2155A,Chemisty,B.E,9.67,2
+2010A2156A,Chemical Engineering,B.E,6.4,3
+2010P2157P,Economics and Finanace,B.Pharm,5.45,2
+2010A2158A,Physics,B.E,8.86,3
+2010S2159S,Humanities and Social Sciences,M.Sc,9.89,4
+2010A2160A,Pharmacy,B.E,9.62,1
+2010A2161A,Mechanical Engineering,B.E,7.44,3
+2010A2162A,Computer Science and Information Systems,B.E,7.0,2
+2010P2163P,Humanities and Social Sciences,B.Pharm,6.83,3
+2010A2164A,Economics and Finanace,B.E,5.42,4
+2010A2165A,Mathematics,B.E,7.25,1
+2010A2166A,Mechanical Engineering,B.E,9.89,1
+2010S2167S,Physics,M.Sc,8.95,1
+2010A2168A,Chemisty,B.E,9.27,3
+2010A2169A,Electrical and Electronics Engineering,B.E,5.79,4
+2010A2170A,Chemical Engineering,B.E,6.12,4
+2010H2171H,Pharmacy,M.E,5.47,4
+2010A2172A,Humanities and Social Sciences,B.E,8.21,4
+2010A2173A,Chemical Engineering,B.E,5.43,1
+2010A2174A,Electrical and Electronics Engineering,B.E,8.84,2
+2010A2175A,Electrical and Electronics Engineering,B.E,6.64,3
+2010A2176A,Economics and Finanace,B.E,9.98,4
+2010A2177A,Civil Engineering,B.E,8.51,4
+2010A2178A,Chemical Engineering,B.E,6.39,1
+2010A2179A,Mathematics,B.E,5.78,4
+2010D2180D,Chemisty,Ph.D,8.2,3
+2010A2181A,Mechanical Engineering,B.E,5.16,4
+2010A2182A,Biological Sciences,B.E,9.68,3
+2010H2183H,Electrical and Electronics Engineering,M.E,9.89,2
+2010D2184D,Biological Sciences,Ph.D,6.06,1
+2010A2185A,Pharmacy,B.E,7.11,3
+2010A2186A,Pharmacy,B.E,5.88,2
+2010H2187H,Chemical Engineering,M.E,6.37,1
+2010P2188P,Computer Science and Information Systems,B.Pharm,9.37,4
+2010S2189S,Electrical and Electronics Engineering,M.Sc,7.62,3
+2010S2190S,Chemisty,M.Sc,9.15,1
+2010H2191H,Electrical and Electronics Engineering,M.E,6.71,3
+2010S2192S,Chemisty,M.Sc,5.99,4
+2010A2193A,Humanities and Social Sciences,B.E,7.38,2
+2010A2194A,Physics,B.E,7.18,4
+2010P2195P,Biological Sciences,B.Pharm,7.8,2
+2010D2196D,Chemical Engineering,Ph.D,8.61,2
+2010D2197D,Economics and Finanace,Ph.D,8.32,3
+2010A2198A,Biological Sciences,B.E,5.75,4
+2010H2199H,Chemisty,M.E,7.5,3
+2010A2200A,Chemical Engineering,B.E,8.96,4
+2010A2201A,Computer Science and Information Systems,B.E,7.6,1
+2010A2202A,Humanities and Social Sciences,B.E,9.72,2
+2010H2203H,Pharmacy,M.E,7.25,1
+2010H2204H,Biological Sciences,M.E,6.09,2
+2010A2205A,Electrical and Electronics Engineering,B.E,8.48,2
+2010P2206P,Mechanical Engineering,B.Pharm,6.89,3
+2010A2207A,Civil Engineering,B.E,9.76,1
+2010H2208H,Economics and Finanace,M.E,9.07,1
+2010A2209A,Computer Science and Information Systems,B.E,9.48,1
+2010A2210A,Physics,B.E,7.5,4
+2010A2211A,Electrical and Electronics Engineering,B.E,7.05,3
+2010S2212S,Mathematics,M.Sc,7.13,3
+2010A2213A,Chemical Engineering,B.E,9.63,4
+2010A2214A,Electrical and Electronics Engineering,B.E,6.87,2
+2010H2215H,Mathematics,M.E,7.18,3
+2010S2216S,Pharmacy,M.Sc,8.44,4
+2010H2217H,Pharmacy,M.E,6.42,1
+2010A2218A,Chemical Engineering,B.E,9.03,1
+2010A2219A,Chemical Engineering,B.E,8.25,4
+2010A2220A,Chemical Engineering,B.E,7.48,1
+2010S2221S,Pharmacy,M.Sc,7.22,1
+2010H2222H,Pharmacy,M.E,6.45,4
+2010P2223P,Civil Engineering,B.Pharm,6.11,4
+2010A2224A,Mathematics,B.E,6.91,2
+2010S2225S,Humanities and Social Sciences,M.Sc,9.75,3
+2010H2226H,Humanities and Social Sciences,M.E,7.06,4
+2010A2227A,Biological Sciences,B.E,9.7,2
+2010A2228A,Mathematics,B.E,6.42,3
+2010A2229A,Computer Science and Information Systems,B.E,9.19,4
+2010S2230S,Pharmacy,M.Sc,6.21,4
+2010A2231A,Biological Sciences,B.E,5.08,2
+2010H2232H,Economics and Finanace,M.E,9.2,3
+2010H2233H,Economics and Finanace,M.E,5.85,4
+2010A2234A,Civil Engineering,B.E,7.78,4
+2010A2235A,Civil Engineering,B.E,8.08,4
+2010H2236H,Biological Sciences,M.E,9.01,4
+2010A2237A,Chemisty,B.E,9.7,4
+2010P2238P,Chemisty,B.Pharm,7.02,3
+2010D2239D,Mathematics,Ph.D,5.79,2
+2010H2240H,Chemical Engineering,M.E,8.55,2
+2010S2241S,Mathematics,M.Sc,5.59,4
+2010S2242S,Pharmacy,M.Sc,9.58,2
+2010A2243A,Economics and Finanace,B.E,6.02,1
+2010A2244A,Biological Sciences,B.E,7.19,2
+2010D2245D,Biological Sciences,Ph.D,8.09,1
+2010P2246P,Mechanical Engineering,B.Pharm,6.91,2
+2010H2247H,Humanities and Social Sciences,M.E,8.17,3
+2010A2248A,Chemisty,B.E,6.2,2
+2010A2249A,Computer Science and Information Systems,B.E,5.97,2
+2010A2250A,Physics,B.E,8.9,4
+2010A2251A,Computer Science and Information Systems,B.E,8.3,3
+2010A2252A,Chemical Engineering,B.E,9.67,1
+2010H2253H,Pharmacy,M.E,9.92,1
+2010D2254D,Chemical Engineering,Ph.D,7.3,1
+2010A2255A,Chemical Engineering,B.E,5.71,3
+2010A2256A,Chemisty,B.E,5.46,4
+2010H2257H,Economics and Finanace,M.E,9.56,2
+2010A2258A,Electrical and Electronics Engineering,B.E,5.5,1
+2010A2259A,Electrical and Electronics Engineering,B.E,5.37,1
+2010A2260A,Civil Engineering,B.E,8.44,4
+2010S2261S,Economics and Finanace,M.Sc,8.17,4
+2010A2262A,Chemisty,B.E,5.9,1
+2010A2263A,Chemisty,B.E,8.3,1
+2010A2264A,Chemical Engineering,B.E,9.88,3
+2010A2265A,Humanities and Social Sciences,B.E,9.97,1
+2010P2266P,Chemisty,B.Pharm,7.61,3
+2010A2267A,Chemical Engineering,B.E,5.96,1
+2010A2268A,Mathematics,B.E,5.12,2
+2010P2269P,Civil Engineering,B.Pharm,9.33,1
+2010H2270H,Civil Engineering,M.E,5.15,2
+2010A2271A,Civil Engineering,B.E,5.42,2
+2010A2272A,Computer Science and Information Systems,B.E,6.37,2
+2010H2273H,Chemical Engineering,M.E,6.74,3
+2010A2274A,Humanities and Social Sciences,B.E,8.73,4
+2010S2275S,Electrical and Electronics Engineering,M.Sc,7.56,4
+2010A2276A,Civil Engineering,B.E,6.25,2
+2010D2277D,Pharmacy,Ph.D,9.23,3
+2010S2278S,Electrical and Electronics Engineering,M.Sc,5.51,3
+2010H2279H,Chemisty,M.E,8.97,4
+2010A2280A,Electrical and Electronics Engineering,B.E,9.41,4
+2010A2281A,Mechanical Engineering,B.E,8.74,3
+2010D2282D,Mechanical Engineering,Ph.D,5.54,4
+2010H2283H,Electrical and Electronics Engineering,M.E,6.0,3
+2010A2284A,Economics and Finanace,B.E,9.49,1
+2010A2285A,Humanities and Social Sciences,B.E,5.84,1
+2010D2286D,Mathematics,Ph.D,6.27,4
+2010P2287P,Computer Science and Information Systems,B.Pharm,8.02,3
+2010A2288A,Electrical and Electronics Engineering,B.E,5.15,2
+2010S2289S,Economics and Finanace,M.Sc,7.15,2
+2010A2290A,Economics and Finanace,B.E,6.23,2
+2010P2291P,Pharmacy,B.Pharm,6.86,2
+2010A2292A,Economics and Finanace,B.E,5.61,3
+2010A2293A,Physics,B.E,5.05,3
+2010S2294S,Civil Engineering,M.Sc,7.33,3
+2010A2295A,Civil Engineering,B.E,7.81,4
+2010H2296H,Computer Science and Information Systems,M.E,8.01,2
+2010A2297A,Chemical Engineering,B.E,7.8,1
+2010A2298A,Mechanical Engineering,B.E,9.46,4
+2010H2299H,Pharmacy,M.E,8.78,3
+2010A2300A,Economics and Finanace,B.E,5.99,1
+2010A2301A,Humanities and Social Sciences,B.E,7.49,3
+2010P2302P,Electrical and Electronics Engineering,B.Pharm,5.6,4
+2010H2303H,Chemisty,M.E,8.01,4
+2010A2304A,Civil Engineering,B.E,7.88,3
+2010P2305P,Biological Sciences,B.Pharm,8.22,1
+2010H2306H,Humanities and Social Sciences,M.E,6.42,4
+2010D2307D,Biological Sciences,Ph.D,9.48,1
+2010P2308P,Economics and Finanace,B.Pharm,8.22,1
+2010A2309A,Humanities and Social Sciences,B.E,5.48,4
+2010A2310A,Physics,B.E,6.5,3
+2010H2311H,Economics and Finanace,M.E,7.0,3
+2010S2312S,Humanities and Social Sciences,M.Sc,8.06,4
+2010S2313S,Computer Science and Information Systems,M.Sc,8.48,4
+2010A2314A,Humanities and Social Sciences,B.E,9.24,1
+2010H2315H,Economics and Finanace,M.E,9.69,1
+2010H2316H,Biological Sciences,M.E,6.12,1
+2010A2317A,Chemisty,B.E,5.53,3
+2010H2318H,Physics,M.E,8.62,2
+2010H2319H,Chemisty,M.E,5.44,3
+2010P2320P,Biological Sciences,B.Pharm,9.67,1
+2010D2321D,Computer Science and Information Systems,Ph.D,9.42,1
+2010A2322A,Chemical Engineering,B.E,5.24,3
+2010A2323A,Chemical Engineering,B.E,6.32,4
+2010A2324A,Computer Science and Information Systems,B.E,8.49,2
+2010P2325P,Mechanical Engineering,B.Pharm,7.3,2
+2010A2326A,Economics and Finanace,B.E,9.31,4
+2010H2327H,Pharmacy,M.E,7.23,1
+2010S2328S,Mathematics,M.Sc,7.64,4
+2010A2329A,Pharmacy,B.E,7.45,3
+2010A2330A,Economics and Finanace,B.E,8.86,4
+2010H2331H,Civil Engineering,M.E,5.46,3
+2010D2332D,Physics,Ph.D,5.41,2
+2010A2333A,Pharmacy,B.E,8.24,2
+2010P2334P,Chemical Engineering,B.Pharm,5.38,4
+2010A2335A,Biological Sciences,B.E,6.06,2
+2010S2336S,Humanities and Social Sciences,M.Sc,9.09,2
+2010A2337A,Humanities and Social Sciences,B.E,5.52,2
+2010A2338A,Mechanical Engineering,B.E,8.81,3
+2010A2339A,Computer Science and Information Systems,B.E,8.54,2
+2010H2340H,Mathematics,M.E,5.53,2
+2010H2341H,Civil Engineering,M.E,9.58,4
+2010H2342H,Humanities and Social Sciences,M.E,9.34,2
+2010A2343A,Electrical and Electronics Engineering,B.E,5.94,3
+2010A2344A,Electrical and Electronics Engineering,B.E,5.82,3
+2010S2345S,Mechanical Engineering,M.Sc,8.24,2
+2010A2346A,Humanities and Social Sciences,B.E,9.38,1
+2010P2347P,Civil Engineering,B.Pharm,5.08,4
+2010A2348A,Chemisty,B.E,6.33,4
+2010P2349P,Pharmacy,B.Pharm,7.65,3
+2010P2350P,Computer Science and Information Systems,B.Pharm,5.59,1
+2010H2351H,Economics and Finanace,M.E,7.16,2
+2010P2352P,Electrical and Electronics Engineering,B.Pharm,7.51,3
+2010A2353A,Biological Sciences,B.E,7.21,3
+2010A2354A,Chemical Engineering,B.E,5.25,4
+2010A2355A,Physics,B.E,9.64,2
+2010H2356H,Computer Science and Information Systems,M.E,5.95,2
+2010H2357H,Mechanical Engineering,M.E,6.38,4
+2010A2358A,Mathematics,B.E,7.17,1
+2010P2359P,Pharmacy,B.Pharm,6.24,1
+2010H2360H,Civil Engineering,M.E,5.58,1
+2010P2361P,Mechanical Engineering,B.Pharm,6.33,1
+2010P2362P,Chemical Engineering,B.Pharm,6.38,4
+2010A2363A,Electrical and Electronics Engineering,B.E,6.96,2
+2010P2364P,Computer Science and Information Systems,B.Pharm,7.48,2
+2010A2365A,Civil Engineering,B.E,6.74,3
+2010D2366D,Physics,Ph.D,7.98,1
+2010D2367D,Chemical Engineering,Ph.D,5.93,4
+2010A2368A,Physics,B.E,6.53,2
+2010A2369A,Chemisty,B.E,6.58,1
+2010H2370H,Chemisty,M.E,5.94,4
+2010D2371D,Chemisty,Ph.D,9.81,4
+2010A2372A,Electrical and Electronics Engineering,B.E,6.67,2
+2010A2373A,Computer Science and Information Systems,B.E,9.41,2
+2010A2374A,Pharmacy,B.E,8.8,1
+2010A2375A,Mechanical Engineering,B.E,6.76,4
+2010A2376A,Mechanical Engineering,B.E,5.01,2
+2010A2377A,Humanities and Social Sciences,B.E,5.55,1
+2010H2378H,Mechanical Engineering,M.E,8.4,3
+2010A2379A,Civil Engineering,B.E,7.63,2
+2010A2380A,Chemisty,B.E,8.88,1
+2010A2381A,Computer Science and Information Systems,B.E,9.02,3
+2010P2382P,Humanities and Social Sciences,B.Pharm,7.45,3
+2010P2383P,Computer Science and Information Systems,B.Pharm,8.32,3
+2010H2384H,Economics and Finanace,M.E,7.29,3
+2010A2385A,Computer Science and Information Systems,B.E,8.55,4
+2010H2386H,Chemical Engineering,M.E,6.35,1
+2010A2387A,Chemisty,B.E,9.89,2
+2010A2388A,Pharmacy,B.E,9.97,3
+2010A2389A,Humanities and Social Sciences,B.E,5.15,4
+2010A2390A,Economics and Finanace,B.E,6.03,1
+2010A2391A,Civil Engineering,B.E,9.6,4
+2010H2392H,Pharmacy,M.E,5.54,3
+2010D2393D,Pharmacy,Ph.D,8.39,4
+2010P2394P,Chemisty,B.Pharm,6.33,3
+2010A2395A,Economics and Finanace,B.E,6.96,4
+2010A2396A,Computer Science and Information Systems,B.E,6.55,1
+2010H2397H,Mechanical Engineering,M.E,7.6,3
+2010A2398A,Mechanical Engineering,B.E,5.61,4
+2010A2399A,Mechanical Engineering,B.E,9.84,3
+2010H2400H,Computer Science and Information Systems,M.E,5.55,1
+2010D2401D,Humanities and Social Sciences,Ph.D,9.64,2
+2010P2402P,Humanities and Social Sciences,B.Pharm,8.4,3
+2010A2403A,Mechanical Engineering,B.E,7.79,2
+2010D2404D,Computer Science and Information Systems,Ph.D,7.43,1
+2010D2405D,Computer Science and Information Systems,Ph.D,5.08,1
+2010A2406A,Civil Engineering,B.E,6.42,1
+2010H2407H,Biological Sciences,M.E,7.44,1
+2010H2408H,Electrical and Electronics Engineering,M.E,6.76,1
+2010H2409H,Biological Sciences,M.E,6.26,3
+2010H2410H,Computer Science and Information Systems,M.E,8.93,2
+2010A2411A,Chemical Engineering,B.E,8.57,2
+2010H2412H,Physics,M.E,5.98,1
+2010P2413P,Computer Science and Information Systems,B.Pharm,6.09,4
+2010A2414A,Economics and Finanace,B.E,6.24,4
+2010A2415A,Electrical and Electronics Engineering,B.E,7.0,1
+2010A2416A,Computer Science and Information Systems,B.E,9.6,3
+2010H2417H,Chemisty,M.E,7.82,3
+2010H2418H,Mechanical Engineering,M.E,5.7,2
+2010A2419A,Computer Science and Information Systems,B.E,5.68,2
+2010A2420A,Computer Science and Information Systems,B.E,6.52,3
+2010A2421A,Mechanical Engineering,B.E,9.64,4
+2010S2422S,Mathematics,M.Sc,5.92,4
+2010A2423A,Chemical Engineering,B.E,5.69,4
+2010H2424H,Physics,M.E,6.57,3
+2010D2425D,Humanities and Social Sciences,Ph.D,6.77,4
+2010S2426S,Electrical and Electronics Engineering,M.Sc,9.81,4
+2010A2427A,Biological Sciences,B.E,9.56,1
+2010A2428A,Electrical and Electronics Engineering,B.E,5.44,2
+2010A2429A,Mechanical Engineering,B.E,9.53,2
+2010A2430A,Mechanical Engineering,B.E,7.56,2
+2010H2431H,Mechanical Engineering,M.E,7.72,3
+2010A2432A,Biological Sciences,B.E,8.78,4
+2010S2433S,Chemisty,M.Sc,7.01,1
+2010A2434A,Humanities and Social Sciences,B.E,9.04,4
+2010A2435A,Biological Sciences,B.E,5.42,3
+2010P2436P,Pharmacy,B.Pharm,5.54,1
+2010A2437A,Computer Science and Information Systems,B.E,7.83,3
+2010A2438A,Biological Sciences,B.E,5.61,1
+2010A2439A,Physics,B.E,6.03,2
+2010A2440A,Mathematics,B.E,8.7,4
+2010A2441A,Chemisty,B.E,6.12,2
+2010H2442H,Computer Science and Information Systems,M.E,8.14,1
+2010H2443H,Humanities and Social Sciences,M.E,8.12,2
+2010A2444A,Chemical Engineering,B.E,5.34,2
+2010P2445P,Mechanical Engineering,B.Pharm,9.4,1
+2010A2446A,Civil Engineering,B.E,6.02,4
+2010H2447H,Biological Sciences,M.E,9.16,4
+2010H2448H,Electrical and Electronics Engineering,M.E,5.28,1
+2010A2449A,Computer Science and Information Systems,B.E,7.02,2
+2010A2450A,Civil Engineering,B.E,9.21,3
+2010A2451A,Mechanical Engineering,B.E,8.41,1
+2010S2452S,Electrical and Electronics Engineering,M.Sc,5.73,1
+2010S2453S,Chemisty,M.Sc,5.71,2
+2010A2454A,Chemisty,B.E,7.56,2
+2010A2455A,Humanities and Social Sciences,B.E,7.4,3
+2010A2456A,Pharmacy,B.E,5.5,4
+2010A2457A,Economics and Finanace,B.E,8.34,4
+2010D2458D,Electrical and Electronics Engineering,Ph.D,8.49,1
+2010P2459P,Humanities and Social Sciences,B.Pharm,7.08,4
+2010H2460H,Chemisty,M.E,5.14,4
+2010H2461H,Chemical Engineering,M.E,7.82,1
+2010S2462S,Mechanical Engineering,M.Sc,6.51,4
+2010P2463P,Biological Sciences,B.Pharm,9.54,3
+2010P2464P,Chemisty,B.Pharm,7.34,4
+2010A2465A,Computer Science and Information Systems,B.E,5.05,2
+2010A2466A,Economics and Finanace,B.E,7.5,2
+2010A2467A,Economics and Finanace,B.E,9.51,4
+2010H2468H,Mathematics,M.E,5.31,2
+2010S2469S,Economics and Finanace,M.Sc,8.28,3
+2010H2470H,Humanities and Social Sciences,M.E,8.58,2
+2010P2471P,Computer Science and Information Systems,B.Pharm,8.92,3
+2010P2472P,Electrical and Electronics Engineering,B.Pharm,5.34,4
+2010A2473A,Electrical and Electronics Engineering,B.E,9.81,2
+2010H2474H,Mechanical Engineering,M.E,8.54,3
+2010A2475A,Chemisty,B.E,8.49,3
+2010A2476A,Mechanical Engineering,B.E,8.09,4
+2010H2477H,Chemical Engineering,M.E,5.22,2
+2010A2478A,Civil Engineering,B.E,5.48,1
+2010H2479H,Humanities and Social Sciences,M.E,9.67,4
+2010A2480A,Economics and Finanace,B.E,8.8,2
+2010P2481P,Chemical Engineering,B.Pharm,9.5,2
+2010H2482H,Physics,M.E,9.46,4
+2010A2483A,Chemical Engineering,B.E,5.31,3
+2010P2484P,Chemical Engineering,B.Pharm,5.19,1
+2010A2485A,Humanities and Social Sciences,B.E,8.82,1
+2010A2486A,Chemisty,B.E,6.61,4
+2010S2487S,Electrical and Electronics Engineering,M.Sc,5.67,2
+2010H2488H,Civil Engineering,M.E,6.26,4
+2010A2489A,Pharmacy,B.E,6.43,2
+2010D2490D,Physics,Ph.D,5.81,2
+2010D2491D,Chemical Engineering,Ph.D,7.91,1
+2010A2492A,Civil Engineering,B.E,5.17,2
+2010H2493H,Biological Sciences,M.E,6.8,4
+2010H2494H,Mechanical Engineering,M.E,7.73,1
+2010D2495D,Economics and Finanace,Ph.D,5.93,4
+2010S2496S,Civil Engineering,M.Sc,9.16,4
+2010H2497H,Mathematics,M.E,6.76,2
+2010H2498H,Chemical Engineering,M.E,7.19,4
+2010A2499A,Chemical Engineering,B.E,7.85,2
+2010H2500H,Mathematics,M.E,6.49,1
+2010H2501H,Humanities and Social Sciences,M.E,6.15,3
+2010P2502P,Biological Sciences,B.Pharm,6.12,3
+2010P2503P,Computer Science and Information Systems,B.Pharm,6.95,3
+2010A2504A,Chemical Engineering,B.E,9.36,2
+2010A2505A,Computer Science and Information Systems,B.E,5.37,2
+2010A2506A,Mathematics,B.E,9.66,3
+2010H2507H,Electrical and Electronics Engineering,M.E,8.09,1
+2010A2508A,Mechanical Engineering,B.E,7.35,3
+2010A2509A,Pharmacy,B.E,5.15,3
+2010A2510A,Electrical and Electronics Engineering,B.E,6.3,3
+2010A2511A,Biological Sciences,B.E,5.7,3
+2010P2512P,Pharmacy,B.Pharm,9.56,1
+2010H2513H,Civil Engineering,M.E,7.47,1
+2010A2514A,Economics and Finanace,B.E,9.91,4
+2010H2515H,Mechanical Engineering,M.E,8.7,1
+2010A2516A,Mathematics,B.E,7.39,2
+2010S2517S,Computer Science and Information Systems,M.Sc,8.62,1
+2010P2518P,Biological Sciences,B.Pharm,7.48,2
+2010A2519A,Pharmacy,B.E,6.75,4
+2010S2520S,Computer Science and Information Systems,M.Sc,8.91,2
+2010A2521A,Biological Sciences,B.E,9.66,1
+2010A2522A,Civil Engineering,B.E,7.67,4
+2010A2523A,Pharmacy,B.E,8.42,1
+2010H2524H,Mathematics,M.E,7.41,4
+2010D2525D,Electrical and Electronics Engineering,Ph.D,8.48,4
+2010A2526A,Physics,B.E,7.13,2
+2010A2527A,Chemical Engineering,B.E,7.19,3
+2010A2528A,Economics and Finanace,B.E,5.97,4
+2010A2529A,Biological Sciences,B.E,6.19,1
+2010P2530P,Mechanical Engineering,B.Pharm,5.05,4
+2010A2531A,Physics,B.E,8.76,1
+2010H2532H,Biological Sciences,M.E,9.37,2
+2010A2533A,Biological Sciences,B.E,5.38,2
+2010A2534A,Humanities and Social Sciences,B.E,5.9,1
+2010A2535A,Economics and Finanace,B.E,6.75,2
+2010A2536A,Computer Science and Information Systems,B.E,5.65,4
+2010A2537A,Humanities and Social Sciences,B.E,8.29,1
+2010A2538A,Chemical Engineering,B.E,6.25,2
+2010A2539A,Humanities and Social Sciences,B.E,8.53,3
+2010H2540H,Civil Engineering,M.E,7.22,3
+2010A2541A,Economics and Finanace,B.E,8.9,3
+2010P2542P,Pharmacy,B.Pharm,6.22,3
+2010D2543D,Economics and Finanace,Ph.D,8.49,1
+2010A2544A,Biological Sciences,B.E,6.73,4
+2010P2545P,Mechanical Engineering,B.Pharm,7.43,1
+2010A2546A,Civil Engineering,B.E,9.56,2
+2010A2547A,Computer Science and Information Systems,B.E,8.71,2
+2010D2548D,Chemical Engineering,Ph.D,6.86,2
+2010A2549A,Biological Sciences,B.E,9.89,4
+2010A2550A,Pharmacy,B.E,8.82,1
+2010H2551H,Biological Sciences,M.E,7.49,1
+2010A2552A,Computer Science and Information Systems,B.E,6.39,4
+2010A2553A,Computer Science and Information Systems,B.E,9.14,1
+2010A2554A,Biological Sciences,B.E,6.4,4
+2010H2555H,Humanities and Social Sciences,M.E,5.09,4
+2010A2556A,Electrical and Electronics Engineering,B.E,7.22,2
+2010A2557A,Civil Engineering,B.E,6.9,4
+2010A2558A,Mathematics,B.E,5.26,3
+2010P2559P,Biological Sciences,B.Pharm,7.71,3
+2010A2560A,Biological Sciences,B.E,9.55,3
+2010A2561A,Computer Science and Information Systems,B.E,9.05,2
+2010A2562A,Biological Sciences,B.E,6.7,4
+2010P2563P,Electrical and Electronics Engineering,B.Pharm,8.91,1
+2010A2564A,Chemical Engineering,B.E,7.77,3
+2010P2565P,Humanities and Social Sciences,B.Pharm,7.12,3
+2010H2566H,Chemisty,M.E,9.8,4
+2010A2567A,Physics,B.E,9.96,2
+2010P2568P,Chemisty,B.Pharm,9.54,3
+2010A2569A,Pharmacy,B.E,9.75,1
+2010H2570H,Civil Engineering,M.E,8.86,3
+2010A2571A,Economics and Finanace,B.E,7.86,1
+2010A2572A,Mechanical Engineering,B.E,6.37,3
+2010S2573S,Pharmacy,M.Sc,6.25,1
+2010A2574A,Chemical Engineering,B.E,6.53,3
+2010A2575A,Computer Science and Information Systems,B.E,9.24,4
+2010A2576A,Humanities and Social Sciences,B.E,5.09,1
+2010S2577S,Humanities and Social Sciences,M.Sc,5.19,3
+2010P2578P,Humanities and Social Sciences,B.Pharm,8.19,2
+2010H2579H,Electrical and Electronics Engineering,M.E,5.29,1
+2010A2580A,Computer Science and Information Systems,B.E,9.49,3
+2010A2581A,Chemical Engineering,B.E,7.2,3
+2010A2582A,Computer Science and Information Systems,B.E,6.3,4
+2010A2583A,Chemisty,B.E,6.14,2
+2010A2584A,Chemisty,B.E,9.36,1
+2010S2585S,Civil Engineering,M.Sc,5.57,1
+2010A2586A,Chemisty,B.E,8.42,4
+2010D2587D,Mechanical Engineering,Ph.D,6.59,2
+2010A2588A,Biological Sciences,B.E,9.76,3
+2010A2589A,Computer Science and Information Systems,B.E,5.08,3
+2010D2590D,Mathematics,Ph.D,8.59,2
+2010D2591D,Economics and Finanace,Ph.D,5.55,4
+2010A2592A,Chemical Engineering,B.E,7.56,2
+2010S2593S,Civil Engineering,M.Sc,6.63,3
+2010H2594H,Pharmacy,M.E,7.08,4
+2010H2595H,Computer Science and Information Systems,M.E,5.72,3
+2010D2596D,Mechanical Engineering,Ph.D,8.94,3
+2010H2597H,Electrical and Electronics Engineering,M.E,9.49,3
+2010P2598P,Humanities and Social Sciences,B.Pharm,9.71,3
+2010A2599A,Mechanical Engineering,B.E,5.16,3
+2010A2600A,Biological Sciences,B.E,6.45,2
+2010H2601H,Mechanical Engineering,M.E,5.13,2
+2010A2602A,Economics and Finanace,B.E,7.55,3
+2010A2603A,Civil Engineering,B.E,6.89,1
+2010A2604A,Pharmacy,B.E,8.63,4
+2010H2605H,Pharmacy,M.E,5.39,1
+2010H2606H,Civil Engineering,M.E,7.83,4
+2010H2607H,Mathematics,M.E,8.67,1
+2010P2608P,Mechanical Engineering,B.Pharm,7.36,4
+2010A2609A,Economics and Finanace,B.E,6.35,3
+2010A2610A,Civil Engineering,B.E,6.64,3
+2010A2611A,Civil Engineering,B.E,7.28,1
+2010A2612A,Physics,B.E,6.21,4
+2010D2613D,Economics and Finanace,Ph.D,5.4,1
+2010A2614A,Economics and Finanace,B.E,8.27,2
+2010A2615A,Humanities and Social Sciences,B.E,8.93,2
+2010H2616H,Mechanical Engineering,M.E,9.14,2
+2010H2617H,Mathematics,M.E,6.22,4
+2010D2618D,Pharmacy,Ph.D,7.92,2
+2010A2619A,Mechanical Engineering,B.E,6.3,3
+2010S2620S,Economics and Finanace,M.Sc,6.57,1
+2010A2621A,Electrical and Electronics Engineering,B.E,7.11,2
+2010A2622A,Mechanical Engineering,B.E,7.47,2
+2010H2623H,Chemisty,M.E,9.38,1
+2010H2624H,Chemisty,M.E,5.6,3
+2010A2625A,Mathematics,B.E,8.56,4
+2010P2626P,Chemical Engineering,B.Pharm,5.63,1
+2010A2627A,Electrical and Electronics Engineering,B.E,5.12,2
+2010H2628H,Chemical Engineering,M.E,5.66,4
+2010A2629A,Electrical and Electronics Engineering,B.E,6.77,4
+2010A2630A,Physics,B.E,7.78,3
+2010A2631A,Chemical Engineering,B.E,6.68,3
+2010P2632P,Mechanical Engineering,B.Pharm,8.04,1
+2010H2633H,Physics,M.E,5.23,3
+2010H2634H,Humanities and Social Sciences,M.E,9.55,4
+2010A2635A,Physics,B.E,9.17,3
+2010P2636P,Humanities and Social Sciences,B.Pharm,8.5,2
+2010A2637A,Physics,B.E,8.83,1
+2010A2638A,Chemisty,B.E,9.48,3
+2010A2639A,Pharmacy,B.E,8.25,4
+2010A2640A,Economics and Finanace,B.E,7.19,3
+2010H2641H,Chemical Engineering,M.E,6.16,4
+2010H2642H,Economics and Finanace,M.E,5.24,4
+2010P2643P,Computer Science and Information Systems,B.Pharm,6.61,3
+2010A2644A,Chemisty,B.E,9.77,1
+2010P2645P,Civil Engineering,B.Pharm,7.15,3
+2010P2646P,Mechanical Engineering,B.Pharm,9.4,3
+2010A2647A,Chemical Engineering,B.E,6.74,2
+2010H2648H,Chemical Engineering,M.E,6.44,4
+2010D2649D,Humanities and Social Sciences,Ph.D,6.12,2
+2010S2650S,Computer Science and Information Systems,M.Sc,9.7,3
+2010A2651A,Mechanical Engineering,B.E,8.77,2
+2010A2652A,Pharmacy,B.E,6.39,1
+2010H2653H,Civil Engineering,M.E,7.76,2
+2010A2654A,Biological Sciences,B.E,7.99,1
+2010A2655A,Mathematics,B.E,7.69,2
+2010A2656A,Biological Sciences,B.E,7.44,1
+2010A2657A,Economics and Finanace,B.E,6.02,4
+2010A2658A,Physics,B.E,7.22,2
+2010P2659P,Humanities and Social Sciences,B.Pharm,6.47,1
+2010D2660D,Physics,Ph.D,8.53,1
+2010D2661D,Humanities and Social Sciences,Ph.D,9.44,4
+2010A2662A,Computer Science and Information Systems,B.E,5.43,2
+2010D2663D,Computer Science and Information Systems,Ph.D,8.66,1
+2010A2664A,Economics and Finanace,B.E,9.02,2
+2010A2665A,Physics,B.E,5.37,2
+2010H2666H,Mathematics,M.E,6.68,4
+2010A2667A,Pharmacy,B.E,8.68,1
+2010A2668A,Physics,B.E,8.44,1
+2010A2669A,Electrical and Electronics Engineering,B.E,5.5,3
+2010S2670S,Civil Engineering,M.Sc,9.21,1
+2010D2671D,Pharmacy,Ph.D,8.14,2
+2010A2672A,Chemisty,B.E,7.93,2
+2010H2673H,Pharmacy,M.E,5.98,4
+2010D2674D,Chemisty,Ph.D,7.42,2
+2010H2675H,Physics,M.E,7.48,2
+2010H2676H,Civil Engineering,M.E,8.17,1
+2010A2677A,Mathematics,B.E,9.29,2
+2010A2678A,Biological Sciences,B.E,7.17,4
+2010P2679P,Mechanical Engineering,B.Pharm,6.04,2
+2010A2680A,Biological Sciences,B.E,7.09,3
+2010A2681A,Mechanical Engineering,B.E,6.9,2
+2010P2682P,Pharmacy,B.Pharm,6.74,2
+2010A2683A,Computer Science and Information Systems,B.E,9.2,3
+2010H2684H,Pharmacy,M.E,7.43,4
+2010A2685A,Mechanical Engineering,B.E,6.79,4
+2010P2686P,Computer Science and Information Systems,B.Pharm,5.48,1
+2010A2687A,Computer Science and Information Systems,B.E,7.1,4
+2010A2688A,Economics and Finanace,B.E,6.24,4
+2010A2689A,Chemical Engineering,B.E,5.88,3
+2010H2690H,Pharmacy,M.E,5.57,4
+2010A2691A,Physics,B.E,5.64,4
+2010H2692H,Humanities and Social Sciences,M.E,8.01,2
+2010S2693S,Biological Sciences,M.Sc,6.45,2
+2010A2694A,Electrical and Electronics Engineering,B.E,5.3,3
+2010P2695P,Computer Science and Information Systems,B.Pharm,8.37,4
+2010D2696D,Electrical and Electronics Engineering,Ph.D,9.05,4
+2010S2697S,Electrical and Electronics Engineering,M.Sc,6.3,1
+2010P2698P,Computer Science and Information Systems,B.Pharm,7.43,2
+2010A2699A,Economics and Finanace,B.E,8.18,1
+2010A2700A,Computer Science and Information Systems,B.E,7.24,2
+2010A2701A,Mechanical Engineering,B.E,9.38,2
+2010H2702H,Pharmacy,M.E,5.55,3
+2010A2703A,Chemisty,B.E,8.02,1
+2010A2704A,Physics,B.E,5.11,4
+2010A2705A,Chemical Engineering,B.E,8.9,3
+2010H2706H,Economics and Finanace,M.E,8.83,1
+2010A2707A,Pharmacy,B.E,5.25,2
+2010H2708H,Economics and Finanace,M.E,7.68,2
+2010D2709D,Mathematics,Ph.D,6.98,2
+2010H2710H,Computer Science and Information Systems,M.E,9.01,3
+2010A2711A,Economics and Finanace,B.E,7.07,2
+2010A2712A,Biological Sciences,B.E,5.18,1
+2010A2713A,Mathematics,B.E,5.51,4
+2010P2714P,Humanities and Social Sciences,B.Pharm,5.21,3
+2010A2715A,Computer Science and Information Systems,B.E,5.12,2
+2010A2716A,Biological Sciences,B.E,6.36,1
+2010A2717A,Electrical and Electronics Engineering,B.E,8.28,2
+2010A2718A,Physics,B.E,9.38,1
+2010H2719H,Chemical Engineering,M.E,5.37,4
+2010A2720A,Biological Sciences,B.E,5.07,2
+2010H2721H,Chemical Engineering,M.E,8.68,4
+2010A2722A,Civil Engineering,B.E,9.16,3
+2010A2723A,Economics and Finanace,B.E,7.13,1
+2010H2724H,Computer Science and Information Systems,M.E,6.37,2
+2010A2725A,Chemical Engineering,B.E,6.32,4
+2010A2726A,Electrical and Electronics Engineering,B.E,6.46,1
+2010H2727H,Civil Engineering,M.E,9.83,3
+2010A2728A,Humanities and Social Sciences,B.E,6.42,2
+2010A2729A,Electrical and Electronics Engineering,B.E,5.09,4
+2010H2730H,Physics,M.E,6.97,3
+2010S2731S,Mathematics,M.Sc,8.57,4
+2010P2732P,Civil Engineering,B.Pharm,7.89,1
+2010A2733A,Electrical and Electronics Engineering,B.E,8.86,4
+2010A2734A,Economics and Finanace,B.E,7.38,1
+2010A2735A,Pharmacy,B.E,6.55,2
+2010P2736P,Pharmacy,B.Pharm,9.88,1
+2010D2737D,Mathematics,Ph.D,5.85,4
+2010S2738S,Mechanical Engineering,M.Sc,6.25,2
+2010P2739P,Electrical and Electronics Engineering,B.Pharm,8.08,4
+2010A2740A,Mathematics,B.E,8.62,2
+2010A2741A,Biological Sciences,B.E,8.84,3
+2010H2742H,Electrical and Electronics Engineering,M.E,6.56,3
+2010A2743A,Chemisty,B.E,5.18,4
+2010A2744A,Biological Sciences,B.E,6.34,2
+2010S2745S,Mathematics,M.Sc,8.97,4
+2010H2746H,Economics and Finanace,M.E,9.8,2
+2010A2747A,Economics and Finanace,B.E,7.31,4
+2010H2748H,Mathematics,M.E,7.77,1
+2010P2749P,Chemical Engineering,B.Pharm,7.13,1
+2010H2750H,Electrical and Electronics Engineering,M.E,5.64,1
+2010A2751A,Chemisty,B.E,7.6,1
+2010H2752H,Chemisty,M.E,5.99,1
+2010A2753A,Biological Sciences,B.E,9.43,4
+2010A2754A,Chemisty,B.E,8.13,4
+2010P2755P,Chemisty,B.Pharm,8.74,4
+2010H2756H,Electrical and Electronics Engineering,M.E,5.05,1
+2010A2757A,Electrical and Electronics Engineering,B.E,9.98,3
+2010A2758A,Mathematics,B.E,6.61,3
+2010H2759H,Mechanical Engineering,M.E,8.25,2
+2010A2760A,Computer Science and Information Systems,B.E,7.62,2
+2010A2761A,Mechanical Engineering,B.E,9.76,3
+2010H2762H,Mathematics,M.E,8.02,4
+2010H2763H,Humanities and Social Sciences,M.E,6.05,3
+2010P2764P,Chemisty,B.Pharm,5.82,4
+2010S2765S,Biological Sciences,M.Sc,6.59,2
+2010P2766P,Chemisty,B.Pharm,7.35,1
+2010S2767S,Computer Science and Information Systems,M.Sc,8.51,2
+2010A2768A,Physics,B.E,5.47,4
+2010S2769S,Economics and Finanace,M.Sc,5.47,4
+2010A2770A,Mechanical Engineering,B.E,5.78,3
+2010A2771A,Pharmacy,B.E,7.8,2
+2010A2772A,Economics and Finanace,B.E,8.14,2
+2010P2773P,Computer Science and Information Systems,B.Pharm,6.42,4
+2010A2774A,Mechanical Engineering,B.E,8.65,3
+2010S2775S,Mechanical Engineering,M.Sc,8.83,3
+2010P2776P,Pharmacy,B.Pharm,8.3,1
+2010D2777D,Mechanical Engineering,Ph.D,5.76,2
+2010P2778P,Computer Science and Information Systems,B.Pharm,5.89,1
+2010A2779A,Chemisty,B.E,8.98,4
+2010A2780A,Economics and Finanace,B.E,7.88,3
+2010A2781A,Physics,B.E,9.36,4
+2010A2782A,Civil Engineering,B.E,5.84,2
+2010A2783A,Civil Engineering,B.E,5.46,2
+2010S2784S,Chemisty,M.Sc,5.82,1
+2010S2785S,Economics and Finanace,M.Sc,5.39,1
+2010P2786P,Chemisty,B.Pharm,7.56,4
+2010A2787A,Electrical and Electronics Engineering,B.E,8.32,3
+2010A2788A,Computer Science and Information Systems,B.E,7.5,1
+2010D2789D,Civil Engineering,Ph.D,7.8,4
+2010A2790A,Electrical and Electronics Engineering,B.E,8.53,3
+2010S2791S,Computer Science and Information Systems,M.Sc,9.19,3
+2010H2792H,Mathematics,M.E,5.39,2
+2010P2793P,Chemisty,B.Pharm,9.73,3
+2010A2794A,Physics,B.E,5.71,4
+2010A2795A,Mathematics,B.E,7.21,3
+2010A2796A,Pharmacy,B.E,5.6,4
+2010A2797A,Pharmacy,B.E,6.74,1
+2010S2798S,Economics and Finanace,M.Sc,9.28,3
+2010H2799H,Physics,M.E,7.12,2
+2010A2800A,Electrical and Electronics Engineering,B.E,6.87,1
+2010S2801S,Civil Engineering,M.Sc,7.21,2
+2010A2802A,Biological Sciences,B.E,7.93,3
+2010A2803A,Chemical Engineering,B.E,9.56,3
+2010H2804H,Mathematics,M.E,9.61,3
+2010P2805P,Biological Sciences,B.Pharm,8.24,4
+2010H2806H,Electrical and Electronics Engineering,M.E,5.22,3
+2010H2807H,Computer Science and Information Systems,M.E,8.13,1
+2010A2808A,Physics,B.E,9.64,4
+2010A2809A,Humanities and Social Sciences,B.E,5.87,1
+2010H2810H,Biological Sciences,M.E,6.85,2
+2010S2811S,Physics,M.Sc,8.68,2
+2010A2812A,Chemical Engineering,B.E,7.1,1
+2010P2813P,Biological Sciences,B.Pharm,7.22,1
+2010A2814A,Economics and Finanace,B.E,5.49,3
+2010A2815A,Civil Engineering,B.E,8.28,1
+2010A2816A,Economics and Finanace,B.E,9.19,3
+2010A2817A,Physics,B.E,5.85,3
+2010S2818S,Mathematics,M.Sc,5.07,4
+2010P2819P,Electrical and Electronics Engineering,B.Pharm,9.19,1
+2010A2820A,Chemical Engineering,B.E,5.96,2
+2010P2821P,Computer Science and Information Systems,B.Pharm,5.42,4
+2010H2822H,Biological Sciences,M.E,6.38,2
+2010A2823A,Physics,B.E,7.53,2
+2010A2824A,Pharmacy,B.E,8.73,1
+2010D2825D,Computer Science and Information Systems,Ph.D,6.37,3
+2010A2826A,Chemical Engineering,B.E,6.71,1
+2010A2827A,Mechanical Engineering,B.E,9.65,1
+2010H2828H,Chemical Engineering,M.E,9.59,2
+2010H2829H,Physics,M.E,5.43,3
+2010A2830A,Mechanical Engineering,B.E,8.13,1
+2010A2831A,Chemisty,B.E,8.94,2
+2010A2832A,Pharmacy,B.E,6.87,1
+2010H2833H,Physics,M.E,9.72,3
+2010H2834H,Pharmacy,M.E,8.21,2
+2010H2835H,Physics,M.E,8.78,2
+2010A2836A,Computer Science and Information Systems,B.E,5.27,3
+2010H2837H,Chemisty,M.E,6.39,3
+2010S2838S,Electrical and Electronics Engineering,M.Sc,6.13,2
+2010A2839A,Computer Science and Information Systems,B.E,9.42,2
+2010H2840H,Computer Science and Information Systems,M.E,6.3,4
+2010A2841A,Computer Science and Information Systems,B.E,5.46,3
+2010H2842H,Mechanical Engineering,M.E,6.82,4
+2010D2843D,Pharmacy,Ph.D,8.44,2
+2010A2844A,Biological Sciences,B.E,9.75,4
+2010P2845P,Chemisty,B.Pharm,7.69,2
+2010A2846A,Physics,B.E,7.17,3
+2010S2847S,Civil Engineering,M.Sc,6.71,3
+2010A2848A,Chemical Engineering,B.E,7.57,2
+2010A2849A,Computer Science and Information Systems,B.E,6.09,3
+2010A2850A,Biological Sciences,B.E,9.61,2
+2010A2851A,Humanities and Social Sciences,B.E,5.7,3
+2010A2852A,Economics and Finanace,B.E,7.82,1
+2010D2853D,Economics and Finanace,Ph.D,8.51,3
+2010A2854A,Biological Sciences,B.E,5.79,4
+2010A2855A,Economics and Finanace,B.E,6.68,1
+2010P2856P,Chemisty,B.Pharm,9.57,3
+2010A2857A,Chemisty,B.E,7.33,2
+2010D2858D,Biological Sciences,Ph.D,7.2,4
+2010H2859H,Mechanical Engineering,M.E,7.88,4
+2010A2860A,Physics,B.E,7.0,2
+2010H2861H,Computer Science and Information Systems,M.E,8.62,3
+2010A2862A,Humanities and Social Sciences,B.E,8.39,3
+2010A2863A,Biological Sciences,B.E,9.85,2
+2010P2864P,Chemical Engineering,B.Pharm,7.1,3
+2010D2865D,Mechanical Engineering,Ph.D,7.0,1
+2010P2866P,Chemisty,B.Pharm,7.56,3
+2010A2867A,Mechanical Engineering,B.E,9.83,2
+2010A2868A,Mechanical Engineering,B.E,8.76,2
+2010A2869A,Pharmacy,B.E,6.67,1
+2010H2870H,Chemical Engineering,M.E,6.55,2
+2010A2871A,Economics and Finanace,B.E,7.29,2
+2010A2872A,Humanities and Social Sciences,B.E,5.0,2
+2010A2873A,Civil Engineering,B.E,9.41,3
+2010A2874A,Computer Science and Information Systems,B.E,5.4,2
+2010A2875A,Civil Engineering,B.E,7.18,2
+2010H2876H,Chemisty,M.E,8.42,3
+2010S2877S,Biological Sciences,M.Sc,7.39,3
+2010H2878H,Chemical Engineering,M.E,7.35,4
+2010A2879A,Physics,B.E,6.06,4
+2010P2880P,Pharmacy,B.Pharm,6.88,4
+2010A2881A,Physics,B.E,6.21,1
+2010A2882A,Electrical and Electronics Engineering,B.E,5.64,2
+2010A2883A,Electrical and Electronics Engineering,B.E,8.87,3
+2010P2884P,Pharmacy,B.Pharm,8.65,4
+2010H2885H,Mechanical Engineering,M.E,6.97,1
+2010P2886P,Economics and Finanace,B.Pharm,7.44,1
+2010H2887H,Civil Engineering,M.E,9.43,2
+2010A2888A,Civil Engineering,B.E,6.85,3
+2010A2889A,Mathematics,B.E,9.12,4
+2010A2890A,Chemical Engineering,B.E,8.23,2
+2010P2891P,Humanities and Social Sciences,B.Pharm,5.94,2
+2010D2892D,Computer Science and Information Systems,Ph.D,7.18,3
+2010S2893S,Electrical and Electronics Engineering,M.Sc,8.27,4
+2010A2894A,Chemisty,B.E,6.42,4
+2010A2895A,Pharmacy,B.E,9.11,1
+2010A2896A,Computer Science and Information Systems,B.E,9.79,4
+2010A2897A,Chemisty,B.E,5.82,1
+2010S2898S,Humanities and Social Sciences,M.Sc,9.03,3
+2010A2899A,Pharmacy,B.E,8.66,4
+2010A2900A,Biological Sciences,B.E,5.8,2
+2010A2901A,Mechanical Engineering,B.E,7.53,4
+2010H2902H,Biological Sciences,M.E,7.43,4
+2010S2903S,Electrical and Electronics Engineering,M.Sc,8.86,3
+2010A2904A,Electrical and Electronics Engineering,B.E,6.29,1
+2010S2905S,Mechanical Engineering,M.Sc,9.04,4
+2010D2906D,Mathematics,Ph.D,6.86,4
+2010H2907H,Physics,M.E,6.68,3
+2010H2908H,Chemical Engineering,M.E,8.93,4
+2010P2909P,Electrical and Electronics Engineering,B.Pharm,9.35,1
+2010A2910A,Chemisty,B.E,5.03,3
+2010S2911S,Civil Engineering,M.Sc,7.57,4
+2010H2912H,Electrical and Electronics Engineering,M.E,5.24,3
+2010A2913A,Biological Sciences,B.E,5.61,4
+2010A2914A,Humanities and Social Sciences,B.E,6.84,3
+2010A2915A,Computer Science and Information Systems,B.E,7.13,3
+2010S2916S,Biological Sciences,M.Sc,7.71,2
+2010H2917H,Computer Science and Information Systems,M.E,6.78,1
+2010H2918H,Humanities and Social Sciences,M.E,6.62,1
+2010A2919A,Mechanical Engineering,B.E,5.56,1
+2010S2920S,Mathematics,M.Sc,8.69,2
+2010A2921A,Chemisty,B.E,5.42,1
+2010P2922P,Chemisty,B.Pharm,8.63,4
+2010P2923P,Electrical and Electronics Engineering,B.Pharm,9.46,3
+2010P2924P,Humanities and Social Sciences,B.Pharm,8.44,2
+2010A2925A,Physics,B.E,9.1,4
+2010A2926A,Biological Sciences,B.E,5.38,3
+2010H2927H,Biological Sciences,M.E,5.73,1
+2010S2928S,Electrical and Electronics Engineering,M.Sc,7.56,1
+2010P2929P,Economics and Finanace,B.Pharm,9.64,3
+2010P2930P,Electrical and Electronics Engineering,B.Pharm,7.0,2
+2010A2931A,Physics,B.E,6.28,1
+2010A2932A,Electrical and Electronics Engineering,B.E,9.83,2
+2010A2933A,Mechanical Engineering,B.E,6.3,3
+2010H2934H,Mechanical Engineering,M.E,7.57,2
+2010A2935A,Physics,B.E,8.99,3
+2010D2936D,Mechanical Engineering,Ph.D,7.36,4
+2010A2937A,Computer Science and Information Systems,B.E,8.73,2
+2010P2938P,Computer Science and Information Systems,B.Pharm,7.51,1
+2010A2939A,Mechanical Engineering,B.E,6.99,2
+2010S2940S,Pharmacy,M.Sc,6.42,1
+2010H2941H,Electrical and Electronics Engineering,M.E,6.04,4
+2010A2942A,Pharmacy,B.E,5.65,3
+2010H2943H,Humanities and Social Sciences,M.E,8.0,3
+2010A2944A,Chemical Engineering,B.E,6.11,1
+2010D2945D,Physics,Ph.D,6.62,1
+2010A2946A,Mechanical Engineering,B.E,6.44,4
+2010A2947A,Mechanical Engineering,B.E,7.1,3
+2010A2948A,Mathematics,B.E,6.95,1
+2010H2949H,Economics and Finanace,M.E,6.7,3
+2010A2950A,Humanities and Social Sciences,B.E,5.76,4
+2010H2951H,Civil Engineering,M.E,7.66,2
+2010S2952S,Pharmacy,M.Sc,6.95,4
+2010H2953H,Biological Sciences,M.E,8.3,1
+2010A2954A,Pharmacy,B.E,7.43,3
+2010P2955P,Chemical Engineering,B.Pharm,6.04,3
+2010A2956A,Computer Science and Information Systems,B.E,6.46,3
+2010H2957H,Humanities and Social Sciences,M.E,8.37,1
+2010H2958H,Chemisty,M.E,8.12,2
+2010H2959H,Mechanical Engineering,M.E,6.76,4
+2010H2960H,Electrical and Electronics Engineering,M.E,9.98,1
+2010P2961P,Computer Science and Information Systems,B.Pharm,7.78,4
+2010A2962A,Civil Engineering,B.E,6.88,2
+2010P2963P,Electrical and Electronics Engineering,B.Pharm,8.04,1
+2010A2964A,Chemical Engineering,B.E,6.98,2
+2010D2965D,Chemical Engineering,Ph.D,7.85,2
+2010S2966S,Chemisty,M.Sc,8.83,4
+2010A2967A,Mathematics,B.E,7.04,2
+2010A2968A,Electrical and Electronics Engineering,B.E,9.5,3
+2010A2969A,Economics and Finanace,B.E,8.85,1
+2010H2970H,Pharmacy,M.E,9.42,3
+2010A2971A,Mathematics,B.E,7.68,4
+2010H2972H,Civil Engineering,M.E,9.3,4
+2010A2973A,Humanities and Social Sciences,B.E,6.43,4
+2010A2974A,Chemisty,B.E,9.62,2
+2010P2975P,Electrical and Electronics Engineering,B.Pharm,6.44,3
+2010H2976H,Humanities and Social Sciences,M.E,8.28,1
+2010A2977A,Electrical and Electronics Engineering,B.E,7.9,4
+2010H2978H,Electrical and Electronics Engineering,M.E,7.05,1
+2010P2979P,Mechanical Engineering,B.Pharm,6.12,1
+2010S2980S,Mechanical Engineering,M.Sc,7.85,4
+2010A2981A,Biological Sciences,B.E,6.63,2
+2010A2982A,Chemisty,B.E,7.85,4
+2010A2983A,Pharmacy,B.E,5.45,3
+2010H2984H,Biological Sciences,M.E,8.71,4
+2010A2985A,Mathematics,B.E,7.56,2
+2010A2986A,Chemisty,B.E,7.29,2
+2010A2987A,Chemisty,B.E,7.36,2
+2010A2988A,Economics and Finanace,B.E,5.66,1
+2010A2989A,Biological Sciences,B.E,6.04,4
+2010A2990A,Humanities and Social Sciences,B.E,6.23,4
+2010A2991A,Civil Engineering,B.E,8.98,4
+2010A2992A,Mathematics,B.E,8.21,3
+2010S2993S,Chemisty,M.Sc,6.22,1
+2010A2994A,Biological Sciences,B.E,8.74,4
+2010P2995P,Humanities and Social Sciences,B.Pharm,9.31,1
+2010S2996S,Electrical and Electronics Engineering,M.Sc,9.79,1
+2010H2997H,Physics,M.E,8.88,1
+2010P2998P,Humanities and Social Sciences,B.Pharm,7.4,1
+2010S2999S,Computer Science and Information Systems,M.Sc,9.06,1
+2010A3000A,Economics and Finanace,B.E,7.0,4
+2010P3001P,Electrical and Electronics Engineering,B.Pharm,8.94,1
+2010A3002A,Chemisty,B.E,9.24,1
+2010H3003H,Physics,M.E,5.84,4
+2010H3004H,Pharmacy,M.E,6.7,2
+2010A3005A,Humanities and Social Sciences,B.E,6.05,1
+2010P3006P,Economics and Finanace,B.Pharm,8.21,1
+2010S3007S,Humanities and Social Sciences,M.Sc,9.5,4
+2010H3008H,Civil Engineering,M.E,8.78,3
+2010P3009P,Computer Science and Information Systems,B.Pharm,8.45,3
+2010A3010A,Humanities and Social Sciences,B.E,8.5,3
+2010H3011H,Mechanical Engineering,M.E,5.18,2
+2010P3012P,Chemisty,B.Pharm,7.61,1
+2010P3013P,Civil Engineering,B.Pharm,9.4,3
+2010A3014A,Physics,B.E,6.46,2
+2010A3015A,Mechanical Engineering,B.E,8.17,4
+2010A3016A,Physics,B.E,7.2,3
+2010A3017A,Chemisty,B.E,8.72,2
+2010P3018P,Chemisty,B.Pharm,8.04,4
+2010A3019A,Computer Science and Information Systems,B.E,8.18,1
+2010H3020H,Civil Engineering,M.E,7.92,2
+2010A3021A,Mechanical Engineering,B.E,5.06,3
+2010S3022S,Physics,M.Sc,7.54,4
+2010P3023P,Humanities and Social Sciences,B.Pharm,8.09,2
+2010A3024A,Economics and Finanace,B.E,8.22,3
+2010H3025H,Mathematics,M.E,6.87,4
+2010P3026P,Pharmacy,B.Pharm,5.85,4
+2010H3027H,Chemisty,M.E,7.42,4
+2010A3028A,Biological Sciences,B.E,8.34,1
+2010D3029D,Economics and Finanace,Ph.D,6.12,2
+2010A3030A,Civil Engineering,B.E,5.75,1
+2010H3031H,Pharmacy,M.E,5.98,4
+2010P3032P,Humanities and Social Sciences,B.Pharm,7.85,1
+2010D3033D,Physics,Ph.D,9.23,2
+2010H3034H,Physics,M.E,6.01,1
+2010H3035H,Electrical and Electronics Engineering,M.E,8.13,3
+2010P3036P,Chemical Engineering,B.Pharm,6.36,1
+2010S3037S,Biological Sciences,M.Sc,7.23,2
+2010A3038A,Civil Engineering,B.E,6.28,2
+2010D3039D,Physics,Ph.D,9.68,2
+2010H3040H,Civil Engineering,M.E,8.45,4
+2010A3041A,Chemisty,B.E,5.2,3
+2010A3042A,Mathematics,B.E,6.39,2
+2010A3043A,Physics,B.E,9.15,1
+2010P3044P,Chemisty,B.Pharm,7.61,1
+2010A3045A,Civil Engineering,B.E,6.14,4
+2010A3046A,Humanities and Social Sciences,B.E,5.49,1
+2010A3047A,Economics and Finanace,B.E,8.95,1
+2010H3048H,Civil Engineering,M.E,7.39,4
+2010D3049D,Chemical Engineering,Ph.D,7.38,1
+2010D3050D,Mathematics,Ph.D,7.95,4
+2010H3051H,Computer Science and Information Systems,M.E,7.85,4
+2010A3052A,Chemical Engineering,B.E,8.6,4
+2010S3053S,Pharmacy,M.Sc,5.97,4
+2010A3054A,Biological Sciences,B.E,6.26,4
+2010A3055A,Mechanical Engineering,B.E,6.35,2
+2010A3056A,Economics and Finanace,B.E,7.54,3
+2010A3057A,Pharmacy,B.E,6.5,2
+2010H3058H,Economics and Finanace,M.E,6.38,3
+2010A3059A,Pharmacy,B.E,7.2,2
+2010P3060P,Humanities and Social Sciences,B.Pharm,5.03,4
+2010A3061A,Humanities and Social Sciences,B.E,5.82,1
+2010A3062A,Electrical and Electronics Engineering,B.E,8.36,1
+2010A3063A,Humanities and Social Sciences,B.E,6.71,2
+2010A3064A,Civil Engineering,B.E,8.89,2
+2010H3065H,Civil Engineering,M.E,6.54,3
+2010P3066P,Economics and Finanace,B.Pharm,8.83,4
+2010A3067A,Chemical Engineering,B.E,8.42,2
+2010A3068A,Mechanical Engineering,B.E,8.36,3
+2010S3069S,Chemisty,M.Sc,5.96,4
+2010S3070S,Chemisty,M.Sc,9.26,2
+2010A3071A,Economics and Finanace,B.E,9.78,4
+2010H3072H,Pharmacy,M.E,7.98,4
+2010H3073H,Physics,M.E,6.35,3
+2010A3074A,Humanities and Social Sciences,B.E,9.67,3
+2010H3075H,Economics and Finanace,M.E,5.72,3
+2010A3076A,Physics,B.E,6.77,3
+2010S3077S,Humanities and Social Sciences,M.Sc,6.54,4
+2010A3078A,Electrical and Electronics Engineering,B.E,5.03,4
+2010A3079A,Biological Sciences,B.E,9.84,3
+2010D3080D,Pharmacy,Ph.D,9.03,4
+2010H3081H,Computer Science and Information Systems,M.E,5.1,2
+2010A3082A,Civil Engineering,B.E,8.31,3
+2010H3083H,Computer Science and Information Systems,M.E,9.16,1
+2010A3084A,Economics and Finanace,B.E,7.14,4
+2010A3085A,Economics and Finanace,B.E,7.79,2
+2010A3086A,Civil Engineering,B.E,8.09,4
+2010A3087A,Computer Science and Information Systems,B.E,5.53,2
+2010A3088A,Chemisty,B.E,6.63,4
+2010A3089A,Physics,B.E,7.96,1
+2010A3090A,Pharmacy,B.E,6.95,4
+2010P3091P,Civil Engineering,B.Pharm,6.4,4
+2010P3092P,Biological Sciences,B.Pharm,5.51,3
+2010P3093P,Computer Science and Information Systems,B.Pharm,7.69,4
+2010H3094H,Computer Science and Information Systems,M.E,5.56,2
+2010P3095P,Chemical Engineering,B.Pharm,6.62,4
+2010D3096D,Chemisty,Ph.D,9.37,3
+2010S3097S,Mechanical Engineering,M.Sc,6.0,1
+2010A3098A,Humanities and Social Sciences,B.E,6.23,3
+2010A3099A,Mathematics,B.E,7.66,3
+2010A3100A,Physics,B.E,5.11,1
+2010A3101A,Physics,B.E,8.56,3
+2010A3102A,Economics and Finanace,B.E,9.53,4
+2010H3103H,Physics,M.E,9.42,2
+2010P3104P,Economics and Finanace,B.Pharm,7.34,4
+2010H3105H,Economics and Finanace,M.E,6.67,3
+2010A3106A,Computer Science and Information Systems,B.E,8.02,1
+2010H3107H,Chemisty,M.E,5.6,4
+2010H3108H,Electrical and Electronics Engineering,M.E,6.98,4
+2010A3109A,Biological Sciences,B.E,9.16,1
+2010A3110A,Mathematics,B.E,6.87,4
+2010A3111A,Biological Sciences,B.E,9.8,3
+2010A3112A,Mathematics,B.E,7.46,3
+2010A3113A,Pharmacy,B.E,5.34,1
+2010H3114H,Mechanical Engineering,M.E,5.46,1
+2010D3115D,Mathematics,Ph.D,5.79,1
+2010A3116A,Mechanical Engineering,B.E,9.61,2
+2010H3117H,Chemical Engineering,M.E,8.84,4
+2010H3118H,Computer Science and Information Systems,M.E,7.33,2
+2010P3119P,Pharmacy,B.Pharm,6.65,2
+2010A3120A,Pharmacy,B.E,7.88,4
+2010A3121A,Mathematics,B.E,8.91,4
+2010P3122P,Biological Sciences,B.Pharm,7.01,3
+2010H3123H,Biological Sciences,M.E,8.12,4
+2010S3124S,Biological Sciences,M.Sc,5.04,3
+2010P3125P,Electrical and Electronics Engineering,B.Pharm,5.75,2
+2010S3126S,Mechanical Engineering,M.Sc,8.37,3
+2010P3127P,Humanities and Social Sciences,B.Pharm,8.27,2
+2010D3128D,Mechanical Engineering,Ph.D,9.63,2
+2010H3129H,Civil Engineering,M.E,8.86,2
+2010P3130P,Computer Science and Information Systems,B.Pharm,5.91,1
+2010S3131S,Mathematics,M.Sc,8.01,1
+2010P3132P,Chemisty,B.Pharm,7.7,1
+2010A3133A,Economics and Finanace,B.E,9.35,2
+2010H3134H,Pharmacy,M.E,6.04,3
+2010A3135A,Chemisty,B.E,7.12,3
+2010H3136H,Civil Engineering,M.E,9.68,2
+2010A3137A,Economics and Finanace,B.E,5.14,4
+2010S3138S,Chemical Engineering,M.Sc,9.17,4
+2010A3139A,Biological Sciences,B.E,7.22,2
+2010A3140A,Electrical and Electronics Engineering,B.E,5.25,4
+2010A3141A,Electrical and Electronics Engineering,B.E,5.99,4
+2010A3142A,Mechanical Engineering,B.E,9.07,1
+2010A3143A,Chemisty,B.E,7.53,1
+2010A3144A,Chemisty,B.E,8.78,1
+2010A3145A,Humanities and Social Sciences,B.E,8.7,3
+2010A3146A,Physics,B.E,9.98,4
+2010H3147H,Civil Engineering,M.E,6.05,1
+2010P3148P,Economics and Finanace,B.Pharm,7.39,1
+2010S3149S,Humanities and Social Sciences,M.Sc,5.08,4
+2010P3150P,Electrical and Electronics Engineering,B.Pharm,7.0,1
+2010A3151A,Economics and Finanace,B.E,6.8,3
+2010P3152P,Chemical Engineering,B.Pharm,7.17,3
+2010A3153A,Civil Engineering,B.E,10.0,1
+2010H3154H,Pharmacy,M.E,8.22,4
+2010A3155A,Humanities and Social Sciences,B.E,5.08,3
+2010P3156P,Pharmacy,B.Pharm,9.49,1
+2010A3157A,Chemisty,B.E,9.24,2
+2010A3158A,Mechanical Engineering,B.E,5.05,2
+2010P3159P,Chemisty,B.Pharm,8.48,1
+2010A3160A,Biological Sciences,B.E,7.98,2
+2010A3161A,Physics,B.E,8.3,3
+2010A3162A,Mechanical Engineering,B.E,7.07,2
+2010P3163P,Electrical and Electronics Engineering,B.Pharm,5.86,2
+2010D3164D,Physics,Ph.D,9.05,2
+2010A3165A,Economics and Finanace,B.E,9.4,1
+2010P3166P,Chemisty,B.Pharm,5.15,2
+2010A3167A,Computer Science and Information Systems,B.E,7.02,3
+2010P3168P,Computer Science and Information Systems,B.Pharm,8.11,1
+2010A3169A,Biological Sciences,B.E,6.66,4
+2010H3170H,Biological Sciences,M.E,8.67,2
+2010H3171H,Electrical and Electronics Engineering,M.E,5.23,4
+2010P3172P,Mechanical Engineering,B.Pharm,8.61,2
+2010A3173A,Chemisty,B.E,5.5,3
+2010H3174H,Civil Engineering,M.E,5.46,1
+2010A3175A,Chemical Engineering,B.E,9.84,4
+2010A3176A,Electrical and Electronics Engineering,B.E,9.28,4
+2010H3177H,Chemisty,M.E,9.28,1
+2010H3178H,Computer Science and Information Systems,M.E,7.38,3
+2010A3179A,Chemisty,B.E,6.61,3
+2010S3180S,Mechanical Engineering,M.Sc,8.34,1
+2010S3181S,Humanities and Social Sciences,M.Sc,7.46,2
+2010H3182H,Chemisty,M.E,6.1,2
+2010A3183A,Chemisty,B.E,6.13,1
+2010H3184H,Physics,M.E,5.47,4
+2010H3185H,Computer Science and Information Systems,M.E,9.43,1
+2010P3186P,Civil Engineering,B.Pharm,6.13,2
+2010H3187H,Physics,M.E,8.3,3
+2010H3188H,Physics,M.E,9.87,3
+2010A3189A,Chemisty,B.E,6.64,3
+2010A3190A,Pharmacy,B.E,5.73,1
+2010A3191A,Physics,B.E,9.53,4
+2010A3192A,Pharmacy,B.E,5.24,2
+2010A3193A,Chemisty,B.E,5.07,1
+2010S3194S,Civil Engineering,M.Sc,5.81,3
+2010S3195S,Biological Sciences,M.Sc,7.86,4
+2010D3196D,Economics and Finanace,Ph.D,5.94,4
+2010A3197A,Humanities and Social Sciences,B.E,9.96,4
+2010A3198A,Mechanical Engineering,B.E,6.31,4
+2010A3199A,Chemical Engineering,B.E,8.72,3
+2010A3200A,Economics and Finanace,B.E,9.98,2
+2010H3201H,Computer Science and Information Systems,M.E,6.7,4
+2010A3202A,Mathematics,B.E,7.28,1
+2010H3203H,Pharmacy,M.E,9.28,3
+2010A3204A,Chemical Engineering,B.E,8.91,4
+2010A3205A,Pharmacy,B.E,5.13,2
+2010A3206A,Chemical Engineering,B.E,6.14,4
+2010H3207H,Chemical Engineering,M.E,5.6,3
+2010H3208H,Chemisty,M.E,9.37,3
+2010H3209H,Humanities and Social Sciences,M.E,7.18,1
+2010H3210H,Mathematics,M.E,5.91,2
+2010A3211A,Chemisty,B.E,9.2,2
+2010A3212A,Biological Sciences,B.E,5.99,3
+2010S3213S,Mathematics,M.Sc,8.0,2
+2010A3214A,Mechanical Engineering,B.E,9.3,1
+2010A3215A,Mathematics,B.E,6.81,2
+2010A3216A,Physics,B.E,9.74,2
+2010D3217D,Economics and Finanace,Ph.D,5.79,2
+2010A3218A,Pharmacy,B.E,8.17,2
+2010A3219A,Physics,B.E,5.76,4
+2010P3220P,Civil Engineering,B.Pharm,6.39,4
+2010P3221P,Computer Science and Information Systems,B.Pharm,6.95,4
+2010A3222A,Humanities and Social Sciences,B.E,7.34,2
+2010H3223H,Physics,M.E,9.69,1
+2010A3224A,Chemical Engineering,B.E,6.26,3
+2010P3225P,Civil Engineering,B.Pharm,9.62,1
+2010P3226P,Biological Sciences,B.Pharm,8.78,2
+2010S3227S,Chemisty,M.Sc,7.4,2
+2010P3228P,Civil Engineering,B.Pharm,6.96,2
+2010S3229S,Pharmacy,M.Sc,7.1,2
+2010P3230P,Civil Engineering,B.Pharm,9.17,1
+2010A3231A,Civil Engineering,B.E,9.82,3
+2010H3232H,Chemisty,M.E,9.46,1
+2010A3233A,Physics,B.E,8.7,2
+2010P3234P,Civil Engineering,B.Pharm,7.22,3
+2010A3235A,Economics and Finanace,B.E,5.05,1
+2010A3236A,Mathematics,B.E,6.56,1
+2010P3237P,Pharmacy,B.Pharm,7.99,2
+2010A3238A,Pharmacy,B.E,7.19,1
+2010H3239H,Mathematics,M.E,8.71,4
+2010A3240A,Chemisty,B.E,5.35,3
+2010A3241A,Computer Science and Information Systems,B.E,9.75,1
+2010S3242S,Electrical and Electronics Engineering,M.Sc,9.19,3
+2010H3243H,Chemical Engineering,M.E,8.13,4
+2010H3244H,Mechanical Engineering,M.E,5.84,4
+2010H3245H,Computer Science and Information Systems,M.E,6.12,1
+2010S3246S,Chemical Engineering,M.Sc,9.99,3
+2010P3247P,Civil Engineering,B.Pharm,9.35,4
+2010S3248S,Physics,M.Sc,9.82,4
+2010A3249A,Biological Sciences,B.E,8.19,3
+2010H3250H,Physics,M.E,8.66,3
+2010A3251A,Pharmacy,B.E,7.54,4
+2010P3252P,Pharmacy,B.Pharm,9.18,3
+2010A3253A,Chemical Engineering,B.E,5.06,4
+2010A3254A,Civil Engineering,B.E,7.93,2
+2010H3255H,Mechanical Engineering,M.E,7.17,3
+2010A3256A,Chemical Engineering,B.E,9.99,4
+2010A3257A,Mathematics,B.E,8.03,4
+2010A3258A,Mechanical Engineering,B.E,7.59,4
+2010H3259H,Biological Sciences,M.E,8.01,1
+2010A3260A,Mechanical Engineering,B.E,5.47,2

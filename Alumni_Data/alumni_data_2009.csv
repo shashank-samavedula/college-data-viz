@@ -1,0 +1,808 @@
+Student ID,Course,Degree,CGPA,Year,Placement
+2009P0004P,Computer Science and Information Systems,B.Pharm,5.29,4,Intel
+2009H0008H,Civil Engineering,M.E,7.88,4,"Daelim Industrial Co., Ltd."
+2009H0013H,Mechanical Engineering,M.E,9.74,4,ABB
+2009A0014A,Mathematics,B.E,6.55,4,Pharmo Solutions
+2009A0016A,Mechanical Engineering,B.E,6.09,4,General Electric (GE)
+2009A0022A,Chemical Engineering,B.E,6.87,4,Occidental Petroleum Corporation (OxyChem)
+2009A0025A,Physics,B.E,9.74,4,STMicroelectronics
+2009H0030H,Physics,M.E,9.74,4,MathWorks
+2009D0040D,Biological Sciences,Ph.D,6.93,4,Wockhardt
+2009A0041A,Chemisty,B.E,9.42,4,Unplaced
+2009A0042A,Electrical and Electronics Engineering,B.E,6.76,4,Xilinx
+2009P0049P,Economics and Finanace,B.Pharm,7.97,4,Unplaced
+2009A0055A,Chemical Engineering,B.E,5.25,4,Wood Group
+2009H0057H,Electrical and Electronics Engineering,M.E,5.44,4,Renesas Electronics
+2009A0062A,Chemical Engineering,B.E,8.21,4,Procter & Gamble
+2009A0063A,Chemisty,B.E,6.86,4,Dow
+2009S0068S,Chemical Engineering,M.Sc,8.34,4,Chevron
+2009A0070A,Electrical and Electronics Engineering,B.E,9.09,4,NEC Corporation
+2009A0071A,Mathematics,B.E,8.44,4,Pharmo Solutions
+2009D0072D,Mechanical Engineering,Ph.D,9.41,4,Lime
+2009H0075H,Chemical Engineering,M.E,9.75,4,Praxair
+2009A0078A,Biological Sciences,B.E,7.12,4,Aragen
+2009A0081A,Chemical Engineering,B.E,6.94,4,LyondellBasell
+2009P0084P,Mechanical Engineering,B.Pharm,7.94,4,Lockheed Martin
+2009S0089S,Electrical and Electronics Engineering,M.Sc,6.32,4,STMicroelectronics
+2009A0092A,Mechanical Engineering,B.E,8.04,4,Procter & Gamble
+2009A0094A,Physics,B.E,6.19,4,onsemi
+2009H0097H,Computer Science and Information Systems,M.E,6.4,4,Western Digital
+2009H0099H,Chemisty,M.E,6.5,4,Unplaced
+2009A0100A,Economics and Finanace,B.E,6.35,4,Fitch Ratings
+2009A0102A,Humanities and Social Sciences,B.E,6.06,4,Flipkart
+2009H0105H,Chemical Engineering,M.E,6.56,4,Unplaced
+2009A0108A,Biological Sciences,B.E,6.25,4,Unplaced
+2009A0110A,Computer Science and Information Systems,B.E,6.84,4,Piramal
+2009P0116P,Chemical Engineering,B.Pharm,6.43,4,Unplaced
+2009P0123P,Pharmacy,B.Pharm,6.38,4,Biocon
+2009A0125A,Humanities and Social Sciences,B.E,6.51,4,Aditya Birla Group
+2009H0128H,Computer Science and Information Systems,M.E,8.42,4,Teradata
+2009A0133A,Biological Sciences,B.E,9.03,4,Unplaced
+2009H0135H,Physics,M.E,5.13,4,MICROCHIP
+2009P0136P,Computer Science and Information Systems,B.Pharm,6.3,4,Samsung
+2009H0140H,Pharmacy,M.E,7.67,4,Unplaced
+2009A0149A,Humanities and Social Sciences,B.E,9.26,4,Cognizant
+2009A0155A,Electrical and Electronics Engineering,B.E,9.94,4,onsemi
+2009A0160A,Mechanical Engineering,B.E,8.82,4,TATA
+2009D0161D,Chemical Engineering,Ph.D,5.65,4,LyondellBasell
+2009P0162P,Pharmacy,B.Pharm,7.15,4,Biocon
+2009A0168A,Computer Science and Information Systems,B.E,5.64,4,Texas Instruments
+2009H0173H,Economics and Finanace,M.E,9.98,4,Capital IQ
+2009S0182S,Biological Sciences,M.Sc,8.45,4,AstraZeneca
+2009H0194H,Chemisty,M.E,5.2,4,Aizant
+2009A0195A,Civil Engineering,B.E,8.44,4,Orascom Construction
+2009P0210P,Chemisty,B.Pharm,5.57,4,SABIC
+2009H0211H,Humanities and Social Sciences,M.E,6.36,4,Hindustan Unilever Limited (HUL)
+2009A0212A,Physics,B.E,9.25,4,Panasonic
+2009A0215A,Chemisty,B.E,5.52,4,Sun Pharmaceutical Industries
+2009A0225A,Humanities and Social Sciences,B.E,6.73,4,ITC Limited
+2009H0228H,Mathematics,M.E,9.24,4,Trilogy
+2009A0229A,Chemisty,B.E,5.37,4,Unplaced
+2009P0231P,Biological Sciences,B.Pharm,7.53,4,GSK Pharmaceuticals
+2009H0233H,Humanities and Social Sciences,M.E,7.22,4,Capgemini
+2009A0234A,Chemical Engineering,B.E,9.28,4,Baker Hughes
+2009A0235A,Economics and Finanace,B.E,5.59,4,Accenture
+2009S0239S,Mathematics,M.Sc,7.81,4,Intel
+2009D0242D,Mathematics,Ph.D,8.84,4,Flipkart
+2009A0243A,Physics,B.E,8.29,4,Unplaced
+2009P0247P,Chemisty,B.Pharm,7.46,4,FRESENIUS
+2009S0249S,Civil Engineering,M.Sc,5.6,4,Unplaced
+2009H0251H,Physics,M.E,6.69,4,Intel
+2009A0255A,Mathematics,B.E,9.68,4,Google
+2009A0259A,Mathematics,B.E,9.41,4,Trilogy
+2009A0270A,Economics and Finanace,B.E,7.81,4,BlackRock
+2009H0280H,Physics,M.E,8.24,4,STMicroelectronics
+2009A0282A,Physics,B.E,8.32,4,Tenstorrent
+2009H0285H,Civil Engineering,M.E,8.1,4,Orascom Construction
+2009A0301A,Electrical and Electronics Engineering,B.E,7.72,4,Altera
+2009A0304A,Computer Science and Information Systems,B.E,6.09,4,PEGA
+2009D0311D,Mathematics,Ph.D,9.01,4,Google
+2009P0317P,Civil Engineering,B.Pharm,7.69,4,Unplaced
+2009A0323A,Computer Science and Information Systems,B.E,7.04,4,Samsung
+2009A0330A,Mechanical Engineering,B.E,5.43,4,Unplaced
+2009A0336A,Chemical Engineering,B.E,5.21,4,Dow
+2009A0344A,Chemical Engineering,B.E,5.99,4,Unplaced
+2009A0347A,Civil Engineering,B.E,6.59,4,Unplaced
+2009D0360D,Mathematics,Ph.D,8.16,4,Unplaced
+2009H0362H,Mathematics,M.E,6.3,4,Mediatek
+2009A0371A,Biological Sciences,B.E,6.09,4,Unplaced
+2009H0375H,Electrical and Electronics Engineering,M.E,7.35,4,Unplaced
+2009A0384A,Mathematics,B.E,9.41,4,Teradata
+2009A0389A,Physics,B.E,5.57,4,Infineon
+2009A0395A,Computer Science and Information Systems,B.E,9.61,4,Trilogy
+2009D0398D,Civil Engineering,Ph.D,7.25,4,Unplaced
+2009A0399A,Humanities and Social Sciences,B.E,5.85,4,Cognizant
+2009A0405A,Chemical Engineering,B.E,5.08,4,Monsanto
+2009H0410H,Pharmacy,M.E,8.25,4,Dr. Reddys Laboratories
+2009A0411A,Economics and Finanace,B.E,9.37,4,Unplaced
+2009A0412A,Civil Engineering,B.E,9.69,4,Unplaced
+2009H0414H,Electrical and Electronics Engineering,M.E,5.67,4,ON Semiconductor
+2009A0416A,Computer Science and Information Systems,B.E,7.99,4,Unplaced
+2009H0422H,Computer Science and Information Systems,M.E,9.27,4,Unplaced
+2009A0425A,Electrical and Electronics Engineering,B.E,7.76,4,INSTRUMENTS
+2009A0426A,Chemisty,B.E,6.85,4,Linde
+2009A0431A,Chemical Engineering,B.E,6.07,4,Unplaced
+2009A0434A,Chemical Engineering,B.E,9.12,4,LyondellBasell
+2009A0437A,Mechanical Engineering,B.E,5.19,4,Ford Motor Company
+2009S0440S,Chemisty,M.Sc,8.2,4,Unplaced
+2009D0446D,Electrical and Electronics Engineering,Ph.D,6.77,4,Unplaced
+2009A0457A,Physics,B.E,7.21,4,Infineon
+2009A0459A,Economics and Finanace,B.E,9.81,4,Unplaced
+2009S0474S,Chemical Engineering,M.Sc,9.6,4,AkzoNobel
+2009H0480H,Biological Sciences,M.E,7.63,4,Cadila Healthcare
+2009A0483A,Humanities and Social Sciences,B.E,9.88,4,Hindustan Unilever Limited (HUL)
+2009P0489P,Economics and Finanace,B.Pharm,5.92,4,Unplaced
+2009D0495D,Mathematics,Ph.D,7.16,4,BLEND360
+2009A0508A,Computer Science and Information Systems,B.E,6.78,4,Mashreq
+2009H0510H,Electrical and Electronics Engineering,M.E,8.07,4,CISCO
+2009P0513P,Electrical and Electronics Engineering,B.Pharm,8.16,4,SynOPSYS
+2009A0516A,Physics,B.E,6.34,4,NXP Semiconductors
+2009D0518D,Physics,Ph.D,7.93,4,Unplaced
+2009A0523A,Chemical Engineering,B.E,5.32,4,Merck
+2009D0524D,Mathematics,Ph.D,5.27,4,Mediatek
+2009P0527P,Chemical Engineering,B.Pharm,8.27,4,Merck
+2009H0534H,Mechanical Engineering,M.E,7.99,4,DOVER
+2009A0541A,Physics,B.E,9.61,4,Unplaced
+2009S0542S,Computer Science and Information Systems,M.Sc,5.05,4,Unplaced
+2009H0544H,Mathematics,M.E,6.87,4,Teradata
+2009A0546A,Chemisty,B.E,8.57,4,Dow
+2009P0552P,Pharmacy,B.Pharm,7.28,4,Alkem Laboratories
+2009A0553A,Computer Science and Information Systems,B.E,8.5,4,VISA
+2009A0557A,Computer Science and Information Systems,B.E,5.63,4,Western Digital
+2009A0560A,Economics and Finanace,B.E,7.1,4,Unplaced
+2009P0563P,Biological Sciences,B.Pharm,6.33,4,SII
+2009D0567D,Physics,Ph.D,6.24,4,Unplaced
+2009A0580A,Biological Sciences,B.E,9.84,4,Unplaced
+2009A0582A,Chemical Engineering,B.E,6.24,4,Syngenta
+2009D0590D,Computer Science and Information Systems,Ph.D,9.49,4,Teradata
+2009P0591P,Humanities and Social Sciences,B.Pharm,7.8,4,Wipro
+2009A0595A,Chemical Engineering,B.E,7.66,4,Chevron
+2009A0597A,Humanities and Social Sciences,B.E,5.0,4,Unplaced
+2009H0600H,Economics and Finanace,M.E,8.61,4,Citi
+2009H0601H,Civil Engineering,M.E,7.62,4,Unplaced
+2009A0608A,Biological Sciences,B.E,7.86,4,Zydus Cadila
+2009S0614S,Economics and Finanace,M.Sc,7.79,4,Unplaced
+2009A0619A,Chemical Engineering,B.E,8.63,4,Procter & Gamble
+2009A0622A,Mathematics,B.E,8.75,4,Unplaced
+2009P0624P,Pharmacy,B.Pharm,7.29,4,AstraZeneca
+2009A0627A,Pharmacy,B.E,5.79,4,Strand
+2009H0629H,Economics and Finanace,M.E,7.06,4,Deloitte
+2009A0631A,Mechanical Engineering,B.E,7.73,4,FORVIA
+2009A0633A,Economics and Finanace,B.E,9.81,4,KPMG
+2009A0642A,Computer Science and Information Systems,B.E,5.46,4,VMware
+2009D0647D,Physics,Ph.D,9.04,4,Dolcera
+2009P0649P,Economics and Finanace,B.Pharm,9.4,4,Genpact
+2009A0652A,Pharmacy,B.E,8.89,4,Unplaced
+2009A0656A,Chemisty,B.E,5.25,4,Unplaced
+2009A0658A,Civil Engineering,B.E,7.16,4,AECOM
+2009D0666D,Civil Engineering,Ph.D,5.36,4,ARCADIS
+2009A0668A,Chemical Engineering,B.E,8.36,4,3M
+2009H0672H,Mechanical Engineering,M.E,9.11,4,Unplaced
+2009A0690A,Chemical Engineering,B.E,5.1,4,ExxonMobil
+2009A0693A,Chemisty,B.E,5.99,4,BASF
+2009S0700S,Pharmacy,M.Sc,6.29,4,AstraZeneca
+2009A0702A,Civil Engineering,B.E,5.76,4,"Daelim Industrial Co., Ltd."
+2009A0703A,Pharmacy,B.E,5.69,4,Torrent Pharmaceuticals
+2009A0721A,Economics and Finanace,B.E,5.4,4,Fitch Ratings
+2009A0722A,Chemisty,B.E,7.51,4,Elucidata
+2009A0729A,Civil Engineering,B.E,5.33,4,"Daelim Industrial Co., Ltd."
+2009H0731H,Humanities and Social Sciences,M.E,9.44,4,Unplaced
+2009H0732H,Electrical and Electronics Engineering,M.E,8.88,4,MathWorks
+2009A0734A,Mathematics,B.E,5.55,4,Intel
+2009P0738P,Civil Engineering,B.Pharm,6.46,4,Mott MacDonald
+2009A0742A,Humanities and Social Sciences,B.E,9.15,4,American Express
+2009A0745A,Electrical and Electronics Engineering,B.E,7.07,4,Unplaced
+2009H0751H,Chemical Engineering,M.E,7.62,4,GSK
+2009A0757A,Computer Science and Information Systems,B.E,8.65,4,Amazon
+2009P0761P,Humanities and Social Sciences,B.Pharm,7.49,4,McKinsey & Company
+2009A0762A,Mathematics,B.E,9.04,4,Flipkart
+2009A0763A,Civil Engineering,B.E,6.08,4,J. Murphy & Sons
+2009D0775D,Economics and Finanace,Ph.D,6.84,4,Unplaced
+2009H0785H,Chemisty,M.E,8.07,4,Dow
+2009H0790H,Physics,M.E,9.24,4,Dolcera
+2009H0799H,Pharmacy,M.E,7.4,4,freyr
+2009A0800A,Biological Sciences,B.E,8.23,4,Novartis
+2009A0802A,Humanities and Social Sciences,B.E,8.92,4,Accenture
+2009A0808A,Biological Sciences,B.E,6.7,4,Unplaced
+2009A0813A,Computer Science and Information Systems,B.E,7.07,4,Western Digital
+2009P0817P,Civil Engineering,B.Pharm,9.57,4,Unplaced
+2009A0818A,Mathematics,B.E,5.12,4,Intel
+2009A0823A,Civil Engineering,B.E,8.62,4,ARCADIS
+2009A0832A,Mathematics,B.E,6.6,4,Unplaced
+2009S0843S,Electrical and Electronics Engineering,M.Sc,6.96,4,LG Electronics
+2009H0848H,Pharmacy,M.E,8.22,4,Ipca Laboratories
+2009A0858A,Computer Science and Information Systems,B.E,7.66,4,Teradata
+2009A0860A,Mathematics,B.E,5.8,4,Unplaced
+2009A0862A,Physics,B.E,7.95,4,Unplaced
+2009A0865A,Physics,B.E,9.65,4,INSTRUMENTS
+2009H0866H,Chemical Engineering,M.E,7.96,4,Unplaced
+2009A0867A,Economics and Finanace,B.E,7.78,4,Morningstar
+2009A0868A,Chemisty,B.E,6.54,4,Biocon Biologics
+2009A0869A,Chemical Engineering,B.E,7.99,4,3M
+2009H0873H,Chemisty,M.E,8.3,4,Unplaced
+2009A0874A,Mathematics,B.E,6.46,4,Teradata
+2009A0878A,Chemical Engineering,B.E,7.91,4,ADM (Archer Daniels Midland)
+2009A0883A,Civil Engineering,B.E,7.16,4,Greenko Jacobs
+2009A0884A,Pharmacy,B.E,6.59,4,kmk
+2009P0890P,Chemisty,B.Pharm,8.61,4,DuPont
+2009A0892A,Chemical Engineering,B.E,5.69,4,DuPont
+2009A0893A,Humanities and Social Sciences,B.E,9.47,4,Boston Consulting Group (BCG)
+2009H0894H,Mechanical Engineering,M.E,5.9,4,Caterpillar Inc.
+2009H0898H,Physics,M.E,7.51,4,Tenstorrent
+2009A0907A,Mathematics,B.E,8.89,4,Intel
+2009D0908D,Humanities and Social Sciences,Ph.D,7.56,4,Amazon
+2009A0909A,Mechanical Engineering,B.E,8.67,4,Shell
+2009A0920A,Mechanical Engineering,B.E,8.69,4,Unplaced
+2009A0925A,Humanities and Social Sciences,B.E,8.76,4,WNS Global Services
+2009A0926A,Electrical and Electronics Engineering,B.E,6.19,4,Unplaced
+2009D0930D,Biological Sciences,Ph.D,5.84,4,Aragen
+2009D0932D,Electrical and Electronics Engineering,Ph.D,8.42,4,proteanTecs
+2009A0933A,Humanities and Social Sciences,B.E,6.31,4,Unplaced
+2009A0934A,Biological Sciences,B.E,6.44,4,Wockhardt
+2009D0939D,Computer Science and Information Systems,Ph.D,8.27,4,Texas Instruments
+2009A0945A,Mathematics,B.E,5.52,4,Google
+2009P0957P,Computer Science and Information Systems,B.Pharm,8.89,4,Qualcomm
+2009A0960A,Chemisty,B.E,7.2,4,ExxonMobil
+2009A0964A,Mechanical Engineering,B.E,8.22,4,FORVIA
+2009P0967P,Humanities and Social Sciences,B.Pharm,5.09,4,Unplaced
+2009A0970A,Chemisty,B.E,8.5,4,ExxonMobil
+2009S0971S,Mechanical Engineering,M.Sc,5.02,4,TATA
+2009S0973S,Mathematics,M.Sc,6.13,4,Teradata
+2009A0974A,Physics,B.E,9.09,4,Texas Instruments
+2009H0976H,Economics and Finanace,M.E,8.41,4,Citi
+2009A0983A,Pharmacy,B.E,8.44,4,Cipla
+2009H0984H,Chemical Engineering,M.E,9.43,4,Monsanto
+2009A0988A,Humanities and Social Sciences,B.E,7.67,4,Tata Consultancy Services (TCS)
+2009S0991S,Electrical and Electronics Engineering,M.Sc,5.59,4,IBM
+2009D0994D,Biological Sciences,Ph.D,8.68,4,GSK Pharmaceuticals
+2009A1001A,Chemical Engineering,B.E,9.02,4,Bayer
+2009A1002A,Economics and Finanace,B.E,9.06,4,Capital IQ
+2009P1014P,Electrical and Electronics Engineering,B.Pharm,8.47,4,NXP Semiconductors
+2009D1018D,Mechanical Engineering,Ph.D,5.9,4,Lockheed Martin
+2009A1025A,Chemisty,B.E,8.43,4,kmk
+2009H1029H,Mechanical Engineering,M.E,9.03,4,Unplaced
+2009H1036H,Civil Engineering,M.E,5.49,4,"Daelim Industrial Co., Ltd."
+2009P1038P,Chemical Engineering,B.Pharm,7.35,4,Solvay
+2009A1040A,Civil Engineering,B.E,9.64,4,Unplaced
+2009A1045A,Computer Science and Information Systems,B.E,5.68,4,GE HealthCare
+2009H1050H,Chemical Engineering,M.E,7.06,4,Eastman Chemical Company
+2009S1051S,Civil Engineering,M.Sc,7.96,4,RAMBOLL
+2009H1052H,Computer Science and Information Systems,M.E,5.07,4,VISA
+2009A1058A,Electrical and Electronics Engineering,B.E,7.66,4,Siemens
+2009A1059A,Physics,B.E,9.11,4,AMDET
+2009A1069A,Mathematics,B.E,5.16,4,Unplaced
+2009A1078A,Mathematics,B.E,5.57,4,Unplaced
+2009H1081H,Economics and Finanace,M.E,9.49,4,EY (Ernst & Young)
+2009P1086P,Civil Engineering,B.Pharm,9.46,4,Mott MacDonald
+2009A1093A,Humanities and Social Sciences,B.E,6.73,4,Accenture
+2009D1096D,Mathematics,Ph.D,8.22,4,Intel
+2009A1098A,Humanities and Social Sciences,B.E,7.97,4,Infosys
+2009A1107A,Economics and Finanace,B.E,7.87,4,Thomson Reuters
+2009A1110A,Economics and Finanace,B.E,5.74,4,Bain & Company
+2009A1112A,Biological Sciences,B.E,7.02,4,КАВІ
+2009A1115A,Pharmacy,B.E,8.53,4,Strand
+2009H1117H,Mechanical Engineering,M.E,8.64,4,ABB
+2009A1118A,Economics and Finanace,B.E,8.45,4,FactSet
+2009S1124S,Civil Engineering,M.Sc,5.11,4,ARCADIS
+2009D1126D,Mathematics,Ph.D,6.97,4,Amazon
+2009A1131A,Economics and Finanace,B.E,6.76,4,Morningstar
+2009S1132S,Mathematics,M.Sc,5.44,4,BLEND360
+2009H1133H,Physics,M.E,9.96,4,Tenstorrent
+2009A1134A,Computer Science and Information Systems,B.E,5.82,4,Texas Instruments
+2009A1138A,Chemical Engineering,B.E,9.67,4,Wood Group
+2009A1140A,Electrical and Electronics Engineering,B.E,5.87,4,NEC Corporation
+2009A1142A,Civil Engineering,B.E,5.93,4,Unplaced
+2009A1145A,Humanities and Social Sciences,B.E,7.8,4,Cognizant
+2009A1147A,Chemisty,B.E,6.31,4,kmk
+2009P1152P,Mechanical Engineering,B.Pharm,8.73,4,Boeing
+2009H1168H,Economics and Finanace,M.E,8.89,4,Moodys Investors Service
+2009A1180A,Chemisty,B.E,9.91,4,Unplaced
+2009A1182A,Chemical Engineering,B.E,5.09,4,ADM (Archer Daniels Midland)
+2009A1198A,Mathematics,B.E,9.26,4,Unplaced
+2009D1201D,Chemisty,Ph.D,9.17,4,Unplaced
+2009A1207A,Economics and Finanace,B.E,7.47,4,Standard Chartered
+2009A1209A,Pharmacy,B.E,9.88,4,Abbott Laboratories
+2009A1213A,Chemisty,B.E,5.06,4,Linde
+2009A1214A,Pharmacy,B.E,5.53,4,Alkem Laboratories
+2009A1216A,Chemical Engineering,B.E,5.72,4,Monsanto
+2009H1220H,Economics and Finanace,M.E,6.0,4,UBS
+2009A1221A,Chemical Engineering,B.E,6.16,4,Unplaced
+2009A1224A,Humanities and Social Sciences,B.E,8.33,4,Wipro
+2009A1232A,Chemical Engineering,B.E,8.31,4,Baker Hughes
+2009A1233A,Humanities and Social Sciences,B.E,6.01,4,Boston Consulting Group (BCG)
+2009A1237A,Electrical and Electronics Engineering,B.E,7.25,4,Unplaced
+2009A1240A,Physics,B.E,5.82,4,Tenstorrent
+2009H1241H,Chemisty,M.E,6.56,4,Cipla
+2009D1242D,Humanities and Social Sciences,Ph.D,8.82,4,Flipkart
+2009A1243A,Pharmacy,B.E,7.77,4,kmk
+2009A1246A,Humanities and Social Sciences,B.E,7.96,4,Capgemini
+2009A1257A,Mathematics,B.E,6.63,4,BLEND360
+2009A1258A,Pharmacy,B.E,9.32,4,Abbott Laboratories
+2009A1259A,Computer Science and Information Systems,B.E,5.1,4,Tenstorrent
+2009S1262S,Mechanical Engineering,M.Sc,5.49,4,Procter & Gamble
+2009A1268A,Biological Sciences,B.E,6.49,4,Wockhardt
+2009A1272A,Mechanical Engineering,B.E,9.01,4,TATA
+2009H1279H,Mechanical Engineering,M.E,7.5,4,Lockheed Martin
+2009A1280A,Computer Science and Information Systems,B.E,9.69,4,VISA
+2009A1282A,Mathematics,B.E,6.0,4,Unplaced
+2009A1285A,Pharmacy,B.E,6.02,4,Zydus Cadila
+2009S1290S,Humanities and Social Sciences,M.Sc,7.43,4,EY (Ernst & Young)
+2009A1304A,Economics and Finanace,B.E,9.16,4,MSCI
+2009A1305A,Physics,B.E,8.72,4,Panasonic
+2009H1307H,Civil Engineering,M.E,9.85,4,ARUP
+2009P1310P,Economics and Finanace,B.Pharm,7.73,4,Fitch Ratings
+2009S1319S,Humanities and Social Sciences,M.Sc,6.94,4,State Bank of India (SBI)
+2009A1322A,Humanities and Social Sciences,B.E,8.16,4,Unplaced
+2009A1324A,Humanities and Social Sciences,B.E,7.36,4,Infosys
+2009H1329H,Pharmacy,M.E,8.21,4,Aurobindo Pharma
+2009D1330D,Pharmacy,Ph.D,5.68,4,SII
+2009A1337A,Computer Science and Information Systems,B.E,5.99,4,Unplaced
+2009A1338A,Economics and Finanace,B.E,5.91,4,Barclays
+2009H1343H,Biological Sciences,M.E,7.01,4,Pfizer
+2009A1346A,Biological Sciences,B.E,8.59,4,Pfizer
+2009A1347A,Humanities and Social Sciences,B.E,9.14,4,Cognizant
+2009A1350A,Computer Science and Information Systems,B.E,8.73,4,VISA
+2009H1353H,Physics,M.E,8.39,4,A Lam
+2009S1357S,Economics and Finanace,M.Sc,7.91,4,Citi
+2009D1359D,Economics and Finanace,Ph.D,9.87,4,BlackRock
+2009A1360A,Pharmacy,B.E,6.06,4,Unplaced
+2009H1365H,Biological Sciences,M.E,6.27,4,Biocon
+2009H1374H,Physics,M.E,6.8,4,SILICON LABS
+2009A1378A,Economics and Finanace,B.E,8.68,4,Citi
+2009A1379A,Chemisty,B.E,7.78,4,kmk
+2009H1381H,Civil Engineering,M.E,5.92,4,LISEN A TOLERO
+2009A1382A,Computer Science and Information Systems,B.E,5.82,4,Intel
+2009A1383A,Electrical and Electronics Engineering,B.E,5.58,4,proteanTecs
+2009A1384A,Biological Sciences,B.E,7.21,4,Novartis
+2009A1397A,Humanities and Social Sciences,B.E,9.15,4,Unplaced
+2009A1400A,Biological Sciences,B.E,8.28,4,Alkem Laboratories
+2009A1404A,Mathematics,B.E,9.76,4,Intel
+2009A1406A,Civil Engineering,B.E,9.83,4,Balfour Beatty
+2009P1408P,Chemisty,B.Pharm,6.94,4,Procter & Gamble
+2009A1410A,Chemical Engineering,B.E,6.49,4,Monsanto
+2009A1413A,Mathematics,B.E,6.0,4,Mediatek
+2009A1414A,Electrical and Electronics Engineering,B.E,7.38,4,Unplaced
+2009S1416S,Mechanical Engineering,M.Sc,5.93,4,Johnson Controls
+2009A1425A,Mathematics,B.E,5.54,4,Intel
+2009A1428A,Mathematics,B.E,5.08,4,Teradata
+2009D1429D,Chemisty,Ph.D,8.93,4,Shell
+2009A1431A,Economics and Finanace,B.E,7.94,4,Capital IQ
+2009A1437A,Chemisty,B.E,8.28,4,Linde
+2009A1438A,Physics,B.E,7.03,4,MEDIATEK
+2009A1440A,Physics,B.E,8.37,4,Qualcomm
+2009P1446P,Chemical Engineering,B.Pharm,6.5,4,INEOS
+2009A1449A,Physics,B.E,8.51,4,MICROCHIP
+2009A1450A,Humanities and Social Sciences,B.E,5.1,4,Wipro
+2009H1452H,Mechanical Engineering,M.E,9.15,4,ANAND
+2009H1454H,Pharmacy,M.E,9.24,4,Biocon Biologics
+2009H1456H,Biological Sciences,M.E,7.44,4,Pfizer
+2009A1457A,Mathematics,B.E,7.96,4,Flipkart
+2009A1460A,Computer Science and Information Systems,B.E,9.46,4,MathWorks
+2009H1466H,Mechanical Engineering,M.E,9.27,4,CYNLR
+2009A1467A,Chemisty,B.E,9.42,4,Linde
+2009A1472A,Civil Engineering,B.E,5.78,4,Leighton Holdings
+2009H1473H,Chemical Engineering,M.E,8.97,4,PPG Industries
+2009A1479A,Chemical Engineering,B.E,7.81,4,DuPont
+2009A1483A,Physics,B.E,5.25,4,proteanTecs
+2009A1489A,Physics,B.E,7.21,4,MICROCHIP
+2009P1492P,Civil Engineering,B.Pharm,7.2,4,Gammon Construction
+2009H1493H,Biological Sciences,M.E,6.23,4,Zydus
+2009A1495A,Chemical Engineering,B.E,6.33,4,Procter & Gamble
+2009A1497A,Chemisty,B.E,8.77,4,Sun Pharmaceutical Industries
+2009S1498S,Civil Engineering,M.Sc,5.69,4,Orascom Construction
+2009A1499A,Electrical and Electronics Engineering,B.E,9.59,4,INSTRUMENTS
+2009H1503H,Chemical Engineering,M.E,6.69,4,Monsanto
+2009A1504A,Chemisty,B.E,7.17,4,Sun Pharmaceutical Industries
+2009A1511A,Mathematics,B.E,8.12,4,Flipkart
+2009H1512H,Physics,M.E,6.73,4,Intel
+2009D1514D,Biological Sciences,Ph.D,7.69,4,PEISION MEDICINE SOLUTIONS
+2009S1532S,Physics,M.Sc,7.13,4,proteanTecs
+2009H1533H,Chemical Engineering,M.E,5.46,4,Monsanto
+2009P1534P,Chemisty,B.Pharm,7.38,4,FRESENIUS
+2009H1535H,Chemical Engineering,M.E,6.85,4,Unplaced
+2009H1536H,Mechanical Engineering,M.E,7.79,4,Shell
+2009A1537A,Computer Science and Information Systems,B.E,7.92,4,MathWorks
+2009P1538P,Humanities and Social Sciences,B.Pharm,8.45,4,Unplaced
+2009H1540H,Chemisty,M.E,7.53,4,Honeywell UOP
+2009H1544H,Chemical Engineering,M.E,8.01,4,ADM (Archer Daniels Midland)
+2009A1549A,Chemisty,B.E,5.71,4,Sun Pharmaceutical Industries
+2009A1551A,Computer Science and Information Systems,B.E,6.08,4,AMD
+2009A1553A,Chemical Engineering,B.E,9.35,4,Procter & Gamble
+2009A1554A,Humanities and Social Sciences,B.E,7.87,4,Aditya Birla Group
+2009H1555H,Economics and Finanace,M.E,8.91,4,Barclays
+2009A1557A,Chemisty,B.E,7.52,4,Linde
+2009A1559A,Physics,B.E,6.63,4,Unplaced
+2009H1560H,Electrical and Electronics Engineering,M.E,6.16,4,Analog Devices
+2009P1561P,Economics and Finanace,B.Pharm,7.7,4,McKinsey & Company
+2009A1566A,Mechanical Engineering,B.E,7.61,4,Unplaced
+2009P1570P,Civil Engineering,B.Pharm,9.15,4,The Walsh Group
+2009A1572A,Electrical and Electronics Engineering,B.E,7.94,4,CISCO
+2009A1578A,Chemisty,B.E,6.53,4,Cipla
+2009H1585H,Humanities and Social Sciences,M.E,7.54,4,Unplaced
+2009A1591A,Computer Science and Information Systems,B.E,7.84,4,CONCR
+2009A1594A,Civil Engineering,B.E,7.69,4,Leighton Holdings
+2009A1598A,Biological Sciences,B.E,9.67,4,Unplaced
+2009A1599A,Computer Science and Information Systems,B.E,7.99,4,BLEND360
+2009D1611D,Pharmacy,Ph.D,9.61,4,Alkem Laboratories
+2009A1613A,Electrical and Electronics Engineering,B.E,7.78,4,Microsemi
+2009A1615A,Mathematics,B.E,5.15,4,Intel
+2009P1616P,Pharmacy,B.Pharm,5.62,4,Unplaced
+2009A1623A,Physics,B.E,6.11,4,onsemi
+2009A1624A,Economics and Finanace,B.E,5.18,4,BlackRock
+2009P1626P,Biological Sciences,B.Pharm,5.98,4,Unplaced
+2009A1627A,Chemical Engineering,B.E,9.35,4,DuPont
+2009S1634S,Pharmacy,M.Sc,7.8,4,Wockhardt
+2009A1636A,Economics and Finanace,B.E,7.16,4,Genpact
+2009A1637A,Computer Science and Information Systems,B.E,5.61,4,Mashreq
+2009S1643S,Physics,M.Sc,6.13,4,SILICON LABS
+2009P1649P,Computer Science and Information Systems,B.Pharm,6.24,4,Unplaced
+2009H1652H,Chemical Engineering,M.E,8.88,4,Unplaced
+2009A1656A,Chemisty,B.E,5.31,4,Chevron
+2009A1657A,Biological Sciences,B.E,6.51,4,Pfizer
+2009A1659A,Mathematics,B.E,5.26,4,BLEND360
+2009A1660A,Electrical and Electronics Engineering,B.E,5.48,4,IBM
+2009A1662A,Humanities and Social Sciences,B.E,6.92,4,Deloitte
+2009A1669A,Economics and Finanace,B.E,7.11,4,Wells Fargo
+2009A1671A,Biological Sciences,B.E,5.64,4,Ipca Laboratories
+2009H1680H,Economics and Finanace,M.E,5.95,4,UBS
+2009A1681A,Physics,B.E,8.46,4,Tenstorrent
+2009A1703A,Pharmacy,B.E,5.86,4,ADITYA BIRLA
+2009A1711A,Chemisty,B.E,9.26,4,Honeywell UOP
+2009A1712A,Civil Engineering,B.E,8.64,4,Parsons Corporation
+2009A1716A,Economics and Finanace,B.E,8.56,4,Fitch Ratings
+2009H1717H,Physics,M.E,9.78,4,MICROCHIP
+2009A1720A,Humanities and Social Sciences,B.E,9.32,4,Aditya Birla Group
+2009A1721A,Civil Engineering,B.E,6.53,4,Orascom Construction
+2009H1725H,Civil Engineering,M.E,7.92,4,Unplaced
+2009A1726A,Mathematics,B.E,8.11,4,Trilogy
+2009A1727A,Humanities and Social Sciences,B.E,7.34,4,Infosys
+2009A1741A,Economics and Finanace,B.E,8.92,4,Moodys Analytics
+2009A1745A,Humanities and Social Sciences,B.E,6.17,4,Microsoft
+2009S1748S,Electrical and Electronics Engineering,M.Sc,8.85,4,Unplaced
+2009A1753A,Economics and Finanace,B.E,6.13,4,Moodys Analytics
+2009H1757H,Mechanical Engineering,M.E,8.15,4,Unplaced
+2009A1758A,Electrical and Electronics Engineering,B.E,6.02,4,Analog Devices
+2009A1760A,Humanities and Social Sciences,B.E,5.54,4,Tata Consultancy Services (TCS)
+2009A1763A,Biological Sciences,B.E,9.13,4,Unplaced
+2009A1768A,Chemisty,B.E,6.63,4,Unplaced
+2009A1770A,Chemisty,B.E,7.68,4,DataZymes
+2009A1773A,Electrical and Electronics Engineering,B.E,9.09,4,Siemens
+2009H1775H,Mechanical Engineering,M.E,6.01,4,Bosch
+2009A1777A,Humanities and Social Sciences,B.E,5.32,4,Unplaced
+2009A1779A,Mechanical Engineering,B.E,9.4,4,Unplaced
+2009A1781A,Computer Science and Information Systems,B.E,8.23,4,Unplaced
+2009A1784A,Electrical and Electronics Engineering,B.E,6.25,4,Renesas Electronics
+2009P1794P,Civil Engineering,B.Pharm,7.53,4,ARUP
+2009A1795A,Biological Sciences,B.E,5.37,4,Unplaced
+2009A1796A,Electrical and Electronics Engineering,B.E,6.72,4,MICROCHIP
+2009A1799A,Economics and Finanace,B.E,8.35,4,Fitch Ratings
+2009P1801P,Pharmacy,B.Pharm,6.21,4,Natco Pharma
+2009A1805A,Chemical Engineering,B.E,7.67,4,AkzoNobel
+2009A1807A,Pharmacy,B.E,6.37,4,Lupin Limited
+2009A1809A,Pharmacy,B.E,7.66,4,Biocon Biologics
+2009A1811A,Electrical and Electronics Engineering,B.E,8.45,4,NEC Corporation
+2009A1819A,Physics,B.E,5.84,4,Micron
+2009A1822A,Mechanical Engineering,B.E,6.04,4,Unplaced
+2009H1826H,Biological Sciences,M.E,6.95,4,Emcure Pharmaceuticals
+2009A1829A,Chemical Engineering,B.E,9.43,4,Unplaced
+2009A1830A,Computer Science and Information Systems,B.E,8.84,4,PEGA
+2009A1836A,Biological Sciences,B.E,8.04,4,Cadila Healthcare
+2009D1840D,Computer Science and Information Systems,Ph.D,6.18,4,VMware
+2009D1844D,Pharmacy,Ph.D,5.19,4,Emcure Pharmaceuticals
+2009S1847S,Mathematics,M.Sc,8.96,4,Intel
+2009H1858H,Civil Engineering,M.E,7.54,4,J. Murphy & Sons
+2009A1860A,Physics,B.E,5.99,4,Unplaced
+2009A1863A,Computer Science and Information Systems,B.E,9.31,4,GE HealthCare
+2009A1865A,Electrical and Electronics Engineering,B.E,6.89,4,SILICON LABS
+2009H1866H,Humanities and Social Sciences,M.E,7.11,4,Aditya Birla Group
+2009A1867A,Chemisty,B.E,9.1,4,ExxonMobil
+2009H1868H,Biological Sciences,M.E,8.81,4,Alkem Laboratories
+2009A1872A,Humanities and Social Sciences,B.E,6.42,4,Infosys BPM
+2009A1873A,Chemical Engineering,B.E,6.67,4,Dow
+2009P1876P,Humanities and Social Sciences,B.Pharm,7.02,4,American Express
+2009A1882A,Physics,B.E,6.74,4,proteanTecs
+2009A1884A,Pharmacy,B.E,6.93,4,КАВІ
+2009H1885H,Physics,M.E,6.23,4,Unplaced
+2009P1892P,Pharmacy,B.Pharm,8.56,4,Unplaced
+2009A1894A,Mathematics,B.E,9.55,4,Mediatek
+2009A1896A,Physics,B.E,6.51,4,MathWorks
+2009A1897A,Mechanical Engineering,B.E,6.54,4,Infineon
+2009A1902A,Biological Sciences,B.E,9.94,4,FRESENIUS
+2009A1903A,Biological Sciences,B.E,5.48,4,Pfizer
+2009A1910A,Civil Engineering,B.E,6.3,4,Gammon Construction
+2009A1923A,Civil Engineering,B.E,9.7,4,The Walsh Group
+2009D1926D,Humanities and Social Sciences,Ph.D,9.35,4,Unplaced
+2009S1930S,Economics and Finanace,M.Sc,7.26,4,Goldman Sachs
+2009H1934H,Physics,M.E,6.63,4,Dolcera
+2009A1935A,Civil Engineering,B.E,8.03,4,Unplaced
+2009A1937A,Economics and Finanace,B.E,7.14,4,McKinsey & Company
+2009P1942P,Computer Science and Information Systems,B.Pharm,9.16,4,Western Digital
+2009A1949A,Physics,B.E,6.29,4,Tenstorrent
+2009A1951A,Mathematics,B.E,8.17,4,Unplaced
+2009A1954A,Pharmacy,B.E,6.72,4,Sun Pharmaceutical Industries
+2009A1955A,Pharmacy,B.E,8.21,4,Unplaced
+2009A1960A,Chemisty,B.E,9.27,4,Procter & Gamble
+2009A1966A,Chemical Engineering,B.E,6.98,4,Evonik Industries
+2009A1968A,Civil Engineering,B.E,7.5,4,Unplaced
+2009A1972A,Computer Science and Information Systems,B.E,9.98,4,VMware
+2009A1973A,Pharmacy,B.E,9.14,4,Aragen
+2009H1974H,Computer Science and Information Systems,M.E,8.52,4,Unplaced
+2009D1985D,Physics,Ph.D,9.28,4,Infineon
+2009A1988A,Mechanical Engineering,B.E,5.69,4,Oeing Lie
+2009H1994H,Electrical and Electronics Engineering,M.E,9.75,4,NXP Semiconductors
+2009A1996A,Chemical Engineering,B.E,6.78,4,Unplaced
+2009A1998A,Mathematics,B.E,8.25,4,Unplaced
+2009H1999H,Chemisty,M.E,8.13,4,Unplaced
+2009H2003H,Humanities and Social Sciences,M.E,9.32,4,Unplaced
+2009D2004D,Computer Science and Information Systems,Ph.D,8.16,4,Infineon
+2009P2007P,Biological Sciences,B.Pharm,7.93,4,Unplaced
+2009A2009A,Mechanical Engineering,B.E,5.91,4,Johnson Controls
+2009A2014A,Electrical and Electronics Engineering,B.E,7.78,4,Unplaced
+2009S2035S,Mathematics,M.Sc,6.27,4,Mediatek
+2009S2036S,Pharmacy,M.Sc,9.52,4,Ipca Laboratories
+2009H2052H,Mechanical Engineering,M.E,9.11,4,ANAND
+2009A2055A,Biological Sciences,B.E,5.85,4,Wockhardt
+2009A2056A,Chemisty,B.E,6.73,4,Unplaced
+2009A2059A,Pharmacy,B.E,5.63,4,Elucidata
+2009A2062A,Physics,B.E,8.89,4,Infineon
+2009H2063H,Physics,M.E,7.29,4,Tenstorrent
+2009P2071P,Computer Science and Information Systems,B.Pharm,7.77,4,Commvault
+2009A2072A,Biological Sciences,B.E,9.81,4,Emcure Pharmaceuticals
+2009A2076A,Physics,B.E,5.04,4,MICROCHIP
+2009A2087A,Computer Science and Information Systems,B.E,6.07,4,Unplaced
+2009D2089D,Humanities and Social Sciences,Ph.D,9.46,4,Hindustan Unilever Limited (HUL)
+2009A2090A,Biological Sciences,B.E,6.78,4,DataZymes
+2009A2096A,Electrical and Electronics Engineering,B.E,5.62,4,Panasonic
+2009P2100P,Computer Science and Information Systems,B.Pharm,5.54,4,Unplaced
+2009H2102H,Chemisty,M.E,6.77,4,Aizant
+2009A2108A,Chemical Engineering,B.E,7.11,4,Johnson Matthey
+2009A2110A,Electrical and Electronics Engineering,B.E,7.51,4,proteanTecs
+2009A2117A,Humanities and Social Sciences,B.E,5.41,4,EY (Ernst & Young)
+2009A2125A,Civil Engineering,B.E,5.6,4,ARUP
+2009A2128A,Chemical Engineering,B.E,9.32,4,Procter & Gamble
+2009A2130A,Civil Engineering,B.E,6.68,4,"Skidmore, Owings & Merrill (SOM)"
+2009S2133S,Computer Science and Information Systems,M.Sc,9.71,4,Unplaced
+2009A2138A,Electrical and Electronics Engineering,B.E,5.92,4,Unplaced
+2009A2154A,Electrical and Electronics Engineering,B.E,5.34,4,NXP Semiconductors
+2009H2158H,Physics,M.E,5.95,4,Unplaced
+2009H2160H,Chemisty,M.E,7.19,4,Shell
+2009H2161H,Mathematics,M.E,8.9,4,Unplaced
+2009A2164A,Mechanical Engineering,B.E,8.48,4,TATA
+2009A2180A,Physics,B.E,8.73,4,onsemi
+2009A2183A,Civil Engineering,B.E,7.91,4,ARCADIS
+2009A2184A,Chemisty,B.E,7.23,4,Unplaced
+2009A2185A,Economics and Finanace,B.E,5.74,4,Moodys Analytics
+2009A2186A,Chemical Engineering,B.E,7.48,4,BASF
+2009A2190A,Chemisty,B.E,9.43,4,SABIC
+2009S2193S,Humanities and Social Sciences,M.Sc,9.55,4,Unplaced
+2009A2196A,Mechanical Engineering,B.E,5.5,4,Shell
+2009S2204S,Humanities and Social Sciences,M.Sc,8.8,4,Unplaced
+2009P2205P,Chemisty,B.Pharm,6.54,4,Aizant
+2009A2209A,Chemical Engineering,B.E,7.56,4,Merck
+2009H2211H,Biological Sciences,M.E,6.13,4,Unplaced
+2009A2213A,Civil Engineering,B.E,9.61,4,Parsons Corporation
+2009A2223A,Chemical Engineering,B.E,6.36,4,Merck
+2009A2227A,Economics and Finanace,B.E,5.74,4,Unplaced
+2009A2228A,Physics,B.E,8.98,4,SynOPSYS
+2009A2229A,Chemical Engineering,B.E,5.57,4,Bayer
+2009A2232A,Electrical and Electronics Engineering,B.E,6.76,4,MICROCHIP
+2009P2233P,Electrical and Electronics Engineering,B.Pharm,7.41,4,Unplaced
+2009A2236A,Electrical and Electronics Engineering,B.E,7.09,4,Honeywell
+2009A2238A,Electrical and Electronics Engineering,B.E,5.42,4,Unplaced
+2009A2245A,Computer Science and Information Systems,B.E,7.3,4,GE HealthCare
+2009A2248A,Physics,B.E,8.52,4,Infineon
+2009A2249A,Physics,B.E,5.13,4,Intel
+2009A2251A,Pharmacy,B.E,7.91,4,Emcure Pharmaceuticals
+2009H2254H,Civil Engineering,M.E,5.39,4,Unplaced
+2009A2255A,Chemisty,B.E,8.83,4,FRESENIUS
+2009A2261A,Mathematics,B.E,5.8,4,MathWorks
+2009A2262A,Electrical and Electronics Engineering,B.E,8.4,4,Infineon
+2009H2270H,Pharmacy,M.E,8.21,4,Glenmark Pharmaceuticals
+2009A2280A,Mechanical Engineering,B.E,9.93,4,Procter & Gamble
+2009A2288A,Biological Sciences,B.E,7.94,4,Glenmark Pharmaceuticals
+2009P2290P,Computer Science and Information Systems,B.Pharm,5.81,4,CONCR
+2009H2296H,Computer Science and Information Systems,M.E,6.8,4,ARM
+2009P2297P,Biological Sciences,B.Pharm,9.45,4,Unplaced
+2009H2299H,Chemisty,M.E,7.83,4,Aizant
+2009A2307A,Humanities and Social Sciences,B.E,9.89,4,Deloitte
+2009S2312S,Economics and Finanace,M.Sc,5.42,4,JP Morgan
+2009H2317H,Electrical and Electronics Engineering,M.E,5.79,4,Unplaced
+2009A2318A,Chemical Engineering,B.E,6.12,4,Baker Hughes
+2009A2319A,Pharmacy,B.E,5.47,4,Pfizer
+2009S2320S,Humanities and Social Sciences,M.Sc,8.21,4,Tata Steel
+2009A2324A,Economics and Finanace,B.E,9.98,4,Citi
+2009A2325A,Civil Engineering,B.E,8.51,4,"Daelim Industrial Co., Ltd."
+2009H2330H,Economics and Finanace,M.E,8.95,4,MSCI
+2009A2335A,Computer Science and Information Systems,B.E,9.37,4,Samsung
+2009A2339A,Chemisty,B.E,5.99,4,DataZymes
+2009P2341P,Electrical and Electronics Engineering,B.Pharm,6.77,4,STMicroelectronics
+2009A2345A,Biological Sciences,B.E,5.75,4,FRESENIUS
+2009P2347P,Chemical Engineering,B.Pharm,8.96,4,Merck
+2009A2357A,Physics,B.E,7.5,4,MICROCHIP
+2009A2360A,Chemical Engineering,B.E,9.63,4,Eastman Chemical Company
+2009H2363H,Pharmacy,M.E,8.44,4,PEISION MEDICINE SOLUTIONS
+2009D2366D,Chemical Engineering,Ph.D,8.25,4,Johnson Matthey
+2009H2369H,Pharmacy,M.E,6.45,4,Alkem Laboratories
+2009S2370S,Civil Engineering,M.Sc,6.11,4,Unplaced
+2009A2373A,Humanities and Social Sciences,B.E,7.06,4,Unplaced
+2009S2376S,Computer Science and Information Systems,M.Sc,9.19,4,Unplaced
+2009H2377H,Pharmacy,M.E,6.21,4,КАВІ
+2009A2380A,Economics and Finanace,B.E,5.85,4,FactSet
+2009A2381A,Civil Engineering,B.E,7.78,4,Unplaced
+2009A2382A,Civil Engineering,B.E,8.08,4,ARUP
+2009H2383H,Biological Sciences,M.E,9.01,4,Unplaced
+2009A2384A,Chemisty,B.E,9.7,4,Biocon Biologics
+2009S2388S,Mathematics,M.Sc,5.59,4,MathWorks
+2009D2397D,Physics,Ph.D,8.9,4,Infineon
+2009P2403P,Chemisty,B.Pharm,5.46,4,Unplaced
+2009A2407A,Civil Engineering,B.E,8.44,4,J. Murphy & Sons
+2009A2408A,Economics and Finanace,B.E,8.17,4,Wells Fargo
+2009S2421S,Humanities and Social Sciences,M.Sc,8.73,4,Tata Consultancy Services (TCS)
+2009A2422A,Electrical and Electronics Engineering,B.E,7.56,4,Altera
+2009H2426H,Chemisty,M.E,8.97,4,ExxonMobil
+2009A2427A,Electrical and Electronics Engineering,B.E,9.41,4,Xilinx
+2009A2429A,Mechanical Engineering,B.E,5.54,4,SpaceX
+2009H2433H,Mathematics,M.E,6.27,4,MathWorks
+2009D2442D,Civil Engineering,Ph.D,7.81,4,"Skidmore, Owings & Merrill (SOM)"
+2009A2445A,Mechanical Engineering,B.E,9.46,4,Honda
+2009A2449A,Electrical and Electronics Engineering,B.E,5.6,4,Unplaced
+2009A2450A,Chemisty,B.E,8.01,4,Biocon Biologics
+2009S2453S,Humanities and Social Sciences,M.Sc,6.42,4,Unplaced
+2009H2456H,Humanities and Social Sciences,M.E,5.48,4,Genpact
+2009P2459P,Humanities and Social Sciences,B.Pharm,8.06,4,Unplaced
+2009A2460A,Computer Science and Information Systems,B.E,8.48,4,Samsung
+2009A2470A,Chemical Engineering,B.E,6.32,4,Evonik Industries
+2009H2473H,Economics and Finanace,M.E,9.31,4,Unplaced
+2009A2475A,Mathematics,B.E,7.64,4,Intel
+2009P2477P,Economics and Finanace,B.Pharm,8.86,4,Standard Chartered
+2009P2481P,Chemical Engineering,B.Pharm,5.38,4,Pfizer
+2009A2488A,Civil Engineering,B.E,9.58,4,IcoNS
+2009H2494H,Civil Engineering,M.E,5.08,4,Unplaced
+2009A2495A,Chemisty,B.E,6.33,4,Elucidata
+2009H2501H,Chemical Engineering,M.E,5.25,4,INEOS
+2009H2504H,Mechanical Engineering,M.E,6.38,4,Shell
+2009D2510D,Mechanical Engineering,Ph.D,8.5,4,SONA COMSTAR
+2009A2516A,Mathematics,B.E,9.54,4,Unplaced
+2009H2519H,Chemisty,M.E,5.94,4,DataZymes
+2009A2520A,Chemisty,B.E,9.81,4,Linde
+2009D2524D,Mechanical Engineering,Ph.D,6.76,4,CYNLR
+2009H2534H,Computer Science and Information Systems,M.E,8.55,4,CONFLUENT
+2009H2538H,Humanities and Social Sciences,M.E,5.15,4,Unplaced
+2009A2540A,Civil Engineering,B.E,9.6,4,Acciona
+2009P2542P,Pharmacy,B.Pharm,8.39,4,Natco Pharma
+2009H2544H,Economics and Finanace,M.E,6.96,4,Wells Fargo
+2009P2547P,Mechanical Engineering,B.Pharm,5.61,4,Johnson Controls
+2009A2562A,Computer Science and Information Systems,B.E,6.09,4,VISA
+2009H2563H,Economics and Finanace,M.E,6.24,4,Genpact
+2009A2570A,Mechanical Engineering,B.E,9.64,4,JK Fenner
+2009H2571H,Mathematics,M.E,5.92,4,Unplaced
+2009A2572A,Chemical Engineering,B.E,5.69,4,Unplaced
+2009S2574S,Humanities and Social Sciences,M.Sc,6.77,4,Boston Consulting Group (BCG)
+2009H2575H,Electrical and Electronics Engineering,M.E,9.81,4,Panasonic
+2009H2581H,Biological Sciences,M.E,8.78,4,Emcure Pharmaceuticals
+2009A2583A,Humanities and Social Sciences,B.E,9.04,4,State Bank of India (SBI)
+2009A2589A,Mathematics,B.E,8.7,4,Teradata
+2009A2595A,Civil Engineering,B.E,6.02,4,Unplaced
+2009A2596A,Biological Sciences,B.E,9.16,4,Unplaced
+2009P2605P,Pharmacy,B.Pharm,5.5,4,Pfizer
+2009A2606A,Economics and Finanace,B.E,8.34,4,Moodys Investors Service
+2009A2608A,Humanities and Social Sciences,B.E,7.08,4,WNS Global Services
+2009A2609A,Chemisty,B.E,5.14,4,Aizant
+2009A2611A,Mechanical Engineering,B.E,6.51,4,Ford Motor Company
+2009A2613A,Chemisty,B.E,7.34,4,Shell
+2009A2616A,Economics and Finanace,B.E,9.51,4,Genpact
+2009H2621H,Electrical and Electronics Engineering,M.E,5.34,4,Toshiba
+2009S2625S,Mechanical Engineering,M.Sc,8.09,4,Unplaced
+2009A2628A,Humanities and Social Sciences,B.E,9.67,4,Unplaced
+2009P2631P,Electrical and Electronics Engineering,B.Pharm,8.78,4,SynOPSYS
+2009A2635A,Chemisty,B.E,6.61,4,Sun Pharmaceutical Industries
+2009H2637H,Civil Engineering,M.E,6.26,4,Leighton Holdings
+2009A2642A,Biological Sciences,B.E,6.8,4,КАВІ
+2009H2644H,Economics and Finanace,M.E,5.93,4,Citi
+2009A2645A,Civil Engineering,B.E,9.16,4,IcoNS
+2009A2647A,Chemical Engineering,B.E,7.19,4,GSK
+2009P2649P,Computer Science and Information Systems,B.Pharm,5.5,4,Infineon
+2009A2663A,Economics and Finanace,B.E,9.91,4,Bain & Company
+2009A2670A,Civil Engineering,B.E,7.67,4,Unplaced
+2009A2672A,Mathematics,B.E,7.41,4,Amazon
+2009H2673H,Electrical and Electronics Engineering,M.E,8.48,4,ON Semiconductor
+2009A2676A,Economics and Finanace,B.E,5.97,4,CRISIL
+2009P2678P,Mechanical Engineering,B.Pharm,5.05,4,TATA
+2009A2684A,Computer Science and Information Systems,B.E,5.65,4,Unplaced
+2009A2692A,Biological Sciences,B.E,6.73,4,Unplaced
+2009D2697D,Biological Sciences,Ph.D,9.89,4,Strand
+2009D2700D,Computer Science and Information Systems,Ph.D,6.39,4,Trilogy
+2009A2702A,Biological Sciences,B.E,6.4,4,Unplaced
+2009A2703A,Humanities and Social Sciences,B.E,5.09,4,Infosys
+2009H2705H,Civil Engineering,M.E,6.9,4,Force
+2009A2710A,Biological Sciences,B.E,6.7,4,Alembic Pharmaceuticals
+2009P2714P,Chemisty,B.Pharm,9.8,4,SABIC
+2009A2723A,Computer Science and Information Systems,B.E,9.24,4,Trilogy
+2009A2730A,Computer Science and Information Systems,B.E,6.3,4,GE HealthCare
+2009A2734A,Chemisty,B.E,8.42,4,SABIC
+2009A2739A,Economics and Finanace,B.E,5.55,4,Thomson Reuters
+2009P2742P,Pharmacy,B.Pharm,7.08,4,Unplaced
+2009A2752A,Pharmacy,B.E,8.63,4,КАВІ
+2009H2754H,Civil Engineering,M.E,7.83,4,ARUP
+2009D2756D,Mechanical Engineering,Ph.D,7.36,4,Cummins Inc.
+2009A2760A,Physics,B.E,6.21,4,MICROCHIP
+2009A2765A,Mathematics,B.E,6.22,4,Mediatek
+2009A2776A,Chemisty,B.E,7.57,4,ExxonMobil
+2009A2777A,Electrical and Electronics Engineering,B.E,6.77,4,Analog Devices
+2009A2782A,Humanities and Social Sciences,B.E,9.55,4,Google
+2009D2787D,Pharmacy,Ph.D,8.25,4,Unplaced
+2009P2789P,Chemical Engineering,B.Pharm,6.16,4,GSK
+2009A2790A,Economics and Finanace,B.E,5.24,4,Unplaced
+2009S2796S,Chemical Engineering,M.Sc,6.44,4,Chevron
+2009D2805D,Economics and Finanace,Ph.D,6.02,4,Unplaced
+2009S2809S,Humanities and Social Sciences,M.Sc,9.44,4,Deloitte
+2009D2814D,Mathematics,Ph.D,6.68,4,Microsoft
+2009A2821A,Pharmacy,B.E,5.98,4,Divis Laboratories
+2009A2826A,Biological Sciences,B.E,7.17,4,Unplaced
+2009A2832A,Pharmacy,B.E,7.43,4,Cipla
+2009S2833S,Mechanical Engineering,M.Sc,6.79,4,General Electric (GE)
+2009A2835A,Computer Science and Information Systems,B.E,7.1,4,VISA
+2009A2836A,Economics and Finanace,B.E,6.24,4,CRISIL
+2009H2838H,Pharmacy,M.E,5.57,4,Glenmark Pharmaceuticals
+2009A2839A,Physics,B.E,5.64,4,NXP Semiconductors
+2009A2843A,Computer Science and Information Systems,B.E,8.37,4,Piramal
+2009A2844A,Electrical and Electronics Engineering,B.E,9.05,4,Unplaced
+2009A2852A,Physics,B.E,5.11,4,A Lam
+2009P2861P,Chemical Engineering,B.Pharm,7.51,4,Novozymes
+2009A2867A,Chemical Engineering,B.E,5.37,4,Baker Hughes
+2009S2869S,Chemical Engineering,M.Sc,8.68,4,LyondellBasell
+2009A2873A,Chemical Engineering,B.E,6.32,4,Syngenta
+2009A2877A,Electrical and Electronics Engineering,B.E,5.09,4,SILICON LABS
+2009A2879A,Mathematics,B.E,8.57,4,Unplaced
+2009A2881A,Electrical and Electronics Engineering,B.E,8.86,4,MathWorks
+2009S2885S,Mathematics,M.Sc,5.85,4,BLEND360
+2009A2887A,Electrical and Electronics Engineering,B.E,8.08,4,Infineon
+2009A2891A,Chemisty,B.E,5.18,4,Procter & Gamble
+2009D2893D,Mathematics,Ph.D,8.97,4,Flipkart
+2009A2895A,Economics and Finanace,B.E,7.31,4,Goldman Sachs
+2009A2901A,Biological Sciences,B.E,9.43,4,Unplaced
+2009H2902H,Chemisty,M.E,8.13,4,Unplaced
+2009H2903H,Chemisty,M.E,8.74,4,Unplaced
+2009A2910A,Mathematics,B.E,8.02,4,Teradata
+2009P2913P,Chemisty,B.Pharm,7.62,4,Biocon Biologics
+2009A2917A,Physics,B.E,5.47,4,Intel
+2009H2918H,Economics and Finanace,M.E,5.47,4,HSBC
+2009A2922A,Computer Science and Information Systems,B.E,6.42,4,CONFLUENT
+2009A2929A,Mathematics,B.E,7.94,4,Flipkart
+2009H2931H,Physics,M.E,9.36,4,SynOPSYS
+2009A2936A,Chemisty,B.E,7.56,4,КАВІ
+2009D2939D,Civil Engineering,Ph.D,7.8,4,Leighton Holdings
+2009D2944D,Physics,Ph.D,5.71,4,Unplaced
+2009A2946A,Pharmacy,B.E,5.6,4,Alkem Laboratories
+2009P2955P,Biological Sciences,B.Pharm,8.24,4,Wockhardt
+2009A2958A,Physics,B.E,9.64,4,onsemi
+2009A2968A,Mathematics,B.E,5.07,4,Intel
+2009P2985P,Chemisty,B.Pharm,6.55,4,Unplaced
+2009A2987A,Chemisty,B.E,7.83,4,Dow
+2009H2992H,Economics and Finanace,M.E,8.86,4,Wells Fargo
+2009D2994D,Biological Sciences,Ph.D,9.75,4,Abbott Laboratories
+2009A3004A,Biological Sciences,B.E,5.79,4,Emcure Pharmaceuticals
+2009A3008A,Biological Sciences,B.E,7.2,4,Pfizer
+2009H3009H,Mechanical Engineering,M.E,7.88,4,Unplaced
+2009S3014S,Mathematics,M.Sc,5.54,4,Qualcomm
+2009P3015P,Computer Science and Information Systems,B.Pharm,9.77,4,Qualcomm
+2009A3028A,Chemical Engineering,B.E,7.35,4,GSK
+2009A3029A,Physics,B.E,6.06,4,CISCO
+2009A3030A,Pharmacy,B.E,6.88,4,Zydus
+2009H3034H,Pharmacy,M.E,8.65,4,Aurobindo Pharma
+2009H3039H,Mathematics,M.E,9.12,4,Trilogy
+2009A3043A,Electrical and Electronics Engineering,B.E,8.27,4,NEC Corporation
+2009H3044H,Chemisty,M.E,6.42,4,Elucidata
+2009A3046A,Computer Science and Information Systems,B.E,9.79,4,VISA
+2009A3049A,Pharmacy,B.E,8.66,4,ADITYA BIRLA
+2009A3051A,Mechanical Engineering,B.E,7.53,4,SpaceX
+2009A3052A,Biological Sciences,B.E,7.43,4,Alembic Pharmaceuticals
+2009P3055P,Mechanical Engineering,B.Pharm,9.04,4,SONA COMSTAR
+2009A3056A,Mathematics,B.E,6.86,4,MathWorks
+2009S3058S,Chemical Engineering,M.Sc,8.93,4,Chevron
+2009H3061H,Civil Engineering,M.E,7.57,4,"Skidmore, Owings & Merrill (SOM)"
+2009H3063H,Biological Sciences,M.E,5.61,4,Unplaced
+2009A3072A,Chemisty,B.E,8.63,4,Dow
+2009A3075A,Physics,B.E,9.1,4,SAMSUNG
+2009P3086P,Mechanical Engineering,B.Pharm,7.36,4,SONA COMSTAR
+2009A3091A,Electrical and Electronics Engineering,B.E,6.04,4,Panasonic
+2009A3096A,Mechanical Engineering,B.E,6.44,4,Unplaced
+2009A3100A,Humanities and Social Sciences,B.E,5.76,4,Cognizant
+2009P3102P,Pharmacy,B.Pharm,6.95,4,Alkem Laboratories
+2009S3109S,Mechanical Engineering,M.Sc,6.76,4,Unplaced
+2009D3111D,Computer Science and Information Systems,Ph.D,7.78,4,Pharmo Solutions
+2009A3116A,Chemisty,B.E,8.83,4,Unplaced
+2009A3121A,Mathematics,B.E,7.68,4,Cisco
+2009A3122A,Civil Engineering,B.E,9.3,4,The Walsh Group
+2009A3123A,Humanities and Social Sciences,B.E,6.43,4,WNS Global Services
+2009H3127H,Electrical and Electronics Engineering,M.E,7.9,4,Unplaced
+2009H3130H,Mechanical Engineering,M.E,7.85,4,Unplaced
+2009P3132P,Chemisty,B.Pharm,7.85,4,FRESENIUS
+2009H3134H,Biological Sciences,M.E,8.71,4,Unplaced
+2009A3139A,Biological Sciences,B.E,6.04,4,Alkem Laboratories
+2009A3140A,Humanities and Social Sciences,B.E,6.23,4,Genpact
+2009A3141A,Civil Engineering,B.E,8.98,4,ARCADIS
+2009S3144S,Biological Sciences,M.Sc,8.74,4,Wockhardt
+2009A3145A,Mathematics,B.E,9.98,4,Flipkart
+2009A3150A,Economics and Finanace,B.E,7.0,4,FactSet
+2009S3153S,Physics,M.Sc,5.84,4,Unplaced

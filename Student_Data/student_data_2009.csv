@@ -1,0 +1,2660 @@
+Student ID,Course,Degree,CGPA,Year
+2009D0001D,Economics and Finanace,Ph.D,8.96,2
+2009A0002A,Computer Science and Information Systems,B.E,8.22,2
+2009A0003A,Mathematics,B.E,8.0,3
+2009A0004A,Physics,B.E,5.13,3
+2009A0005A,Civil Engineering,B.E,7.59,2
+2009A0006A,Physics,B.E,6.96,1
+2009A0007A,Civil Engineering,B.E,7.47,1
+2009H0008H,Civil Engineering,M.E,7.5,1
+2009A0009A,Mathematics,B.E,9.44,1
+2009A0010A,Economics and Finanace,B.E,9.67,2
+2009P0011P,Electrical and Electronics Engineering,B.Pharm,9.3,4
+2009A0012A,Economics and Finanace,B.E,7.73,2
+2009H0013H,Humanities and Social Sciences,M.E,9.77,1
+2009H0014H,Biological Sciences,M.E,7.94,1
+2009A0015A,Computer Science and Information Systems,B.E,6.08,1
+2009A0016A,Electrical and Electronics Engineering,B.E,7.53,4
+2009S0017S,Electrical and Electronics Engineering,M.Sc,8.51,1
+2009A0018A,Pharmacy,B.E,7.68,2
+2009A0019A,Computer Science and Information Systems,B.E,5.42,1
+2009S0020S,Mathematics,M.Sc,9.6,2
+2009H0021H,Mathematics,M.E,6.63,1
+2009A0022A,Computer Science and Information Systems,B.E,8.49,2
+2009A0023A,Biological Sciences,B.E,6.22,4
+2009P0024P,Chemical Engineering,B.Pharm,7.27,1
+2009A0025A,Computer Science and Information Systems,B.E,8.33,2
+2009P0026P,Chemical Engineering,B.Pharm,5.06,2
+2009H0027H,Physics,M.E,5.06,4
+2009P0028P,Economics and Finanace,B.Pharm,7.62,3
+2009D0029D,Chemisty,Ph.D,6.86,3
+2009A0030A,Physics,B.E,9.43,1
+2009D0031D,Economics and Finanace,Ph.D,9.04,3
+2009A0032A,Mathematics,B.E,5.32,1
+2009H0033H,Humanities and Social Sciences,M.E,7.28,3
+2009S0034S,Biological Sciences,M.Sc,7.5,2
+2009S0035S,Economics and Finanace,M.Sc,5.79,1
+2009P0036P,Mechanical Engineering,B.Pharm,8.37,1
+2009D0037D,Civil Engineering,Ph.D,8.7,1
+2009H0038H,Biological Sciences,M.E,9.29,1
+2009A0039A,Civil Engineering,B.E,5.23,3
+2009A0040A,Electrical and Electronics Engineering,B.E,9.6,2
+2009S0041S,Biological Sciences,M.Sc,7.76,4
+2009A0042A,Civil Engineering,B.E,6.61,4
+2009H0043H,Physics,M.E,6.6,1
+2009D0044D,Mechanical Engineering,Ph.D,6.86,1
+2009A0045A,Chemisty,B.E,6.12,1
+2009A0046A,Electrical and Electronics Engineering,B.E,5.34,4
+2009A0047A,Computer Science and Information Systems,B.E,8.87,3
+2009H0048H,Economics and Finanace,M.E,5.43,4
+2009A0049A,Biological Sciences,B.E,6.84,3
+2009D0050D,Mechanical Engineering,Ph.D,8.92,2
+2009A0051A,Humanities and Social Sciences,B.E,6.84,4
+2009A0052A,Civil Engineering,B.E,8.66,2
+2009D0053D,Chemisty,Ph.D,5.03,4
+2009S0054S,Biological Sciences,M.Sc,6.16,3
+2009H0055H,Pharmacy,M.E,9.2,1
+2009A0056A,Economics and Finanace,B.E,5.01,4
+2009H0057H,Physics,M.E,8.64,1
+2009S0058S,Civil Engineering,M.Sc,7.65,2
+2009A0059A,Electrical and Electronics Engineering,B.E,7.46,1
+2009H0060H,Chemisty,M.E,8.56,1
+2009P0061P,Biological Sciences,B.Pharm,9.61,4
+2009A0062A,Physics,B.E,9.48,4
+2009A0063A,Physics,B.E,5.42,1
+2009A0064A,Mathematics,B.E,5.67,4
+2009H0065H,Chemical Engineering,M.E,7.96,1
+2009A0066A,Electrical and Electronics Engineering,B.E,8.31,2
+2009A0067A,Civil Engineering,B.E,6.46,3
+2009P0068P,Electrical and Electronics Engineering,B.Pharm,8.5,3
+2009P0069P,Economics and Finanace,B.Pharm,7.26,2
+2009A0070A,Chemical Engineering,B.E,9.72,2
+2009A0071A,Mechanical Engineering,B.E,5.54,1
+2009A0072A,Chemisty,B.E,7.25,3
+2009D0073D,Electrical and Electronics Engineering,Ph.D,5.6,3
+2009A0074A,Civil Engineering,B.E,7.26,4
+2009A0075A,Computer Science and Information Systems,B.E,9.26,1
+2009A0076A,Chemisty,B.E,9.04,3
+2009A0077A,Physics,B.E,8.48,1
+2009S0078S,Civil Engineering,M.Sc,9.18,3
+2009A0079A,Chemisty,B.E,5.46,2
+2009H0080H,Economics and Finanace,M.E,6.98,1
+2009A0081A,Pharmacy,B.E,6.49,2
+2009A0082A,Biological Sciences,B.E,9.76,4
+2009H0083H,Mathematics,M.E,8.74,2
+2009A0084A,Chemical Engineering,B.E,7.31,2
+2009A0085A,Chemical Engineering,B.E,5.06,2
+2009D0086D,Chemisty,Ph.D,5.99,4
+2009A0087A,Economics and Finanace,B.E,8.43,1
+2009A0088A,Mechanical Engineering,B.E,7.93,1
+2009A0089A,Biological Sciences,B.E,9.99,2
+2009A0090A,Pharmacy,B.E,7.22,2
+2009H0091H,Chemical Engineering,M.E,9.53,3
+2009A0092A,Chemical Engineering,B.E,5.21,4
+2009H0093H,Biological Sciences,M.E,5.84,4
+2009H0094H,Physics,M.E,6.97,1
+2009A0095A,Electrical and Electronics Engineering,B.E,8.42,2
+2009A0096A,Economics and Finanace,B.E,6.07,2
+2009A0097A,Computer Science and Information Systems,B.E,6.4,2
+2009A0098A,Biological Sciences,B.E,8.07,2
+2009A0099A,Pharmacy,B.E,6.48,4
+2009A0100A,Mathematics,B.E,7.4,1
+2009A0101A,Computer Science and Information Systems,B.E,6.92,4
+2009D0102D,Civil Engineering,Ph.D,8.21,2
+2009A0103A,Pharmacy,B.E,9.97,1
+2009D0104D,Electrical and Electronics Engineering,Ph.D,8.91,3
+2009S0105S,Humanities and Social Sciences,M.Sc,7.72,4
+2009P0106P,Economics and Finanace,B.Pharm,9.56,3
+2009A0107A,Electrical and Electronics Engineering,B.E,6.35,1
+2009A0108A,Economics and Finanace,B.E,7.99,1
+2009P0109P,Computer Science and Information Systems,B.Pharm,5.29,4
+2009A0110A,Mathematics,B.E,6.79,2
+2009P0111P,Chemisty,B.Pharm,5.5,2
+2009P0112P,Computer Science and Information Systems,B.Pharm,7.67,1
+2009A0113A,Civil Engineering,B.E,7.88,4
+2009S0114S,Economics and Finanace,M.Sc,9.68,2
+2009S0115S,Chemisty,M.Sc,6.18,3
+2009A0116A,Physics,B.E,8.49,1
+2009H0117H,Physics,M.E,8.5,2
+2009D0118D,Mechanical Engineering,Ph.D,9.74,4
+2009P0119P,Computer Science and Information Systems,B.Pharm,5.88,1
+2009A0120A,Chemical Engineering,B.E,5.28,2
+2009A0121A,Biological Sciences,B.E,7.63,1
+2009D0122D,Economics and Finanace,Ph.D,9.59,2
+2009S0123S,Chemisty,M.Sc,6.7,2
+2009H0124H,Economics and Finanace,M.E,5.3,2
+2009A0125A,Mechanical Engineering,B.E,8.52,2
+2009A0126A,Chemical Engineering,B.E,9.23,3
+2009A0127A,Chemical Engineering,B.E,6.87,4
+2009P0128P,Mechanical Engineering,B.Pharm,5.51,3
+2009P0129P,Economics and Finanace,B.Pharm,5.68,2
+2009A0130A,Physics,B.E,9.74,4
+2009A0131A,Pharmacy,B.E,6.59,3
+2009A0132A,Civil Engineering,B.E,8.33,2
+2009A0133A,Electrical and Electronics Engineering,B.E,6.53,3
+2009A0134A,Chemisty,B.E,5.89,1
+2009A0135A,Physics,B.E,9.74,4
+2009D0136D,Mechanical Engineering,Ph.D,5.16,3
+2009H0137H,Mechanical Engineering,M.E,6.1,1
+2009A0138A,Humanities and Social Sciences,B.E,5.7,1
+2009D0139D,Civil Engineering,Ph.D,6.73,3
+2009A0140A,Chemisty,B.E,8.18,1
+2009A0141A,Physics,B.E,8.35,3
+2009P0142P,Humanities and Social Sciences,B.Pharm,5.06,2
+2009A0143A,Civil Engineering,B.E,8.47,3
+2009A0144A,Computer Science and Information Systems,B.E,8.94,1
+2009H0145H,Biological Sciences,M.E,6.93,4
+2009H0146H,Chemisty,M.E,9.42,4
+2009A0147A,Electrical and Electronics Engineering,B.E,6.76,4
+2009D0148D,Chemical Engineering,Ph.D,9.14,2
+2009D0149D,Chemisty,Ph.D,7.26,1
+2009H0150H,Computer Science and Information Systems,M.E,5.1,3
+2009H0151H,Chemical Engineering,M.E,5.37,2
+2009A0152A,Electrical and Electronics Engineering,B.E,5.8,1
+2009H0153H,Mathematics,M.E,9.71,1
+2009D0154D,Economics and Finanace,Ph.D,7.97,4
+2009A0155A,Physics,B.E,5.15,2
+2009P0156P,Mechanical Engineering,B.Pharm,9.45,2
+2009A0157A,Biological Sciences,B.E,5.51,2
+2009A0158A,Civil Engineering,B.E,7.05,3
+2009S0159S,Pharmacy,M.Sc,6.41,2
+2009A0160A,Chemical Engineering,B.E,5.25,4
+2009A0161A,Chemisty,B.E,5.27,1
+2009P0162P,Electrical and Electronics Engineering,B.Pharm,5.44,4
+2009A0163A,Civil Engineering,B.E,5.48,2
+2009P0164P,Chemisty,B.Pharm,8.19,1
+2009P0165P,Humanities and Social Sciences,B.Pharm,9.22,3
+2009A0166A,Electrical and Electronics Engineering,B.E,7.35,3
+2009A0167A,Chemical Engineering,B.E,8.21,4
+2009A0168A,Chemisty,B.E,6.86,4
+2009H0169H,Economics and Finanace,M.E,5.93,1
+2009P0170P,Computer Science and Information Systems,B.Pharm,7.2,3
+2009H0171H,Civil Engineering,M.E,9.19,1
+2009A0172A,Chemisty,B.E,8.76,1
+2009A0173A,Chemical Engineering,B.E,8.34,4
+2009D0174D,Mechanical Engineering,Ph.D,6.14,1
+2009A0175A,Electrical and Electronics Engineering,B.E,9.09,4
+2009H0176H,Mathematics,M.E,8.44,4
+2009P0177P,Mechanical Engineering,B.Pharm,9.41,4
+2009A0178A,Computer Science and Information Systems,B.E,5.39,1
+2009P0179P,Mechanical Engineering,B.Pharm,9.5,2
+2009A0180A,Chemical Engineering,B.E,9.75,4
+2009D0181D,Chemisty,Ph.D,9.75,2
+2009A0182A,Civil Engineering,B.E,9.04,2
+2009S0183S,Biological Sciences,M.Sc,7.12,4
+2009A0184A,Civil Engineering,B.E,9.99,2
+2009A0185A,Mechanical Engineering,B.E,6.29,1
+2009A0186A,Chemical Engineering,B.E,6.94,4
+2009S0187S,Mathematics,M.Sc,6.63,3
+2009A0188A,Mathematics,B.E,7.29,1
+2009A0189A,Physics,B.E,8.12,4
+2009A0190A,Chemical Engineering,B.E,7.07,2
+2009H0191H,Mechanical Engineering,M.E,7.94,1
+2009D0192D,Chemical Engineering,Ph.D,7.81,1
+2009P0193P,Computer Science and Information Systems,B.Pharm,9.34,3
+2009A0194A,Electrical and Electronics Engineering,B.E,6.32,4
+2009A0195A,Mechanical Engineering,B.E,8.04,1
+2009H0196H,Chemisty,M.E,6.38,2
+2009P0197P,Mechanical Engineering,B.Pharm,8.04,4
+2009D0198D,Biological Sciences,Ph.D,6.98,3
+2009A0199A,Physics,B.E,6.19,4
+2009P0200P,Computer Science and Information Systems,B.Pharm,9.49,1
+2009A0201A,Economics and Finanace,B.E,9.09,3
+2009P0202P,Computer Science and Information Systems,B.Pharm,6.4,4
+2009H0203H,Physics,M.E,8.42,2
+2009A0204A,Chemisty,B.E,6.5,4
+2009D0205D,Economics and Finanace,Ph.D,6.35,4
+2009A0206A,Mechanical Engineering,B.E,8.23,2
+2009H0207H,Humanities and Social Sciences,M.E,6.06,4
+2009P0208P,Humanities and Social Sciences,B.Pharm,8.8,3
+2009A0209A,Biological Sciences,B.E,7.58,2
+2009A0210A,Chemical Engineering,B.E,6.56,4
+2009A0211A,Chemisty,B.E,8.9,1
+2009A0212A,Chemisty,B.E,5.96,2
+2009A0213A,Biological Sciences,B.E,6.25,4
+2009A0214A,Biological Sciences,B.E,9.59,2
+2009D0215D,Computer Science and Information Systems,Ph.D,6.84,4
+2009A0216A,Mathematics,B.E,6.98,1
+2009A0217A,Pharmacy,B.E,5.15,3
+2009A0218A,Humanities and Social Sciences,B.E,7.97,2
+2009H0219H,Humanities and Social Sciences,M.E,7.93,3
+2009D0220D,Economics and Finanace,Ph.D,5.82,3
+2009A0221A,Physics,B.E,9.15,1
+2009D0222D,Computer Science and Information Systems,Ph.D,5.14,1
+2009A0223A,Chemisty,B.E,9.27,2
+2009A0224A,Civil Engineering,B.E,8.24,2
+2009A0225A,Computer Science and Information Systems,B.E,8.26,1
+2009P0226P,Pharmacy,B.Pharm,5.04,2
+2009A0227A,Pharmacy,B.E,5.87,1
+2009A0228A,Civil Engineering,B.E,6.26,3
+2009A0229A,Physics,B.E,9.84,3
+2009A0230A,Electrical and Electronics Engineering,B.E,9.48,3
+2009A0231A,Humanities and Social Sciences,B.E,6.26,4
+2009A0232A,Computer Science and Information Systems,B.E,8.39,4
+2009H0233H,Mechanical Engineering,M.E,5.51,3
+2009A0234A,Mathematics,B.E,8.24,3
+2009P0235P,Computer Science and Information Systems,B.Pharm,8.42,4
+2009S0236S,Chemical Engineering,M.Sc,6.68,3
+2009A0237A,Pharmacy,B.E,6.63,3
+2009H0238H,Computer Science and Information Systems,M.E,8.28,3
+2009A0239A,Civil Engineering,B.E,5.75,2
+2009H0240H,Biological Sciences,M.E,9.03,4
+2009A0241A,Pharmacy,B.E,6.6,2
+2009A0242A,Physics,B.E,5.13,4
+2009S0243S,Computer Science and Information Systems,M.Sc,6.3,4
+2009H0244H,Electrical and Electronics Engineering,M.E,6.94,1
+2009D0245D,Mechanical Engineering,Ph.D,8.54,2
+2009A0246A,Economics and Finanace,B.E,8.63,2
+2009D0247D,Pharmacy,Ph.D,7.67,4
+2009H0248H,Pharmacy,M.E,6.79,3
+2009H0249H,Chemisty,M.E,9.2,2
+2009H0250H,Computer Science and Information Systems,M.E,5.49,2
+2009P0251P,Computer Science and Information Systems,B.Pharm,8.63,2
+2009A0252A,Pharmacy,B.E,9.5,1
+2009A0253A,Civil Engineering,B.E,6.78,3
+2009P0254P,Electrical and Electronics Engineering,B.Pharm,8.94,3
+2009H0255H,Economics and Finanace,M.E,6.3,3
+2009S0256S,Humanities and Social Sciences,M.Sc,9.26,4
+2009D0257D,Biological Sciences,Ph.D,9.33,1
+2009P0258P,Humanities and Social Sciences,B.Pharm,9.45,1
+2009A0259A,Pharmacy,B.E,6.91,3
+2009D0260D,Electrical and Electronics Engineering,Ph.D,5.27,2
+2009H0261H,Chemisty,M.E,9.96,3
+2009P0262P,Electrical and Electronics Engineering,B.Pharm,9.94,4
+2009P0263P,Chemisty,B.Pharm,6.58,2
+2009A0264A,Chemical Engineering,B.E,7.44,2
+2009A0265A,Economics and Finanace,B.E,8.17,1
+2009A0266A,Humanities and Social Sciences,B.E,6.37,2
+2009A0267A,Mechanical Engineering,B.E,8.82,4
+2009S0268S,Chemical Engineering,M.Sc,5.65,4
+2009D0269D,Pharmacy,Ph.D,7.15,4
+2009H0270H,Humanities and Social Sciences,M.E,6.92,1
+2009A0271A,Mathematics,B.E,6.0,3
+2009H0272H,Biological Sciences,M.E,9.46,2
+2009S0273S,Biological Sciences,M.Sc,8.38,2
+2009P0274P,Civil Engineering,B.Pharm,8.47,3
+2009A0275A,Computer Science and Information Systems,B.E,5.64,4
+2009A0276A,Mathematics,B.E,7.94,2
+2009A0277A,Chemical Engineering,B.E,9.12,3
+2009A0278A,Computer Science and Information Systems,B.E,7.28,3
+2009H0279H,Electrical and Electronics Engineering,M.E,9.44,2
+2009D0280D,Economics and Finanace,Ph.D,9.98,4
+2009H0281H,Economics and Finanace,M.E,8.75,2
+2009A0282A,Electrical and Electronics Engineering,B.E,5.1,2
+2009A0283A,Physics,B.E,9.92,2
+2009H0284H,Physics,M.E,5.11,2
+2009A0285A,Chemical Engineering,B.E,6.83,1
+2009P0286P,Electrical and Electronics Engineering,B.Pharm,9.38,3
+2009A0287A,Mathematics,B.E,8.12,1
+2009H0288H,Pharmacy,M.E,5.54,1
+2009P0289P,Biological Sciences,B.Pharm,8.45,4
+2009A0290A,Humanities and Social Sciences,B.E,6.9,3
+2009D0291D,Humanities and Social Sciences,Ph.D,8.51,2
+2009A0292A,Physics,B.E,8.43,1
+2009H0293H,Computer Science and Information Systems,M.E,7.1,1
+2009D0294D,Pharmacy,Ph.D,7.6,2
+2009P0295P,Electrical and Electronics Engineering,B.Pharm,9.15,1
+2009A0296A,Mathematics,B.E,8.59,1
+2009A0297A,Computer Science and Information Systems,B.E,5.57,1
+2009A0298A,Humanities and Social Sciences,B.E,5.99,2
+2009P0299P,Computer Science and Information Systems,B.Pharm,9.16,2
+2009A0300A,Economics and Finanace,B.E,8.52,3
+2009D0301D,Chemisty,Ph.D,5.2,4
+2009H0302H,Civil Engineering,M.E,8.44,4
+2009D0303D,Economics and Finanace,Ph.D,6.17,1
+2009H0304H,Pharmacy,M.E,5.45,1
+2009S0305S,Mechanical Engineering,M.Sc,8.35,2
+2009D0306D,Chemical Engineering,Ph.D,8.9,1
+2009A0307A,Physics,B.E,8.62,3
+2009A0308A,Pharmacy,B.E,6.16,3
+2009P0309P,Computer Science and Information Systems,B.Pharm,7.32,1
+2009H0310H,Chemisty,M.E,9.37,3
+2009H0311H,Economics and Finanace,M.E,9.01,3
+2009H0312H,Electrical and Electronics Engineering,M.E,8.69,1
+2009P0313P,Biological Sciences,B.Pharm,5.05,2
+2009D0314D,Pharmacy,Ph.D,8.24,3
+2009A0315A,Economics and Finanace,B.E,9.47,3
+2009S0316S,Physics,M.Sc,5.46,3
+2009S0317S,Chemisty,M.Sc,5.57,4
+2009P0318P,Humanities and Social Sciences,B.Pharm,6.36,4
+2009P0319P,Humanities and Social Sciences,B.Pharm,9.0,2
+2009A0320A,Chemical Engineering,B.E,5.66,1
+2009H0321H,Chemisty,M.E,5.52,4
+2009A0322A,Mechanical Engineering,B.E,8.39,2
+2009A0323A,Mechanical Engineering,B.E,6.9,3
+2009A0324A,Mechanical Engineering,B.E,5.14,2
+2009A0325A,Humanities and Social Sciences,B.E,9.6,1
+2009H0326H,Electrical and Electronics Engineering,M.E,7.2,1
+2009A0327A,Computer Science and Information Systems,B.E,8.27,1
+2009A0328A,Physics,B.E,9.34,2
+2009A0329A,Pharmacy,B.E,9.37,1
+2009A0330A,Electrical and Electronics Engineering,B.E,8.31,2
+2009H0331H,Humanities and Social Sciences,M.E,6.73,4
+2009A0332A,Chemisty,B.E,9.2,1
+2009D0333D,Biological Sciences,Ph.D,8.22,2
+2009A0334A,Mathematics,B.E,9.24,4
+2009A0335A,Chemisty,B.E,5.37,4
+2009P0336P,Economics and Finanace,B.Pharm,6.2,3
+2009A0337A,Biological Sciences,B.E,7.53,4
+2009D0338D,Electrical and Electronics Engineering,Ph.D,9.09,1
+2009A0339A,Humanities and Social Sciences,B.E,7.22,4
+2009A0340A,Chemical Engineering,B.E,9.28,4
+2009A0341A,Economics and Finanace,B.E,5.59,4
+2009A0342A,Physics,B.E,8.27,1
+2009A0343A,Electrical and Electronics Engineering,B.E,7.06,1
+2009A0344A,Chemical Engineering,B.E,8.96,3
+2009A0345A,Mathematics,B.E,7.81,4
+2009H0346H,Economics and Finanace,M.E,6.82,1
+2009A0347A,Civil Engineering,B.E,9.22,3
+2009S0348S,Mathematics,M.Sc,8.84,4
+2009A0349A,Physics,B.E,8.29,4
+2009S0350S,Chemical Engineering,M.Sc,5.49,2
+2009H0351H,Biological Sciences,M.E,6.71,3
+2009A0352A,Mathematics,B.E,7.61,1
+2009A0353A,Biological Sciences,B.E,9.48,4
+2009A0354A,Chemisty,B.E,9.11,4
+2009H0355H,Chemical Engineering,M.E,6.27,2
+2009A0356A,Civil Engineering,B.E,5.6,4
+2009H0357H,Civil Engineering,M.E,7.29,2
+2009A0358A,Physics,B.E,6.69,4
+2009S0359S,Biological Sciences,M.Sc,9.63,1
+2009S0360S,Humanities and Social Sciences,M.Sc,7.29,2
+2009H0361H,Humanities and Social Sciences,M.E,5.02,1
+2009P0362P,Electrical and Electronics Engineering,B.Pharm,9.19,4
+2009P0363P,Chemisty,B.Pharm,8.46,2
+2009A0364A,Physics,B.E,9.08,1
+2009H0365H,Electrical and Electronics Engineering,M.E,8.29,3
+2009S0366S,Mathematics,M.Sc,9.41,4
+2009A0367A,Mechanical Engineering,B.E,9.58,2
+2009H0368H,Computer Science and Information Systems,M.E,6.99,3
+2009H0369H,Computer Science and Information Systems,M.E,7.26,2
+2009H0370H,Chemisty,M.E,7.06,3
+2009D0371D,Physics,Ph.D,7.74,3
+2009A0372A,Physics,B.E,8.68,2
+2009A0373A,Civil Engineering,B.E,6.05,3
+2009A0374A,Pharmacy,B.E,6.73,2
+2009A0375A,Physics,B.E,8.25,2
+2009H0376H,Mathematics,M.E,7.71,3
+2009A0377A,Physics,B.E,5.58,3
+2009S0378S,Mathematics,M.Sc,7.4,4
+2009S0379S,Pharmacy,M.Sc,8.74,3
+2009D0380D,Electrical and Electronics Engineering,Ph.D,9.04,1
+2009A0381A,Biological Sciences,B.E,6.9,1
+2009A0382A,Pharmacy,B.E,5.28,3
+2009A0383A,Chemisty,B.E,9.92,3
+2009P0384P,Chemisty,B.Pharm,9.2,3
+2009A0385A,Civil Engineering,B.E,8.77,1
+2009A0386A,Economics and Finanace,B.E,9.07,1
+2009A0387A,Mechanical Engineering,B.E,9.34,2
+2009A0388A,Physics,B.E,8.24,4
+2009A0389A,Civil Engineering,B.E,7.55,3
+2009H0390H,Physics,M.E,8.32,4
+2009A0391A,Electrical and Electronics Engineering,B.E,7.08,3
+2009A0392A,Mathematics,B.E,5.27,3
+2009H0393H,Civil Engineering,M.E,8.1,4
+2009A0394A,Civil Engineering,B.E,9.56,3
+2009A0395A,Mechanical Engineering,B.E,7.73,2
+2009S0396S,Physics,M.Sc,9.82,3
+2009A0397A,Humanities and Social Sciences,B.E,5.89,1
+2009A0398A,Chemisty,B.E,9.81,1
+2009H0399H,Electrical and Electronics Engineering,M.E,5.2,3
+2009H0400H,Mathematics,M.E,6.32,2
+2009A0401A,Mechanical Engineering,B.E,9.23,1
+2009H0402H,Economics and Finanace,M.E,7.33,2
+2009H0403H,Biological Sciences,M.E,5.77,3
+2009P0404P,Mechanical Engineering,B.Pharm,5.25,3
+2009D0405D,Humanities and Social Sciences,Ph.D,8.95,3
+2009A0406A,Chemical Engineering,B.E,8.92,3
+2009P0407P,Civil Engineering,B.Pharm,9.78,1
+2009H0408H,Mathematics,M.E,5.8,4
+2009A0409A,Chemical Engineering,B.E,6.75,2
+2009H0410H,Pharmacy,M.E,6.66,3
+2009A0411A,Computer Science and Information Systems,B.E,6.09,4
+2009D0412D,Mathematics,Ph.D,9.12,1
+2009H0413H,Chemical Engineering,M.E,8.34,4
+2009P0414P,Civil Engineering,B.Pharm,9.52,2
+2009H0415H,Biological Sciences,M.E,8.41,3
+2009D0416D,Electrical and Electronics Engineering,Ph.D,9.58,1
+2009A0417A,Electrical and Electronics Engineering,B.E,6.28,3
+2009A0418A,Biological Sciences,B.E,9.56,3
+2009S0419S,Mathematics,M.Sc,9.01,4
+2009A0420A,Humanities and Social Sciences,B.E,5.22,2
+2009A0421A,Economics and Finanace,B.E,7.57,1
+2009A0422A,Chemisty,B.E,9.86,1
+2009D0423D,Pharmacy,Ph.D,5.33,2
+2009H0424H,Pharmacy,M.E,7.12,1
+2009A0425A,Civil Engineering,B.E,7.69,4
+2009P0426P,Pharmacy,B.Pharm,9.08,1
+2009H0427H,Physics,M.E,8.43,1
+2009S0428S,Humanities and Social Sciences,M.Sc,8.58,1
+2009A0429A,Chemical Engineering,B.E,5.37,2
+2009D0430D,Computer Science and Information Systems,Ph.D,7.79,2
+2009A0431A,Computer Science and Information Systems,B.E,7.04,4
+2009P0432P,Pharmacy,B.Pharm,7.02,3
+2009A0433A,Biological Sciences,B.E,6.95,1
+2009A0434A,Mathematics,B.E,5.03,1
+2009H0435H,Physics,M.E,7.93,1
+2009A0436A,Economics and Finanace,B.E,9.64,1
+2009A0437A,Computer Science and Information Systems,B.E,8.93,3
+2009S0438S,Mechanical Engineering,M.Sc,5.43,4
+2009A0439A,Electrical and Electronics Engineering,B.E,6.98,1
+2009A0440A,Humanities and Social Sciences,B.E,5.78,2
+2009H0441H,Chemisty,M.E,8.73,3
+2009D0442D,Pharmacy,Ph.D,5.72,3
+2009D0443D,Biological Sciences,Ph.D,7.77,2
+2009S0444S,Chemical Engineering,M.Sc,5.21,4
+2009A0445A,Mathematics,B.E,7.74,1
+2009A0446A,Computer Science and Information Systems,B.E,6.05,3
+2009H0447H,Civil Engineering,M.E,7.06,2
+2009A0448A,Chemisty,B.E,5.92,3
+2009H0449H,Civil Engineering,M.E,5.57,1
+2009D0450D,Mathematics,Ph.D,7.31,1
+2009P0451P,Computer Science and Information Systems,B.Pharm,8.36,3
+2009A0452A,Chemical Engineering,B.E,5.99,4
+2009A0453A,Economics and Finanace,B.E,6.79,2
+2009H0454H,Chemical Engineering,M.E,6.43,1
+2009A0455A,Civil Engineering,B.E,6.59,4
+2009A0456A,Economics and Finanace,B.E,8.08,3
+2009D0457D,Physics,Ph.D,7.92,3
+2009A0458A,Economics and Finanace,B.E,9.79,2
+2009P0459P,Biological Sciences,B.Pharm,6.57,2
+2009H0460H,Physics,M.E,8.7,4
+2009A0461A,Computer Science and Information Systems,B.E,9.2,2
+2009P0462P,Pharmacy,B.Pharm,8.66,4
+2009S0463S,Humanities and Social Sciences,M.Sc,7.23,3
+2009A0464A,Humanities and Social Sciences,B.E,7.76,2
+2009S0465S,Pharmacy,M.Sc,8.03,3
+2009H0466H,Chemisty,M.E,9.46,2
+2009P0467P,Computer Science and Information Systems,B.Pharm,8.67,1
+2009A0468A,Physics,B.E,5.38,1
+2009A0469A,Mathematics,B.E,8.16,4
+2009A0470A,Mechanical Engineering,B.E,6.06,1
+2009H0471H,Mathematics,M.E,6.3,4
+2009P0472P,Pharmacy,B.Pharm,8.88,3
+2009A0473A,Electrical and Electronics Engineering,B.E,6.12,3
+2009S0474S,Chemisty,M.Sc,7.32,1
+2009S0475S,Electrical and Electronics Engineering,M.Sc,6.82,1
+2009A0476A,Pharmacy,B.E,6.19,2
+2009A0477A,Mathematics,B.E,5.7,2
+2009A0478A,Chemisty,B.E,7.83,2
+2009A0479A,Physics,B.E,8.66,3
+2009A0480A,Biological Sciences,B.E,6.09,4
+2009P0481P,Civil Engineering,B.Pharm,5.31,3
+2009P0482P,Civil Engineering,B.Pharm,5.21,2
+2009D0483D,Mathematics,Ph.D,9.54,3
+2009A0484A,Electrical and Electronics Engineering,B.E,7.35,4
+2009H0485H,Biological Sciences,M.E,5.2,3
+2009A0486A,Chemical Engineering,B.E,8.52,3
+2009A0487A,Physics,B.E,6.32,2
+2009A0488A,Electrical and Electronics Engineering,B.E,8.27,3
+2009D0489D,Mechanical Engineering,Ph.D,8.27,1
+2009A0490A,Mathematics,B.E,6.26,2
+2009A0491A,Mathematics,B.E,7.03,3
+2009A0492A,Humanities and Social Sciences,B.E,8.96,1
+2009S0493S,Mathematics,M.Sc,9.41,4
+2009A0494A,Chemisty,B.E,6.15,3
+2009A0495A,Civil Engineering,B.E,5.75,2
+2009P0496P,Economics and Finanace,B.Pharm,8.01,1
+2009D0497D,Pharmacy,Ph.D,6.15,3
+2009H0498H,Physics,M.E,5.57,4
+2009A0499A,Humanities and Social Sciences,B.E,6.05,2
+2009P0500P,Pharmacy,B.Pharm,9.17,1
+2009A0501A,Civil Engineering,B.E,5.22,2
+2009A0502A,Chemisty,B.E,8.15,1
+2009A0503A,Mechanical Engineering,B.E,5.73,2
+2009D0504D,Computer Science and Information Systems,Ph.D,9.61,4
+2009H0505H,Mechanical Engineering,M.E,9.85,1
+2009S0506S,Physics,M.Sc,8.64,3
+2009P0507P,Chemical Engineering,B.Pharm,6.08,4
+2009H0508H,Humanities and Social Sciences,M.E,5.85,4
+2009H0509H,Mechanical Engineering,M.E,5.71,2
+2009A0510A,Mechanical Engineering,B.E,8.3,3
+2009A0511A,Chemisty,B.E,8.62,3
+2009A0512A,Humanities and Social Sciences,B.E,7.98,1
+2009S0513S,Civil Engineering,M.Sc,6.89,2
+2009A0514A,Chemical Engineering,B.E,5.08,4
+2009A0515A,Chemisty,B.E,8.03,2
+2009S0516S,Humanities and Social Sciences,M.Sc,9.51,1
+2009H0517H,Mathematics,M.E,7.52,1
+2009A0518A,Chemical Engineering,B.E,7.41,2
+2009A0519A,Mechanical Engineering,B.E,7.7,1
+2009A0520A,Pharmacy,B.E,8.25,4
+2009P0521P,Economics and Finanace,B.Pharm,9.37,4
+2009A0522A,Civil Engineering,B.E,9.69,4
+2009A0523A,Electrical and Electronics Engineering,B.E,6.75,1
+2009D0524D,Electrical and Electronics Engineering,Ph.D,5.67,4
+2009S0525S,Civil Engineering,M.Sc,9.55,1
+2009D0526D,Computer Science and Information Systems,Ph.D,7.99,4
+2009S0527S,Computer Science and Information Systems,M.Sc,5.95,1
+2009S0528S,Mechanical Engineering,M.Sc,7.61,1
+2009H0529H,Electrical and Electronics Engineering,M.E,8.27,3
+2009A0530A,Electrical and Electronics Engineering,B.E,6.81,2
+2009H0531H,Electrical and Electronics Engineering,M.E,8.26,3
+2009A0532A,Computer Science and Information Systems,B.E,9.27,4
+2009A0533A,Mechanical Engineering,B.E,6.83,3
+2009A0534A,Pharmacy,B.E,6.99,2
+2009H0535H,Electrical and Electronics Engineering,M.E,7.76,4
+2009H0536H,Chemisty,M.E,6.85,4
+2009A0537A,Computer Science and Information Systems,B.E,9.94,3
+2009D0538D,Physics,Ph.D,6.99,2
+2009A0539A,Pharmacy,B.E,5.6,2
+2009P0540P,Humanities and Social Sciences,B.Pharm,8.92,2
+2009A0541A,Chemical Engineering,B.E,6.07,4
+2009D0542D,Economics and Finanace,Ph.D,9.0,1
+2009H0543H,Chemisty,M.E,6.95,1
+2009H0544H,Chemical Engineering,M.E,9.12,4
+2009A0545A,Mechanical Engineering,B.E,7.18,1
+2009S0546S,Computer Science and Information Systems,M.Sc,6.11,1
+2009A0547A,Mechanical Engineering,B.E,5.19,4
+2009H0548H,Electrical and Electronics Engineering,M.E,8.07,3
+2009D0549D,Physics,Ph.D,9.82,1
+2009A0550A,Chemisty,B.E,8.2,4
+2009P0551P,Biological Sciences,B.Pharm,6.01,3
+2009A0552A,Civil Engineering,B.E,5.17,2
+2009A0553A,Mechanical Engineering,B.E,5.85,1
+2009D0554D,Economics and Finanace,Ph.D,6.2,1
+2009H0555H,Chemisty,M.E,5.43,3
+2009A0556A,Electrical and Electronics Engineering,B.E,6.77,4
+2009A0557A,Electrical and Electronics Engineering,B.E,7.93,1
+2009A0558A,Physics,B.E,8.52,1
+2009A0559A,Mathematics,B.E,6.42,3
+2009A0560A,Economics and Finanace,B.E,9.82,3
+2009A0561A,Civil Engineering,B.E,8.03,2
+2009S0562S,Humanities and Social Sciences,M.Sc,9.65,1
+2009A0563A,Computer Science and Information Systems,B.E,5.88,1
+2009A0564A,Mathematics,B.E,5.36,3
+2009P0565P,Economics and Finanace,B.Pharm,9.74,3
+2009S0566S,Mathematics,M.Sc,9.07,3
+2009A0567A,Physics,B.E,7.21,4
+2009A0568A,Mechanical Engineering,B.E,7.42,2
+2009H0569H,Economics and Finanace,M.E,9.81,4
+2009A0570A,Pharmacy,B.E,7.3,1
+2009H0571H,Humanities and Social Sciences,M.E,5.58,1
+2009A0572A,Electrical and Electronics Engineering,B.E,8.17,2
+2009S0573S,Pharmacy,M.Sc,8.51,3
+2009A0574A,Electrical and Electronics Engineering,B.E,9.78,1
+2009H0575H,Physics,M.E,9.16,2
+2009A0576A,Computer Science and Information Systems,B.E,5.47,3
+2009A0577A,Chemical Engineering,B.E,7.77,2
+2009S0578S,Humanities and Social Sciences,M.Sc,6.57,2
+2009S0579S,Mechanical Engineering,M.Sc,6.35,2
+2009H0580H,Humanities and Social Sciences,M.E,8.69,2
+2009H0581H,Physics,M.E,6.21,3
+2009D0582D,Civil Engineering,Ph.D,6.15,2
+2009A0583A,Mechanical Engineering,B.E,6.78,1
+2009S0584S,Chemical Engineering,M.Sc,9.6,4
+2009A0585A,Mechanical Engineering,B.E,5.03,1
+2009P0586P,Humanities and Social Sciences,B.Pharm,6.86,3
+2009P0587P,Humanities and Social Sciences,B.Pharm,9.49,3
+2009A0588A,Humanities and Social Sciences,B.E,5.91,3
+2009A0589A,Electrical and Electronics Engineering,B.E,6.11,2
+2009H0590H,Biological Sciences,M.E,7.63,4
+2009H0591H,Humanities and Social Sciences,M.E,9.7,1
+2009A0592A,Mathematics,B.E,6.74,2
+2009A0593A,Humanities and Social Sciences,B.E,9.88,4
+2009A0594A,Economics and Finanace,B.E,8.45,1
+2009A0595A,Pharmacy,B.E,6.05,1
+2009H0596H,Economics and Finanace,M.E,6.81,3
+2009D0597D,Chemisty,Ph.D,7.74,2
+2009P0598P,Computer Science and Information Systems,B.Pharm,7.36,3
+2009A0599A,Economics and Finanace,B.E,5.92,4
+2009A0600A,Civil Engineering,B.E,7.1,3
+2009A0601A,Economics and Finanace,B.E,9.27,3
+2009D0602D,Humanities and Social Sciences,Ph.D,5.9,2
+2009A0603A,Mechanical Engineering,B.E,8.43,1
+2009A0604A,Physics,B.E,6.35,2
+2009D0605D,Mathematics,Ph.D,7.16,4
+2009D0606D,Civil Engineering,Ph.D,5.73,2
+2009A0607A,Humanities and Social Sciences,B.E,9.03,2
+2009S0608S,Electrical and Electronics Engineering,M.Sc,7.5,3
+2009H0609H,Humanities and Social Sciences,M.E,6.5,1
+2009A0610A,Electrical and Electronics Engineering,B.E,5.49,2
+2009S0611S,Biological Sciences,M.Sc,6.08,3
+2009D0612D,Humanities and Social Sciences,Ph.D,9.19,1
+2009S0613S,Humanities and Social Sciences,M.Sc,8.72,3
+2009A0614A,Economics and Finanace,B.E,6.8,3
+2009H0615H,Economics and Finanace,M.E,5.1,1
+2009A0616A,Economics and Finanace,B.E,9.34,2
+2009A0617A,Mechanical Engineering,B.E,7.88,2
+2009H0618H,Computer Science and Information Systems,M.E,6.78,4
+2009P0619P,Humanities and Social Sciences,B.Pharm,9.45,4
+2009A0620A,Mechanical Engineering,B.E,6.43,2
+2009H0621H,Chemisty,M.E,8.2,3
+2009H0622H,Electrical and Electronics Engineering,M.E,8.16,4
+2009A0623A,Chemical Engineering,B.E,5.4,3
+2009A0624A,Civil Engineering,B.E,6.57,3
+2009A0625A,Physics,B.E,6.34,4
+2009P0626P,Computer Science and Information Systems,B.Pharm,9.44,3
+2009H0627H,Physics,M.E,7.93,4
+2009A0628A,Electrical and Electronics Engineering,B.E,5.84,1
+2009A0629A,Chemisty,B.E,8.64,3
+2009A0630A,Physics,B.E,8.5,1
+2009A0631A,Civil Engineering,B.E,5.83,1
+2009A0632A,Chemical Engineering,B.E,5.32,4
+2009A0633A,Mathematics,B.E,5.27,4
+2009A0634A,Mathematics,B.E,8.82,1
+2009P0635P,Chemical Engineering,B.Pharm,6.31,2
+2009S0636S,Chemical Engineering,M.Sc,8.27,4
+2009A0637A,Computer Science and Information Systems,B.E,6.15,3
+2009P0638P,Humanities and Social Sciences,B.Pharm,8.13,2
+2009A0639A,Mathematics,B.E,9.19,1
+2009H0640H,Biological Sciences,M.E,8.32,3
+2009A0641A,Humanities and Social Sciences,B.E,7.34,3
+2009A0642A,Mathematics,B.E,7.22,2
+2009A0643A,Mechanical Engineering,B.E,7.99,4
+2009H0644H,Mathematics,M.E,8.2,3
+2009A0645A,Economics and Finanace,B.E,7.41,2
+2009P0646P,Chemical Engineering,B.Pharm,7.21,3
+2009D0647D,Electrical and Electronics Engineering,Ph.D,6.3,3
+2009P0648P,Biological Sciences,B.Pharm,5.0,2
+2009S0649S,Economics and Finanace,M.Sc,6.43,1
+2009A0650A,Physics,B.E,9.61,4
+2009H0651H,Computer Science and Information Systems,M.E,5.05,4
+2009H0652H,Computer Science and Information Systems,M.E,7.99,1
+2009H0653H,Mathematics,M.E,6.87,4
+2009A0654A,Mathematics,B.E,7.19,2
+2009A0655A,Chemisty,B.E,8.57,4
+2009A0656A,Electrical and Electronics Engineering,B.E,6.1,1
+2009A0657A,Electrical and Electronics Engineering,B.E,8.13,3
+2009A0658A,Computer Science and Information Systems,B.E,8.24,3
+2009A0659A,Electrical and Electronics Engineering,B.E,5.94,1
+2009A0660A,Chemisty,B.E,5.68,1
+2009A0661A,Pharmacy,B.E,7.28,4
+2009S0662S,Computer Science and Information Systems,M.Sc,8.5,4
+2009A0663A,Civil Engineering,B.E,6.6,2
+2009A0664A,Biological Sciences,B.E,9.85,1
+2009A0665A,Chemisty,B.E,9.86,3
+2009H0666H,Computer Science and Information Systems,M.E,5.63,4
+2009A0667A,Physics,B.E,5.04,1
+2009A0668A,Chemisty,B.E,5.07,2
+2009A0669A,Economics and Finanace,B.E,7.1,4
+2009A0670A,Economics and Finanace,B.E,7.32,1
+2009A0671A,Economics and Finanace,B.E,5.4,2
+2009H0672H,Biological Sciences,M.E,6.33,4
+2009H0673H,Chemical Engineering,M.E,7.72,2
+2009H0674H,Civil Engineering,M.E,9.48,3
+2009H0675H,Electrical and Electronics Engineering,M.E,9.14,1
+2009H0676H,Physics,M.E,6.24,4
+2009A0677A,Civil Engineering,B.E,8.69,1
+2009H0678H,Civil Engineering,M.E,7.3,1
+2009A0679A,Mathematics,B.E,8.33,2
+2009S0680S,Humanities and Social Sciences,M.Sc,6.95,3
+2009A0681A,Economics and Finanace,B.E,5.79,1
+2009P0682P,Chemical Engineering,B.Pharm,6.27,3
+2009A0683A,Civil Engineering,B.E,6.8,1
+2009A0684A,Pharmacy,B.E,6.09,1
+2009A0685A,Civil Engineering,B.E,8.16,3
+2009A0686A,Biological Sciences,B.E,5.84,3
+2009A0687A,Mechanical Engineering,B.E,5.6,2
+2009D0688D,Biological Sciences,Ph.D,9.84,4
+2009H0689H,Physics,M.E,7.98,3
+2009A0690A,Chemical Engineering,B.E,6.24,4
+2009A0691A,Chemical Engineering,B.E,8.43,3
+2009H0692H,Pharmacy,M.E,5.3,3
+2009A0693A,Pharmacy,B.E,5.77,1
+2009H0694H,Chemisty,M.E,7.44,3
+2009A0695A,Mathematics,B.E,8.94,3
+2009S0696S,Humanities and Social Sciences,M.Sc,8.67,1
+2009H0697H,Physics,M.E,6.89,2
+2009A0698A,Computer Science and Information Systems,B.E,9.49,4
+2009A0699A,Physics,B.E,7.19,3
+2009P0700P,Humanities and Social Sciences,B.Pharm,5.95,2
+2009A0701A,Mathematics,B.E,6.74,4
+2009A0702A,Computer Science and Information Systems,B.E,9.34,2
+2009S0703S,Chemical Engineering,M.Sc,7.66,4
+2009A0704A,Computer Science and Information Systems,B.E,9.1,3
+2009A0705A,Humanities and Social Sciences,B.E,5.0,4
+2009A0706A,Physics,B.E,5.93,1
+2009S0707S,Mechanical Engineering,M.Sc,9.28,2
+2009H0708H,Economics and Finanace,M.E,8.61,4
+2009A0709A,Civil Engineering,B.E,7.62,4
+2009A0710A,Mathematics,B.E,5.77,3
+2009A0711A,Economics and Finanace,B.E,7.05,3
+2009A0712A,Chemical Engineering,B.E,5.48,1
+2009H0713H,Biological Sciences,M.E,9.18,2
+2009A0714A,Chemisty,B.E,9.37,2
+2009A0715A,Chemical Engineering,B.E,7.43,1
+2009A0716A,Biological Sciences,B.E,7.86,4
+2009H0717H,Pharmacy,M.E,7.45,3
+2009A0718A,Biological Sciences,B.E,6.83,1
+2009D0719D,Biological Sciences,Ph.D,9.65,2
+2009P0720P,Pharmacy,B.Pharm,7.46,1
+2009A0721A,Humanities and Social Sciences,B.E,9.01,1
+2009A0722A,Economics and Finanace,B.E,7.79,4
+2009H0723H,Economics and Finanace,M.E,8.97,1
+2009A0724A,Mechanical Engineering,B.E,6.33,1
+2009H0725H,Physics,M.E,5.35,3
+2009D0726D,Chemical Engineering,Ph.D,9.72,1
+2009P0727P,Chemical Engineering,B.Pharm,8.63,4
+2009D0728D,Civil Engineering,Ph.D,5.97,2
+2009S0729S,Mechanical Engineering,M.Sc,8.13,2
+2009P0730P,Electrical and Electronics Engineering,B.Pharm,8.73,3
+2009A0731A,Pharmacy,B.E,7.29,4
+2009A0732A,Chemical Engineering,B.E,5.83,2
+2009A0733A,Mathematics,B.E,7.01,3
+2009A0734A,Pharmacy,B.E,5.79,4
+2009P0735P,Economics and Finanace,B.Pharm,9.51,3
+2009A0736A,Economics and Finanace,B.E,7.06,4
+2009A0737A,Physics,B.E,6.62,2
+2009H0738H,Mechanical Engineering,M.E,7.73,4
+2009A0739A,Mathematics,B.E,9.63,3
+2009H0740H,Economics and Finanace,M.E,9.81,4
+2009H0741H,Electrical and Electronics Engineering,M.E,5.0,1
+2009A0742A,Computer Science and Information Systems,B.E,7.98,2
+2009A0743A,Computer Science and Information Systems,B.E,5.03,2
+2009H0744H,Civil Engineering,M.E,9.28,1
+2009A0745A,Physics,B.E,9.11,2
+2009A0746A,Chemical Engineering,B.E,5.19,3
+2009A0747A,Chemisty,B.E,5.69,3
+2009H0748H,Mechanical Engineering,M.E,6.25,3
+2009P0749P,Computer Science and Information Systems,B.Pharm,5.46,4
+2009P0750P,Mechanical Engineering,B.Pharm,9.59,1
+2009S0751S,Physics,M.Sc,6.62,4
+2009A0752A,Chemisty,B.E,7.44,1
+2009P0753P,Mechanical Engineering,B.Pharm,8.21,1
+2009H0754H,Physics,M.E,9.04,4
+2009A0755A,Chemical Engineering,B.E,8.9,3
+2009A0756A,Economics and Finanace,B.E,9.4,4
+2009A0757A,Electrical and Electronics Engineering,B.E,9.65,1
+2009H0758H,Civil Engineering,M.E,8.74,1
+2009A0759A,Pharmacy,B.E,8.89,4
+2009S0760S,Biological Sciences,M.Sc,6.52,1
+2009A0761A,Economics and Finanace,B.E,7.7,2
+2009A0762A,Economics and Finanace,B.E,7.51,2
+2009A0763A,Chemisty,B.E,5.25,4
+2009A0764A,Humanities and Social Sciences,B.E,8.76,1
+2009A0765A,Civil Engineering,B.E,7.16,4
+2009H0766H,Chemisty,M.E,5.66,1
+2009A0767A,Humanities and Social Sciences,B.E,7.86,1
+2009H0768H,Mathematics,M.E,7.0,1
+2009A0769A,Electrical and Electronics Engineering,B.E,7.51,2
+2009A0770A,Chemisty,B.E,7.4,2
+2009A0771A,Humanities and Social Sciences,B.E,6.98,2
+2009D0772D,Mathematics,Ph.D,8.08,2
+2009A0773A,Civil Engineering,B.E,5.36,4
+2009A0774A,Economics and Finanace,B.E,8.42,1
+2009D0775D,Chemical Engineering,Ph.D,8.36,4
+2009H0776H,Economics and Finanace,M.E,6.74,3
+2009A0777A,Economics and Finanace,B.E,7.97,1
+2009H0778H,Computer Science and Information Systems,M.E,5.85,3
+2009A0779A,Mechanical Engineering,B.E,9.11,4
+2009A0780A,Mechanical Engineering,B.E,5.73,1
+2009P0781P,Civil Engineering,B.Pharm,6.0,3
+2009P0782P,Chemisty,B.Pharm,8.79,1
+2009A0783A,Chemical Engineering,B.E,8.7,2
+2009A0784A,Mechanical Engineering,B.E,9.63,3
+2009H0785H,Biological Sciences,M.E,6.72,1
+2009A0786A,Computer Science and Information Systems,B.E,7.25,1
+2009A0787A,Economics and Finanace,B.E,6.05,2
+2009D0788D,Civil Engineering,Ph.D,7.73,3
+2009H0789H,Mathematics,M.E,7.42,2
+2009S0790S,Physics,M.Sc,8.49,1
+2009A0791A,Electrical and Electronics Engineering,B.E,7.92,1
+2009A0792A,Computer Science and Information Systems,B.E,5.85,3
+2009H0793H,Civil Engineering,M.E,8.95,3
+2009P0794P,Biological Sciences,B.Pharm,7.32,1
+2009A0795A,Chemical Engineering,B.E,6.94,3
+2009D0796D,Pharmacy,Ph.D,9.26,3
+2009P0797P,Chemical Engineering,B.Pharm,5.1,4
+2009A0798A,Civil Engineering,B.E,9.9,1
+2009A0799A,Economics and Finanace,B.E,7.42,1
+2009H0800H,Chemisty,M.E,5.99,4
+2009A0801A,Mathematics,B.E,9.63,1
+2009A0802A,Biological Sciences,B.E,6.24,3
+2009A0803A,Economics and Finanace,B.E,7.45,2
+2009P0804P,Biological Sciences,B.Pharm,6.73,3
+2009S0805S,Economics and Finanace,M.Sc,8.13,2
+2009A0806A,Mathematics,B.E,6.38,1
+2009D0807D,Pharmacy,Ph.D,6.29,4
+2009A0808A,Biological Sciences,B.E,9.72,3
+2009A0809A,Civil Engineering,B.E,5.76,4
+2009H0810H,Pharmacy,M.E,5.69,4
+2009A0811A,Mathematics,B.E,9.8,2
+2009H0812H,Electrical and Electronics Engineering,M.E,6.2,2
+2009S0813S,Electrical and Electronics Engineering,M.Sc,9.85,3
+2009H0814H,Humanities and Social Sciences,M.E,7.71,2
+2009D0815D,Pharmacy,Ph.D,5.69,2
+2009P0816P,Chemisty,B.Pharm,6.54,2
+2009H0817H,Electrical and Electronics Engineering,M.E,9.98,2
+2009A0818A,Pharmacy,B.E,9.67,2
+2009P0819P,Economics and Finanace,B.Pharm,5.34,1
+2009A0820A,Chemisty,B.E,6.59,2
+2009A0821A,Physics,B.E,5.15,3
+2009H0822H,Electrical and Electronics Engineering,M.E,9.81,3
+2009A0823A,Humanities and Social Sciences,B.E,8.73,3
+2009H0824H,Chemisty,M.E,8.9,1
+2009D0825D,Chemisty,Ph.D,5.92,3
+2009A0826A,Mechanical Engineering,B.E,7.84,2
+2009A0827A,Mechanical Engineering,B.E,6.16,1
+2009S0828S,Economics and Finanace,M.Sc,5.4,4
+2009A0829A,Chemisty,B.E,7.51,4
+2009A0830A,Physics,B.E,8.25,2
+2009P0831P,Electrical and Electronics Engineering,B.Pharm,7.46,2
+2009S0832S,Chemisty,M.Sc,5.97,1
+2009H0833H,Electrical and Electronics Engineering,M.E,8.82,1
+2009H0834H,Computer Science and Information Systems,M.E,9.75,2
+2009A0835A,Physics,B.E,8.36,2
+2009A0836A,Civil Engineering,B.E,5.33,4
+2009H0837H,Mechanical Engineering,M.E,7.45,3
+2009S0838S,Humanities and Social Sciences,M.Sc,9.44,4
+2009D0839D,Electrical and Electronics Engineering,Ph.D,8.88,4
+2009A0840A,Physics,B.E,6.56,1
+2009A0841A,Mathematics,B.E,5.55,4
+2009S0842S,Biological Sciences,M.Sc,9.39,2
+2009A0843A,Mathematics,B.E,7.69,1
+2009A0844A,Mathematics,B.E,6.94,1
+2009H0845H,Civil Engineering,M.E,6.46,4
+2009S0846S,Computer Science and Information Systems,M.Sc,8.87,3
+2009H0847H,Humanities and Social Sciences,M.E,5.83,3
+2009A0848A,Mechanical Engineering,B.E,9.6,2
+2009H0849H,Humanities and Social Sciences,M.E,9.15,4
+2009H0850H,Chemical Engineering,M.E,8.61,1
+2009H0851H,Chemisty,M.E,8.89,2
+2009A0852A,Electrical and Electronics Engineering,B.E,7.07,4
+2009A0853A,Biological Sciences,B.E,5.89,2
+2009H0854H,Humanities and Social Sciences,M.E,5.45,3
+2009A0855A,Physics,B.E,8.24,2
+2009A0856A,Physics,B.E,8.67,1
+2009P0857P,Chemical Engineering,B.Pharm,8.53,3
+2009A0858A,Chemical Engineering,B.E,7.62,4
+2009P0859P,Mechanical Engineering,B.Pharm,9.75,4
+2009A0860A,Mathematics,B.E,6.9,2
+2009A0861A,Economics and Finanace,B.E,7.83,2
+2009A0862A,Chemisty,B.E,9.34,2
+2009A0863A,Physics,B.E,5.26,3
+2009H0864H,Computer Science and Information Systems,M.E,8.65,4
+2009H0865H,Computer Science and Information Systems,M.E,8.13,1
+2009H0866H,Chemisty,M.E,9.8,1
+2009D0867D,Mechanical Engineering,Ph.D,8.83,1
+2009A0868A,Humanities and Social Sciences,B.E,7.49,4
+2009A0869A,Mathematics,B.E,9.04,4
+2009P0870P,Civil Engineering,B.Pharm,6.08,4
+2009A0871A,Humanities and Social Sciences,B.E,7.05,1
+2009A0872A,Mechanical Engineering,B.E,8.0,2
+2009A0873A,Mathematics,B.E,6.39,2
+2009P0874P,Biological Sciences,B.Pharm,5.92,1
+2009A0875A,Pharmacy,B.E,6.75,2
+2009H0876H,Biological Sciences,M.E,8.33,3
+2009S0877S,Economics and Finanace,M.Sc,9.6,1
+2009S0878S,Chemical Engineering,M.Sc,7.08,2
+2009A0879A,Chemisty,B.E,8.36,2
+2009A0880A,Humanities and Social Sciences,B.E,8.75,3
+2009P0881P,Biological Sciences,B.Pharm,5.47,3
+2009H0882H,Economics and Finanace,M.E,6.84,4
+2009S0883S,Chemical Engineering,M.Sc,8.79,1
+2009H0884H,Computer Science and Information Systems,M.E,7.35,1
+2009A0885A,Physics,B.E,9.3,3
+2009A0886A,Mathematics,B.E,7.07,2
+2009H0887H,Physics,M.E,6.05,1
+2009S0888S,Chemical Engineering,M.Sc,7.86,1
+2009P0889P,Humanities and Social Sciences,B.Pharm,8.62,3
+2009P0890P,Electrical and Electronics Engineering,B.Pharm,8.04,3
+2009A0891A,Computer Science and Information Systems,B.E,7.63,3
+2009H0892H,Chemisty,M.E,8.07,4
+2009D0893D,Mathematics,Ph.D,8.65,4
+2009A0894A,Humanities and Social Sciences,B.E,9.04,2
+2009A0895A,Physics,B.E,6.45,2
+2009A0896A,Biological Sciences,B.E,5.59,4
+2009P0897P,Pharmacy,B.Pharm,8.98,2
+2009A0898A,Mechanical Engineering,B.E,9.99,4
+2009A0899A,Biological Sciences,B.E,6.67,2
+2009A0900A,Biological Sciences,B.E,8.2,3
+2009A0901A,Computer Science and Information Systems,B.E,8.95,3
+2009A0902A,Computer Science and Information Systems,B.E,7.53,3
+2009A0903A,Biological Sciences,B.E,5.57,3
+2009A0904A,Economics and Finanace,B.E,6.98,1
+2009P0905P,Chemisty,B.Pharm,5.97,3
+2009A0906A,Pharmacy,B.E,7.4,4
+2009S0907S,Biological Sciences,M.Sc,8.23,4
+2009A0908A,Chemisty,B.E,8.14,3
+2009A0909A,Humanities and Social Sciences,B.E,8.92,4
+2009A0910A,Physics,B.E,5.28,3
+2009H0911H,Mechanical Engineering,M.E,8.62,3
+2009A0912A,Mathematics,B.E,7.68,2
+2009A0913A,Mechanical Engineering,B.E,8.43,3
+2009A0914A,Chemical Engineering,B.E,9.85,3
+2009D0915D,Biological Sciences,Ph.D,6.7,4
+2009A0916A,Pharmacy,B.E,7.67,2
+2009A0917A,Mechanical Engineering,B.E,8.03,2
+2009H0918H,Mechanical Engineering,M.E,5.58,3
+2009A0919A,Physics,B.E,9.29,1
+2009H0920H,Computer Science and Information Systems,M.E,7.07,4
+2009D0921D,Civil Engineering,Ph.D,6.86,3
+2009S0922S,Civil Engineering,M.Sc,7.63,2
+2009D0923D,Chemical Engineering,Ph.D,6.87,1
+2009S0924S,Civil Engineering,M.Sc,9.57,4
+2009A0925A,Mathematics,B.E,5.12,4
+2009A0926A,Mathematics,B.E,5.77,3
+2009A0927A,Humanities and Social Sciences,B.E,8.66,3
+2009A0928A,Economics and Finanace,B.E,5.72,1
+2009A0929A,Mathematics,B.E,8.38,2
+2009A0930A,Civil Engineering,B.E,8.62,4
+2009D0931D,Electrical and Electronics Engineering,Ph.D,8.57,1
+2009S0932S,Biological Sciences,M.Sc,6.55,1
+2009A0933A,Pharmacy,B.E,9.24,1
+2009A0934A,Economics and Finanace,B.E,7.33,1
+2009A0935A,Chemical Engineering,B.E,7.6,3
+2009A0936A,Biological Sciences,B.E,7.89,3
+2009A0937A,Pharmacy,B.E,9.46,3
+2009A0938A,Civil Engineering,B.E,5.96,3
+2009H0939H,Mathematics,M.E,6.6,4
+2009A0940A,Pharmacy,B.E,5.59,2
+2009A0941A,Chemisty,B.E,6.37,1
+2009H0942H,Mechanical Engineering,M.E,7.8,1
+2009D0943D,Civil Engineering,Ph.D,7.71,3
+2009P0944P,Computer Science and Information Systems,B.Pharm,5.71,3
+2009S0945S,Mechanical Engineering,M.Sc,6.22,1
+2009D0946D,Computer Science and Information Systems,Ph.D,8.07,3
+2009A0947A,Mathematics,B.E,7.22,2
+2009H0948H,Biological Sciences,M.E,7.35,1
+2009P0949P,Chemical Engineering,B.Pharm,6.92,1
+2009H0950H,Electrical and Electronics Engineering,M.E,6.96,4
+2009A0951A,Mechanical Engineering,B.E,6.78,3
+2009A0952A,Civil Engineering,B.E,8.56,1
+2009A0953A,Humanities and Social Sciences,B.E,7.84,1
+2009A0954A,Physics,B.E,7.34,4
+2009S0955S,Computer Science and Information Systems,M.Sc,8.42,4
+2009A0956A,Humanities and Social Sciences,B.E,6.16,2
+2009P0957P,Chemisty,B.Pharm,9.31,3
+2009A0958A,Economics and Finanace,B.E,6.96,3
+2009S0959S,Economics and Finanace,M.Sc,7.27,1
+2009H0960H,Chemical Engineering,M.E,7.38,3
+2009A0961A,Humanities and Social Sciences,B.E,7.31,2
+2009A0962A,Computer Science and Information Systems,B.E,8.84,2
+2009D0963D,Mathematics,Ph.D,5.51,1
+2009H0964H,Economics and Finanace,M.E,7.78,1
+2009S0965S,Computer Science and Information Systems,M.Sc,7.66,4
+2009P0966P,Mechanical Engineering,B.Pharm,7.07,2
+2009H0967H,Mathematics,M.E,5.8,4
+2009D0968D,Electrical and Electronics Engineering,Ph.D,5.33,2
+2009H0969H,Physics,M.E,7.95,4
+2009A0970A,Mechanical Engineering,B.E,8.94,2
+2009S0971S,Chemisty,M.Sc,8.31,1
+2009H0972H,Physics,M.E,9.65,4
+2009D0973D,Chemical Engineering,Ph.D,7.96,4
+2009A0974A,Economics and Finanace,B.E,7.78,4
+2009A0975A,Chemisty,B.E,6.54,4
+2009H0976H,Chemical Engineering,M.E,7.99,4
+2009A0977A,Economics and Finanace,B.E,7.47,1
+2009A0978A,Chemical Engineering,B.E,6.09,2
+2009A0979A,Mechanical Engineering,B.E,9.52,1
+2009S0980S,Chemisty,M.Sc,8.3,4
+2009S0981S,Mathematics,M.Sc,6.46,4
+2009A0982A,Civil Engineering,B.E,6.03,3
+2009D0983D,Computer Science and Information Systems,Ph.D,7.85,3
+2009H0984H,Electrical and Electronics Engineering,M.E,8.59,3
+2009D0985D,Chemical Engineering,Ph.D,7.91,4
+2009H0986H,Chemisty,M.E,9.26,1
+2009P0987P,Economics and Finanace,B.Pharm,9.51,1
+2009A0988A,Biological Sciences,B.E,8.52,3
+2009D0989D,Chemical Engineering,Ph.D,9.31,1
+2009A0990A,Civil Engineering,B.E,7.16,4
+2009S0991S,Pharmacy,M.Sc,6.59,4
+2009A0992A,Electrical and Electronics Engineering,B.E,6.91,2
+2009A0993A,Pharmacy,B.E,5.87,2
+2009D0994D,Civil Engineering,Ph.D,7.78,3
+2009A0995A,Electrical and Electronics Engineering,B.E,5.77,2
+2009H0996H,Chemisty,M.E,5.06,1
+2009H0997H,Chemisty,M.E,8.61,4
+2009H0998H,Pharmacy,M.E,7.18,2
+2009A0999A,Chemical Engineering,B.E,5.69,4
+2009P1000P,Humanities and Social Sciences,B.Pharm,9.47,4
+2009H1001H,Mechanical Engineering,M.E,5.9,4
+2009D1002D,Mathematics,Ph.D,9.1,4
+2009D1003D,Economics and Finanace,Ph.D,6.13,4
+2009A1004A,Mechanical Engineering,B.E,5.04,4
+2009S1005S,Physics,M.Sc,6.18,3
+2009A1006A,Electrical and Electronics Engineering,B.E,9.63,3
+2009A1007A,Biological Sciences,B.E,9.89,4
+2009A1008A,Physics,B.E,6.84,4
+2009A1009A,Physics,B.E,5.4,3
+2009A1010A,Humanities and Social Sciences,B.E,7.58,1
+2009P1011P,Civil Engineering,B.Pharm,7.36,1
+2009P1012P,Pharmacy,B.Pharm,8.17,3
+2009A1013A,Mechanical Engineering,B.E,5.26,3
+2009A1014A,Mathematics,B.E,8.89,4
+2009S1015S,Humanities and Social Sciences,M.Sc,7.56,4
+2009H1016H,Mechanical Engineering,M.E,8.67,4
+2009H1017H,Economics and Finanace,M.E,9.8,3
+2009D1018D,Computer Science and Information Systems,Ph.D,5.84,3
+2009S1019S,Physics,M.Sc,8.93,3
+2009S1020S,Biological Sciences,M.Sc,8.15,2
+2009H1021H,Mechanical Engineering,M.E,5.26,3
+2009A1022A,Physics,B.E,8.12,3
+2009D1023D,Humanities and Social Sciences,Ph.D,5.41,1
+2009H1024H,Computer Science and Information Systems,M.E,6.26,3
+2009A1025A,Computer Science and Information Systems,B.E,9.29,1
+2009H1026H,Physics,M.E,5.56,2
+2009A1027A,Mechanical Engineering,B.E,8.69,4
+2009H1028H,Economics and Finanace,M.E,9.04,3
+2009A1029A,Physics,B.E,6.18,2
+2009A1030A,Mathematics,B.E,9.31,3
+2009P1031P,Chemical Engineering,B.Pharm,9.84,2
+2009A1032A,Humanities and Social Sciences,B.E,8.76,4
+2009A1033A,Electrical and Electronics Engineering,B.E,6.19,4
+2009S1034S,Physics,M.Sc,8.19,2
+2009A1035A,Mechanical Engineering,B.E,8.67,3
+2009H1036H,Biological Sciences,M.E,8.21,1
+2009H1037H,Biological Sciences,M.E,5.84,4
+2009A1038A,Humanities and Social Sciences,B.E,6.51,2
+2009A1039A,Electrical and Electronics Engineering,B.E,8.42,4
+2009A1040A,Humanities and Social Sciences,B.E,6.31,4
+2009A1041A,Biological Sciences,B.E,6.44,4
+2009D1042D,Electrical and Electronics Engineering,Ph.D,8.39,1
+2009A1043A,Chemical Engineering,B.E,9.59,3
+2009D1044D,Electrical and Electronics Engineering,Ph.D,8.05,3
+2009A1045A,Economics and Finanace,B.E,6.35,1
+2009A1046A,Computer Science and Information Systems,B.E,8.27,4
+2009H1047H,Humanities and Social Sciences,M.E,8.87,2
+2009A1048A,Physics,B.E,8.36,2
+2009P1049P,Economics and Finanace,B.Pharm,8.39,2
+2009H1050H,Economics and Finanace,M.E,7.74,1
+2009A1051A,Chemical Engineering,B.E,5.06,1
+2009D1052D,Mathematics,Ph.D,5.52,4
+2009H1053H,Economics and Finanace,M.E,6.1,3
+2009H1054H,Computer Science and Information Systems,M.E,5.97,1
+2009A1055A,Mechanical Engineering,B.E,5.46,2
+2009D1056D,Mechanical Engineering,Ph.D,8.19,1
+2009A1057A,Chemical Engineering,B.E,9.28,2
+2009A1058A,Electrical and Electronics Engineering,B.E,8.28,2
+2009A1059A,Chemical Engineering,B.E,8.48,3
+2009A1060A,Computer Science and Information Systems,B.E,7.33,1
+2009H1061H,Pharmacy,M.E,7.27,3
+2009A1062A,Electrical and Electronics Engineering,B.E,8.46,3
+2009H1063H,Computer Science and Information Systems,M.E,5.81,1
+2009P1064P,Computer Science and Information Systems,B.Pharm,8.89,4
+2009A1065A,Electrical and Electronics Engineering,B.E,6.66,1
+2009A1066A,Computer Science and Information Systems,B.E,9.78,3
+2009H1067H,Chemisty,M.E,7.2,4
+2009A1068A,Civil Engineering,B.E,8.05,2
+2009A1069A,Pharmacy,B.E,7.46,2
+2009P1070P,Electrical and Electronics Engineering,B.Pharm,6.09,1
+2009P1071P,Humanities and Social Sciences,B.Pharm,8.58,1
+2009A1072A,Biological Sciences,B.E,5.36,3
+2009A1073A,Humanities and Social Sciences,B.E,5.09,4
+2009S1074S,Chemisty,M.Sc,8.26,1
+2009A1075A,Biological Sciences,B.E,8.32,3
+2009A1076A,Chemisty,B.E,8.5,4
+2009A1077A,Mechanical Engineering,B.E,5.02,4
+2009A1078A,Humanities and Social Sciences,B.E,7.18,1
+2009A1079A,Mathematics,B.E,6.13,4
+2009A1080A,Physics,B.E,9.09,4
+2009A1081A,Chemical Engineering,B.E,7.84,3
+2009A1082A,Economics and Finanace,B.E,8.41,4
+2009A1083A,Biological Sciences,B.E,8.16,1
+2009H1084H,Economics and Finanace,M.E,7.67,3
+2009A1085A,Chemical Engineering,B.E,9.21,3
+2009D1086D,Pharmacy,Ph.D,6.02,1
+2009A1087A,Electrical and Electronics Engineering,B.E,8.3,3
+2009S1088S,Physics,M.Sc,6.95,1
+2009H1089H,Pharmacy,M.E,8.44,4
+2009H1090H,Chemical Engineering,M.E,9.43,4
+2009H1091H,Physics,M.E,5.95,1
+2009A1092A,Civil Engineering,B.E,5.13,2
+2009A1093A,Humanities and Social Sciences,B.E,6.94,3
+2009P1094P,Humanities and Social Sciences,B.Pharm,7.67,4
+2009H1095H,Biological Sciences,M.E,5.19,1
+2009A1096A,Economics and Finanace,B.E,8.94,1
+2009A1097A,Electrical and Electronics Engineering,B.E,5.59,4
+2009A1098A,Pharmacy,B.E,9.35,2
+2009P1099P,Mechanical Engineering,B.Pharm,6.16,1
+2009A1100A,Biological Sciences,B.E,8.68,4
+2009P1101P,Pharmacy,B.Pharm,5.1,1
+2009P1102P,Civil Engineering,B.Pharm,8.51,2
+2009P1103P,Biological Sciences,B.Pharm,5.86,1
+2009P1104P,Computer Science and Information Systems,B.Pharm,9.1,1
+2009A1105A,Humanities and Social Sciences,B.E,8.06,1
+2009A1106A,Chemical Engineering,B.E,5.57,2
+2009S1107S,Chemical Engineering,M.Sc,9.02,4
+2009A1108A,Economics and Finanace,B.E,9.06,4
+2009A1109A,Economics and Finanace,B.E,5.6,2
+2009H1110H,Economics and Finanace,M.E,9.18,2
+2009H1111H,Biological Sciences,M.E,7.97,3
+2009S1112S,Chemical Engineering,M.Sc,5.6,2
+2009S1113S,Electrical and Electronics Engineering,M.Sc,5.84,3
+2009S1114S,Mathematics,M.Sc,5.83,2
+2009H1115H,Mechanical Engineering,M.E,5.2,1
+2009A1116A,Pharmacy,B.E,8.06,2
+2009A1117A,Biological Sciences,B.E,9.4,1
+2009A1118A,Biological Sciences,B.E,5.04,1
+2009H1119H,Physics,M.E,8.26,3
+2009A1120A,Electrical and Electronics Engineering,B.E,8.47,4
+2009D1121D,Physics,Ph.D,5.63,2
+2009A1122A,Pharmacy,B.E,6.35,4
+2009A1123A,Electrical and Electronics Engineering,B.E,6.2,2
+2009A1124A,Mechanical Engineering,B.E,8.46,2
+2009H1125H,Physics,M.E,7.5,1
+2009A1126A,Pharmacy,B.E,9.13,3
+2009A1127A,Economics and Finanace,B.E,7.09,2
+2009A1128A,Civil Engineering,B.E,5.59,1
+2009H1129H,Mechanical Engineering,M.E,6.81,2
+2009P1130P,Humanities and Social Sciences,B.Pharm,8.85,2
+2009A1131A,Computer Science and Information Systems,B.E,5.27,1
+2009P1132P,Chemisty,B.Pharm,8.43,4
+2009S1133S,Humanities and Social Sciences,M.Sc,5.88,1
+2009D1134D,Biological Sciences,Ph.D,8.22,3
+2009S1135S,Civil Engineering,M.Sc,7.17,3
+2009A1136A,Mechanical Engineering,B.E,9.03,4
+2009D1137D,Biological Sciences,Ph.D,5.52,1
+2009S1138S,Mathematics,M.Sc,5.88,1
+2009A1139A,Humanities and Social Sciences,B.E,7.57,1
+2009D1140D,Civil Engineering,Ph.D,8.61,3
+2009A1141A,Electrical and Electronics Engineering,B.E,5.99,3
+2009A1142A,Civil Engineering,B.E,8.89,3
+2009A1143A,Civil Engineering,B.E,5.49,4
+2009A1144A,Civil Engineering,B.E,6.88,2
+2009A1145A,Chemical Engineering,B.E,7.35,4
+2009A1146A,Biological Sciences,B.E,9.45,2
+2009D1147D,Civil Engineering,Ph.D,9.64,4
+2009P1148P,Chemisty,B.Pharm,6.94,2
+2009A1149A,Humanities and Social Sciences,B.E,8.6,3
+2009A1150A,Computer Science and Information Systems,B.E,6.01,2
+2009S1151S,Biological Sciences,M.Sc,8.46,1
+2009A1152A,Computer Science and Information Systems,B.E,5.68,4
+2009S1153S,Humanities and Social Sciences,M.Sc,7.09,3
+2009S1154S,Civil Engineering,M.Sc,9.43,2
+2009A1155A,Pharmacy,B.E,9.76,2
+2009A1156A,Mechanical Engineering,B.E,9.85,2
+2009S1157S,Chemical Engineering,M.Sc,7.06,4
+2009A1158A,Civil Engineering,B.E,7.96,4
+2009A1159A,Computer Science and Information Systems,B.E,5.07,4
+2009A1160A,Physics,B.E,9.36,2
+2009H1161H,Economics and Finanace,M.E,7.17,2
+2009A1162A,Mechanical Engineering,B.E,9.73,1
+2009D1163D,Electrical and Electronics Engineering,Ph.D,9.9,1
+2009A1164A,Humanities and Social Sciences,B.E,8.67,1
+2009H1165H,Electrical and Electronics Engineering,M.E,7.66,4
+2009A1166A,Physics,B.E,9.11,4
+2009P1167P,Humanities and Social Sciences,B.Pharm,6.2,1
+2009H1168H,Physics,M.E,8.66,2
+2009A1169A,Chemisty,B.E,6.79,2
+2009A1170A,Pharmacy,B.E,9.99,1
+2009A1171A,Humanities and Social Sciences,B.E,8.35,2
+2009A1172A,Physics,B.E,7.3,1
+2009H1173H,Humanities and Social Sciences,M.E,7.32,2
+2009A1174A,Physics,B.E,7.03,3
+2009S1175S,Pharmacy,M.Sc,7.32,1
+2009A1176A,Pharmacy,B.E,5.35,3
+2009H1177H,Mathematics,M.E,5.16,4
+2009H1178H,Computer Science and Information Systems,M.E,8.49,2
+2009A1179A,Pharmacy,B.E,5.4,3
+2009P1180P,Biological Sciences,B.Pharm,7.57,3
+2009H1181H,Biological Sciences,M.E,5.55,3
+2009D1182D,Humanities and Social Sciences,Ph.D,8.1,3
+2009S1183S,Economics and Finanace,M.Sc,5.88,1
+2009A1184A,Mathematics,B.E,8.55,2
+2009A1185A,Chemisty,B.E,9.91,2
+2009D1186D,Mathematics,Ph.D,5.57,4
+2009A1187A,Physics,B.E,9.7,2
+2009A1188A,Physics,B.E,8.8,3
+2009A1189A,Economics and Finanace,B.E,9.49,4
+2009P1190P,Computer Science and Information Systems,B.Pharm,5.27,3
+2009A1191A,Economics and Finanace,B.E,7.26,1
+2009P1192P,Humanities and Social Sciences,B.Pharm,8.55,3
+2009A1193A,Humanities and Social Sciences,B.E,8.1,1
+2009A1194A,Civil Engineering,B.E,9.46,4
+2009A1195A,Chemical Engineering,B.E,5.4,2
+2009H1196H,Computer Science and Information Systems,M.E,9.79,1
+2009H1197H,Chemical Engineering,M.E,5.82,1
+2009A1198A,Physics,B.E,5.74,2
+2009P1199P,Civil Engineering,B.Pharm,7.6,1
+2009S1200S,Computer Science and Information Systems,M.Sc,7.08,2
+2009H1201H,Humanities and Social Sciences,M.E,6.73,4
+2009H1202H,Physics,M.E,8.22,3
+2009A1203A,Civil Engineering,B.E,5.31,2
+2009D1204D,Mathematics,Ph.D,8.22,4
+2009H1205H,Mechanical Engineering,M.E,6.71,3
+2009P1206P,Humanities and Social Sciences,B.Pharm,7.97,4
+2009S1207S,Humanities and Social Sciences,M.Sc,6.52,2
+2009A1208A,Computer Science and Information Systems,B.E,5.86,3
+2009A1209A,Civil Engineering,B.E,7.42,3
+2009H1210H,Biological Sciences,M.E,5.74,3
+2009D1211D,Humanities and Social Sciences,Ph.D,9.78,2
+2009S1212S,Physics,M.Sc,7.68,2
+2009H1213H,Chemisty,M.E,9.2,2
+2009H1214H,Chemisty,M.E,6.19,1
+2009D1215D,Economics and Finanace,Ph.D,7.87,4
+2009A1216A,Computer Science and Information Systems,B.E,6.85,2
+2009A1217A,Mathematics,B.E,8.54,3
+2009A1218A,Economics and Finanace,B.E,5.74,4
+2009A1219A,Mathematics,B.E,9.88,3
+2009A1220A,Chemical Engineering,B.E,9.6,4
+2009A1221A,Humanities and Social Sciences,B.E,8.84,4
+2009D1222D,Economics and Finanace,Ph.D,5.78,3
+2009A1223A,Pharmacy,B.E,8.53,4
+2009H1224H,Computer Science and Information Systems,M.E,9.85,2
+2009P1225P,Mechanical Engineering,B.Pharm,8.64,4
+2009A1226A,Economics and Finanace,B.E,8.45,4
+2009H1227H,Biological Sciences,M.E,5.7,1
+2009A1228A,Computer Science and Information Systems,B.E,5.12,2
+2009A1229A,Humanities and Social Sciences,B.E,6.79,3
+2009D1230D,Biological Sciences,Ph.D,8.04,2
+2009H1231H,Mechanical Engineering,M.E,7.63,3
+2009A1232A,Civil Engineering,B.E,5.11,4
+2009H1233H,Pharmacy,M.E,8.36,1
+2009A1234A,Mathematics,B.E,6.97,4
+2009A1235A,Economics and Finanace,B.E,8.02,1
+2009H1236H,Pharmacy,M.E,6.81,2
+2009A1237A,Physics,B.E,9.27,3
+2009A1238A,Electrical and Electronics Engineering,B.E,6.86,3
+2009A1239A,Economics and Finanace,B.E,6.76,4
+2009S1240S,Mathematics,M.Sc,5.44,4
+2009H1241H,Physics,M.E,9.96,4
+2009S1242S,Computer Science and Information Systems,M.Sc,5.82,4
+2009A1243A,Physics,B.E,9.48,2
+2009S1244S,Mechanical Engineering,M.Sc,7.99,2
+2009S1245S,Civil Engineering,M.Sc,6.52,3
+2009A1246A,Chemical Engineering,B.E,9.67,4
+2009H1247H,Chemical Engineering,M.E,5.03,3
+2009A1248A,Electrical and Electronics Engineering,B.E,5.87,4
+2009P1249P,Mechanical Engineering,B.Pharm,8.78,2
+2009A1250A,Civil Engineering,B.E,5.93,4
+2009D1251D,Computer Science and Information Systems,Ph.D,7.77,1
+2009D1252D,Computer Science and Information Systems,Ph.D,9.17,3
+2009A1253A,Humanities and Social Sciences,B.E,7.8,4
+2009A1254A,Civil Engineering,B.E,5.13,1
+2009A1255A,Chemisty,B.E,6.31,4
+2009H1256H,Chemical Engineering,M.E,8.27,3
+2009A1257A,Electrical and Electronics Engineering,B.E,5.9,2
+2009A1258A,Biological Sciences,B.E,5.6,3
+2009P1259P,Humanities and Social Sciences,B.Pharm,9.97,1
+2009A1260A,Mechanical Engineering,B.E,8.73,4
+2009P1261P,Mechanical Engineering,B.Pharm,7.18,3
+2009A1262A,Pharmacy,B.E,8.43,1
+2009H1263H,Economics and Finanace,M.E,7.56,1
+2009S1264S,Computer Science and Information Systems,M.Sc,5.81,1
+2009A1265A,Chemisty,B.E,6.6,2
+2009H1266H,Economics and Finanace,M.E,5.82,3
+2009A1267A,Economics and Finanace,B.E,7.1,3
+2009P1268P,Biological Sciences,B.Pharm,6.45,1
+2009P1269P,Civil Engineering,B.Pharm,8.83,2
+2009H1270H,Chemical Engineering,M.E,7.99,2
+2009A1271A,Mathematics,B.E,6.61,3
+2009P1272P,Pharmacy,B.Pharm,9.0,3
+2009A1273A,Pharmacy,B.E,8.49,3
+2009D1274D,Chemical Engineering,Ph.D,7.67,3
+2009A1275A,Chemisty,B.E,5.06,3
+2009A1276A,Economics and Finanace,B.E,8.89,4
+2009D1277D,Economics and Finanace,Ph.D,9.6,2
+2009P1278P,Chemical Engineering,B.Pharm,6.09,2
+2009P1279P,Civil Engineering,B.Pharm,8.98,1
+2009A1280A,Electrical and Electronics Engineering,B.E,7.3,1
+2009A1281A,Chemical Engineering,B.E,9.09,1
+2009H1282H,Humanities and Social Sciences,M.E,6.74,3
+2009A1283A,Chemisty,B.E,9.09,3
+2009H1284H,Chemisty,M.E,8.55,1
+2009D1285D,Physics,Ph.D,9.07,2
+2009A1286A,Chemisty,B.E,9.28,2
+2009S1287S,Physics,M.Sc,6.13,2
+2009A1288A,Civil Engineering,B.E,5.65,1
+2009A1289A,Electrical and Electronics Engineering,B.E,8.45,1
+2009A1290A,Chemical Engineering,B.E,5.09,4
+2009A1291A,Electrical and Electronics Engineering,B.E,5.21,1
+2009A1292A,Biological Sciences,B.E,8.97,1
+2009S1293S,Humanities and Social Sciences,M.Sc,5.59,3
+2009A1294A,Biological Sciences,B.E,5.33,1
+2009A1295A,Chemical Engineering,B.E,8.91,2
+2009A1296A,Mechanical Engineering,B.E,9.51,2
+2009P1297P,Pharmacy,B.Pharm,6.76,1
+2009D1298D,Chemisty,Ph.D,9.23,3
+2009A1299A,Mechanical Engineering,B.E,6.74,2
+2009A1300A,Mathematics,B.E,8.9,2
+2009A1301A,Mathematics,B.E,7.85,1
+2009S1302S,Mechanical Engineering,M.Sc,8.82,2
+2009D1303D,Physics,Ph.D,5.96,3
+2009H1304H,Chemisty,M.E,9.51,1
+2009D1305D,Physics,Ph.D,5.49,2
+2009A1306A,Mathematics,B.E,9.26,4
+2009A1307A,Economics and Finanace,B.E,8.49,2
+2009A1308A,Humanities and Social Sciences,B.E,8.37,1
+2009H1309H,Chemisty,M.E,9.17,4
+2009A1310A,Electrical and Electronics Engineering,B.E,6.07,2
+2009A1311A,Electrical and Electronics Engineering,B.E,5.56,3
+2009A1312A,Chemical Engineering,B.E,7.33,2
+2009A1313A,Humanities and Social Sciences,B.E,8.81,3
+2009A1314A,Mathematics,B.E,8.61,1
+2009H1315H,Economics and Finanace,M.E,7.47,4
+2009A1316A,Computer Science and Information Systems,B.E,7.28,3
+2009A1317A,Pharmacy,B.E,9.88,4
+2009A1318A,Civil Engineering,B.E,7.77,3
+2009S1319S,Electrical and Electronics Engineering,M.Sc,5.94,1
+2009A1320A,Humanities and Social Sciences,B.E,9.7,3
+2009A1321A,Chemisty,B.E,5.06,4
+2009A1322A,Pharmacy,B.E,5.53,4
+2009A1323A,Mathematics,B.E,8.29,1
+2009A1324A,Chemical Engineering,B.E,5.72,4
+2009A1325A,Physics,B.E,7.95,1
+2009A1326A,Physics,B.E,9.63,2
+2009A1327A,Chemical Engineering,B.E,6.82,2
+2009A1328A,Economics and Finanace,B.E,6.0,4
+2009H1329H,Chemical Engineering,M.E,6.16,4
+2009H1330H,Physics,M.E,7.5,3
+2009H1331H,Pharmacy,M.E,9.72,3
+2009A1332A,Humanities and Social Sciences,B.E,8.33,4
+2009D1333D,Humanities and Social Sciences,Ph.D,7.56,2
+2009A1334A,Humanities and Social Sciences,B.E,5.54,3
+2009A1335A,Humanities and Social Sciences,B.E,7.49,2
+2009A1336A,Biological Sciences,B.E,5.5,1
+2009S1337S,Chemical Engineering,M.Sc,7.49,1
+2009D1338D,Chemisty,Ph.D,6.91,3
+2009A1339A,Chemisty,B.E,6.51,1
+2009A1340A,Chemical Engineering,B.E,8.31,4
+2009S1341S,Humanities and Social Sciences,M.Sc,6.01,4
+2009A1342A,Humanities and Social Sciences,B.E,7.52,3
+2009S1343S,Mathematics,M.Sc,7.73,1
+2009D1344D,Electrical and Electronics Engineering,Ph.D,9.4,1
+2009A1345A,Electrical and Electronics Engineering,B.E,7.25,4
+2009A1346A,Humanities and Social Sciences,B.E,7.3,1
+2009A1347A,Chemisty,B.E,7.78,3
+2009P1348P,Chemisty,B.Pharm,7.46,2
+2009A1349A,Computer Science and Information Systems,B.E,8.58,4
+2009A1350A,Chemical Engineering,B.E,7.84,4
+2009A1351A,Pharmacy,B.E,7.77,4
+2009A1352A,Humanities and Social Sciences,B.E,7.81,2
+2009A1353A,Mathematics,B.E,5.28,3
+2009P1354P,Humanities and Social Sciences,B.Pharm,7.96,4
+2009P1355P,Mechanical Engineering,B.Pharm,8.38,3
+2009A1356A,Economics and Finanace,B.E,5.31,1
+2009H1357H,Chemisty,M.E,9.18,3
+2009A1358A,Physics,B.E,7.92,3
+2009H1359H,Electrical and Electronics Engineering,M.E,5.49,3
+2009P1360P,Economics and Finanace,B.Pharm,7.06,1
+2009A1361A,Pharmacy,B.E,6.22,2
+2009A1362A,Pharmacy,B.E,6.56,1
+2009A1363A,Physics,B.E,5.33,3
+2009H1364H,Chemical Engineering,M.E,6.69,1
+2009A1365A,Mathematics,B.E,6.63,4
+2009A1366A,Pharmacy,B.E,9.32,4
+2009A1367A,Computer Science and Information Systems,B.E,5.1,4
+2009H1368H,Mechanical Engineering,M.E,5.11,3
+2009A1369A,Electrical and Electronics Engineering,B.E,7.85,3
+2009P1370P,Mechanical Engineering,B.Pharm,5.49,4
+2009P1371P,Chemical Engineering,B.Pharm,8.45,2
+2009A1372A,Economics and Finanace,B.E,7.48,3
+2009A1373A,Chemisty,B.E,8.07,3
+2009A1374A,Electrical and Electronics Engineering,B.E,6.01,1
+2009A1375A,Mathematics,B.E,6.07,3
+2009H1376H,Biological Sciences,M.E,6.49,4
+2009H1377H,Civil Engineering,M.E,8.12,1
+2009A1378A,Physics,B.E,9.22,1
+2009A1379A,Mechanical Engineering,B.E,6.68,1
+2009A1380A,Mechanical Engineering,B.E,9.01,4
+2009A1381A,Electrical and Electronics Engineering,B.E,6.05,1
+2009A1382A,Pharmacy,B.E,9.12,3
+2009S1383S,Electrical and Electronics Engineering,M.Sc,8.32,3
+2009H1384H,Civil Engineering,M.E,7.07,3
+2009A1385A,Mechanical Engineering,B.E,7.58,2
+2009P1386P,Biological Sciences,B.Pharm,8.14,2
+2009P1387P,Mechanical Engineering,B.Pharm,7.5,4
+2009H1388H,Computer Science and Information Systems,M.E,9.69,4
+2009A1389A,Mechanical Engineering,B.E,8.63,1
+2009A1390A,Mathematics,B.E,6.0,4
+2009A1391A,Chemisty,B.E,6.2,3
+2009A1392A,Electrical and Electronics Engineering,B.E,7.05,1
+2009A1393A,Pharmacy,B.E,6.02,4
+2009P1394P,Computer Science and Information Systems,B.Pharm,9.12,2
+2009A1395A,Computer Science and Information Systems,B.E,8.43,2
+2009A1396A,Electrical and Electronics Engineering,B.E,6.19,2
+2009A1397A,Civil Engineering,B.E,5.14,3
+2009A1398A,Humanities and Social Sciences,B.E,7.43,4
+2009A1399A,Electrical and Electronics Engineering,B.E,8.23,1
+2009A1400A,Civil Engineering,B.E,5.8,2
+2009A1401A,Biological Sciences,B.E,6.29,3
+2009A1402A,Pharmacy,B.E,7.75,1
+2009H1403H,Physics,M.E,7.43,1
+2009H1404H,Biological Sciences,M.E,9.3,1
+2009A1405A,Economics and Finanace,B.E,8.01,1
+2009H1406H,Electrical and Electronics Engineering,M.E,9.48,1
+2009A1407A,Electrical and Electronics Engineering,B.E,9.72,2
+2009H1408H,Civil Engineering,M.E,5.56,1
+2009H1409H,Mathematics,M.E,8.32,3
+2009D1410D,Humanities and Social Sciences,Ph.D,9.42,2
+2009A1411A,Mechanical Engineering,B.E,5.61,3
+2009A1412A,Economics and Finanace,B.E,9.16,4
+2009A1413A,Physics,B.E,8.72,4
+2009D1414D,Civil Engineering,Ph.D,5.72,2
+2009A1415A,Civil Engineering,B.E,9.85,4
+2009A1416A,Electrical and Electronics Engineering,B.E,6.27,1
+2009H1417H,Humanities and Social Sciences,M.E,7.67,1
+2009P1418P,Economics and Finanace,B.Pharm,7.73,4
+2009H1419H,Pharmacy,M.E,6.23,3
+2009A1420A,Chemisty,B.E,6.81,3
+2009S1421S,Computer Science and Information Systems,M.Sc,5.11,1
+2009A1422A,Physics,B.E,8.31,1
+2009A1423A,Physics,B.E,9.59,2
+2009S1424S,Computer Science and Information Systems,M.Sc,7.76,3
+2009P1425P,Pharmacy,B.Pharm,9.79,3
+2009A1426A,Pharmacy,B.E,5.61,2
+2009A1427A,Humanities and Social Sciences,B.E,6.94,4
+2009D1428D,Computer Science and Information Systems,Ph.D,6.5,2
+2009A1429A,Computer Science and Information Systems,B.E,6.05,2
+2009A1430A,Humanities and Social Sciences,B.E,8.16,4
+2009S1431S,Biological Sciences,M.Sc,6.37,1
+2009A1432A,Humanities and Social Sciences,B.E,7.36,4
+2009A1433A,Economics and Finanace,B.E,8.59,1
+2009A1434A,Chemisty,B.E,8.49,1
+2009A1435A,Economics and Finanace,B.E,7.1,3
+2009A1436A,Humanities and Social Sciences,B.E,8.48,1
+2009P1437P,Pharmacy,B.Pharm,8.21,4
+2009D1438D,Pharmacy,Ph.D,5.68,4
+2009D1439D,Civil Engineering,Ph.D,8.14,3
+2009S1440S,Mechanical Engineering,M.Sc,5.41,2
+2009A1441A,Civil Engineering,B.E,7.58,2
+2009H1442H,Mechanical Engineering,M.E,8.43,3
+2009S1443S,Humanities and Social Sciences,M.Sc,7.39,2
+2009A1444A,Computer Science and Information Systems,B.E,5.87,3
+2009A1445A,Computer Science and Information Systems,B.E,5.99,4
+2009S1446S,Economics and Finanace,M.Sc,5.91,4
+2009P1447P,Mechanical Engineering,B.Pharm,6.12,1
+2009S1448S,Mathematics,M.Sc,8.24,2
+2009A1449A,Chemical Engineering,B.E,9.87,2
+2009A1450A,Computer Science and Information Systems,B.E,8.51,2
+2009D1451D,Biological Sciences,Ph.D,7.01,4
+2009A1452A,Mechanical Engineering,B.E,6.3,1
+2009P1453P,Economics and Finanace,B.Pharm,5.85,1
+2009D1454D,Biological Sciences,Ph.D,8.59,4
+2009D1455D,Humanities and Social Sciences,Ph.D,9.14,4
+2009A1456A,Chemical Engineering,B.E,6.12,2
+2009A1457A,Civil Engineering,B.E,9.73,3
+2009A1458A,Computer Science and Information Systems,B.E,8.73,4
+2009P1459P,Chemisty,B.Pharm,7.16,2
+2009A1460A,Mechanical Engineering,B.E,6.08,3
+2009H1461H,Physics,M.E,8.39,4
+2009D1462D,Chemisty,Ph.D,7.04,2
+2009A1463A,Biological Sciences,B.E,6.45,3
+2009A1464A,Civil Engineering,B.E,8.09,2
+2009P1465P,Economics and Finanace,B.Pharm,7.91,4
+2009A1466A,Chemical Engineering,B.E,5.05,2
+2009H1467H,Economics and Finanace,M.E,9.87,4
+2009A1468A,Pharmacy,B.E,6.06,4
+2009P1469P,Electrical and Electronics Engineering,B.Pharm,8.68,3
+2009P1470P,Chemical Engineering,B.Pharm,5.48,1
+2009P1471P,Biological Sciences,B.Pharm,6.66,2
+2009A1472A,Humanities and Social Sciences,B.E,9.54,1
+2009A1473A,Biological Sciences,B.E,6.27,4
+2009H1474H,Computer Science and Information Systems,M.E,9.89,3
+2009H1475H,Chemisty,M.E,9.84,1
+2009A1476A,Mechanical Engineering,B.E,5.9,2
+2009A1477A,Mathematics,B.E,7.46,3
+2009A1478A,Humanities and Social Sciences,B.E,5.66,3
+2009A1479A,Physics,B.E,7.65,2
+2009A1480A,Computer Science and Information Systems,B.E,5.58,1
+2009H1481H,Chemisty,M.E,7.5,3
+2009A1482A,Physics,B.E,6.8,4
+2009S1483S,Computer Science and Information Systems,M.Sc,9.51,3
+2009D1484D,Mechanical Engineering,Ph.D,9.15,3
+2009A1485A,Mathematics,B.E,6.57,2
+2009A1486A,Economics and Finanace,B.E,8.68,4
+2009A1487A,Chemisty,B.E,7.78,4
+2009H1488H,Biological Sciences,M.E,5.94,1
+2009P1489P,Civil Engineering,B.Pharm,5.92,4
+2009A1490A,Computer Science and Information Systems,B.E,5.82,4
+2009H1491H,Electrical and Electronics Engineering,M.E,5.58,4
+2009D1492D,Biological Sciences,Ph.D,7.21,4
+2009A1493A,Humanities and Social Sciences,B.E,7.46,2
+2009P1494P,Chemical Engineering,B.Pharm,6.75,2
+2009S1495S,Computer Science and Information Systems,M.Sc,5.9,2
+2009H1496H,Physics,M.E,7.54,3
+2009H1497H,Mechanical Engineering,M.E,9.45,2
+2009D1498D,Mechanical Engineering,Ph.D,9.99,1
+2009H1499H,Mathematics,M.E,8.83,2
+2009H1500H,Electrical and Electronics Engineering,M.E,9.6,2
+2009P1501P,Humanities and Social Sciences,B.Pharm,8.38,3
+2009A1502A,Biological Sciences,B.E,6.42,1
+2009H1503H,Electrical and Electronics Engineering,M.E,6.87,1
+2009A1504A,Economics and Finanace,B.E,5.77,1
+2009P1505P,Humanities and Social Sciences,B.Pharm,9.15,4
+2009H1506H,Humanities and Social Sciences,M.E,8.14,3
+2009A1507A,Mechanical Engineering,B.E,8.29,3
+2009P1508P,Biological Sciences,B.Pharm,8.28,4
+2009A1509A,Economics and Finanace,B.E,9.74,2
+2009A1510A,Civil Engineering,B.E,9.32,3
+2009H1511H,Economics and Finanace,M.E,8.99,1
+2009H1512H,Mathematics,M.E,9.76,4
+2009A1513A,Chemical Engineering,B.E,6.99,2
+2009P1514P,Civil Engineering,B.Pharm,9.83,4
+2009S1515S,Chemical Engineering,M.Sc,5.1,2
+2009A1516A,Chemisty,B.E,6.94,4
+2009P1517P,Computer Science and Information Systems,B.Pharm,8.24,2
+2009A1518A,Chemical Engineering,B.E,6.49,4
+2009S1519S,Physics,M.Sc,9.03,3
+2009P1520P,Pharmacy,B.Pharm,8.02,3
+2009H1521H,Pharmacy,M.E,5.48,3
+2009S1522S,Mathematics,M.Sc,6.0,4
+2009A1523A,Electrical and Electronics Engineering,B.E,7.38,4
+2009A1524A,Chemical Engineering,B.E,8.78,3
+2009P1525P,Mechanical Engineering,B.Pharm,5.93,4
+2009A1526A,Chemical Engineering,B.E,5.2,3
+2009H1527H,Humanities and Social Sciences,M.E,8.38,2
+2009A1528A,Humanities and Social Sciences,B.E,7.64,1
+2009A1529A,Computer Science and Information Systems,B.E,7.34,1
+2009A1530A,Humanities and Social Sciences,B.E,6.5,2
+2009A1531A,Pharmacy,B.E,9.51,2
+2009H1532H,Mathematics,M.E,7.14,1
+2009H1533H,Mathematics,M.E,5.38,1
+2009P1534P,Chemical Engineering,B.Pharm,7.55,4
+2009A1535A,Chemical Engineering,B.E,7.32,3
+2009A1536A,Economics and Finanace,B.E,6.27,1
+2009A1537A,Mathematics,B.E,5.08,4
+2009A1538A,Chemisty,B.E,8.93,4
+2009D1539D,Biological Sciences,Ph.D,5.42,3
+2009A1540A,Economics and Finanace,B.E,7.94,4
+2009D1541D,Pharmacy,Ph.D,7.25,3
+2009A1542A,Economics and Finanace,B.E,9.83,2
+2009A1543A,Civil Engineering,B.E,5.93,3
+2009A1544A,Pharmacy,B.E,5.53,1
+2009A1545A,Biological Sciences,B.E,6.97,1
+2009P1546P,Chemisty,B.Pharm,8.28,4
+2009P1547P,Electrical and Electronics Engineering,B.Pharm,9.34,4
+2009H1548H,Computer Science and Information Systems,M.E,8.09,3
+2009A1549A,Physics,B.E,8.37,4
+2009A1550A,Computer Science and Information Systems,B.E,5.44,2
+2009D1551D,Biological Sciences,Ph.D,5.95,1
+2009A1552A,Physics,B.E,9.85,1
+2009S1553S,Civil Engineering,M.Sc,7.41,2
+2009H1554H,Pharmacy,M.E,6.21,2
+2009A1555A,Chemical Engineering,B.E,6.5,4
+2009A1556A,Chemisty,B.E,7.37,1
+2009H1557H,Chemical Engineering,M.E,5.83,2
+2009A1558A,Physics,B.E,8.51,4
+2009P1559P,Humanities and Social Sciences,B.Pharm,5.1,4
+2009H1560H,Mechanical Engineering,M.E,6.21,3
+2009S1561S,Mechanical Engineering,M.Sc,9.15,4
+2009A1562A,Biological Sciences,B.E,6.67,1
+2009D1563D,Pharmacy,Ph.D,9.24,4
+2009A1564A,Electrical and Electronics Engineering,B.E,9.24,3
+2009H1565H,Biological Sciences,M.E,7.44,4
+2009A1566A,Mathematics,B.E,7.96,4
+2009A1567A,Civil Engineering,B.E,8.57,1
+2009H1568H,Electrical and Electronics Engineering,M.E,7.88,1
+2009A1569A,Computer Science and Information Systems,B.E,9.46,4
+2009D1570D,Humanities and Social Sciences,Ph.D,5.58,3
+2009H1571H,Humanities and Social Sciences,M.E,8.49,1
+2009A1572A,Chemisty,B.E,6.44,2
+2009H1573H,Humanities and Social Sciences,M.E,6.72,2
+2009S1574S,Mathematics,M.Sc,6.1,3
+2009A1575A,Mechanical Engineering,B.E,9.27,4
+2009A1576A,Chemisty,B.E,9.42,4
+2009A1577A,Electrical and Electronics Engineering,B.E,9.17,3
+2009H1578H,Humanities and Social Sciences,M.E,9.0,2
+2009A1579A,Mechanical Engineering,B.E,6.04,1
+2009S1580S,Pharmacy,M.Sc,7.41,2
+2009H1581H,Civil Engineering,M.E,5.78,4
+2009P1582P,Chemical Engineering,B.Pharm,8.97,4
+2009A1583A,Computer Science and Information Systems,B.E,6.17,1
+2009D1584D,Biological Sciences,Ph.D,6.79,3
+2009D1585D,Economics and Finanace,Ph.D,8.38,2
+2009A1586A,Mathematics,B.E,5.16,1
+2009H1587H,Economics and Finanace,M.E,7.15,2
+2009A1588A,Chemical Engineering,B.E,7.81,4
+2009A1589A,Computer Science and Information Systems,B.E,9.97,3
+2009H1590H,Biological Sciences,M.E,8.85,3
+2009H1591H,Chemisty,M.E,9.27,1
+2009H1592H,Physics,M.E,5.25,4
+2009S1593S,Humanities and Social Sciences,M.Sc,9.81,1
+2009A1594A,Chemical Engineering,B.E,8.91,1
+2009A1595A,Mathematics,B.E,5.21,1
+2009H1596H,Chemisty,M.E,8.15,2
+2009P1597P,Economics and Finanace,B.Pharm,5.79,3
+2009D1598D,Physics,Ph.D,7.21,4
+2009P1599P,Chemical Engineering,B.Pharm,5.77,3
+2009A1600A,Economics and Finanace,B.E,9.1,1
+2009A1601A,Civil Engineering,B.E,7.2,4
+2009A1602A,Biological Sciences,B.E,6.23,4
+2009D1603D,Economics and Finanace,Ph.D,6.43,2
+2009A1604A,Chemical Engineering,B.E,6.33,4
+2009A1605A,Economics and Finanace,B.E,8.15,2
+2009A1606A,Chemisty,B.E,8.77,4
+2009D1607D,Civil Engineering,Ph.D,5.69,4
+2009D1608D,Electrical and Electronics Engineering,Ph.D,9.59,4
+2009P1609P,Pharmacy,B.Pharm,6.81,1
+2009S1610S,Humanities and Social Sciences,M.Sc,5.73,1
+2009A1611A,Physics,B.E,9.03,1
+2009D1612D,Chemical Engineering,Ph.D,6.69,4
+2009A1613A,Chemisty,B.E,7.17,4
+2009P1614P,Biological Sciences,B.Pharm,8.3,2
+2009A1615A,Mechanical Engineering,B.E,5.29,3
+2009P1616P,Electrical and Electronics Engineering,B.Pharm,7.01,3
+2009A1617A,Physics,B.E,8.71,3
+2009P1618P,Biological Sciences,B.Pharm,9.14,2
+2009H1619H,Physics,M.E,7.02,2
+2009A1620A,Mathematics,B.E,8.12,4
+2009A1621A,Physics,B.E,6.73,4
+2009A1622A,Civil Engineering,B.E,9.4,1
+2009A1623A,Biological Sciences,B.E,7.69,4
+2009P1624P,Chemisty,B.Pharm,7.6,3
+2009A1625A,Civil Engineering,B.E,5.46,3
+2009A1626A,Mathematics,B.E,6.7,2
+2009A1627A,Biological Sciences,B.E,5.14,3
+2009H1628H,Civil Engineering,M.E,9.16,3
+2009P1629P,Electrical and Electronics Engineering,B.Pharm,9.93,1
+2009A1630A,Physics,B.E,5.3,3
+2009A1631A,Computer Science and Information Systems,B.E,8.13,3
+2009A1632A,Chemical Engineering,B.E,5.24,1
+2009A1633A,Humanities and Social Sciences,B.E,6.49,1
+2009A1634A,Humanities and Social Sciences,B.E,6.69,2
+2009H1635H,Physics,M.E,9.95,2
+2009S1636S,Economics and Finanace,M.Sc,6.5,2
+2009A1637A,Physics,B.E,6.89,2
+2009P1638P,Chemical Engineering,B.Pharm,6.64,2
+2009A1639A,Economics and Finanace,B.E,7.27,2
+2009A1640A,Physics,B.E,7.13,4
+2009P1641P,Chemical Engineering,B.Pharm,5.46,4
+2009H1642H,Chemisty,M.E,7.38,4
+2009H1643H,Chemical Engineering,M.E,6.85,4
+2009A1644A,Mechanical Engineering,B.E,7.79,4
+2009H1645H,Computer Science and Information Systems,M.E,7.92,4
+2009A1646A,Humanities and Social Sciences,B.E,8.45,4
+2009S1647S,Physics,M.Sc,9.87,2
+2009A1648A,Chemisty,B.E,7.53,4
+2009A1649A,Physics,B.E,7.29,1
+2009P1650P,Civil Engineering,B.Pharm,7.28,1
+2009A1651A,Physics,B.E,5.78,3
+2009A1652A,Chemical Engineering,B.E,8.01,4
+2009P1653P,Chemical Engineering,B.Pharm,5.6,3
+2009H1654H,Biological Sciences,M.E,7.61,1
+2009A1655A,Economics and Finanace,B.E,6.52,3
+2009A1656A,Computer Science and Information Systems,B.E,6.47,1
+2009H1657H,Chemisty,M.E,5.71,4
+2009D1658D,Biological Sciences,Ph.D,9.68,3
+2009A1659A,Computer Science and Information Systems,B.E,6.08,4
+2009S1660S,Biological Sciences,M.Sc,5.61,3
+2009A1661A,Chemical Engineering,B.E,9.35,4
+2009A1662A,Humanities and Social Sciences,B.E,7.87,4
+2009H1663H,Economics and Finanace,M.E,8.91,4
+2009A1664A,Physics,B.E,9.17,2
+2009A1665A,Chemisty,B.E,7.52,4
+2009S1666S,Humanities and Social Sciences,M.Sc,8.34,2
+2009A1667A,Physics,B.E,6.63,4
+2009A1668A,Electrical and Electronics Engineering,B.E,6.16,4
+2009H1669H,Economics and Finanace,M.E,7.7,4
+2009H1670H,Physics,M.E,6.39,1
+2009A1671A,Chemisty,B.E,8.54,3
+2009A1672A,Mathematics,B.E,8.23,1
+2009S1673S,Civil Engineering,M.Sc,9.78,1
+2009A1674A,Mechanical Engineering,B.E,7.61,4
+2009S1675S,Mathematics,M.Sc,9.48,1
+2009H1676H,Pharmacy,M.E,9.68,2
+2009A1677A,Biological Sciences,B.E,6.37,2
+2009D1678D,Civil Engineering,Ph.D,9.15,4
+2009A1679A,Chemical Engineering,B.E,9.03,3
+2009A1680A,Electrical and Electronics Engineering,B.E,7.94,4
+2009A1681A,Biological Sciences,B.E,6.7,2
+2009A1682A,Electrical and Electronics Engineering,B.E,5.12,3
+2009A1683A,Electrical and Electronics Engineering,B.E,6.29,1
+2009A1684A,Chemical Engineering,B.E,7.71,3
+2009A1685A,Chemisty,B.E,5.91,1
+2009D1686D,Chemisty,Ph.D,6.53,4
+2009A1687A,Pharmacy,B.E,5.85,3
+2009A1688A,Chemisty,B.E,5.14,1
+2009D1689D,Computer Science and Information Systems,Ph.D,6.95,3
+2009P1690P,Chemisty,B.Pharm,7.06,3
+2009A1691A,Computer Science and Information Systems,B.E,6.88,1
+2009H1692H,Biological Sciences,M.E,6.01,2
+2009H1693H,Humanities and Social Sciences,M.E,7.54,4
+2009H1694H,Chemical Engineering,M.E,6.35,3
+2009P1695P,Humanities and Social Sciences,B.Pharm,7.77,1
+2009H1696H,Humanities and Social Sciences,M.E,5.14,2
+2009D1697D,Biological Sciences,Ph.D,6.35,1
+2009A1698A,Civil Engineering,B.E,8.81,2
+2009P1699P,Computer Science and Information Systems,B.Pharm,7.84,4
+2009S1700S,Chemical Engineering,M.Sc,9.23,2
+2009H1701H,Chemisty,M.E,6.87,2
+2009H1702H,Civil Engineering,M.E,7.69,4
+2009A1703A,Mathematics,B.E,7.26,1
+2009P1704P,Humanities and Social Sciences,B.Pharm,9.81,3
+2009P1705P,Pharmacy,B.Pharm,9.86,1
+2009A1706A,Biological Sciences,B.E,9.67,4
+2009S1707S,Computer Science and Information Systems,M.Sc,7.99,4
+2009H1708H,Economics and Finanace,M.E,9.21,2
+2009A1709A,Mechanical Engineering,B.E,9.2,3
+2009D1710D,Biological Sciences,Ph.D,5.81,1
+2009D1711D,Computer Science and Information Systems,Ph.D,5.45,1
+2009P1712P,Chemisty,B.Pharm,8.63,3
+2009P1713P,Electrical and Electronics Engineering,B.Pharm,6.05,3
+2009A1714A,Pharmacy,B.E,9.73,3
+2009D1715D,Physics,Ph.D,7.26,2
+2009P1716P,Pharmacy,B.Pharm,9.92,3
+2009D1717D,Civil Engineering,Ph.D,7.3,3
+2009A1718A,Biological Sciences,B.E,9.57,2
+2009H1719H,Pharmacy,M.E,9.61,4
+2009A1720A,Biological Sciences,B.E,9.51,2
+2009D1721D,Electrical and Electronics Engineering,Ph.D,7.78,4
+2009A1722A,Electrical and Electronics Engineering,B.E,7.69,1
+2009H1723H,Mathematics,M.E,5.15,4
+2009P1724P,Pharmacy,B.Pharm,5.62,4
+2009A1725A,Mechanical Engineering,B.E,6.79,2
+2009A1726A,Physics,B.E,9.92,1
+2009A1727A,Humanities and Social Sciences,B.E,6.85,2
+2009A1728A,Humanities and Social Sciences,B.E,5.05,1
+2009A1729A,Computer Science and Information Systems,B.E,8.4,3
+2009A1730A,Civil Engineering,B.E,5.45,3
+2009H1731H,Physics,M.E,6.11,4
+2009A1732A,Economics and Finanace,B.E,5.18,4
+2009A1733A,Physics,B.E,8.53,2
+2009A1734A,Biological Sciences,B.E,5.98,4
+2009A1735A,Chemical Engineering,B.E,9.35,4
+2009S1736S,Chemisty,M.Sc,7.76,2
+2009A1737A,Chemical Engineering,B.E,7.94,1
+2009H1738H,Chemisty,M.E,6.3,2
+2009H1739H,Mathematics,M.E,8.64,3
+2009D1740D,Civil Engineering,Ph.D,9.24,1
+2009D1741D,Physics,Ph.D,8.39,3
+2009S1742S,Pharmacy,M.Sc,7.8,4
+2009P1743P,Biological Sciences,B.Pharm,9.69,1
+2009A1744A,Economics and Finanace,B.E,7.16,4
+2009S1745S,Computer Science and Information Systems,M.Sc,5.61,4
+2009A1746A,Humanities and Social Sciences,B.E,6.81,1
+2009H1747H,Physics,M.E,6.12,3
+2009H1748H,Electrical and Electronics Engineering,M.E,7.66,3
+2009H1749H,Biological Sciences,M.E,6.96,3
+2009S1750S,Chemical Engineering,M.Sc,9.4,1
+2009H1751H,Physics,M.E,6.13,4
+2009A1752A,Chemical Engineering,B.E,9.58,2
+2009A1753A,Chemisty,B.E,6.65,1
+2009P1754P,Pharmacy,B.Pharm,8.13,1
+2009A1755A,Humanities and Social Sciences,B.E,7.16,1
+2009P1756P,Mechanical Engineering,B.Pharm,8.99,3
+2009P1757P,Computer Science and Information Systems,B.Pharm,6.24,4
+2009A1758A,Civil Engineering,B.E,9.79,1
+2009H1759H,Economics and Finanace,M.E,7.6,2
+2009A1760A,Chemical Engineering,B.E,8.88,4
+2009A1761A,Chemical Engineering,B.E,8.13,1
+2009A1762A,Chemical Engineering,B.E,9.87,1
+2009D1763D,Electrical and Electronics Engineering,Ph.D,6.57,1
+2009H1764H,Chemisty,M.E,5.31,4
+2009S1765S,Biological Sciences,M.Sc,6.51,4
+2009S1766S,Chemical Engineering,M.Sc,5.51,1
+2009D1767D,Mathematics,Ph.D,5.26,4
+2009A1768A,Electrical and Electronics Engineering,B.E,5.48,4
+2009A1769A,Civil Engineering,B.E,9.32,1
+2009A1770A,Humanities and Social Sciences,B.E,6.92,4
+2009H1771H,Mechanical Engineering,M.E,8.1,3
+2009H1772H,Pharmacy,M.E,9.69,1
+2009A1773A,Humanities and Social Sciences,B.E,7.59,2
+2009A1774A,Chemical Engineering,B.E,5.51,1
+2009S1775S,Mechanical Engineering,M.Sc,8.95,2
+2009P1776P,Mechanical Engineering,B.Pharm,5.63,3
+2009D1777D,Economics and Finanace,Ph.D,7.11,4
+2009H1778H,Chemisty,M.E,6.22,1
+2009H1779H,Biological Sciences,M.E,5.64,4
+2009A1780A,Mathematics,B.E,9.8,3
+2009P1781P,Computer Science and Information Systems,B.Pharm,7.92,2
+2009A1782A,Chemisty,B.E,7.35,3
+2009P1783P,Computer Science and Information Systems,B.Pharm,6.84,1
+2009A1784A,Mathematics,B.E,7.93,2
+2009S1785S,Biological Sciences,M.Sc,6.19,1
+2009P1786P,Electrical and Electronics Engineering,B.Pharm,6.72,2
+2009H1787H,Pharmacy,M.E,9.54,1
+2009S1788S,Economics and Finanace,M.Sc,5.95,4
+2009A1789A,Physics,B.E,8.46,4
+2009P1790P,Mechanical Engineering,B.Pharm,8.46,3
+2009A1791A,Mechanical Engineering,B.E,6.5,3
+2009P1792P,Chemisty,B.Pharm,5.52,1
+2009P1793P,Humanities and Social Sciences,B.Pharm,6.1,1
+2009A1794A,Pharmacy,B.E,6.12,2
+2009D1795D,Humanities and Social Sciences,Ph.D,8.12,2
+2009A1796A,Humanities and Social Sciences,B.E,8.67,3
+2009A1797A,Physics,B.E,6.88,4
+2009A1798A,Chemisty,B.E,9.13,1
+2009A1799A,Economics and Finanace,B.E,5.05,3
+2009A1800A,Biological Sciences,B.E,7.77,2
+2009A1801A,Computer Science and Information Systems,B.E,7.2,3
+2009S1802S,Biological Sciences,M.Sc,9.88,2
+2009A1803A,Civil Engineering,B.E,6.42,2
+2009A1804A,Computer Science and Information Systems,B.E,8.59,3
+2009A1805A,Mathematics,B.E,6.23,2
+2009H1806H,Biological Sciences,M.E,5.88,3
+2009S1807S,Chemical Engineering,M.Sc,5.1,2
+2009A1808A,Electrical and Electronics Engineering,B.E,8.27,1
+2009A1809A,Economics and Finanace,B.E,9.68,3
+2009A1810A,Humanities and Social Sciences,B.E,6.2,3
+2009S1811S,Pharmacy,M.Sc,5.86,4
+2009S1812S,Physics,M.Sc,5.33,2
+2009A1813A,Chemisty,B.E,8.97,2
+2009H1814H,Mathematics,M.E,6.89,3
+2009H1815H,Economics and Finanace,M.E,8.0,2
+2009A1816A,Biological Sciences,B.E,8.82,2
+2009P1817P,Computer Science and Information Systems,B.Pharm,8.95,3
+2009D1818D,Civil Engineering,Ph.D,5.27,3
+2009S1819S,Chemisty,M.Sc,9.26,4
+2009A1820A,Civil Engineering,B.E,8.64,4
+2009H1821H,Pharmacy,M.E,8.07,2
+2009P1822P,Electrical and Electronics Engineering,B.Pharm,8.76,3
+2009A1823A,Humanities and Social Sciences,B.E,7.59,2
+2009S1824S,Economics and Finanace,M.Sc,8.56,4
+2009D1825D,Physics,Ph.D,9.78,4
+2009P1826P,Computer Science and Information Systems,B.Pharm,7.91,1
+2009D1827D,Civil Engineering,Ph.D,6.1,2
+2009A1828A,Humanities and Social Sciences,B.E,9.32,4
+2009P1829P,Civil Engineering,B.Pharm,6.53,4
+2009P1830P,Mechanical Engineering,B.Pharm,5.79,3
+2009A1831A,Computer Science and Information Systems,B.E,7.75,2
+2009D1832D,Chemical Engineering,Ph.D,6.48,3
+2009A1833A,Civil Engineering,B.E,7.92,4
+2009D1834D,Mathematics,Ph.D,8.11,4
+2009H1835H,Humanities and Social Sciences,M.E,7.34,4
+2009P1836P,Economics and Finanace,B.Pharm,9.02,3
+2009A1837A,Computer Science and Information Systems,B.E,6.91,2
+2009A1838A,Humanities and Social Sciences,B.E,6.17,1
+2009D1839D,Economics and Finanace,Ph.D,9.51,3
+2009A1840A,Mathematics,B.E,7.56,1
+2009A1841A,Computer Science and Information Systems,B.E,9.63,1
+2009H1842H,Chemical Engineering,M.E,5.36,1
+2009P1843P,Civil Engineering,B.Pharm,6.67,3
+2009D1844D,Computer Science and Information Systems,Ph.D,6.51,3
+2009A1845A,Civil Engineering,B.E,8.53,2
+2009A1846A,Physics,B.E,8.7,3
+2009A1847A,Biological Sciences,B.E,8.85,3
+2009A1848A,Economics and Finanace,B.E,8.92,4
+2009D1849D,Electrical and Electronics Engineering,Ph.D,9.11,1
+2009A1850A,Humanities and Social Sciences,B.E,8.27,2
+2009P1851P,Electrical and Electronics Engineering,B.Pharm,6.14,2
+2009A1852A,Humanities and Social Sciences,B.E,6.17,4
+2009D1853D,Physics,Ph.D,9.07,3
+2009A1854A,Chemical Engineering,B.E,6.57,2
+2009P1855P,Electrical and Electronics Engineering,B.Pharm,8.85,4
+2009H1856H,Civil Engineering,M.E,7.19,1
+2009A1857A,Economics and Finanace,B.E,5.69,2
+2009H1858H,Computer Science and Information Systems,M.E,9.72,1
+2009A1859A,Humanities and Social Sciences,B.E,9.05,3
+2009A1860A,Economics and Finanace,B.E,6.13,4
+2009A1861A,Pharmacy,B.E,8.76,3
+2009H1862H,Economics and Finanace,M.E,7.93,1
+2009A1863A,Chemisty,B.E,5.77,3
+2009A1864A,Mechanical Engineering,B.E,8.15,4
+2009A1865A,Electrical and Electronics Engineering,B.E,6.02,4
+2009D1866D,Chemical Engineering,Ph.D,7.67,2
+2009P1867P,Humanities and Social Sciences,B.Pharm,5.54,4
+2009D1868D,Pharmacy,Ph.D,9.47,1
+2009A1869A,Chemisty,B.E,5.52,2
+2009A1870A,Biological Sciences,B.E,9.13,4
+2009A1871A,Biological Sciences,B.E,5.93,1
+2009H1872H,Electrical and Electronics Engineering,M.E,6.42,2
+2009A1873A,Computer Science and Information Systems,B.E,8.3,1
+2009S1874S,Humanities and Social Sciences,M.Sc,5.29,1
+2009P1875P,Chemisty,B.Pharm,6.63,4
+2009A1876A,Electrical and Electronics Engineering,B.E,5.79,1
+2009A1877A,Chemisty,B.E,7.68,4
+2009S1878S,Physics,M.Sc,5.34,2
+2009A1879A,Chemisty,B.E,9.35,3
+2009A1880A,Electrical and Electronics Engineering,B.E,9.09,4
+2009S1881S,Chemisty,M.Sc,8.02,3
+2009S1882S,Mechanical Engineering,M.Sc,6.01,4
+2009P1883P,Computer Science and Information Systems,B.Pharm,6.01,2
+2009S1884S,Humanities and Social Sciences,M.Sc,5.32,4
+2009A1885A,Mechanical Engineering,B.E,9.04,3
+2009H1886H,Mechanical Engineering,M.E,9.4,4
+2009A1887A,Humanities and Social Sciences,B.E,7.88,1
+2009D1888D,Computer Science and Information Systems,Ph.D,8.23,4
+2009H1889H,Economics and Finanace,M.E,8.5,3
+2009P1890P,Electrical and Electronics Engineering,B.Pharm,8.07,2
+2009H1891H,Electrical and Electronics Engineering,M.E,6.25,4
+2009D1892D,Humanities and Social Sciences,Ph.D,6.92,2
+2009H1893H,Physics,M.E,7.84,4
+2009A1894A,Physics,B.E,9.73,2
+2009A1895A,Chemisty,B.E,6.37,3
+2009P1896P,Pharmacy,B.Pharm,9.58,2
+2009A1897A,Humanities and Social Sciences,B.E,7.06,1
+2009A1898A,Economics and Finanace,B.E,5.38,1
+2009H1899H,Mathematics,M.E,8.83,3
+2009H1900H,Electrical and Electronics Engineering,M.E,7.25,3
+2009H1901H,Civil Engineering,M.E,7.53,4
+2009A1902A,Biological Sciences,B.E,5.37,4
+2009A1903A,Electrical and Electronics Engineering,B.E,6.72,4
+2009A1904A,Civil Engineering,B.E,6.98,1
+2009A1905A,Computer Science and Information Systems,B.E,5.57,2
+2009P1906P,Economics and Finanace,B.Pharm,8.35,4
+2009A1907A,Humanities and Social Sciences,B.E,7.31,1
+2009A1908A,Mathematics,B.E,8.29,4
+2009D1909D,Chemisty,Ph.D,7.35,3
+2009A1910A,Chemisty,B.E,5.85,1
+2009A1911A,Mechanical Engineering,B.E,5.5,3
+2009A1912A,Chemical Engineering,B.E,7.67,4
+2009A1913A,Chemisty,B.E,5.39,1
+2009A1914A,Pharmacy,B.E,6.37,4
+2009P1915P,Economics and Finanace,B.Pharm,5.89,1
+2009D1916D,Pharmacy,Ph.D,7.66,4
+2009D1917D,Physics,Ph.D,5.24,1
+2009A1918A,Electrical and Electronics Engineering,B.E,8.45,4
+2009A1919A,Biological Sciences,B.E,7.99,1
+2009H1920H,Electrical and Electronics Engineering,M.E,8.84,2
+2009A1921A,Economics and Finanace,B.E,9.54,2
+2009A1922A,Chemical Engineering,B.E,5.08,1
+2009S1923S,Biological Sciences,M.Sc,6.69,2
+2009A1924A,Pharmacy,B.E,8.34,2
+2009A1925A,Chemical Engineering,B.E,8.98,2
+2009P1926P,Chemisty,B.Pharm,5.22,1
+2009A1927A,Economics and Finanace,B.E,6.61,2
+2009A1928A,Mechanical Engineering,B.E,6.04,4
+2009A1929A,Electrical and Electronics Engineering,B.E,5.6,2
+2009S1930S,Chemical Engineering,M.Sc,6.78,2
+2009A1931A,Biological Sciences,B.E,7.01,3
+2009A1932A,Biological Sciences,B.E,6.95,4
+2009S1933S,Civil Engineering,M.Sc,5.33,3
+2009P1934P,Pharmacy,B.Pharm,8.12,1
+2009D1935D,Chemical Engineering,Ph.D,9.43,4
+2009H1936H,Computer Science and Information Systems,M.E,8.84,4
+2009S1937S,Chemical Engineering,M.Sc,8.56,2
+2009A1938A,Computer Science and Information Systems,B.E,9.8,3
+2009A1939A,Pharmacy,B.E,8.48,2
+2009H1940H,Economics and Finanace,M.E,5.88,3
+2009A1941A,Pharmacy,B.E,7.41,3
+2009A1942A,Biological Sciences,B.E,8.04,4
+2009A1943A,Electrical and Electronics Engineering,B.E,7.56,2
+2009S1944S,Mathematics,M.Sc,7.94,1
+2009A1945A,Civil Engineering,B.E,5.11,1
+2009H1946H,Computer Science and Information Systems,M.E,6.18,4
+2009D1947D,Civil Engineering,Ph.D,8.1,1
+2009P1948P,Chemisty,B.Pharm,6.87,3
+2009A1949A,Civil Engineering,B.E,5.76,2
+2009H1950H,Pharmacy,M.E,5.19,4
+2009D1951D,Physics,Ph.D,9.39,2
+2009A1952A,Computer Science and Information Systems,B.E,6.59,1
+2009A1953A,Mathematics,B.E,8.96,4
+2009S1954S,Pharmacy,M.Sc,9.06,1
+2009A1955A,Civil Engineering,B.E,9.23,3
+2009H1956H,Economics and Finanace,M.E,6.21,1
+2009S1957S,Pharmacy,M.Sc,9.94,2
+2009D1958D,Mechanical Engineering,Ph.D,9.36,3
+2009A1959A,Chemisty,B.E,7.21,1
+2009A1960A,Chemical Engineering,B.E,9.35,1
+2009P1961P,Civil Engineering,B.Pharm,5.26,2
+2009H1962H,Civil Engineering,M.E,5.63,2
+2009A1963A,Mechanical Engineering,B.E,7.74,2
+2009A1964A,Civil Engineering,B.E,7.54,4
+2009A1965A,Physics,B.E,7.34,2
+2009A1966A,Physics,B.E,5.99,4
+2009S1967S,Chemisty,M.Sc,8.03,3
+2009S1968S,Computer Science and Information Systems,M.Sc,7.88,2
+2009A1969A,Computer Science and Information Systems,B.E,9.31,4
+2009H1970H,Chemical Engineering,M.E,9.76,3
+2009A1971A,Electrical and Electronics Engineering,B.E,6.89,4
+2009S1972S,Humanities and Social Sciences,M.Sc,7.11,4
+2009P1973P,Chemisty,B.Pharm,9.1,4
+2009H1974H,Biological Sciences,M.E,8.81,4
+2009A1975A,Chemical Engineering,B.E,8.79,3
+2009A1976A,Mechanical Engineering,B.E,7.69,2
+2009A1977A,Computer Science and Information Systems,B.E,6.9,3
+2009H1978H,Humanities and Social Sciences,M.E,6.42,4
+2009A1979A,Chemical Engineering,B.E,6.67,4
+2009A1980A,Civil Engineering,B.E,5.77,2
+2009A1981A,Biological Sciences,B.E,5.06,3
+2009H1982H,Humanities and Social Sciences,M.E,7.02,4
+2009H1983H,Electrical and Electronics Engineering,M.E,9.85,3
+2009S1984S,Electrical and Electronics Engineering,M.Sc,7.45,1
+2009H1985H,Electrical and Electronics Engineering,M.E,9.42,1
+2009P1986P,Electrical and Electronics Engineering,B.Pharm,9.66,2
+2009A1987A,Civil Engineering,B.E,8.81,3
+2009A1988A,Physics,B.E,6.74,4
+2009A1989A,Pharmacy,B.E,8.44,1
+2009A1990A,Pharmacy,B.E,6.93,4
+2009S1991S,Physics,M.Sc,6.23,4
+2009H1992H,Biological Sciences,M.E,9.61,3
+2009A1993A,Pharmacy,B.E,8.53,1
+2009A1994A,Physics,B.E,8.33,2
+2009P1995P,Computer Science and Information Systems,B.Pharm,8.03,2
+2009H1996H,Computer Science and Information Systems,M.E,6.24,2
+2009H1997H,Biological Sciences,M.E,5.58,1
+2009A1998A,Pharmacy,B.E,8.56,4
+2009A1999A,Electrical and Electronics Engineering,B.E,8.53,1
+2009H2000H,Mathematics,M.E,9.55,4
+2009A2001A,Chemisty,B.E,9.15,3
+2009P2002P,Computer Science and Information Systems,B.Pharm,7.5,4
+2009A2003A,Mechanical Engineering,B.E,6.54,4
+2009A2004A,Physics,B.E,9.35,1
+2009A2005A,Pharmacy,B.E,7.86,3
+2009D2006D,Chemisty,Ph.D,6.35,2
+2009S2007S,Physics,M.Sc,6.99,3
+2009A2008A,Biological Sciences,B.E,9.94,4
+2009A2009A,Biological Sciences,B.E,5.48,4
+2009A2010A,Mathematics,B.E,7.08,3
+2009A2011A,Physics,B.E,7.15,2
+2009A2012A,Economics and Finanace,B.E,5.93,2
+2009A2013A,Civil Engineering,B.E,7.43,1
+2009P2014P,Humanities and Social Sciences,B.Pharm,7.84,2
+2009A2015A,Chemisty,B.E,6.0,2
+2009S2016S,Civil Engineering,M.Sc,6.3,4
+2009H2017H,Humanities and Social Sciences,M.E,8.13,1
+2009A2018A,Pharmacy,B.E,5.83,3
+2009A2019A,Chemical Engineering,B.E,6.89,3
+2009P2020P,Chemical Engineering,B.Pharm,6.71,2
+2009A2021A,Humanities and Social Sciences,B.E,7.43,1
+2009P2022P,Biological Sciences,B.Pharm,5.31,1
+2009A2023A,Pharmacy,B.E,7.91,1
+2009A2024A,Chemical Engineering,B.E,6.06,1
+2009A2025A,Electrical and Electronics Engineering,B.E,8.01,3
+2009D2026D,Humanities and Social Sciences,Ph.D,7.37,3
+2009D2027D,Mechanical Engineering,Ph.D,7.15,3
+2009P2028P,Pharmacy,B.Pharm,9.45,3
+2009A2029A,Civil Engineering,B.E,9.7,4
+2009A2030A,Electrical and Electronics Engineering,B.E,8.05,3
+2009H2031H,Economics and Finanace,M.E,9.03,1
+2009H2032H,Humanities and Social Sciences,M.E,9.35,4
+2009A2033A,Physics,B.E,9.18,2
+2009H2034H,Biological Sciences,M.E,8.01,3
+2009A2035A,Physics,B.E,8.76,2
+2009A2036A,Economics and Finanace,B.E,7.26,4
+2009H2037H,Mathematics,M.E,7.07,2
+2009A2038A,Biological Sciences,B.E,9.93,3
+2009A2039A,Biological Sciences,B.E,8.17,1
+2009A2040A,Physics,B.E,6.63,4
+2009S2041S,Civil Engineering,M.Sc,8.03,4
+2009S2042S,Physics,M.Sc,8.06,1
+2009H2043H,Economics and Finanace,M.E,7.14,4
+2009A2044A,Pharmacy,B.E,9.29,1
+2009A2045A,Physics,B.E,6.92,2
+2009H2046H,Physics,M.E,5.72,1
+2009A2047A,Chemisty,B.E,7.49,1
+2009A2048A,Computer Science and Information Systems,B.E,9.16,4
+2009A2049A,Chemisty,B.E,9.48,1
+2009S2050S,Humanities and Social Sciences,M.Sc,8.31,2
+2009P2051P,Civil Engineering,B.Pharm,6.06,1
+2009A2052A,Chemical Engineering,B.E,7.17,1
+2009A2053A,Chemisty,B.E,9.65,3
+2009A2054A,Electrical and Electronics Engineering,B.E,8.83,2
+2009A2055A,Physics,B.E,6.29,4
+2009A2056A,Pharmacy,B.E,5.62,2
+2009S2057S,Mathematics,M.Sc,8.17,4
+2009H2058H,Chemical Engineering,M.E,8.98,3
+2009A2059A,Civil Engineering,B.E,9.66,1
+2009H2060H,Pharmacy,M.E,6.72,4
+2009A2061A,Pharmacy,B.E,8.21,4
+2009A2062A,Civil Engineering,B.E,6.12,1
+2009A2063A,Computer Science and Information Systems,B.E,5.44,1
+2009H2064H,Economics and Finanace,M.E,8.7,2
+2009A2065A,Physics,B.E,9.71,3
+2009H2066H,Chemisty,M.E,9.27,4
+2009A2067A,Mechanical Engineering,B.E,8.68,3
+2009A2068A,Biological Sciences,B.E,7.95,2
+2009A2069A,Electrical and Electronics Engineering,B.E,9.9,3
+2009A2070A,Economics and Finanace,B.E,8.99,2
+2009H2071H,Mathematics,M.E,8.32,2
+2009H2072H,Chemical Engineering,M.E,6.98,4
+2009A2073A,Economics and Finanace,B.E,5.72,3
+2009A2074A,Civil Engineering,B.E,7.5,4
+2009S2075S,Chemisty,M.Sc,8.01,2
+2009A2076A,Physics,B.E,8.33,1
+2009P2077P,Mechanical Engineering,B.Pharm,6.6,1
+2009D2078D,Computer Science and Information Systems,Ph.D,9.98,4
+2009H2079H,Pharmacy,M.E,9.14,4
+2009P2080P,Computer Science and Information Systems,B.Pharm,8.52,4
+2009D2081D,Biological Sciences,Ph.D,9.91,3
+2009A2082A,Chemisty,B.E,9.14,2
+2009A2083A,Physics,B.E,9.67,2
+2009A2084A,Physics,B.E,8.68,2
+2009A2085A,Humanities and Social Sciences,B.E,8.64,3
+2009A2086A,Pharmacy,B.E,9.56,2
+2009A2087A,Biological Sciences,B.E,7.74,3
+2009A2088A,Electrical and Electronics Engineering,B.E,8.39,3
+2009A2089A,Electrical and Electronics Engineering,B.E,6.96,3
+2009H2090H,Computer Science and Information Systems,M.E,8.48,2
+2009H2091H,Physics,M.E,9.28,4
+2009A2092A,Chemical Engineering,B.E,5.65,1
+2009H2093H,Physics,M.E,6.52,2
+2009A2094A,Mechanical Engineering,B.E,5.69,4
+2009A2095A,Computer Science and Information Systems,B.E,9.49,2
+2009H2096H,Civil Engineering,M.E,9.02,2
+2009S2097S,Physics,M.Sc,8.26,3
+2009A2098A,Physics,B.E,9.28,1
+2009P2099P,Pharmacy,B.Pharm,8.93,2
+2009A2100A,Electrical and Electronics Engineering,B.E,9.75,4
+2009A2101A,Pharmacy,B.E,9.21,1
+2009A2102A,Chemical Engineering,B.E,6.78,4
+2009S2103S,Chemisty,M.Sc,9.73,1
+2009H2104H,Mathematics,M.E,8.25,4
+2009A2105A,Chemisty,B.E,8.13,4
+2009A2106A,Civil Engineering,B.E,5.17,2
+2009A2107A,Electrical and Electronics Engineering,B.E,7.44,2
+2009A2108A,Pharmacy,B.E,8.73,1
+2009A2109A,Humanities and Social Sciences,B.E,9.32,4
+2009H2110H,Computer Science and Information Systems,M.E,8.16,4
+2009A2111A,Economics and Finanace,B.E,5.06,1
+2009A2112A,Chemical Engineering,B.E,5.61,2
+2009H2113H,Biological Sciences,M.E,7.93,4
+2009D2114D,Computer Science and Information Systems,Ph.D,8.47,1
+2009D2115D,Mechanical Engineering,Ph.D,5.91,4
+2009A2116A,Pharmacy,B.E,8.51,3
+2009H2117H,Mechanical Engineering,M.E,5.63,3
+2009A2118A,Chemical Engineering,B.E,8.57,2
+2009P2119P,Electrical and Electronics Engineering,B.Pharm,9.06,1
+2009A2120A,Electrical and Electronics Engineering,B.E,7.78,4
+2009A2121A,Chemical Engineering,B.E,7.59,1
+2009D2122D,Civil Engineering,Ph.D,9.83,1
+2009P2123P,Chemisty,B.Pharm,9.31,2
+2009A2124A,Biological Sciences,B.E,7.77,3
+2009A2125A,Chemical Engineering,B.E,5.2,2
+2009S2126S,Pharmacy,M.Sc,5.81,3
+2009H2127H,Biological Sciences,M.E,5.42,1
+2009S2128S,Mathematics,M.Sc,6.49,2
+2009H2129H,Electrical and Electronics Engineering,M.E,9.89,1
+2009A2130A,Civil Engineering,B.E,6.5,3
+2009A2131A,Pharmacy,B.E,7.67,2
+2009A2132A,Mechanical Engineering,B.E,7.45,3
+2009S2133S,Mathematics,M.Sc,9.55,3
+2009H2134H,Mechanical Engineering,M.E,7.69,2
+2009A2135A,Physics,B.E,5.5,1
+2009S2136S,Civil Engineering,M.Sc,5.18,2
+2009A2137A,Computer Science and Information Systems,B.E,9.28,2
+2009A2138A,Chemisty,B.E,8.01,2
+2009A2139A,Mechanical Engineering,B.E,6.8,2
+2009A2140A,Physics,B.E,8.11,1
+2009H2141H,Mathematics,M.E,6.27,4
+2009H2142H,Pharmacy,M.E,9.52,4
+2009A2143A,Humanities and Social Sciences,B.E,5.42,3
+2009A2144A,Pharmacy,B.E,7.13,2
+2009P2145P,Civil Engineering,B.Pharm,5.35,3
+2009H2146H,Pharmacy,M.E,8.48,2
+2009P2147P,Economics and Finanace,B.Pharm,7.82,2
+2009H2148H,Electrical and Electronics Engineering,M.E,9.11,3
+2009A2149A,Electrical and Electronics Engineering,B.E,6.89,2
+2009P2150P,Chemical Engineering,B.Pharm,6.35,1
+2009D2151D,Pharmacy,Ph.D,7.74,1
+2009H2152H,Economics and Finanace,M.E,8.2,3
+2009A2153A,Economics and Finanace,B.E,8.89,2
+2009S2154S,Civil Engineering,M.Sc,6.37,1
+2009H2155H,Electrical and Electronics Engineering,M.E,9.9,2
+2009H2156H,Electrical and Electronics Engineering,M.E,9.76,1
+2009H2157H,Chemisty,M.E,7.63,3
+2009S2158S,Mechanical Engineering,M.Sc,9.11,4
+2009S2159S,Chemical Engineering,M.Sc,7.64,3
+2009S2160S,Mathematics,M.Sc,6.36,1
+2009A2161A,Biological Sciences,B.E,5.85,4
+2009P2162P,Chemisty,B.Pharm,6.73,4
+2009A2163A,Humanities and Social Sciences,B.E,7.96,3
+2009A2164A,Biological Sciences,B.E,8.43,2
+2009A2165A,Pharmacy,B.E,5.63,4
+2009S2166S,Mechanical Engineering,M.Sc,8.68,1
+2009A2167A,Physics,B.E,8.2,3
+2009S2168S,Physics,M.Sc,8.89,4
+2009A2169A,Physics,B.E,7.29,4
+2009P2170P,Economics and Finanace,B.Pharm,8.99,3
+2009H2171H,Computer Science and Information Systems,M.E,9.76,2
+2009A2172A,Computer Science and Information Systems,B.E,8.18,1
+2009A2173A,Computer Science and Information Systems,B.E,7.03,3
+2009S2174S,Chemical Engineering,M.Sc,8.17,1
+2009A2175A,Physics,B.E,6.2,1
+2009A2176A,Chemisty,B.E,7.88,1
+2009A2177A,Physics,B.E,6.43,4
+2009H2178H,Biological Sciences,M.E,9.81,4
+2009A2179A,Pharmacy,B.E,7.54,2
+2009D2180D,Humanities and Social Sciences,Ph.D,7.49,1
+2009A2181A,Electrical and Electronics Engineering,B.E,5.07,2
+2009A2182A,Physics,B.E,5.04,4
+2009A2183A,Physics,B.E,7.67,3
+2009D2184D,Civil Engineering,Ph.D,9.97,1
+2009A2185A,Mechanical Engineering,B.E,7.24,2
+2009A2186A,Pharmacy,B.E,9.65,2
+2009H2187H,Chemisty,M.E,5.38,2
+2009D2188D,Mathematics,Ph.D,6.77,1
+2009A2189A,Electrical and Electronics Engineering,B.E,7.48,2
+2009H2190H,Economics and Finanace,M.E,9.85,3
+2009S2191S,Pharmacy,M.Sc,6.25,1
+2009A2192A,Computer Science and Information Systems,B.E,6.5,3
+2009P2193P,Computer Science and Information Systems,B.Pharm,6.07,4
+2009H2194H,Civil Engineering,M.E,9.62,1
+2009H2195H,Humanities and Social Sciences,M.E,9.46,4
+2009D2196D,Biological Sciences,Ph.D,6.78,4
+2009A2197A,Economics and Finanace,B.E,6.49,1
+2009A2198A,Biological Sciences,B.E,6.75,2
+2009A2199A,Electrical and Electronics Engineering,B.E,6.77,1
+2009H2200H,Electrical and Electronics Engineering,M.E,7.46,1
+2009H2201H,Mathematics,M.E,7.57,2
+2009A2202A,Electrical and Electronics Engineering,B.E,5.62,4
+2009P2203P,Biological Sciences,B.Pharm,5.78,3
+2009P2204P,Civil Engineering,B.Pharm,7.35,3
+2009H2205H,Computer Science and Information Systems,M.E,6.82,2
+2009A2206A,Mathematics,B.E,9.06,1
+2009A2207A,Humanities and Social Sciences,B.E,8.28,4
+2009P2208P,Chemisty,B.Pharm,5.7,4
+2009H2209H,Biological Sciences,M.E,6.8,2
+2009H2210H,Chemical Engineering,M.E,5.95,1
+2009A2211A,Chemisty,B.E,6.97,3
+2009H2212H,Biological Sciences,M.E,5.8,2
+2009H2213H,Humanities and Social Sciences,M.E,9.8,3
+2009D2214D,Chemical Engineering,Ph.D,7.11,4
+2009H2215H,Pharmacy,M.E,8.57,3
+2009P2216P,Electrical and Electronics Engineering,B.Pharm,7.51,4
+2009A2217A,Chemisty,B.E,5.55,1
+2009A2218A,Biological Sciences,B.E,5.63,3
+2009P2219P,Biological Sciences,B.Pharm,8.84,2
+2009D2220D,Biological Sciences,Ph.D,8.39,3
+2009A2221A,Electrical and Electronics Engineering,B.E,9.88,1
+2009D2222D,Electrical and Electronics Engineering,Ph.D,7.4,3
+2009D2223D,Humanities and Social Sciences,Ph.D,5.41,4
+2009A2224A,Civil Engineering,B.E,8.09,2
+2009S2225S,Civil Engineering,M.Sc,6.41,1
+2009A2226A,Computer Science and Information Systems,B.E,9.97,2
+2009A2227A,Pharmacy,B.E,9.1,2
+2009A2228A,Humanities and Social Sciences,B.E,8.53,1
+2009H2229H,Physics,M.E,8.65,2
+2009A2230A,Civil Engineering,B.E,9.96,2
+2009A2231A,Civil Engineering,B.E,5.6,4
+2009A2232A,Biological Sciences,B.E,6.37,2
+2009D2233D,Chemisty,Ph.D,7.13,2
+2009A2234A,Chemical Engineering,B.E,9.32,4
+2009H2235H,Electrical and Electronics Engineering,M.E,7.62,2
+2009A2236A,Civil Engineering,B.E,6.68,4
+2009S2237S,Biological Sciences,M.Sc,7.55,1
+2009A2238A,Computer Science and Information Systems,B.E,5.55,3
+2009A2239A,Computer Science and Information Systems,B.E,9.71,4
+2009S2240S,Civil Engineering,M.Sc,6.6,1
+2009H2241H,Chemisty,M.E,5.2,1
+2009A2242A,Pharmacy,B.E,8.72,2
+2009S2243S,Computer Science and Information Systems,M.Sc,7.36,1
+2009D2244D,Electrical and Electronics Engineering,Ph.D,5.92,4
+2009A2245A,Economics and Finanace,B.E,6.67,1
+2009D2246D,Chemical Engineering,Ph.D,8.34,2
+2009S2247S,Economics and Finanace,M.Sc,6.8,3
+2009A2248A,Physics,B.E,8.89,3
+2009A2249A,Civil Engineering,B.E,8.25,2
+2009A2250A,Mechanical Engineering,B.E,6.92,1
+2009H2251H,Chemisty,M.E,8.15,1
+2009A2252A,Biological Sciences,B.E,7.93,2
+2009D2253D,Civil Engineering,Ph.D,8.52,1
+2009A2254A,Chemical Engineering,B.E,9.71,3
+2009H2255H,Computer Science and Information Systems,M.E,8.63,2
+2009H2256H,Mathematics,M.E,8.6,1
+2009A2257A,Chemisty,B.E,5.96,3
+2009H2258H,Mathematics,M.E,9.88,3
+2009A2259A,Humanities and Social Sciences,B.E,8.15,1
+2009P2260P,Electrical and Electronics Engineering,B.Pharm,5.34,4
+2009A2261A,Mathematics,B.E,9.66,1
+2009H2262H,Chemisty,M.E,8.0,2
+2009A2263A,Computer Science and Information Systems,B.E,5.23,1
+2009A2264A,Physics,B.E,5.95,4
+2009D2265D,Humanities and Social Sciences,Ph.D,8.42,1
+2009A2266A,Chemisty,B.E,7.19,4
+2009S2267S,Mathematics,M.Sc,8.9,4
+2009A2268A,Mechanical Engineering,B.E,6.36,2
+2009S2269S,Biological Sciences,M.Sc,5.8,2
+2009A2270A,Mechanical Engineering,B.E,8.48,4
+2009A2271A,Mathematics,B.E,8.54,3
+2009A2272A,Computer Science and Information Systems,B.E,9.26,3
+2009A2273A,Physics,B.E,6.34,1
+2009A2274A,Chemisty,B.E,6.12,2
+2009H2275H,Computer Science and Information Systems,M.E,5.2,2
+2009A2276A,Computer Science and Information Systems,B.E,9.64,3
+2009D2277D,Biological Sciences,Ph.D,8.21,2
+2009S2278S,Civil Engineering,M.Sc,7.67,1
+2009P2279P,Pharmacy,B.Pharm,6.74,3
+2009A2280A,Economics and Finanace,B.E,5.42,3
+2009S2281S,Physics,M.Sc,5.67,3
+2009S2282S,Economics and Finanace,M.Sc,9.93,1
+2009H2283H,Economics and Finanace,M.E,6.1,3
+2009H2284H,Chemisty,M.E,6.28,1
+2009A2285A,Mathematics,B.E,8.29,1
+2009H2286H,Physics,M.E,8.73,4
+2009A2287A,Pharmacy,B.E,6.29,2
+2009H2288H,Humanities and Social Sciences,M.E,6.1,3
+2009P2289P,Civil Engineering,B.Pharm,7.91,4
+2009H2290H,Chemisty,M.E,7.23,4
+2009A2291A,Economics and Finanace,B.E,5.74,4
+2009A2292A,Chemical Engineering,B.E,7.48,4
+2009P2293P,Chemisty,B.Pharm,9.08,2
+2009A2294A,Civil Engineering,B.E,7.85,2
+2009A2295A,Pharmacy,B.E,6.41,3
+2009A2296A,Chemisty,B.E,9.43,4
+2009A2297A,Pharmacy,B.E,8.04,1
+2009A2298A,Chemisty,B.E,5.36,2
+2009S2299S,Humanities and Social Sciences,M.Sc,9.55,4
+2009S2300S,Chemical Engineering,M.Sc,8.62,2
+2009A2301A,Physics,B.E,8.75,1
+2009A2302A,Mechanical Engineering,B.E,5.5,4
+2009A2303A,Biological Sciences,B.E,5.55,1
+2009A2304A,Pharmacy,B.E,9.67,2
+2009D2305D,Civil Engineering,Ph.D,8.85,3
+2009D2306D,Chemisty,Ph.D,9.69,1
+2009P2307P,Biological Sciences,B.Pharm,9.79,1
+2009A2308A,Mathematics,B.E,8.68,3
+2009A2309A,Physics,B.E,5.42,2
+2009A2310A,Humanities and Social Sciences,B.E,8.8,4
+2009A2311A,Chemisty,B.E,6.54,4
+2009A2312A,Chemisty,B.E,6.22,3
+2009A2313A,Pharmacy,B.E,7.72,1
+2009H2314H,Biological Sciences,M.E,5.51,3
+2009A2315A,Chemical Engineering,B.E,7.56,4
+2009P2316P,Chemisty,B.Pharm,5.01,2
+2009S2317S,Biological Sciences,M.Sc,6.13,4
+2009H2318H,Chemisty,M.E,6.77,3
+2009A2319A,Civil Engineering,B.E,9.61,4
+2009S2320S,Pharmacy,M.Sc,9.42,1
+2009S2321S,Humanities and Social Sciences,M.Sc,5.85,1
+2009P2322P,Civil Engineering,B.Pharm,5.51,3
+2009A2323A,Economics and Finanace,B.E,5.38,3
+2009D2324D,Chemical Engineering,Ph.D,6.8,1
+2009A2325A,Biological Sciences,B.E,8.02,2
+2009H2326H,Electrical and Electronics Engineering,M.E,7.65,2
+2009A2327A,Pharmacy,B.E,7.13,3
+2009A2328A,Mechanical Engineering,B.E,9.09,3
+2009A2329A,Chemical Engineering,B.E,6.36,4
+2009S2330S,Pharmacy,M.Sc,6.85,3
+2009P2331P,Chemical Engineering,B.Pharm,8.94,2
+2009A2332A,Pharmacy,B.E,5.73,2
+2009A2333A,Electrical and Electronics Engineering,B.E,7.23,4
+2009A2334A,Chemical Engineering,B.E,5.57,4
+2009P2335P,Computer Science and Information Systems,B.Pharm,5.72,3
+2009H2336H,Chemisty,M.E,5.91,4
+2009A2337A,Economics and Finanace,B.E,6.6,4
+2009D2338D,Humanities and Social Sciences,Ph.D,8.47,4
+2009D2339D,Mechanical Engineering,Ph.D,8.97,3
+2009A2340A,Chemisty,B.E,9.01,2
+2009A2341A,Electrical and Electronics Engineering,B.E,7.09,4
+2009S2342S,Mathematics,M.Sc,7.67,2
+2009H2343H,Electrical and Electronics Engineering,M.E,5.42,4
+2009A2344A,Mathematics,B.E,7.89,2
+2009A2345A,Physics,B.E,5.44,3
+2009A2346A,Biological Sciences,B.E,6.02,1
+2009D2347D,Economics and Finanace,Ph.D,7.79,2
+2009A2348A,Chemical Engineering,B.E,5.3,3
+2009A2349A,Economics and Finanace,B.E,9.24,2
+2009A2350A,Computer Science and Information Systems,B.E,7.3,4
+2009A2351A,Civil Engineering,B.E,6.05,2
+2009D2352D,Biological Sciences,Ph.D,8.73,1
+2009A2353A,Physics,B.E,8.52,4
+2009A2354A,Physics,B.E,5.13,4
+2009H2355H,Economics and Finanace,M.E,5.27,1
+2009A2356A,Pharmacy,B.E,7.91,4
+2009A2357A,Mechanical Engineering,B.E,9.35,1
+2009D2358D,Chemisty,Ph.D,6.83,1
+2009A2359A,Civil Engineering,B.E,5.39,4
+2009P2360P,Chemisty,B.Pharm,8.83,4
+2009A2361A,Physics,B.E,5.7,3
+2009H2362H,Humanities and Social Sciences,M.E,7.06,3
+2009A2363A,Humanities and Social Sciences,B.E,8.91,1
+2009D2364D,Computer Science and Information Systems,Ph.D,5.56,1
+2009H2365H,Pharmacy,M.E,5.16,2
+2009A2366A,Mathematics,B.E,5.8,4
+2009A2367A,Electrical and Electronics Engineering,B.E,8.4,4
+2009H2368H,Mathematics,M.E,8.56,3
+2009S2369S,Mechanical Engineering,M.Sc,7.51,2
+2009D2370D,Electrical and Electronics Engineering,Ph.D,9.66,3
+2009D2371D,Chemical Engineering,Ph.D,7.61,2
+2009A2372A,Physics,B.E,6.06,1
+2009A2373A,Civil Engineering,B.E,6.96,1
+2009H2374H,Physics,M.E,7.34,3
+2009P2375P,Pharmacy,B.Pharm,8.21,4
+2009A2376A,Chemisty,B.E,5.27,3
+2009H2377H,Pharmacy,M.E,7.12,3
+2009A2378A,Chemical Engineering,B.E,5.52,3
+2009S2379S,Mechanical Engineering,M.Sc,8.89,3
+2009A2380A,Biological Sciences,B.E,6.2,2
+2009A2381A,Mathematics,B.E,5.53,2
+2009A2382A,Mechanical Engineering,B.E,5.05,3
+2009D2383D,Civil Engineering,Ph.D,7.76,1
+2009H2384H,Civil Engineering,M.E,6.35,1
+2009A2385A,Mechanical Engineering,B.E,9.93,4
+2009D2386D,Biological Sciences,Ph.D,5.24,1
+2009P2387P,Computer Science and Information Systems,B.Pharm,5.04,3
+2009A2388A,Computer Science and Information Systems,B.E,9.79,2
+2009A2389A,Economics and Finanace,B.E,8.76,3
+2009H2390H,Chemisty,M.E,8.51,1
+2009A2391A,Economics and Finanace,B.E,7.04,1
+2009A2392A,Mathematics,B.E,9.04,2
+2009A2393A,Biological Sciences,B.E,7.94,4
+2009A2394A,Humanities and Social Sciences,B.E,7.93,1
+2009A2395A,Computer Science and Information Systems,B.E,5.81,4
+2009A2396A,Chemical Engineering,B.E,9.43,1
+2009S2397S,Physics,M.Sc,6.16,2
+2009P2398P,Pharmacy,B.Pharm,8.27,2
+2009D2399D,Mathematics,Ph.D,7.58,3
+2009H2400H,Humanities and Social Sciences,M.E,8.93,3
+2009A2401A,Computer Science and Information Systems,B.E,6.8,4
+2009S2402S,Biological Sciences,M.Sc,9.45,4
+2009A2403A,Civil Engineering,B.E,6.04,1
+2009A2404A,Chemisty,B.E,7.83,4
+2009H2405H,Chemical Engineering,M.E,9.02,2
+2009A2406A,Computer Science and Information Systems,B.E,7.74,1
+2009H2407H,Humanities and Social Sciences,M.E,5.47,3
+2009H2408H,Chemisty,M.E,9.67,2
+2009A2409A,Chemical Engineering,B.E,6.4,3
+2009A2410A,Economics and Finanace,B.E,5.45,2
+2009A2411A,Physics,B.E,8.86,3
+2009A2412A,Humanities and Social Sciences,B.E,9.89,4
+2009A2413A,Pharmacy,B.E,9.62,1
+2009D2414D,Mechanical Engineering,Ph.D,7.44,3
+2009D2415D,Computer Science and Information Systems,Ph.D,7.0,2
+2009A2416A,Humanities and Social Sciences,B.E,6.83,3
+2009H2417H,Economics and Finanace,M.E,5.42,4
+2009H2418H,Mathematics,M.E,7.25,1
+2009H2419H,Mechanical Engineering,M.E,9.89,1
+2009A2420A,Physics,B.E,8.95,1
+2009S2421S,Chemisty,M.Sc,9.27,3
+2009D2422D,Electrical and Electronics Engineering,Ph.D,5.79,4
+2009A2423A,Chemical Engineering,B.E,6.12,4
+2009A2424A,Pharmacy,B.E,5.47,4
+2009H2425H,Humanities and Social Sciences,M.E,8.21,4
+2009A2426A,Chemical Engineering,B.E,5.43,1
+2009A2427A,Electrical and Electronics Engineering,B.E,8.84,2
+2009H2428H,Electrical and Electronics Engineering,M.E,6.64,3
+2009H2429H,Economics and Finanace,M.E,9.98,4
+2009P2430P,Civil Engineering,B.Pharm,8.51,4
+2009P2431P,Chemical Engineering,B.Pharm,6.39,1
+2009A2432A,Mathematics,B.E,5.78,4
+2009D2433D,Chemisty,Ph.D,8.2,3
+2009P2434P,Mechanical Engineering,B.Pharm,5.16,4
+2009A2435A,Biological Sciences,B.E,9.68,3
+2009H2436H,Electrical and Electronics Engineering,M.E,9.89,2
+2009A2437A,Biological Sciences,B.E,6.06,1
+2009A2438A,Pharmacy,B.E,7.11,3
+2009D2439D,Pharmacy,Ph.D,5.88,2
+2009P2440P,Chemical Engineering,B.Pharm,6.37,1
+2009A2441A,Computer Science and Information Systems,B.E,9.37,4
+2009A2442A,Electrical and Electronics Engineering,B.E,7.62,3
+2009A2443A,Chemisty,B.E,9.15,1
+2009A2444A,Electrical and Electronics Engineering,B.E,6.71,3
+2009A2445A,Chemisty,B.E,5.99,4
+2009A2446A,Humanities and Social Sciences,B.E,7.38,2
+2009P2447P,Electrical and Electronics Engineering,B.Pharm,6.77,4
+2009A2448A,Biological Sciences,B.E,7.8,2
+2009A2449A,Chemical Engineering,B.E,8.61,2
+2009H2450H,Economics and Finanace,M.E,8.32,3
+2009A2451A,Biological Sciences,B.E,5.75,4
+2009S2452S,Chemisty,M.Sc,7.5,3
+2009P2453P,Chemical Engineering,B.Pharm,8.96,4
+2009H2454H,Computer Science and Information Systems,M.E,7.6,1
+2009A2455A,Humanities and Social Sciences,B.E,9.72,2
+2009P2456P,Pharmacy,B.Pharm,7.25,1
+2009A2457A,Biological Sciences,B.E,6.09,2
+2009A2458A,Electrical and Electronics Engineering,B.E,8.48,2
+2009A2459A,Mechanical Engineering,B.E,6.89,3
+2009D2460D,Civil Engineering,Ph.D,9.76,1
+2009A2461A,Economics and Finanace,B.E,9.07,1
+2009A2462A,Computer Science and Information Systems,B.E,9.48,1
+2009A2463A,Physics,B.E,7.5,4
+2009D2464D,Electrical and Electronics Engineering,Ph.D,7.05,3
+2009H2465H,Mathematics,M.E,7.13,3
+2009S2466S,Chemical Engineering,M.Sc,9.63,4
+2009A2467A,Electrical and Electronics Engineering,B.E,6.87,2
+2009A2468A,Mathematics,B.E,7.18,3
+2009A2469A,Pharmacy,B.E,8.44,4
+2009H2470H,Pharmacy,M.E,6.42,1
+2009A2471A,Chemical Engineering,B.E,9.03,1
+2009H2472H,Chemical Engineering,M.E,8.25,4
+2009H2473H,Chemical Engineering,M.E,7.48,1
+2009A2474A,Pharmacy,B.E,7.22,1
+2009A2475A,Pharmacy,B.E,6.45,4
+2009H2476H,Civil Engineering,M.E,6.11,4
+2009P2477P,Electrical and Electronics Engineering,B.Pharm,5.57,4
+2009A2478A,Chemical Engineering,B.E,6.75,4
+2009A2479A,Electrical and Electronics Engineering,B.E,9.54,4
+2009P2480P,Biological Sciences,B.Pharm,9.7,2
+2009D2481D,Mathematics,Ph.D,6.42,3
+2009S2482S,Computer Science and Information Systems,M.Sc,9.19,4
+2009D2483D,Pharmacy,Ph.D,6.21,4
+2009S2484S,Biological Sciences,M.Sc,5.08,2
+2009S2485S,Economics and Finanace,M.Sc,9.2,3
+2009A2486A,Economics and Finanace,B.E,5.85,4
+2009D2487D,Civil Engineering,Ph.D,7.78,4
+2009A2488A,Civil Engineering,B.E,8.08,4
+2009H2489H,Biological Sciences,M.E,9.01,4
+2009H2490H,Chemisty,M.E,9.7,4
+2009A2491A,Physics,B.E,5.87,3
+2009A2492A,Mathematics,B.E,5.79,2
+2009P2493P,Chemical Engineering,B.Pharm,8.55,2
+2009S2494S,Mathematics,M.Sc,5.59,4
+2009A2495A,Pharmacy,B.E,9.58,2
+2009A2496A,Economics and Finanace,B.E,6.02,1
+2009A2497A,Biological Sciences,B.E,7.19,2
+2009P2498P,Biological Sciences,B.Pharm,8.09,1
+2009A2499A,Mechanical Engineering,B.E,6.91,2
+2009H2500H,Humanities and Social Sciences,M.E,8.17,3
+2009P2501P,Chemisty,B.Pharm,6.2,2
+2009P2502P,Computer Science and Information Systems,B.Pharm,5.97,2
+2009A2503A,Physics,B.E,8.9,4
+2009A2504A,Computer Science and Information Systems,B.E,8.3,3
+2009P2505P,Chemical Engineering,B.Pharm,9.67,1
+2009A2506A,Pharmacy,B.E,9.92,1
+2009S2507S,Chemical Engineering,M.Sc,7.3,1
+2009A2508A,Chemical Engineering,B.E,5.71,3
+2009A2509A,Chemisty,B.E,5.46,4
+2009A2510A,Economics and Finanace,B.E,9.56,2
+2009A2511A,Electrical and Electronics Engineering,B.E,5.5,1
+2009H2512H,Electrical and Electronics Engineering,M.E,5.37,1
+2009D2513D,Civil Engineering,Ph.D,8.44,4
+2009A2514A,Economics and Finanace,B.E,8.17,4
+2009P2515P,Chemisty,B.Pharm,5.9,1
+2009A2516A,Chemisty,B.E,8.3,1
+2009P2517P,Chemical Engineering,B.Pharm,9.88,3
+2009A2518A,Humanities and Social Sciences,B.E,9.97,1
+2009A2519A,Chemisty,B.E,7.61,3
+2009D2520D,Chemical Engineering,Ph.D,5.96,1
+2009S2521S,Mathematics,M.Sc,5.12,2
+2009H2522H,Civil Engineering,M.E,9.33,1
+2009H2523H,Civil Engineering,M.E,5.15,2
+2009P2524P,Civil Engineering,B.Pharm,5.42,2
+2009H2525H,Computer Science and Information Systems,M.E,6.37,2
+2009A2526A,Chemical Engineering,B.E,6.74,3
+2009H2527H,Humanities and Social Sciences,M.E,8.73,4
+2009P2528P,Electrical and Electronics Engineering,B.Pharm,7.56,4
+2009D2529D,Civil Engineering,Ph.D,6.25,2
+2009H2530H,Pharmacy,M.E,9.23,3
+2009A2531A,Electrical and Electronics Engineering,B.E,5.51,3
+2009A2532A,Chemisty,B.E,8.97,4
+2009P2533P,Electrical and Electronics Engineering,B.Pharm,9.41,4
+2009D2534D,Mechanical Engineering,Ph.D,8.74,3
+2009P2535P,Mechanical Engineering,B.Pharm,5.54,4
+2009A2536A,Electrical and Electronics Engineering,B.E,6.0,3
+2009A2537A,Economics and Finanace,B.E,9.49,1
+2009A2538A,Humanities and Social Sciences,B.E,5.84,1
+2009A2539A,Mathematics,B.E,6.27,4
+2009H2540H,Computer Science and Information Systems,M.E,8.02,3
+2009A2541A,Electrical and Electronics Engineering,B.E,5.15,2
+2009P2542P,Economics and Finanace,B.Pharm,7.15,2
+2009A2543A,Economics and Finanace,B.E,6.23,2
+2009A2544A,Pharmacy,B.E,6.86,2
+2009A2545A,Economics and Finanace,B.E,5.61,3
+2009H2546H,Physics,M.E,5.05,3
+2009D2547D,Civil Engineering,Ph.D,7.33,3
+2009A2548A,Civil Engineering,B.E,7.81,4
+2009H2549H,Computer Science and Information Systems,M.E,8.01,2
+2009A2550A,Chemical Engineering,B.E,7.8,1
+2009P2551P,Mechanical Engineering,B.Pharm,9.46,4
+2009A2552A,Pharmacy,B.E,8.78,3
+2009D2553D,Economics and Finanace,Ph.D,5.99,1
+2009P2554P,Humanities and Social Sciences,B.Pharm,7.49,3
+2009D2555D,Electrical and Electronics Engineering,Ph.D,5.6,4
+2009A2556A,Chemisty,B.E,8.01,4
+2009A2557A,Civil Engineering,B.E,7.88,3
+2009A2558A,Biological Sciences,B.E,8.22,1
+2009A2559A,Humanities and Social Sciences,B.E,6.42,4
+2009A2560A,Biological Sciences,B.E,9.48,1
+2009H2561H,Economics and Finanace,M.E,8.22,1
+2009A2562A,Humanities and Social Sciences,B.E,5.48,4
+2009P2563P,Computer Science and Information Systems,B.Pharm,6.37,3
+2009A2564A,Electrical and Electronics Engineering,B.E,5.4,3
+2009H2565H,Humanities and Social Sciences,M.E,8.06,4
+2009D2566D,Computer Science and Information Systems,Ph.D,8.48,4
+2009S2567S,Humanities and Social Sciences,M.Sc,9.24,1
+2009A2568A,Economics and Finanace,B.E,9.69,1
+2009H2569H,Biological Sciences,M.E,6.12,1
+2009H2570H,Chemisty,M.E,5.53,3
+2009P2571P,Electrical and Electronics Engineering,B.Pharm,6.13,1
+2009H2572H,Civil Engineering,M.E,8.62,3
+2009A2573A,Mathematics,B.E,9.95,1
+2009H2574H,Computer Science and Information Systems,M.E,9.42,1
+2009D2575D,Chemical Engineering,Ph.D,5.24,3
+2009A2576A,Chemical Engineering,B.E,6.32,4
+2009A2577A,Computer Science and Information Systems,B.E,8.49,2
+2009S2578S,Mechanical Engineering,M.Sc,7.3,2
+2009S2579S,Economics and Finanace,M.Sc,9.31,4
+2009D2580D,Pharmacy,Ph.D,7.23,1
+2009A2581A,Mathematics,B.E,7.64,4
+2009H2582H,Pharmacy,M.E,7.45,3
+2009A2583A,Economics and Finanace,B.E,8.86,4
+2009D2584D,Civil Engineering,Ph.D,5.46,3
+2009H2585H,Physics,M.E,5.41,2
+2009A2586A,Pharmacy,B.E,8.24,2
+2009H2587H,Physics,M.E,5.39,4
+2009S2588S,Biological Sciences,M.Sc,6.06,2
+2009A2589A,Humanities and Social Sciences,B.E,9.09,2
+2009A2590A,Humanities and Social Sciences,B.E,5.52,2
+2009P2591P,Mechanical Engineering,B.Pharm,8.81,3
+2009P2592P,Computer Science and Information Systems,B.Pharm,8.54,2
+2009P2593P,Chemical Engineering,B.Pharm,9.57,2
+2009H2594H,Economics and Finanace,M.E,6.93,4
+2009H2595H,Mechanical Engineering,M.E,7.57,4
+2009A2596A,Civil Engineering,B.E,5.34,4
+2009P2597P,Chemisty,B.Pharm,8.43,1
+2009A2598A,Chemisty,B.E,7.3,1
+2009A2599A,Physics,B.E,5.55,1
+2009A2600A,Humanities and Social Sciences,B.E,5.94,1
+2009H2601H,Humanities and Social Sciences,M.E,8.31,4
+2009H2602H,Economics and Finanace,M.E,6.33,1
+2009D2603D,Economics and Finanace,Ph.D,7.16,2
+2009A2604A,Electrical and Electronics Engineering,B.E,7.51,3
+2009A2605A,Biological Sciences,B.E,7.21,3
+2009D2606D,Chemical Engineering,Ph.D,5.25,4
+2009A2607A,Physics,B.E,9.64,2
+2009A2608A,Computer Science and Information Systems,B.E,5.95,2
+2009H2609H,Mechanical Engineering,M.E,6.38,4
+2009H2610H,Mathematics,M.E,7.17,1
+2009P2611P,Pharmacy,B.Pharm,6.24,1
+2009A2612A,Civil Engineering,B.E,5.58,1
+2009H2613H,Mechanical Engineering,M.E,6.33,1
+2009A2614A,Mathematics,B.E,5.51,2
+2009S2615S,Mechanical Engineering,M.Sc,8.5,4
+2009S2616S,Electrical and Electronics Engineering,M.Sc,6.96,2
+2009S2617S,Physics,M.Sc,9.12,3
+2009A2618A,Humanities and Social Sciences,B.E,6.03,2
+2009A2619A,Economics and Finanace,B.E,8.18,3
+2009A2620A,Physics,B.E,5.02,2
+2009A2621A,Mathematics,B.E,9.54,4
+2009A2622A,Physics,B.E,6.53,2
+2009A2623A,Chemisty,B.E,6.58,1
+2009A2624A,Chemisty,B.E,5.94,4
+2009A2625A,Chemisty,B.E,9.81,4
+2009P2626P,Electrical and Electronics Engineering,B.Pharm,6.67,2
+2009S2627S,Computer Science and Information Systems,M.Sc,9.41,2
+2009S2628S,Pharmacy,M.Sc,8.8,1
+2009A2629A,Mechanical Engineering,B.E,6.76,4
+2009A2630A,Mechanical Engineering,B.E,5.01,2
+2009A2631A,Humanities and Social Sciences,B.E,5.55,1
+2009A2632A,Mechanical Engineering,B.E,8.4,3
+2009P2633P,Civil Engineering,B.Pharm,7.63,2
+2009A2634A,Chemisty,B.E,8.88,1
+2009A2635A,Computer Science and Information Systems,B.E,9.02,3
+2009A2636A,Humanities and Social Sciences,B.E,7.45,3
+2009A2637A,Mathematics,B.E,6.29,4
+2009H2638H,Computer Science and Information Systems,M.E,6.82,1
+2009D2639D,Economics and Finanace,Ph.D,6.51,3
+2009S2640S,Mathematics,M.Sc,8.87,4
+2009A2641A,Chemical Engineering,B.E,6.35,1
+2009A2642A,Chemisty,B.E,9.89,2
+2009S2643S,Pharmacy,M.Sc,9.97,3
+2009A2644A,Humanities and Social Sciences,B.E,5.15,4
+2009S2645S,Economics and Finanace,M.Sc,6.03,1
+2009S2646S,Civil Engineering,M.Sc,9.6,4
+2009H2647H,Pharmacy,M.E,5.54,3
+2009A2648A,Pharmacy,B.E,8.39,4
+2009D2649D,Mathematics,Ph.D,5.87,3
+2009A2650A,Economics and Finanace,B.E,6.96,4
+2009A2651A,Computer Science and Information Systems,B.E,6.55,1
+2009A2652A,Mechanical Engineering,B.E,7.6,3
+2009H2653H,Mechanical Engineering,M.E,5.61,4
+2009P2654P,Mechanical Engineering,B.Pharm,9.84,3
+2009A2655A,Computer Science and Information Systems,B.E,5.55,1
+2009D2656D,Humanities and Social Sciences,Ph.D,9.64,2
+2009H2657H,Humanities and Social Sciences,M.E,8.4,3
+2009H2658H,Mechanical Engineering,M.E,7.79,2
+2009A2659A,Computer Science and Information Systems,B.E,7.43,1

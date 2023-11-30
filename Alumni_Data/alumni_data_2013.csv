@@ -1,0 +1,1600 @@
+Student ID,Course,Degree,CGPA,Year,Placement
+2013P0009P,Economics and Finanace,B.Pharm,5.19,4,CRISIL
+2013D0010D,Mechanical Engineering,Ph.D,7.57,4,ABB
+2013A0011A,Computer Science and Information Systems,B.E,5.1,4,PEGA
+2013A0014A,Mechanical Engineering,B.E,5.49,4,DOVER
+2013P0020P,Biological Sciences,B.Pharm,6.49,4,Sun Pharmaceutical Industries
+2013P0024P,Mechanical Engineering,B.Pharm,9.01,4,3SC
+2013D0031D,Mechanical Engineering,Ph.D,7.5,4,Unplaced
+2013D0032D,Computer Science and Information Systems,Ph.D,9.69,4,Unplaced
+2013A0034A,Mathematics,B.E,6.0,4,Google
+2013H0037H,Pharmacy,M.E,6.02,4,Aragen
+2013A0042A,Humanities and Social Sciences,B.E,7.43,4,McKinsey & Company
+2013A0056A,Economics and Finanace,B.E,9.16,4,BlackRock
+2013H0057H,Physics,M.E,8.72,4,Unplaced
+2013P0059P,Civil Engineering,B.Pharm,9.85,4,Force
+2013S0062S,Economics and Finanace,M.Sc,7.73,4,Bain & Company
+2013H0071H,Humanities and Social Sciences,M.E,6.94,4,Unplaced
+2013A0074A,Humanities and Social Sciences,B.E,8.16,4,EY (Ernst & Young)
+2013A0076A,Humanities and Social Sciences,B.E,7.36,4,State Bank of India (SBI)
+2013H0081H,Pharmacy,M.E,8.21,4,Natco Pharma
+2013A0082A,Pharmacy,B.E,5.68,4,Cipla
+2013A0089A,Computer Science and Information Systems,B.E,5.99,4,PEGA
+2013S0090S,Economics and Finanace,M.Sc,5.91,4,Capital IQ
+2013A0095A,Biological Sciences,B.E,7.01,4,Abbott Laboratories
+2013D0098D,Biological Sciences,Ph.D,8.59,4,Natco Pharma
+2013A0099A,Humanities and Social Sciences,B.E,9.14,4,McKinsey & Company
+2013A0102A,Computer Science and Information Systems,B.E,8.73,4,CONFLUENT
+2013H0109H,Economics and Finanace,M.E,7.91,4,S&P Global
+2013H0111H,Economics and Finanace,M.E,9.87,4,Thomson Reuters
+2013D0112D,Pharmacy,Ph.D,6.06,4,Alkem Laboratories
+2013A0117A,Biological Sciences,B.E,6.27,4,Unplaced
+2013H0126H,Physics,M.E,6.8,4,SynOPSYS
+2013H0130H,Economics and Finanace,M.E,8.68,4,HSBC
+2013A0131A,Chemisty,B.E,7.78,4,Unplaced
+2013A0133A,Civil Engineering,B.E,5.92,4,Assystem Stup
+2013A0134A,Computer Science and Information Systems,B.E,5.82,4,CONFLUENT
+2013A0135A,Electrical and Electronics Engineering,B.E,5.58,4,Sony
+2013S0136S,Biological Sciences,M.Sc,7.21,4,Ipca Laboratories
+2013H0149H,Humanities and Social Sciences,M.E,9.15,4,Deloitte
+2013A0152A,Biological Sciences,B.E,8.28,4,Granules India
+2013S0156S,Mathematics,M.Sc,9.76,4,Teradata
+2013D0158D,Civil Engineering,Ph.D,9.83,4,Bechtel Corporation
+2013H0160H,Chemisty,M.E,6.94,4,Elucidata
+2013A0162A,Chemical Engineering,B.E,6.49,4,Air Liquide
+2013A0166A,Mathematics,B.E,6.0,4,Intel
+2013A0167A,Electrical and Electronics Engineering,B.E,7.38,4,Intel
+2013A0169A,Mechanical Engineering,B.E,5.93,4,Unplaced
+2013A0178A,Mathematics,B.E,5.54,4,Cisco
+2013A0181A,Mathematics,B.E,5.08,4,Amazon
+2013S0182S,Chemisty,M.Sc,8.93,4,Unplaced
+2013A0184A,Economics and Finanace,B.E,7.94,4,Moodys Investors Service
+2013S0190S,Chemisty,M.Sc,8.28,4,КАВІ
+2013H0191H,Physics,M.E,7.03,4,IBM
+2013H0193H,Physics,M.E,8.37,4,Unplaced
+2013A0199A,Chemical Engineering,B.E,6.5,4,Unplaced
+2013A0202A,Physics,B.E,8.51,4,onsemi
+2013A0203A,Humanities and Social Sciences,B.E,5.1,4,Unplaced
+2013A0205A,Mechanical Engineering,B.E,9.15,4,Toyota
+2013H0207H,Pharmacy,M.E,9.24,4,PEISION MEDICINE SOLUTIONS
+2013H0209H,Biological Sciences,M.E,7.44,4,FRESENIUS
+2013A0210A,Mathematics,B.E,7.96,4,Teradata
+2013H0213H,Computer Science and Information Systems,M.E,9.46,4,Piramal
+2013A0219A,Mechanical Engineering,B.E,9.27,4,Unplaced
+2013P0220P,Chemisty,B.Pharm,9.42,4,Linde
+2013H0225H,Civil Engineering,M.E,5.78,4,"Skidmore, Owings & Merrill (SOM)"
+2013H0226H,Chemical Engineering,M.E,8.97,4,"KBR, Inc."
+2013A0232A,Chemical Engineering,B.E,7.81,4,Bayer
+2013A0236A,Physics,B.E,5.25,4,A Lam
+2013P0242P,Humanities and Social Sciences,B.Pharm,8.81,4,Microsoft
+2013A0245A,Chemical Engineering,B.E,9.24,4,Unplaced
+2013H0247H,Civil Engineering,M.E,9.17,4,Unplaced
+2013A0249A,Chemical Engineering,B.E,6.33,4,Lanxess
+2013P0251P,Chemisty,B.Pharm,8.77,4,Shell
+2013S0252S,Civil Engineering,M.Sc,5.69,4,Assystem Stup
+2013S0253S,Electrical and Electronics Engineering,M.Sc,9.59,4,STMicroelectronics
+2013A0257A,Chemical Engineering,B.E,6.69,4,Merck
+2013A0258A,Chemisty,B.E,7.17,4,Honeywell UOP
+2013A0265A,Mathematics,B.E,8.12,4,Unplaced
+2013A0266A,Physics,B.E,6.73,4,SAMSUNG
+2013S0268S,Biological Sciences,M.Sc,7.69,4,Cipla
+2013A0285A,Physics,B.E,7.13,4,proteanTecs
+2013D0286D,Chemical Engineering,Ph.D,5.46,4,Dow
+2013A0287A,Chemisty,B.E,7.38,4,BASF
+2013A0288A,Chemical Engineering,B.E,6.85,4,Merck
+2013A0289A,Mechanical Engineering,B.E,7.79,4,ABB
+2013A0290A,Computer Science and Information Systems,B.E,7.92,4,AMD
+2013A0291A,Humanities and Social Sciences,B.E,8.45,4,Bain & Company
+2013A0293A,Chemisty,B.E,7.53,4,КАВІ
+2013S0295S,Physics,M.Sc,6.06,4,Unplaced
+2013D0297D,Chemical Engineering,Ph.D,8.01,4,Covestro
+2013A0302A,Chemisty,B.E,5.71,4,Unplaced
+2013A0304A,Computer Science and Information Systems,B.E,6.08,4,PEGA
+2013A0306A,Chemical Engineering,B.E,9.35,4,3M
+2013A0307A,Humanities and Social Sciences,B.E,7.87,4,Axis Bank
+2013A0308A,Economics and Finanace,B.E,8.91,4,FactSet
+2013P0310P,Chemisty,B.Pharm,7.52,4,КАВІ
+2013D0312D,Physics,Ph.D,6.63,4,Unplaced
+2013A0313A,Electrical and Electronics Engineering,B.E,6.16,4,Siemens
+2013A0314A,Economics and Finanace,B.E,7.7,4,IHS Markit
+2013H0319H,Mechanical Engineering,M.E,7.61,4,Infineon
+2013H0323H,Civil Engineering,M.E,9.15,4,Hill International
+2013A0325A,Electrical and Electronics Engineering,B.E,7.94,4,Unplaced
+2013H0331H,Chemisty,M.E,6.53,4,Honeywell UOP
+2013A0338A,Humanities and Social Sciences,B.E,7.54,4,Aditya Birla Group
+2013H0344H,Computer Science and Information Systems,M.E,7.84,4,Western Digital
+2013D0347D,Civil Engineering,Ph.D,7.69,4,"Daelim Industrial Co., Ltd."
+2013P0348P,Humanities and Social Sciences,B.Pharm,5.21,4,McKinsey & Company
+2013D0350D,Biological Sciences,Ph.D,5.3,4,Novartis
+2013P0351P,Computer Science and Information Systems,B.Pharm,7.99,4,VMware
+2013S0362S,Pharmacy,M.Sc,9.61,4,Unplaced
+2013A0364A,Electrical and Electronics Engineering,B.E,7.78,4,Unplaced
+2013D0366D,Mathematics,Ph.D,5.15,4,Google
+2013A0367A,Pharmacy,B.E,5.62,4,Emcure Pharmaceuticals
+2013H0374H,Physics,M.E,6.11,4,Texas Instruments
+2013A0375A,Economics and Finanace,B.E,5.18,4,Deloitte
+2013A0377A,Biological Sciences,B.E,5.98,4,Zydus
+2013A0378A,Chemical Engineering,B.E,9.35,4,Linde
+2013P0384P,Pharmacy,B.Pharm,7.8,4,Unplaced
+2013H0386H,Economics and Finanace,M.E,7.16,4,Bain & Company
+2013A0387A,Computer Science and Information Systems,B.E,5.61,4,Western Digital
+2013H0393H,Physics,M.E,6.13,4,CISCO
+2013A0399A,Computer Science and Information Systems,B.E,6.24,4,PEGA
+2013A0402A,Chemical Engineering,B.E,8.88,4,AkzoNobel
+2013H0406H,Chemisty,M.E,5.31,4,Unplaced
+2013S0407S,Biological Sciences,M.Sc,6.51,4,Unplaced
+2013A0409A,Mathematics,B.E,5.26,4,Pharmo Solutions
+2013P0410P,Electrical and Electronics Engineering,B.Pharm,5.48,4,Qualcomm
+2013D0412D,Humanities and Social Sciences,Ph.D,6.92,4,Google
+2013P0419P,Economics and Finanace,B.Pharm,7.11,4,BlackRock
+2013A0421A,Biological Sciences,B.E,5.64,4,Cipla
+2013A0430A,Economics and Finanace,B.E,5.95,4,MSCI
+2013S0431S,Physics,M.Sc,8.46,4,Unplaced
+2013A0439A,Physics,B.E,6.88,4,Texas Instruments
+2013H0453H,Pharmacy,M.E,5.86,4,PEISION MEDICINE SOLUTIONS
+2013H0461H,Chemisty,M.E,9.26,4,Eastman Chemical Company
+2013H0462H,Civil Engineering,M.E,8.64,4,Dragados
+2013A0466A,Economics and Finanace,B.E,8.56,4,Unplaced
+2013S0467S,Physics,M.Sc,9.78,4,Qualcomm
+2013H0470H,Humanities and Social Sciences,M.E,9.32,4,State Bank of India (SBI)
+2013A0471A,Civil Engineering,B.E,6.53,4,Dragados
+2013S0475S,Civil Engineering,M.Sc,7.92,4,Stantec
+2013A0476A,Mathematics,B.E,8.11,4,Unplaced
+2013A0477A,Humanities and Social Sciences,B.E,7.34,4,Unplaced
+2013H0490H,Computer Science and Information Systems,M.E,9.11,4,VISA
+2013A0494A,Humanities and Social Sciences,B.E,6.17,4,Unplaced
+2013A0497A,Electrical and Electronics Engineering,B.E,8.85,4,Infineon
+2013A0502A,Economics and Finanace,B.E,6.13,4,FactSet
+2013A0506A,Mechanical Engineering,B.E,8.15,4,SONA COMSTAR
+2013D0507D,Electrical and Electronics Engineering,Ph.D,6.02,4,Unplaced
+2013A0509A,Humanities and Social Sciences,B.E,5.54,4,Amazon
+2013H0512H,Biological Sciences,M.E,9.13,4,Alkem Laboratories
+2013A0517A,Chemisty,B.E,6.63,4,Chevron
+2013A0519A,Chemisty,B.E,7.68,4,BASF
+2013P0522P,Electrical and Electronics Engineering,B.Pharm,9.09,4,Infineon
+2013A0524A,Mechanical Engineering,B.E,6.01,4,SEDEMAC
+2013H0526H,Humanities and Social Sciences,M.E,5.32,4,Tata Consultancy Services (TCS)
+2013A0528A,Mechanical Engineering,B.E,9.4,4,Rolls-Royce
+2013A0530A,Computer Science and Information Systems,B.E,8.23,4,Western Digital
+2013A0533A,Electrical and Electronics Engineering,B.E,6.25,4,Siemens
+2013A0535A,Physics,B.E,7.84,4,Micron
+2013S0543S,Civil Engineering,M.Sc,7.53,4,WSP Global
+2013A0544A,Biological Sciences,B.E,5.37,4,Novartis
+2013H0545H,Electrical and Electronics Engineering,M.E,6.72,4,Unplaced
+2013H0548H,Economics and Finanace,M.E,8.35,4,Standard Chartered
+2013A0550A,Mathematics,B.E,8.29,4,Cisco
+2013D0554D,Chemical Engineering,Ph.D,7.67,4,Unplaced
+2013A0556A,Pharmacy,B.E,6.37,4,ADITYA BIRLA
+2013A0558A,Pharmacy,B.E,7.66,4,Granules India
+2013A0560A,Electrical and Electronics Engineering,B.E,8.45,4,NXP Semiconductors
+2013A0568A,Physics,B.E,5.84,4,onsemi
+2013H0571H,Mechanical Engineering,M.E,6.04,4,Honda
+2013P0575P,Biological Sciences,B.Pharm,6.95,4,Torrent Pharmaceuticals
+2013P0578P,Chemical Engineering,B.Pharm,9.43,4,Unplaced
+2013D0579D,Computer Science and Information Systems,Ph.D,8.84,4,CONFLUENT
+2013H0585H,Biological Sciences,M.E,8.04,4,Unplaced
+2013H0589H,Computer Science and Information Systems,M.E,6.18,4,Micron
+2013P0593P,Pharmacy,B.Pharm,5.19,4,Unplaced
+2013H0596H,Mathematics,M.E,8.96,4,Amazon
+2013A0607A,Civil Engineering,B.E,7.54,4,Mott MacDonald
+2013A0612A,Computer Science and Information Systems,B.E,9.31,4,BLEND360
+2013S0614S,Electrical and Electronics Engineering,M.Sc,6.89,4,Panasonic
+2013A0615A,Humanities and Social Sciences,B.E,7.11,4,ICICI Bank
+2013P0616P,Chemisty,B.Pharm,9.1,4,Biocon Biologics
+2013A0617A,Biological Sciences,B.E,8.81,4,Unplaced
+2013A0621A,Humanities and Social Sciences,B.E,6.42,4,Unplaced
+2013A0622A,Chemical Engineering,B.E,6.67,4,3M
+2013H0625H,Humanities and Social Sciences,M.E,7.02,4,Deloitte
+2013A0631A,Physics,B.E,6.74,4,INSTRUMENTS
+2013D0633D,Pharmacy,Ph.D,6.93,4,Biocon
+2013A0634A,Physics,B.E,6.23,4,IBM
+2013A0641A,Pharmacy,B.E,8.56,4,Biocon Biologics
+2013A0643A,Mathematics,B.E,9.55,4,Unplaced
+2013A0645A,Physics,B.E,6.51,4,onsemi
+2013H0646H,Mechanical Engineering,M.E,6.54,4,Honda
+2013A0651A,Biological Sciences,B.E,9.94,4,Unplaced
+2013H0652H,Biological Sciences,M.E,5.48,4,Sun Pharmaceutical Industries
+2013A0659A,Civil Engineering,B.E,6.3,4,WSP Global
+2013H0672H,Civil Engineering,M.E,9.7,4,Parsons Corporation
+2013A0675A,Humanities and Social Sciences,B.E,9.35,4,Unplaced
+2013H0679H,Economics and Finanace,M.E,7.26,4,FactSet
+2013D0683D,Physics,Ph.D,6.63,4,NXP Semiconductors
+2013A0684A,Civil Engineering,B.E,8.03,4,Acciona
+2013A0686A,Electrical and Electronics Engineering,B.E,9.7,4,Unplaced
+2013A0691A,Computer Science and Information Systems,B.E,9.16,4,PayU
+2013S0698S,Physics,M.Sc,6.29,4,AMDET
+2013H0700H,Mathematics,M.E,8.17,4,Flipkart
+2013A0703A,Pharmacy,B.E,6.72,4,Unplaced
+2013P0704P,Pharmacy,B.Pharm,8.21,4,Biocon Biologics
+2013A0709A,Chemisty,B.E,9.27,4,kmk
+2013S0715S,Chemical Engineering,M.Sc,6.98,4,Novozymes
+2013S0717S,Civil Engineering,M.Sc,7.5,4,WSP Global
+2013P0721P,Computer Science and Information Systems,B.Pharm,9.98,4,Unplaced
+2013H0722H,Pharmacy,M.E,9.14,4,Glenmark Pharmaceuticals
+2013A0723A,Computer Science and Information Systems,B.E,8.52,4,Amazon
+2013A0737A,Mechanical Engineering,B.E,5.69,4,TATA
+2013A0743A,Electrical and Electronics Engineering,B.E,9.75,4,Qualcomm
+2013A0745A,Chemical Engineering,B.E,6.78,4,Merck
+2013A0747A,Mathematics,B.E,8.25,4,IBM
+2013D0748D,Chemisty,Ph.D,8.13,4,КАВІ
+2013P0752P,Humanities and Social Sciences,B.Pharm,9.32,4,IBM
+2013A0753A,Computer Science and Information Systems,B.E,8.16,4,IBM
+2013A0756A,Biological Sciences,B.E,7.93,4,FRESENIUS
+2013S0758S,Mechanical Engineering,M.Sc,5.91,4,Shell
+2013A0763A,Electrical and Electronics Engineering,B.E,7.78,4,Qualcomm
+2013A0800A,Mechanical Engineering,B.E,9.11,4,Micron
+2013P0803P,Biological Sciences,B.Pharm,5.85,4,Pfizer
+2013P0804P,Chemisty,B.Pharm,6.73,4,Aragen
+2013H0807H,Pharmacy,M.E,5.63,4,Sun Pharmaceutical Industries
+2013A0810A,Physics,B.E,8.89,4,Texas Instruments
+2013H0811H,Physics,M.E,7.29,4,Unplaced
+2013A0819A,Physics,B.E,6.43,4,INSTRUMENTS
+2013H0820H,Biological Sciences,M.E,9.81,4,GSK Pharmaceuticals
+2013A0824A,Physics,B.E,5.04,4,Micron
+2013H0835H,Computer Science and Information Systems,M.E,6.07,4,Qualcomm
+2013A0837A,Humanities and Social Sciences,B.E,9.46,4,HCL Technologies
+2013P0838P,Biological Sciences,B.Pharm,6.78,4,PEISION MEDICINE SOLUTIONS
+2013A0844A,Electrical and Electronics Engineering,B.E,5.62,4,SILICON LABS
+2013P0848P,Computer Science and Information Systems,B.Pharm,5.54,4,Mashreq
+2013A0850A,Chemisty,B.E,6.77,4,DuPont
+2013H0856H,Chemical Engineering,M.E,7.11,4,Praxair
+2013A0858A,Electrical and Electronics Engineering,B.E,7.51,4,NXP Semiconductors
+2013D0865D,Humanities and Social Sciences,Ph.D,5.41,4,HCL Technologies
+2013A0873A,Civil Engineering,B.E,5.6,4,Gammon Construction
+2013H0876H,Chemical Engineering,M.E,9.32,4,AkzoNobel
+2013S0878S,Civil Engineering,M.Sc,6.68,4,Obayashi Corporation
+2013A0881A,Computer Science and Information Systems,B.E,9.71,4,Cisco
+2013H0886H,Electrical and Electronics Engineering,M.E,5.92,4,AMDET
+2013H0902H,Electrical and Electronics Engineering,M.E,5.34,4,Unplaced
+2013P0906P,Civil Engineering,B.Pharm,8.7,4,Bechtel Corporation
+2013P0908P,Chemisty,B.Pharm,7.19,4,Unplaced
+2013A0909A,Mathematics,B.E,8.9,4,IBM
+2013A0912A,Mechanical Engineering,B.E,8.48,4,Unplaced
+2013D0928D,Physics,Ph.D,8.73,4,Panasonic
+2013S0931S,Civil Engineering,M.Sc,7.91,4,Jacobs Engineering Group
+2013A0932A,Chemisty,B.E,7.23,4,Biocon Biologics
+2013A0933A,Economics and Finanace,B.E,5.74,4,Deutsche Bank
+2013A0934A,Chemical Engineering,B.E,7.48,4,Air Liquide
+2013P0938P,Chemisty,B.Pharm,9.43,4,Linde
+2013H0941H,Humanities and Social Sciences,M.E,9.55,4,EY (Ernst & Young)
+2013D0944D,Mechanical Engineering,Ph.D,5.5,4,3SC
+2013H0952H,Humanities and Social Sciences,M.E,8.8,4,ICICI Bank
+2013P0953P,Chemisty,B.Pharm,6.54,4,Eastman Chemical Company
+2013H0957H,Chemical Engineering,M.E,7.56,4,Linde
+2013A0959A,Biological Sciences,B.E,6.13,4,Strand
+2013S0961S,Civil Engineering,M.Sc,9.61,4,J. Murphy & Sons
+2013A0971A,Chemical Engineering,B.E,6.36,4,AkzoNobel
+2013A0975A,Economics and Finanace,B.E,5.74,4,Moodys Analytics
+2013A0976A,Physics,B.E,8.98,4,AMDET
+2013S0977S,Chemical Engineering,M.Sc,5.57,4,3M
+2013H0980H,Electrical and Electronics Engineering,M.E,6.76,4,Intel
+2013A0981A,Electrical and Electronics Engineering,B.E,7.41,4,INSTRUMENTS
+2013A0984A,Electrical and Electronics Engineering,B.E,7.09,4,MICROCHIP
+2013H0986H,Electrical and Electronics Engineering,M.E,5.42,4,Unplaced
+2013A0993A,Computer Science and Information Systems,B.E,7.3,4,Unplaced
+2013A0996A,Physics,B.E,8.52,4,Unplaced
+2013H0997H,Physics,M.E,5.13,4,Unplaced
+2013H0999H,Pharmacy,M.E,7.91,4,Unplaced
+2013A1002A,Civil Engineering,B.E,5.39,4,Acciona
+2013H1003H,Chemisty,M.E,8.83,4,Honeywell UOP
+2013A1009A,Mathematics,B.E,5.8,4,Unplaced
+2013A1010A,Electrical and Electronics Engineering,B.E,8.4,4,Unplaced
+2013A1018A,Pharmacy,B.E,8.21,4,ADITYA BIRLA
+2013A1028A,Mechanical Engineering,B.E,9.93,4,Unplaced
+2013D1036D,Biological Sciences,Ph.D,7.94,4,Sun Pharmaceutical Industries
+2013P1038P,Computer Science and Information Systems,B.Pharm,5.81,4,Unplaced
+2013H1044H,Computer Science and Information Systems,M.E,6.8,4,Google
+2013A1045A,Biological Sciences,B.E,9.45,4,Zydus Cadila
+2013A1047A,Chemisty,B.E,7.83,4,КАВІ
+2013A1055A,Humanities and Social Sciences,B.E,9.89,4,Unplaced
+2013A1060A,Economics and Finanace,B.E,5.42,4,Unplaced
+2013H1065H,Electrical and Electronics Engineering,M.E,5.79,4,Fujitsu
+2013A1066A,Chemical Engineering,B.E,6.12,4,Shell
+2013A1067A,Pharmacy,B.E,5.47,4,Emcure Pharmaceuticals
+2013A1068A,Humanities and Social Sciences,B.E,8.21,4,Capgemini
+2013S1072S,Economics and Finanace,M.Sc,9.98,4,Boston Consulting Group (BCG)
+2013A1073A,Civil Engineering,B.E,8.51,4,Gammon Construction
+2013H1075H,Mathematics,M.E,5.78,4,Google
+2013A1077A,Mechanical Engineering,B.E,5.16,4,Unplaced
+2013A1084A,Computer Science and Information Systems,B.E,9.37,4,Unplaced
+2013S1088S,Chemisty,M.Sc,5.99,4,Chevron
+2013A1090A,Physics,B.E,7.18,4,SILICON LABS
+2013D1094D,Biological Sciences,Ph.D,5.75,4,Zydus
+2013A1096A,Chemical Engineering,B.E,8.96,4,Syngenta
+2013S1106S,Physics,M.Sc,7.5,4,Unplaced
+2013A1109A,Chemical Engineering,B.E,9.63,4,Covestro
+2013H1112H,Pharmacy,M.E,8.44,4,kmk
+2013A1115A,Chemical Engineering,B.E,8.25,4,Covestro
+2013A1118A,Pharmacy,B.E,6.45,4,Unplaced
+2013A1119A,Civil Engineering,B.E,6.11,4,RAMBOLL
+2013A1122A,Humanities and Social Sciences,B.E,7.06,4,EY (Ernst & Young)
+2013H1125H,Computer Science and Information Systems,M.E,9.19,4,Unplaced
+2013A1126A,Pharmacy,B.E,6.21,4,Biocon
+2013A1129A,Economics and Finanace,B.E,5.85,4,Deloitte
+2013A1130A,Civil Engineering,B.E,7.78,4,Mott MacDonald
+2013P1131P,Civil Engineering,B.Pharm,8.08,4,WSP Global
+2013A1132A,Biological Sciences,B.E,9.01,4,Cipla
+2013P1133P,Chemisty,B.Pharm,9.7,4,Dow
+2013D1137D,Mathematics,Ph.D,5.59,4,Piramal
+2013S1146S,Physics,M.Sc,8.9,4,proteanTecs
+2013P1152P,Chemisty,B.Pharm,5.46,4,Aragen
+2013A1156A,Civil Engineering,B.E,8.44,4,Gammon Construction
+2013S1157S,Economics and Finanace,M.Sc,8.17,4,S&P Global
+2013H1170H,Humanities and Social Sciences,M.E,8.73,4,Unplaced
+2013A1171A,Electrical and Electronics Engineering,B.E,7.56,4,Honeywell
+2013A1175A,Chemisty,B.E,8.97,4,DuPont
+2013S1176S,Electrical and Electronics Engineering,M.Sc,9.41,4,Unplaced
+2013A1178A,Mechanical Engineering,B.E,5.54,4,Lockheed Martin
+2013A1182A,Mathematics,B.E,6.27,4,BLEND360
+2013H1191H,Civil Engineering,M.E,7.81,4,AMARARALA
+2013A1194A,Mechanical Engineering,B.E,9.46,4,SpaceX
+2013A1198A,Electrical and Electronics Engineering,B.E,5.6,4,Intel
+2013D1199D,Chemisty,Ph.D,8.01,4,Aizant
+2013A1202A,Humanities and Social Sciences,B.E,6.42,4,Google
+2013A1205A,Humanities and Social Sciences,B.E,5.48,4,Wipro
+2013H1208H,Humanities and Social Sciences,M.E,8.06,4,Deloitte
+2013A1209A,Computer Science and Information Systems,B.E,8.48,4,Piramal
+2013H1219H,Chemical Engineering,M.E,6.32,4,Mitsubishi Chemical Corporation
+2013S1222S,Economics and Finanace,M.Sc,9.31,4,Unplaced
+2013A1224A,Mathematics,B.E,7.64,4,AMD
+2013A1226A,Economics and Finanace,B.E,8.86,4,Unplaced
+2013A1230A,Physics,B.E,5.39,4,SAMSUNG
+2013A1237A,Civil Engineering,B.E,9.58,4,AMARARALA
+2013A1243A,Civil Engineering,B.E,5.08,4,IcoNS
+2013H1244H,Chemisty,M.E,6.33,4,Honeywell UOP
+2013A1250A,Chemical Engineering,B.E,5.25,4,Unplaced
+2013S1253S,Mechanical Engineering,M.Sc,6.38,4,Siemens
+2013P1258P,Chemical Engineering,B.Pharm,6.38,4,Dow
+2013A1264A,Mathematics,B.E,9.54,4,Google
+2013A1267A,Chemisty,B.E,5.94,4,Cipla
+2013A1268A,Chemisty,B.E,9.81,4,DuPont
+2013H1272H,Mechanical Engineering,M.E,6.76,4,SONA COMSTAR
+2013S1280S,Mathematics,M.Sc,6.29,4,Teradata
+2013H1283H,Mathematics,M.E,8.87,4,Unplaced
+2013A1287A,Humanities and Social Sciences,B.E,5.15,4,Infosys BPM
+2013D1289D,Civil Engineering,Ph.D,9.6,4,Unplaced
+2013A1291A,Pharmacy,B.E,8.39,4,Natco Pharma
+2013H1293H,Economics and Finanace,M.E,6.96,4,Unplaced
+2013D1296D,Mechanical Engineering,Ph.D,5.61,4,General Electric (GE)
+2013S1311S,Computer Science and Information Systems,M.Sc,6.09,4,Google
+2013A1312A,Economics and Finanace,B.E,6.24,4,Unplaced
+2013S1319S,Mechanical Engineering,M.Sc,9.64,4,Micron
+2013H1320H,Mathematics,M.E,5.92,4,Intel
+2013H1321H,Chemical Engineering,M.E,5.69,4,GSK
+2013S1323S,Humanities and Social Sciences,M.Sc,6.77,4,Genpact
+2013A1324A,Electrical and Electronics Engineering,B.E,9.81,4,Hitachi
+2013A1330A,Biological Sciences,B.E,8.78,4,Unplaced
+2013H1332H,Humanities and Social Sciences,M.E,9.04,4,Unplaced
+2013A1338A,Mathematics,B.E,8.7,4,Qualcomm
+2013D1344D,Civil Engineering,Ph.D,6.02,4,Acciona
+2013A1345A,Biological Sciences,B.E,9.16,4,Lupin Limited
+2013A1354A,Pharmacy,B.E,5.5,4,Natco Pharma
+2013A1355A,Economics and Finanace,B.E,8.34,4,Unplaced
+2013A1357A,Humanities and Social Sciences,B.E,7.08,4,Genpact
+2013A1358A,Chemisty,B.E,5.14,4,Aragen
+2013A1360A,Mechanical Engineering,B.E,6.51,4,Unplaced
+2013A1362A,Chemisty,B.E,7.34,4,КАВІ
+2013A1365A,Economics and Finanace,B.E,9.51,4,Standard Chartered
+2013S1370S,Electrical and Electronics Engineering,M.Sc,5.34,4,SILICON LABS
+2013D1374D,Mechanical Engineering,Ph.D,8.09,4,Unplaced
+2013A1377A,Humanities and Social Sciences,B.E,9.67,4,Unplaced
+2013A1380A,Physics,B.E,9.46,4,SynOPSYS
+2013S1384S,Chemisty,M.Sc,6.61,4,FRESENIUS
+2013A1386A,Civil Engineering,B.E,6.26,4,Kiewit Corporation
+2013P1391P,Biological Sciences,B.Pharm,6.8,4,Unplaced
+2013A1393A,Economics and Finanace,B.E,5.93,4,Capital IQ
+2013A1394A,Civil Engineering,B.E,9.16,4,Assystem Stup
+2013P1396P,Chemical Engineering,B.Pharm,7.19,4,Baker Hughes
+2013S1412S,Economics and Finanace,M.Sc,9.91,4,Morningstar
+2013P1417P,Pharmacy,B.Pharm,6.75,4,Biocon Biologics
+2013H1420H,Civil Engineering,M.E,7.67,4,Unplaced
+2013P1422P,Humanities and Social Sciences,B.Pharm,5.26,4,McKinsey & Company
+2013H1423H,Physics,M.E,5.63,4,AMDET
+2013S1424S,Mathematics,M.Sc,5.69,4,Trilogy
+2013A1426A,Economics and Finanace,B.E,5.97,4,Genpact
+2013D1428D,Mechanical Engineering,Ph.D,5.05,4,Ford Motor Company
+2013P1434P,Computer Science and Information Systems,B.Pharm,5.65,4,Microsoft
+2013A1442A,Biological Sciences,B.E,6.73,4,GSK Pharmaceuticals
+2013S1443S,Physics,M.Sc,9.75,4,proteanTecs
+2013A1447A,Biological Sciences,B.E,9.89,4,Alkem Laboratories
+2013A1450A,Computer Science and Information Systems,B.E,6.39,4,VISA
+2013A1452A,Biological Sciences,B.E,6.4,4,Pfizer
+2013A1453A,Humanities and Social Sciences,B.E,5.09,4,ITC Limited
+2013A1455A,Civil Engineering,B.E,6.9,4,Jacobs Engineering Group
+2013D1460D,Biological Sciences,Ph.D,6.7,4,Granules India
+2013D1464D,Chemisty,Ph.D,9.8,4,FRESENIUS
+2013A1473A,Computer Science and Information Systems,B.E,9.24,4,IBM
+2013A1480A,Computer Science and Information Systems,B.E,6.3,4,Wabtec
+2013H1484H,Chemisty,M.E,8.42,4,FRESENIUS
+2013A1489A,Economics and Finanace,B.E,5.55,4,Unplaced
+2013A1492A,Pharmacy,B.E,7.08,4,Aragen
+2013D1502D,Pharmacy,Ph.D,8.63,4,Unplaced
+2013H1504H,Civil Engineering,M.E,7.83,4,Obayashi Corporation
+2013A1506A,Mechanical Engineering,B.E,7.36,4,Cummins Inc.
+2013A1510A,Physics,B.E,6.21,4,STMicroelectronics
+2013A1515A,Mathematics,B.E,6.22,4,Teradata
+2013A1523A,Mathematics,B.E,8.56,4,Cisco
+2013S1526S,Chemical Engineering,M.Sc,5.66,4,Unplaced
+2013D1527D,Electrical and Electronics Engineering,Ph.D,6.77,4,Honeywell
+2013A1532A,Humanities and Social Sciences,B.E,9.55,4,Capgemini
+2013A1537A,Pharmacy,B.E,8.25,4,Emcure Pharmaceuticals
+2013D1539D,Chemical Engineering,Ph.D,6.16,4,Unplaced
+2013A1540A,Economics and Finanace,B.E,5.24,4,UBS
+2013A1546A,Chemical Engineering,B.E,6.44,4,Syngenta
+2013A1555A,Economics and Finanace,B.E,6.02,4,MSCI
+2013H1559H,Humanities and Social Sciences,M.E,9.44,4,Boston Consulting Group (BCG)
+2013S1564S,Mathematics,M.Sc,6.68,4,Piramal
+2013A1571A,Pharmacy,B.E,5.98,4,GSK Pharmaceuticals
+2013S1576S,Biological Sciences,M.Sc,7.17,4,Wockhardt
+2013H1582H,Pharmacy,M.E,7.43,4,Ipca Laboratories
+2013S1583S,Mechanical Engineering,M.Sc,6.79,4,Honda
+2013A1585A,Computer Science and Information Systems,B.E,7.1,4,Tenstorrent
+2013P1586P,Economics and Finanace,B.Pharm,6.24,4,Unplaced
+2013H1588H,Pharmacy,M.E,5.57,4,Aragen
+2013A1589A,Physics,B.E,5.64,4,Unplaced
+2013A1593A,Computer Science and Information Systems,B.E,8.37,4,Rizzle
+2013H1594H,Electrical and Electronics Engineering,M.E,9.05,4,Texas Instruments
+2013S1602S,Physics,M.Sc,5.11,4,Tenstorrent
+2013H1611H,Mathematics,M.E,5.51,4,IBM
+2013A1617A,Chemical Engineering,B.E,5.37,4,Mitsubishi Chemical Corporation
+2013H1619H,Chemical Engineering,M.E,8.68,4,3M
+2013A1623A,Chemical Engineering,B.E,6.32,4,ExxonMobil
+2013A1627A,Electrical and Electronics Engineering,B.E,5.09,4,Unplaced
+2013A1629A,Mathematics,B.E,8.57,4,Cisco
+2013A1631A,Electrical and Electronics Engineering,B.E,8.86,4,MICROCHIP
+2013A1635A,Mathematics,B.E,5.85,4,Intel
+2013A1637A,Electrical and Electronics Engineering,B.E,8.08,4,Unplaced
+2013S1641S,Chemisty,M.Sc,5.18,4,Aragen
+2013A1643A,Mathematics,B.E,8.97,4,Trilogy
+2013S1645S,Economics and Finanace,M.Sc,7.31,4,Capital IQ
+2013A1651A,Biological Sciences,B.E,9.43,4,DataZymes
+2013H1652H,Chemisty,M.E,8.13,4,КАВІ
+2013S1653S,Chemisty,M.Sc,8.74,4,Unplaced
+2013P1660P,Mechanical Engineering,B.Pharm,6.26,4,ABB
+2013A1662A,Chemisty,B.E,7.62,4,КАВІ
+2013A1666A,Physics,B.E,5.47,4,MEDIATEK
+2013H1667H,Economics and Finanace,M.E,5.47,4,Deutsche Bank
+2013H1671H,Computer Science and Information Systems,M.E,6.42,4,CONFLUENT
+2013P1678P,Mechanical Engineering,B.Pharm,8.22,4,SpaceX
+2013A1680A,Physics,B.E,9.36,4,SEDEMAC
+2013H1685H,Chemisty,M.E,7.56,4,FRESENIUS
+2013H1688H,Civil Engineering,M.E,7.8,4,Kiewit Corporation
+2013A1693A,Physics,B.E,5.71,4,Unplaced
+2013H1695H,Pharmacy,M.E,5.6,4,Unplaced
+2013S1704S,Biological Sciences,M.Sc,8.24,4,Abbott Laboratories
+2013A1707A,Physics,B.E,9.64,4,Unplaced
+2013A1717A,Mathematics,B.E,5.07,4,Qualcomm
+2013A1737A,Computer Science and Information Systems,B.E,6.3,4,Cisco
+2013A1739A,Mechanical Engineering,B.E,6.82,4,Unplaced
+2013H1741H,Biological Sciences,M.E,9.75,4,Cadila Healthcare
+2013D1751D,Biological Sciences,Ph.D,5.79,4,Unplaced
+2013A1755A,Biological Sciences,B.E,7.2,4,Unplaced
+2013A1756A,Mechanical Engineering,B.E,7.88,4,Unplaced
+2013S1761S,Mathematics,M.Sc,5.54,4,Teradata
+2013D1762D,Computer Science and Information Systems,Ph.D,9.77,4,Samsung
+2013A1775A,Chemical Engineering,B.E,7.35,4,Baker Hughes
+2013A1776A,Physics,B.E,6.06,4,Unplaced
+2013A1777A,Pharmacy,B.E,6.88,4,Glenmark Pharmaceuticals
+2013H1781H,Pharmacy,M.E,8.65,4,Granules India
+2013A1786A,Mathematics,B.E,9.12,4,IBM
+2013H1790H,Electrical and Electronics Engineering,M.E,8.27,4,Unplaced
+2013S1791S,Chemisty,M.Sc,6.42,4,DuPont
+2013H1793H,Computer Science and Information Systems,M.E,9.79,4,Tenstorrent
+2013H1796H,Pharmacy,M.E,8.66,4,Sun Pharmaceutical Industries
+2013A1798A,Mechanical Engineering,B.E,7.53,4,Micron
+2013A1799A,Biological Sciences,B.E,7.43,4,Novartis
+2013A1802A,Mechanical Engineering,B.E,9.04,4,Unplaced
+2013H1803H,Mathematics,M.E,6.86,4,Intel
+2013A1805A,Chemical Engineering,B.E,8.93,4,PPG Industries
+2013P1808P,Civil Engineering,B.Pharm,7.57,4,Unplaced
+2013H1810H,Biological Sciences,M.E,5.61,4,Wockhardt
+2013A1819A,Chemisty,B.E,8.63,4,Aizant
+2013A1822A,Physics,B.E,9.1,4,SAMSUNG
+2013A1833A,Mechanical Engineering,B.E,7.36,4,Unplaced
+2013P1838P,Electrical and Electronics Engineering,B.Pharm,6.04,4,Hitachi
+2013A1843A,Physics,B.E,8.56,4,SAMSUNG
+2013H1847H,Humanities and Social Sciences,M.E,5.76,4,Accenture
+2013A1849A,Pharmacy,B.E,6.95,4,Glenmark Pharmaceuticals
+2013P1856P,Mechanical Engineering,B.Pharm,6.76,4,General Electric (GE)
+2013A1858A,Computer Science and Information Systems,B.E,7.78,4,Piramal
+2013S1863S,Chemisty,M.Sc,8.83,4,Aragen
+2013D1868D,Mathematics,Ph.D,7.68,4,Teradata
+2013P1869P,Civil Engineering,B.Pharm,9.3,4,WSP Global
+2013H1870H,Humanities and Social Sciences,M.E,6.43,4,Tata Consultancy Services (TCS)
+2013P1874P,Electrical and Electronics Engineering,B.Pharm,7.9,4,Unplaced
+2013P1877P,Mechanical Engineering,B.Pharm,7.85,4,Unplaced
+2013A1879A,Chemisty,B.E,7.85,4,Aizant
+2013H1881H,Biological Sciences,M.E,8.71,4,Unplaced
+2013S1886S,Biological Sciences,M.Sc,6.04,4,Divis Laboratories
+2013H1887H,Humanities and Social Sciences,M.E,6.23,4,Unplaced
+2013A1888A,Civil Engineering,B.E,8.98,4,Stantec
+2013D1891D,Biological Sciences,Ph.D,8.74,4,Novartis
+2013S1897S,Economics and Finanace,M.Sc,7.0,4,Accenture
+2013A1900A,Physics,B.E,5.84,4,SEDEMAC
+2013A1904A,Humanities and Social Sciences,B.E,9.5,4,Google
+2013H1912H,Mechanical Engineering,M.E,8.17,4,3SC
+2013A1915A,Chemisty,B.E,8.04,4,BASF
+2013A1919A,Physics,B.E,7.54,4,Texas Instruments
+2013A1922A,Mathematics,B.E,6.87,4,Qualcomm
+2013A1923A,Pharmacy,B.E,5.85,4,Unplaced
+2013A1924A,Chemisty,B.E,7.42,4,Linde
+2013A1928A,Pharmacy,B.E,5.98,4,Torrent Pharmaceuticals
+2013A1937A,Civil Engineering,B.E,8.45,4,Jacobs Engineering Group
+2013A1942A,Civil Engineering,B.E,6.14,4,"Skidmore, Owings & Merrill (SOM)"
+2013H1945H,Civil Engineering,M.E,7.39,4,Obayashi Corporation
+2013A1947A,Mathematics,B.E,7.95,4,Google
+2013A1948A,Computer Science and Information Systems,B.E,7.85,4,CONFLUENT
+2013H1949H,Chemical Engineering,M.E,8.6,4,Praxair
+2013A1950A,Pharmacy,B.E,5.97,4,Biocon
+2013S1951S,Biological Sciences,M.Sc,6.26,4,Unplaced
+2013S1957S,Humanities and Social Sciences,M.Sc,5.03,4,Flipkart
+2013D1963D,Economics and Finanace,Ph.D,8.83,4,Capital IQ
+2013D1966D,Chemisty,Ph.D,5.96,4,Aragen
+2013H1968H,Economics and Finanace,M.E,9.78,4,Capital IQ
+2013A1969A,Pharmacy,B.E,7.98,4,GSK Pharmaceuticals
+2013H1974H,Humanities and Social Sciences,M.E,6.54,4,Reliance Industries
+2013A1975A,Electrical and Electronics Engineering,B.E,5.03,4,Fujitsu
+2013A1977A,Pharmacy,B.E,9.03,4,Sun Pharmaceutical Industries
+2013A1981A,Economics and Finanace,B.E,7.14,4,Unplaced
+2013P1983P,Civil Engineering,B.Pharm,8.09,4,WSP Global
+2013A1985A,Chemisty,B.E,6.63,4,КАВІ
+2013S1987S,Pharmacy,M.Sc,6.95,4,Pfizer
+2013A1988A,Civil Engineering,B.E,6.4,4,ARCADIS
+2013D1990D,Computer Science and Information Systems,Ph.D,7.69,4,Amazon
+2013H1992H,Physics,M.E,5.37,4,STMicroelectronics
+2013P1999P,Economics and Finanace,B.Pharm,9.53,4,KPMG
+2013A2001A,Economics and Finanace,B.E,7.34,4,Moodys Investors Service
+2013D2004D,Chemisty,Ph.D,5.6,4,FRESENIUS
+2013P2005P,Electrical and Electronics Engineering,B.Pharm,6.98,4,Hitachi
+2013A2007A,Mathematics,B.E,6.87,4,Amazon
+2013A2014A,Chemical Engineering,B.E,8.84,4,Unplaced
+2013H2017H,Pharmacy,M.E,7.88,4,Lupin Limited
+2013P2018P,Electrical and Electronics Engineering,B.Pharm,9.45,4,Unplaced
+2013S2019S,Mechanical Engineering,M.Sc,6.47,4,Unplaced
+2013S2033S,Economics and Finanace,M.Sc,5.14,4,Unplaced
+2013S2034S,Chemical Engineering,M.Sc,9.17,4,Novozymes
+2013A2036A,Electrical and Electronics Engineering,B.E,5.25,4,SILICON LABS
+2013S2037S,Electrical and Electronics Engineering,M.Sc,5.99,4,Sony
+2013A2042A,Physics,B.E,9.98,4,Micron
+2013A2045A,Humanities and Social Sciences,B.E,5.08,4,Unplaced
+2013H2050H,Pharmacy,M.E,8.22,4,Alkem Laboratories
+2013A2055A,Mathematics,B.E,5.78,4,Amazon
+2013H2065H,Biological Sciences,M.E,6.66,4,Strand
+2013A2067A,Electrical and Electronics Engineering,B.E,5.23,4,Unplaced
+2013H2071H,Chemical Engineering,M.E,9.84,4,Dow
+2013A2072A,Electrical and Electronics Engineering,B.E,9.28,4,Altera
+2013H2080H,Physics,M.E,5.47,4,IBM
+2013P2083P,Pharmacy,B.Pharm,6.51,4,freyr
+2013D2087D,Physics,Ph.D,9.53,4,AMDET
+2013H2091H,Biological Sciences,M.E,7.86,4,Unplaced
+2013H2092H,Economics and Finanace,M.E,5.94,4,Unplaced
+2013H2093H,Humanities and Social Sciences,M.E,9.96,4,Axis Bank
+2013A2094A,Mechanical Engineering,B.E,6.31,4,Honda
+2013A2097A,Computer Science and Information Systems,B.E,6.7,4,BLEND360
+2013H2100H,Chemical Engineering,M.E,8.91,4,Dow
+2013H2102H,Chemical Engineering,M.E,6.14,4,GSK
+2013P2114P,Chemisty,B.Pharm,7.7,4,DataZymes
+2013A2115A,Civil Engineering,B.E,6.39,4,COWI
+2013H2116H,Computer Science and Information Systems,M.E,6.95,4,Teradata
+2013P2131P,Computer Science and Information Systems,B.Pharm,7.62,4,Piramal
+2013H2133H,Chemical Engineering,M.E,7.71,4,"KBR, Inc."
+2013A2137A,Chemical Engineering,B.E,8.13,4,Covestro
+2013A2138A,Mechanical Engineering,B.E,5.84,4,Unplaced
+2013P2141P,Civil Engineering,B.Pharm,9.35,4,Mott MacDonald
+2013D2142D,Physics,Ph.D,9.82,4,Unplaced
+2013A2145A,Pharmacy,B.E,7.54,4,ADITYA BIRLA
+2013A2147A,Chemical Engineering,B.E,5.06,4,Bayer
+2013A2150A,Chemical Engineering,B.E,9.99,4,Procter & Gamble
+2013A2151A,Mathematics,B.E,8.03,4,Flipkart
+2013P2152P,Mechanical Engineering,B.Pharm,7.59,4,Boeing
+2013H2155H,Economics and Finanace,M.E,7.9,4,Standard Chartered
+2013A2157A,Economics and Finanace,B.E,8.24,4,Genpact
+2013A2159A,Electrical and Electronics Engineering,B.E,9.07,4,AMDET
+2013A2162A,Chemical Engineering,B.E,6.46,4,Mitsubishi Chemical Corporation
+2013A2173A,Physics,B.E,5.45,4,CISCO
+2013H2175H,Electrical and Electronics Engineering,M.E,6.01,4,LG Electronics
+2013A2176A,Economics and Finanace,B.E,6.69,4,Unplaced
+2013A2180A,Mathematics,B.E,7.69,4,Unplaced
+2013A2182A,Chemical Engineering,B.E,5.45,4,Procter & Gamble
+2013A2187A,Economics and Finanace,B.E,10.0,4,Unplaced
+2013A2191A,Civil Engineering,B.E,9.38,4,Bechtel Corporation
+2013A2194A,Mechanical Engineering,B.E,7.42,4,Micron
+2013S2196S,Electrical and Electronics Engineering,M.Sc,5.93,4,SynOPSYS
+2013H2197H,Pharmacy,M.E,7.88,4,PEISION MEDICINE SOLUTIONS
+2013P2203P,Mechanical Engineering,B.Pharm,5.64,4,Honda
+2013H2207H,Humanities and Social Sciences,M.E,8.09,4,Genpact
+2013A2213A,Physics,B.E,5.14,4,Dolcera
+2013P2215P,Electrical and Electronics Engineering,B.Pharm,6.08,4,Honeywell
+2013A2217A,Economics and Finanace,B.E,6.16,4,Moodys Analytics
+2013A2221A,Mechanical Engineering,B.E,5.32,4,SpaceX
+2013P2224P,Chemisty,B.Pharm,5.15,4,DataZymes
+2013H2226H,Chemical Engineering,M.E,9.73,4,Unplaced
+2013A2227A,Electrical and Electronics Engineering,B.E,6.91,4,Infineon
+2013H2246H,Mathematics,M.E,5.74,4,AMD
+2013H2251H,Mechanical Engineering,M.E,9.6,4,Siemens
+2013S2252S,Pharmacy,M.Sc,7.74,4,kmk
+2013P2255P,Civil Engineering,B.Pharm,9.8,4,WSP Global
+2013P2257P,Economics and Finanace,B.Pharm,5.29,4,Unplaced
+2013P2260P,Mechanical Engineering,B.Pharm,7.88,4,FORVIA
+2013A2263A,Computer Science and Information Systems,B.E,9.72,4,Pharmo Solutions
+2013A2266A,Economics and Finanace,B.E,7.81,4,IHS Markit
+2013A2284A,Economics and Finanace,B.E,9.59,4,Deutsche Bank
+2013A2286A,Mechanical Engineering,B.E,8.34,4,Ford Motor Company
+2013A2289A,Electrical and Electronics Engineering,B.E,8.45,4,Xilinx
+2013D2298D,Pharmacy,Ph.D,8.58,4,Pfizer
+2013S2302S,Chemical Engineering,M.Sc,7.77,4,3M
+2013A2305A,Civil Engineering,B.E,5.19,4,ATKINS
+2013P2308P,Humanities and Social Sciences,B.Pharm,8.69,4,Amazon
+2013P2314P,Pharmacy,B.Pharm,5.28,4,Torrent Pharmaceuticals
+2013A2317A,Economics and Finanace,B.E,8.29,4,Standard Chartered
+2013H2325H,Pharmacy,M.E,6.17,4,Cipla
+2013H2326H,Biological Sciences,M.E,7.81,4,Unplaced
+2013A2329A,Biological Sciences,B.E,8.24,4,Wockhardt
+2013A2331A,Pharmacy,B.E,8.08,4,Divis Laboratories
+2013H2332H,Physics,M.E,6.19,4,AMDET
+2013A2333A,Mechanical Engineering,B.E,6.25,4,Unplaced
+2013A2338A,Economics and Finanace,B.E,8.7,4,FactSet
+2013H2339H,Computer Science and Information Systems,M.E,5.72,4,Flipkart
+2013A2342A,Civil Engineering,B.E,9.71,4,COWI
+2013H2343H,Electrical and Electronics Engineering,M.E,7.3,4,Unplaced
+2013A2344A,Humanities and Social Sciences,B.E,9.76,4,Axis Bank
+2013S2345S,Economics and Finanace,M.Sc,6.69,4,Unplaced
+2013A2349A,Humanities and Social Sciences,B.E,7.74,4,Infosys BPM
+2013P2355P,Pharmacy,B.Pharm,6.92,4,PEISION MEDICINE SOLUTIONS
+2013A2360A,Chemisty,B.E,7.06,4,Elucidata
+2013P2369P,Mechanical Engineering,B.Pharm,9.52,4,General Motors
+2013S2373S,Mathematics,M.Sc,9.55,4,Unplaced
+2013A2374A,Chemisty,B.E,7.81,4,Aragen
+2013S2378S,Chemisty,M.Sc,9.4,4,BASF
+2013H2382H,Humanities and Social Sciences,M.E,9.47,4,Unplaced
+2013A2389A,Economics and Finanace,B.E,8.01,4,UBS
+2013A2390A,Biological Sciences,B.E,8.11,4,Alkem Laboratories
+2013A2395A,Computer Science and Information Systems,B.E,7.24,4,Infineon
+2013H2396H,Economics and Finanace,M.E,5.2,4,Unplaced
+2013A2400A,Electrical and Electronics Engineering,B.E,6.0,4,Hitachi
+2013P2402P,Electrical and Electronics Engineering,B.Pharm,6.68,4,NXP Semiconductors
+2013H2413H,Mechanical Engineering,M.E,5.35,4,TATA
+2013A2421A,Humanities and Social Sciences,B.E,9.09,4,Deloitte
+2013P2422P,Mechanical Engineering,B.Pharm,8.53,4,Unplaced
+2013S2435S,Physics,M.Sc,5.3,4,Intel
+2013A2436A,Chemical Engineering,B.E,8.37,4,BASF
+2013A2441A,Humanities and Social Sciences,B.E,6.79,4,Bain & Company
+2013D2442D,Economics and Finanace,Ph.D,7.5,4,FactSet
+2013P2445P,Economics and Finanace,B.Pharm,7.05,4,Unplaced
+2013A2446A,Economics and Finanace,B.E,9.62,4,Fitch Ratings
+2013H2447H,Humanities and Social Sciences,M.E,9.34,4,ITC Limited
+2013A2448A,Humanities and Social Sciences,B.E,5.76,4,Axis Bank
+2013A2451A,Electrical and Electronics Engineering,B.E,6.83,4,LG Electronics
+2013A2454A,Chemical Engineering,B.E,5.08,4,Syngenta
+2013P2458P,Civil Engineering,B.Pharm,5.95,4,Greenko Jacobs
+2013A2463A,Chemisty,B.E,6.18,4,Dow
+2013A2466A,Pharmacy,B.E,6.55,4,Lupin Limited
+2013A2471A,Biological Sciences,B.E,7.24,4,Unplaced
+2013A2474A,Pharmacy,B.E,9.58,4,Cipla
+2013H2479H,Civil Engineering,M.E,7.44,4,Bechtel Corporation
+2013S2482S,Chemical Engineering,M.Sc,7.65,4,Unplaced
+2013A2489A,Computer Science and Information Systems,B.E,9.78,4,VMware
+2013H2494H,Civil Engineering,M.E,8.95,4,Stantec
+2013P2497P,Computer Science and Information Systems,B.Pharm,5.13,4,Wabtec
+2013A2501A,Chemical Engineering,B.E,9.68,4,Unplaced
+2013H2502H,Computer Science and Information Systems,M.E,5.99,4,Commvault
+2013A2505A,Biological Sciences,B.E,9.34,4,Unplaced
+2013P2506P,Economics and Finanace,B.Pharm,5.71,4,Bain & Company
+2013A2507A,Mathematics,B.E,5.13,4,Flipkart
+2013P2515P,Economics and Finanace,B.Pharm,6.69,4,IHS Markit
+2013A2516A,Economics and Finanace,B.E,8.75,4,Unplaced
+2013P2517P,Electrical and Electronics Engineering,B.Pharm,7.73,4,Altera
+2013A2525A,Mathematics,B.E,6.6,4,Amazon
+2013A2527A,Mathematics,B.E,8.83,4,Unplaced
+2013H2528H,Biological Sciences,M.E,8.35,4,GSK Pharmaceuticals
+2013A2536A,Computer Science and Information Systems,B.E,7.78,4,Unplaced
+2013A2540A,Humanities and Social Sciences,B.E,5.14,4,Aditya Birla Group
+2013A2549A,Economics and Finanace,B.E,6.03,4,Moodys Investors Service
+2013D2550D,Physics,Ph.D,6.64,4,Unplaced
+2013A2551A,Mechanical Engineering,B.E,8.77,4,Wabtec
+2013P2559P,Pharmacy,B.Pharm,5.95,4,Biocon Biologics
+2013D2563D,Computer Science and Information Systems,Ph.D,5.71,4,Trilogy
+2013H2566H,Chemical Engineering,M.E,8.62,4,Solvay
+2013A2568A,Computer Science and Information Systems,B.E,5.11,4,BLEND360
+2013S2570S,Civil Engineering,M.Sc,5.33,4,Jacobs Engineering Group
+2013H2571H,Biological Sciences,M.E,5.19,4,SII
+2013P2574P,Computer Science and Information Systems,B.Pharm,8.55,4,Unplaced
+2013H2578H,Pharmacy,M.E,5.22,4,Unplaced
+2013A2579A,Mathematics,B.E,9.76,4,Unplaced
+2013S2586S,Electrical and Electronics Engineering,M.Sc,5.87,4,MICROCHIP
+2013A2588A,Computer Science and Information Systems,B.E,5.74,4,VMware
+2013A2596A,Physics,B.E,6.98,4,Unplaced
+2013A2602A,Mathematics,B.E,9.68,4,Amazon
+2013H2603H,Civil Engineering,M.E,7.89,4,Greenko Jacobs
+2013P2605P,Civil Engineering,B.Pharm,8.2,4,ATKINS
+2013H2615H,Electrical and Electronics Engineering,M.E,9.72,4,Texas Instruments
+2013A2618A,Computer Science and Information Systems,B.E,7.14,4,Dell
+2013D2622D,Computer Science and Information Systems,Ph.D,8.5,4,Secureworks
+2013S2623S,Mathematics,M.Sc,8.85,4,Teradata
+2013P2626P,Electrical and Electronics Engineering,B.Pharm,5.19,4,Ricoh
+2013A2630A,Civil Engineering,B.E,8.02,4,Thornton Tomasetti
+2013A2631A,Biological Sciences,B.E,6.61,4,Unplaced
+2013A2635A,Humanities and Social Sciences,B.E,6.37,4,KPMG
+2013A2637A,Computer Science and Information Systems,B.E,7.93,4,Intel
+2013A2641A,Chemical Engineering,B.E,6.0,4,Unplaced
+2013A2644A,Civil Engineering,B.E,6.7,4,Unplaced
+2013S2648S,Humanities and Social Sciences,M.Sc,7.48,4,State Bank of India (SBI)
+2013A2650A,Pharmacy,B.E,7.72,4,Unplaced
+2013D2651D,Humanities and Social Sciences,Ph.D,5.17,4,Accenture
+2013A2659A,Pharmacy,B.E,5.93,4,Unplaced
+2013A2668A,Pharmacy,B.E,7.37,4,Cipla
+2013D2669D,Civil Engineering,Ph.D,5.5,4,AMARARALA
+2013A2673A,Mechanical Engineering,B.E,5.82,4,SONA COMSTAR
+2013H2675H,Computer Science and Information Systems,M.E,7.03,4,CONFLUENT
+2013P2676P,Biological Sciences,B.Pharm,9.35,4,Pfizer
+2013A2679A,Physics,B.E,9.54,4,SAMSUNG
+2013D2680D,Mechanical Engineering,Ph.D,9.75,4,Siemens
+2013A2683A,Humanities and Social Sciences,B.E,8.87,4,Google
+2013P2689P,Computer Science and Information Systems,B.Pharm,9.28,4,IBM
+2013D2691D,Humanities and Social Sciences,Ph.D,6.69,4,HDFC Bank
+2013H2706H,Chemisty,M.E,9.44,4,Unplaced
+2013S2707S,Economics and Finanace,M.Sc,6.23,4,Unplaced
+2013H2708H,Physics,M.E,6.35,4,Unplaced
+2013A2711A,Electrical and Electronics Engineering,B.E,9.07,4,STMicroelectronics
+2013H2715H,Biological Sciences,M.E,9.91,4,Unplaced
+2013A2716A,Mechanical Engineering,B.E,5.54,4,Ford Motor Company
+2013A2721A,Chemisty,B.E,8.92,4,ExxonMobil
+2013H2728H,Civil Engineering,M.E,5.86,4,Assystem Stup
+2013D2732D,Electrical and Electronics Engineering,Ph.D,6.1,4,Toshiba
+2013A2735A,Civil Engineering,B.E,8.36,4,WSP Global
+2013A2736A,Mechanical Engineering,B.E,9.3,4,Siemens
+2013A2738A,Chemical Engineering,B.E,7.04,4,AkzoNobel
+2013H2739H,Humanities and Social Sciences,M.E,5.75,4,Axis Bank
+2013A2743A,Economics and Finanace,B.E,5.1,4,Capital IQ
+2013A2745A,Chemisty,B.E,8.52,4,Unplaced
+2013S2747S,Civil Engineering,M.Sc,6.57,4,Thornton Tomasetti
+2013A2749A,Civil Engineering,B.E,6.9,4,RAMBOLL
+2013H2751H,Pharmacy,M.E,8.49,4,Unplaced
+2013H2752H,Physics,M.E,9.0,4,SILICON LABS
+2013A2753A,Mechanical Engineering,B.E,6.73,4,Toyota
+2013H2754H,Biological Sciences,M.E,7.45,4,Unplaced
+2013A2769A,Computer Science and Information Systems,B.E,7.74,4,ARM
+2013A2773A,Mathematics,B.E,5.62,4,Cisco
+2013D2782D,Mechanical Engineering,Ph.D,8.92,4,DOVER
+2013H2786H,Biological Sciences,M.E,6.44,4,Pfizer
+2013A2787A,Pharmacy,B.E,8.77,4,PEISION MEDICINE SOLUTIONS
+2013H2789H,Mechanical Engineering,M.E,7.89,4,Unplaced
+2013A2790A,Computer Science and Information Systems,B.E,7.62,4,Amazon
+2013H2791H,Chemisty,M.E,7.52,4,КАВІ
+2013S2794S,Computer Science and Information Systems,M.Sc,5.58,4,Unplaced
+2013A2799A,Pharmacy,B.E,8.97,4,Unplaced
+2013S2801S,Humanities and Social Sciences,M.Sc,6.26,4,McKinsey & Company
+2013S2803S,Civil Engineering,M.Sc,7.32,4,Gammon Construction
+2013D2806D,Economics and Finanace,Ph.D,5.27,4,Unplaced
+2013A2807A,Electrical and Electronics Engineering,B.E,9.44,4,Siemens
+2013P2809P,Humanities and Social Sciences,B.Pharm,5.2,4,ITC Limited
+2013A2816A,Humanities and Social Sciences,B.E,7.02,4,ICICI Bank
+2013S2819S,Humanities and Social Sciences,M.Sc,8.79,4,Axis Bank
+2013H2821H,Chemisty,M.E,9.66,4,Eastman Chemical Company
+2013A2822A,Economics and Finanace,B.E,8.3,4,Unplaced
+2013A2843A,Civil Engineering,B.E,9.07,4,Dragados
+2013A2845A,Humanities and Social Sciences,B.E,9.86,4,Amazon
+2013A2851A,Electrical and Electronics Engineering,B.E,8.71,4,NEC Corporation
+2013A2853A,Civil Engineering,B.E,5.81,4,Jacobs Engineering Group
+2013A2855A,Biological Sciences,B.E,7.18,4,FRESENIUS
+2013A2858A,Computer Science and Information Systems,B.E,6.18,4,Amazon
+2013A2859A,Electrical and Electronics Engineering,B.E,7.94,4,LG Electronics
+2013A2865A,Chemisty,B.E,7.7,4,DataZymes
+2013A2874A,Chemisty,B.E,9.49,4,Unplaced
+2013S2882S,Pharmacy,M.Sc,5.81,4,Natco Pharma
+2013A2884A,Computer Science and Information Systems,B.E,8.27,4,Google
+2013H2889H,Chemisty,M.E,5.54,4,Honeywell UOP
+2013A2892A,Mechanical Engineering,B.E,6.2,4,Unplaced
+2013A2894A,Physics,B.E,6.05,4,MathWorks
+2013H2898H,Electrical and Electronics Engineering,M.E,5.93,4,AMDET
+2013A2899A,Humanities and Social Sciences,B.E,8.29,4,Google
+2013A2900A,Physics,B.E,9.31,4,SILICON LABS
+2013A2901A,Chemisty,B.E,9.08,4,Aragen
+2013P2904P,Computer Science and Information Systems,B.Pharm,7.08,4,Flipkart
+2013A2906A,Civil Engineering,B.E,7.56,4,Hill International
+2013S2916S,Mathematics,M.Sc,9.98,4,Pharmo Solutions
+2013P2919P,Humanities and Social Sciences,B.Pharm,9.15,4,ICICI Bank
+2013A2925A,Biological Sciences,B.E,6.11,4,Wockhardt
+2013H2926H,Civil Engineering,M.E,6.98,4,Leighton Holdings
+2013D2928D,Mathematics,Ph.D,9.07,4,Unplaced
+2013A2930A,Mechanical Engineering,B.E,8.32,4,Unplaced
+2013A2932A,Chemical Engineering,B.E,9.28,4,Unplaced
+2013P2934P,Pharmacy,B.Pharm,6.0,4,Biocon
+2013A2945A,Humanities and Social Sciences,B.E,6.69,4,Unplaced
+2013A2954A,Biological Sciences,B.E,6.7,4,DataZymes
+2013A2955A,Electrical and Electronics Engineering,B.E,5.52,4,Microsemi
+2013H2956H,Civil Engineering,M.E,5.84,4,Kiewit Corporation
+2013S2958S,Physics,M.Sc,6.13,4,MathWorks
+2013A2959A,Mathematics,B.E,8.85,4,Qualcomm
+2013A2967A,Mechanical Engineering,B.E,5.68,4,SONA COMSTAR
+2013S2974S,Physics,M.Sc,6.29,4,proteanTecs
+2013A2975A,Chemisty,B.E,6.4,4,BASF
+2013H2989H,Computer Science and Information Systems,M.E,9.59,4,CONFLUENT
+2013A2994A,Humanities and Social Sciences,B.E,9.05,4,Unplaced
+2013D2999D,Pharmacy,Ph.D,9.06,4,SII
+2013A3005A,Electrical and Electronics Engineering,B.E,6.06,4,Honeywell
+2013D3007D,Economics and Finanace,Ph.D,5.68,4,Genpact
+2013H3010H,Physics,M.E,7.1,4,SAMSUNG
+2013P3011P,Biological Sciences,B.Pharm,9.89,4,GSK Pharmaceuticals
+2013A3023A,Economics and Finanace,B.E,6.63,4,Genpact
+2013D3034D,Electrical and Electronics Engineering,Ph.D,8.85,4,Unplaced
+2013A3035A,Mathematics,B.E,5.33,4,Unplaced
+2013P3039P,Chemisty,B.Pharm,7.4,4,Unplaced
+2013H3052H,Physics,M.E,8.85,4,MEDIATEK
+2013S3053S,Mechanical Engineering,M.Sc,6.71,4,Rolls-Royce
+2013H3066H,Chemical Engineering,M.E,8.4,4,Dow
+2013D3069D,Computer Science and Information Systems,Ph.D,5.06,4,Samsung
+2013P3070P,Chemical Engineering,B.Pharm,9.96,4,Unplaced
+2013H3079H,Mechanical Engineering,M.E,6.39,4,ABB
+2013A3086A,Civil Engineering,B.E,5.66,4,RAMBOLL
+2013A3094A,Pharmacy,B.E,9.21,4,DataZymes
+2013A3096A,Civil Engineering,B.E,5.37,4,ATKINS
+2013S3100S,Humanities and Social Sciences,M.Sc,7.12,4,Google
+2013H3103H,Civil Engineering,M.E,7.03,4,ARCADIS
+2013A3114A,Chemisty,B.E,5.22,4,Linde
+2013A3117A,Mechanical Engineering,B.E,7.21,4,Mercedes Benz
+2013A3124A,Chemical Engineering,B.E,8.44,4,Unplaced
+2013A3131A,Mechanical Engineering,B.E,8.34,4,JK Fenner
+2013A3141A,Mathematics,B.E,5.75,4,Amazon
+2013P3142P,Mechanical Engineering,B.Pharm,5.61,4,ABB
+2013A3147A,Mathematics,B.E,8.57,4,Piramal
+2013S3149S,Electrical and Electronics Engineering,M.Sc,8.01,4,proteanTecs
+2013P3153P,Biological Sciences,B.Pharm,9.64,4,Unplaced
+2013S3157S,Pharmacy,M.Sc,5.89,4,Torrent Pharmaceuticals
+2013A3160A,Mathematics,B.E,8.24,4,Amazon
+2013A3166A,Economics and Finanace,B.E,8.61,4,Standard Chartered
+2013D3169D,Electrical and Electronics Engineering,Ph.D,6.46,4,Hitachi
+2013A3175A,Pharmacy,B.E,5.42,4,AstraZeneca
+2013A3189A,Chemical Engineering,B.E,5.45,4,Air Liquide
+2013D3193D,Humanities and Social Sciences,Ph.D,6.08,4,Unplaced
+2013A3197A,Mechanical Engineering,B.E,8.81,4,SpaceX
+2013D3199D,Humanities and Social Sciences,Ph.D,9.8,4,ITC Limited
+2013A3203A,Mechanical Engineering,B.E,5.53,4,Unplaced
+2013A3206A,Humanities and Social Sciences,B.E,8.18,4,Axis Bank
+2013S3209S,Mechanical Engineering,M.Sc,8.4,4,Honda
+2013A3215A,Civil Engineering,B.E,6.99,4,Mott MacDonald
+2013A3223A,Chemisty,B.E,7.6,4,Unplaced
+2013A3226A,Civil Engineering,B.E,7.46,4,ARUP
+2013H3233H,Biological Sciences,M.E,6.93,4,SII
+2013A3238A,Electrical and Electronics Engineering,B.E,7.86,4,Siemens
+2013A3239A,Pharmacy,B.E,9.24,4,Lupin Limited
+2013S3245S,Economics and Finanace,M.Sc,6.49,4,Unplaced
+2013A3254A,Biological Sciences,B.E,8.57,4,Biocon
+2013S3256S,Electrical and Electronics Engineering,M.Sc,8.78,4,Siemens
+2013A3257A,Mechanical Engineering,B.E,7.86,4,Shell
+2013S3258S,Pharmacy,M.Sc,6.48,4,Unplaced
+2013A3267A,Computer Science and Information Systems,B.E,8.9,4,Google
+2013A3270A,Mathematics,B.E,7.36,4,Unplaced
+2013H3271H,Pharmacy,M.E,5.59,4,Natco Pharma
+2013H3280H,Chemisty,M.E,9.51,4,DuPont
+2013A3283A,Mathematics,B.E,8.38,4,Unplaced
+2013H3284H,Pharmacy,M.E,6.33,4,Cipla
+2013A3285A,Mechanical Engineering,B.E,6.89,4,Rolls-Royce
+2013A3287A,Biological Sciences,B.E,7.81,4,Aurobindo Pharma
+2013H3297H,Biological Sciences,M.E,8.34,4,Cipla
+2013A3298A,Mechanical Engineering,B.E,6.95,4,Unplaced
+2013D3305D,Physics,Ph.D,6.61,4,Unplaced
+2013S3307S,Mechanical Engineering,M.Sc,9.75,4,Unplaced
+2013A3310A,Biological Sciences,B.E,9.48,4,Strand
+2013H3311H,Humanities and Social Sciences,M.E,7.99,4,State Bank of India (SBI)
+2013A3312A,Chemisty,B.E,5.29,4,DataZymes
+2013H3313H,Chemisty,M.E,8.63,4,BASF
+2013S3316S,Physics,M.Sc,9.36,4,proteanTecs
+2013A3324A,Civil Engineering,B.E,6.72,4,Greenko Jacobs
+2013A3335A,Biological Sciences,B.E,5.7,4,Natco Pharma
+2013A3340A,Chemisty,B.E,9.53,4,Linde
+2013A3343A,Pharmacy,B.E,5.46,4,Divis Laboratories
+2013A3346A,Mathematics,B.E,9.65,4,Pharmo Solutions
+2013H3348H,Physics,M.E,9.15,4,Tenstorrent
+2013A3354A,Humanities and Social Sciences,B.E,8.93,4,Tata Consultancy Services (TCS)
+2013H3357H,Electrical and Electronics Engineering,M.E,9.3,4,Infineon
+2013S3363S,Pharmacy,M.Sc,5.8,4,КАВІ
+2013D3365D,Biological Sciences,Ph.D,8.89,4,Abbott Laboratories
+2013A3366A,Chemical Engineering,B.E,8.43,4,Syngenta
+2013A3370A,Economics and Finanace,B.E,7.84,4,Wells Fargo
+2013D3376D,Pharmacy,Ph.D,9.21,4,Unplaced
+2013A3382A,Humanities and Social Sciences,B.E,8.13,4,Google
+2013A3383A,Biological Sciences,B.E,8.48,4,Zydus Cadila
+2013S3385S,Civil Engineering,M.Sc,9.48,4,Balfour Beatty
+2013H3388H,Biological Sciences,M.E,9.67,4,Unplaced
+2013D3390D,Mechanical Engineering,Ph.D,5.32,4,Boeing
+2013D3391D,Humanities and Social Sciences,Ph.D,8.05,4,Bain & Company
+2013H3392H,Electrical and Electronics Engineering,M.E,7.71,4,CISCO
+2013A3405A,Computer Science and Information Systems,B.E,6.26,4,Unplaced
+2013A3415A,Physics,B.E,9.95,4,MathWorks
+2013H3422H,Economics and Finanace,M.E,5.13,4,Bain & Company
+2013A3424A,Biological Sciences,B.E,8.05,4,Wockhardt
+2013S3428S,Chemical Engineering,M.Sc,9.57,4,Honeywell UOP
+2013S3437S,Civil Engineering,M.Sc,8.99,4,Greenko Jacobs
+2013H3443H,Physics,M.E,7.96,4,Micron
+2013H3448H,Economics and Finanace,M.E,7.79,4,Unplaced
+2013A3450A,Mechanical Engineering,B.E,7.53,4,Shell
+2013P3454P,Pharmacy,B.Pharm,6.7,4,Unplaced
+2013A3470A,Computer Science and Information Systems,B.E,9.26,4,Microsoft
+2013A3471A,Electrical and Electronics Engineering,B.E,7.93,4,Panasonic
+2013H3473H,Electrical and Electronics Engineering,M.E,7.25,4,Qualcomm
+2013H3474H,Physics,M.E,9.75,4,Unplaced
+2013A3482A,Mechanical Engineering,B.E,5.46,4,General Electric (GE)
+2013A3485A,Humanities and Social Sciences,B.E,5.8,4,ICICI Bank
+2013H3491H,Mathematics,M.E,8.14,4,Unplaced
+2013S3494S,Mathematics,M.Sc,9.08,4,Intel
+2013A3512A,Computer Science and Information Systems,B.E,7.09,4,Samsung
+2013A3513A,Physics,B.E,8.22,4,MathWorks
+2013S3514S,Civil Engineering,M.Sc,5.81,4,Kiewit Corporation
+2013S3517S,Mechanical Engineering,M.Sc,9.05,4,DOVER
+2013A3519A,Chemisty,B.E,9.47,4,FRESENIUS
+2013P3522P,Economics and Finanace,B.Pharm,6.23,4,Boston Consulting Group (BCG)
+2013A3527A,Chemisty,B.E,8.97,4,DuPont
+2013A3530A,Biological Sciences,B.E,6.33,4,Dr. Reddys Laboratories
+2013H3531H,Mechanical Engineering,M.E,9.05,4,SpaceX
+2013A3532A,Mathematics,B.E,7.52,4,Unplaced
+2013A3535A,Civil Engineering,B.E,8.19,4,WSP Global
+2013A3547A,Biological Sciences,B.E,7.88,4,Unplaced
+2013H3548H,Chemical Engineering,M.E,6.05,4,Unplaced
+2013A3552A,Chemisty,B.E,5.59,4,BASF
+2013A3555A,Chemical Engineering,B.E,5.56,4,Praxair
+2013H3559H,Pharmacy,M.E,8.71,4,PEISION MEDICINE SOLUTIONS
+2013H3567H,Biological Sciences,M.E,8.95,4,Wockhardt
+2013A3576A,Chemisty,B.E,8.9,4,Unplaced
+2013S3584S,Biological Sciences,M.Sc,5.7,4,Abbott Laboratories
+2013P3597P,Biological Sciences,B.Pharm,8.08,4,GSK Pharmaceuticals
+2013A3598A,Humanities and Social Sciences,B.E,7.82,4,HCL Technologies
+2013H3600H,Mechanical Engineering,M.E,5.32,4,SpaceX
+2013D3608D,Biological Sciences,Ph.D,9.03,4,Torrent Pharmaceuticals
+2013A3609A,Mathematics,B.E,6.15,4,Unplaced
+2013H3615H,Economics and Finanace,M.E,8.52,4,Unplaced
+2013A3621A,Humanities and Social Sciences,B.E,6.5,4,Unplaced
+2013H3623H,Biological Sciences,M.E,5.09,4,Biocon
+2013A3625A,Humanities and Social Sciences,B.E,7.13,4,EY (Ernst & Young)
+2013A3629A,Mechanical Engineering,B.E,7.01,4,CYNLR
+2013P3630P,Computer Science and Information Systems,B.Pharm,9.19,4,Google
+2013A3633A,Chemisty,B.E,8.5,4,Aragen
+2013H3638H,Humanities and Social Sciences,M.E,7.94,4,EY (Ernst & Young)
+2013P3647P,Mechanical Engineering,B.Pharm,6.49,4,Mercedes Benz
+2013A3648A,Electrical and Electronics Engineering,B.E,8.92,4,INSTRUMENTS
+2013A3650A,Civil Engineering,B.E,7.32,4,IcoNS
+2013H3651H,Pharmacy,M.E,5.6,4,Aragen
+2013D3653D,Chemical Engineering,Ph.D,7.05,4,Bayer
+2013P3654P,Chemical Engineering,B.Pharm,5.74,4,Novozymes
+2013A3655A,Computer Science and Information Systems,B.E,9.76,4,Axtria
+2013H3669H,Civil Engineering,M.E,6.85,4,Acciona
+2013D3680D,Mathematics,Ph.D,5.23,4,Intel
+2013A3682A,Chemisty,B.E,9.21,4,КАВІ
+2013S3683S,Mechanical Engineering,M.Sc,5.43,4,DOVER
+2013H3685H,Chemisty,M.E,7.55,4,Unplaced
+2013P3687P,Chemisty,B.Pharm,8.0,4,DataZymes
+2013A3689A,Humanities and Social Sciences,B.E,8.63,4,State Bank of India (SBI)
+2013A3690A,Mechanical Engineering,B.E,9.72,4,Shell
+2013A3698A,Chemical Engineering,B.E,8.9,4,Procter & Gamble
+2013A3699A,Mechanical Engineering,B.E,8.99,4,Unplaced
+2013H3703H,Physics,M.E,6.32,4,Dolcera
+2013P3708P,Mechanical Engineering,B.Pharm,8.8,4,Wabtec
+2013A3712A,Mechanical Engineering,B.E,5.21,4,Faurecia
+2013H3713H,Chemisty,M.E,9.93,4,Unplaced
+2013A3714A,Humanities and Social Sciences,B.E,5.76,4,Unplaced
+2013A3715A,Mechanical Engineering,B.E,7.88,4,Unplaced
+2013A3721A,Civil Engineering,B.E,6.07,4,WSP Global
+2013A3724A,Mathematics,B.E,7.56,4,Amazon
+2013A3728A,Chemical Engineering,B.E,8.08,4,Lanxess
+2013H3732H,Humanities and Social Sciences,M.E,8.78,4,EY (Ernst & Young)
+2013P3737P,Chemical Engineering,B.Pharm,6.36,4,Solvay
+2013A3742A,Physics,B.E,9.88,4,proteanTecs
+2013A3743A,Physics,B.E,8.09,4,MathWorks
+2013A3744A,Computer Science and Information Systems,B.E,9.65,4,Commvault
+2013P3750P,Biological Sciences,B.Pharm,9.22,4,Aurobindo Pharma
+2013A3751A,Economics and Finanace,B.E,6.23,4,BNP Paribas
+2013P3753P,Chemical Engineering,B.Pharm,7.37,4,DuPont
+2013A3755A,Mechanical Engineering,B.E,7.69,4,Mercedes Benz
+2013S3763S,Chemisty,M.Sc,5.23,4,КАВІ
+2013A3765A,Physics,B.E,9.31,4,proteanTecs
+2013A3771A,Mathematics,B.E,9.46,4,Intel
+2013A3775A,Computer Science and Information Systems,B.E,8.99,4,Unplaced
+2013A3780A,Biological Sciences,B.E,5.05,4,Unplaced
+2013A3783A,Humanities and Social Sciences,B.E,7.14,4,Aditya Birla Group
+2013A3790A,Mathematics,B.E,8.98,4,Teradata
+2013A3792A,Chemical Engineering,B.E,7.37,4,Linde
+2013A3797A,Computer Science and Information Systems,B.E,7.23,4,ARM
+2013H3798H,Computer Science and Information Systems,M.E,9.26,4,Teradata
+2013A3801A,Civil Engineering,B.E,8.68,4,Unplaced
+2013A3803A,Physics,B.E,7.94,4,Unplaced
+2013S3810S,Biological Sciences,M.Sc,5.16,4,Novartis
+2013D3815D,Chemisty,Ph.D,9.67,4,DataZymes
+2013A3816A,Computer Science and Information Systems,B.E,8.85,4,Unplaced
+2013D3818D,Humanities and Social Sciences,Ph.D,7.19,4,Boston Consulting Group (BCG)
+2013A3832A,Mathematics,B.E,5.35,4,Microsoft
+2013D3834D,Mathematics,Ph.D,9.53,4,Teradata
+2013H3844H,Mathematics,M.E,8.68,4,Unplaced
+2013S3848S,Humanities and Social Sciences,M.Sc,5.52,4,ICICI Bank
+2013A3849A,Pharmacy,B.E,5.69,4,Natco Pharma
+2013A3851A,Physics,B.E,9.93,4,Micron
+2013A3856A,Chemisty,B.E,9.88,4,Unplaced
+2013H3864H,Chemical Engineering,M.E,8.46,4,Chevron
+2013A3866A,Biological Sciences,B.E,9.55,4,FRESENIUS
+2013D3875D,Civil Engineering,Ph.D,6.57,4,WSP Global
+2013S3878S,Humanities and Social Sciences,M.Sc,9.18,4,WNS Global Services
+2013A3880A,Economics and Finanace,B.E,9.76,4,IHS Markit
+2013H3883H,Electrical and Electronics Engineering,M.E,7.16,4,Siemens
+2013A3885A,Biological Sciences,B.E,9.52,4,Alkem Laboratories
+2013A3888A,Computer Science and Information Systems,B.E,5.01,4,Commvault
+2013H3889H,Mathematics,M.E,6.62,4,Qualcomm
+2013A3894A,Computer Science and Information Systems,B.E,7.77,4,Rizzle
+2013S3895S,Mathematics,M.Sc,8.63,4,Google
+2013A3896A,Chemisty,B.E,6.94,4,BASF
+2013A3897A,Biological Sciences,B.E,7.64,4,Strand
+2013A3899A,Humanities and Social Sciences,B.E,7.65,4,Tata Steel
+2013H3901H,Economics and Finanace,M.E,9.01,4,Nomura
+2013P3903P,Mechanical Engineering,B.Pharm,7.27,4,DOVER
+2013P3910P,Chemisty,B.Pharm,9.7,4,BASF
+2013S3912S,Chemical Engineering,M.Sc,7.3,4,Mitsubishi Chemical Corporation
+2013H3916H,Computer Science and Information Systems,M.E,5.46,4,VMware
+2013H3918H,Chemisty,M.E,5.7,4,Aizant
+2013A3923A,Pharmacy,B.E,6.47,4,Novartis
+2013H3928H,Physics,M.E,5.25,4,SILICON LABS
+2013A3932A,Computer Science and Information Systems,B.E,9.24,4,Unplaced
+2013S3935S,Biological Sciences,M.Sc,5.29,4,Alkem Laboratories
+2013A3937A,Chemisty,B.E,8.44,4,BASF
+2013S3938S,Civil Engineering,M.Sc,5.45,4,RAMBOLL
+2013P3943P,Biological Sciences,B.Pharm,8.05,4,GSK Pharmaceuticals
+2013P3948P,Civil Engineering,B.Pharm,5.22,4,Mott MacDonald
+2013A3950A,Pharmacy,B.E,5.07,4,kmk
+2013H3955H,Mechanical Engineering,M.E,7.61,4,DOVER
+2013D3964D,Chemisty,Ph.D,6.76,4,Unplaced
+2013P3970P,Electrical and Electronics Engineering,B.Pharm,7.65,4,Cypress Semiconductor
+2013P3971P,Computer Science and Information Systems,B.Pharm,9.9,4,ARM
+2013A3972A,Biological Sciences,B.E,8.73,4,Alembic Pharmaceuticals
+2013A3979A,Economics and Finanace,B.E,6.67,4,Standard Chartered
+2013A3982A,Economics and Finanace,B.E,5.4,4,KPMG
+2013D3985D,Economics and Finanace,Ph.D,5.54,4,Bain & Company
+2013A3989A,Chemical Engineering,B.E,7.31,4,BASF
+2013A3992A,Physics,B.E,9.71,4,CISCO
+2013A3994A,Chemisty,B.E,8.17,4,kmk
+2013A4001A,Biological Sciences,B.E,5.79,4,GSK Pharmaceuticals
+2013A4008A,Humanities and Social Sciences,B.E,5.5,4,Tata Consultancy Services (TCS)
+2013A4014A,Biological Sciences,B.E,5.05,4,Unplaced
+2013S4019S,Biological Sciences,M.Sc,9.39,4,Novartis
+2013D4027D,Chemisty,Ph.D,5.23,4,FRESENIUS
+2013A4028A,Chemical Engineering,B.E,5.17,4,Unplaced
+2013A4030A,Pharmacy,B.E,5.1,4,Novartis
+2013H4031H,Mathematics,M.E,5.29,4,Amazon
+2013A4038A,Civil Engineering,B.E,5.1,4,WSP Global
+2013D4042D,Chemical Engineering,Ph.D,7.47,4,Mitsubishi Chemical Corporation
+2013D4043D,Economics and Finanace,Ph.D,6.28,4,Unplaced
+2013S4044S,Chemisty,M.Sc,6.43,4,DataZymes
+2013A4050A,Mechanical Engineering,B.E,5.2,4,Toyota
+2013A4052A,Biological Sciences,B.E,8.19,4,FRESENIUS
+2013A4055A,Chemical Engineering,B.E,6.92,4,GSK
+2013A4058A,Humanities and Social Sciences,B.E,6.67,4,Genpact
+2013A4060A,Chemical Engineering,B.E,5.85,4,SABIC
+2013A4066A,Chemical Engineering,B.E,6.28,4,Unplaced
+2013H4080H,Mechanical Engineering,M.E,8.75,4,Micron
+2013A4085A,Chemical Engineering,B.E,7.74,4,ADM (Archer Daniels Midland)
+2013H4086H,Mechanical Engineering,M.E,9.71,4,General Electric (GE)
+2013S4090S,Chemisty,M.Sc,8.61,4,КАВІ
+2013H4111H,Biological Sciences,M.E,7.04,4,FRESENIUS
+2013A4123A,Chemical Engineering,B.E,8.1,4,"KBR, Inc."
+2013A4125A,Civil Engineering,B.E,9.69,4,Jacobs Engineering Group
+2013D4128D,Electrical and Electronics Engineering,Ph.D,9.21,4,STMicroelectronics
+2013P4130P,Electrical and Electronics Engineering,B.Pharm,6.17,4,Unplaced
+2013H4131H,Chemisty,M.E,5.42,4,Aragen
+2013A4134A,Computer Science and Information Systems,B.E,8.28,4,Amazon
+2013P4138P,Biological Sciences,B.Pharm,6.51,4,Lupin Limited
+2013A4140A,Chemisty,B.E,6.93,4,Chevron
+2013H4142H,Computer Science and Information Systems,M.E,6.08,4,GE HealthCare
+2013A4148A,Physics,B.E,8.11,4,Infineon
+2013P4150P,Chemical Engineering,B.Pharm,8.29,4,Unplaced
+2013A4158A,Physics,B.E,9.17,4,MathWorks
+2013P4160P,Economics and Finanace,B.Pharm,9.32,4,Bain & Company
+2013A4162A,Humanities and Social Sciences,B.E,6.65,4,Unplaced
+2013S4166S,Electrical and Electronics Engineering,M.Sc,6.85,4,Toshiba
+2013A4167A,Computer Science and Information Systems,B.E,6.97,4,Infineon
+2013D4185D,Physics,Ph.D,9.05,4,MathWorks
+2013A4186A,Mechanical Engineering,B.E,7.06,4,CYNLR
+2013D4191D,Chemical Engineering,Ph.D,6.84,4,PPG Industries
+2013A4195A,Electrical and Electronics Engineering,B.E,9.45,4,Xilinx
+2013A4196A,Computer Science and Information Systems,B.E,6.34,4,Wabtec
+2013A4203A,Electrical and Electronics Engineering,B.E,5.94,4,MICROCHIP
+2013D4217D,Civil Engineering,Ph.D,5.61,4,The Walsh Group
+2013D4221D,Mechanical Engineering,Ph.D,8.63,4,DOVER
+2013H4225H,Pharmacy,M.E,8.47,4,Unplaced
+2013D4228D,Biological Sciences,Ph.D,6.44,4,Wockhardt
+2013A4230A,Chemisty,B.E,6.13,4,Unplaced
+2013H4234H,Mathematics,M.E,5.94,4,Teradata
+2013A4240A,Physics,B.E,5.45,4,IBM
+2013A4241A,Pharmacy,B.E,8.97,4,Strand
+2013A4256A,Electrical and Electronics Engineering,B.E,6.21,4,NXP Semiconductors
+2013D4258D,Mathematics,Ph.D,5.28,4,IBM
+2013S4267S,Pharmacy,M.Sc,7.0,4,Unplaced
+2013A4269A,Economics and Finanace,B.E,8.65,4,Moodys Analytics
+2013A4278A,Mechanical Engineering,B.E,6.61,4,CYNLR
+2013S4281S,Biological Sciences,M.Sc,6.27,4,Wockhardt
+2013A4283A,Mechanical Engineering,B.E,9.33,4,Micron
+2013A4286A,Mechanical Engineering,B.E,6.22,4,Procter & Gamble
+2013P4287P,Mechanical Engineering,B.Pharm,7.02,4,SpaceX
+2013S4288S,Electrical and Electronics Engineering,M.Sc,5.18,4,Texas Instruments
+2013A4289A,Civil Engineering,B.E,5.37,4,TATA
+2013A4292A,Chemisty,B.E,7.19,4,Unplaced
+2013A4293A,Pharmacy,B.E,8.82,4,Alembic Pharmaceuticals
+2013A4294A,Economics and Finanace,B.E,8.48,4,Boston Consulting Group (BCG)
+2013D4305D,Computer Science and Information Systems,Ph.D,7.82,4,Piramal
+2013D4307D,Biological Sciences,Ph.D,5.7,4,Wockhardt
+2013A4308A,Electrical and Electronics Engineering,B.E,6.53,4,NXP Semiconductors
+2013A4309A,Humanities and Social Sciences,B.E,7.0,4,EY (Ernst & Young)
+2013H4312H,Electrical and Electronics Engineering,M.E,9.45,4,NXP Semiconductors
+2013A4314A,Economics and Finanace,B.E,5.17,4,Capital IQ
+2013A4316A,Humanities and Social Sciences,B.E,6.0,4,Bain & Company
+2013A4320A,Chemisty,B.E,7.85,4,Shell
+2013A4322A,Physics,B.E,6.85,4,STMicroelectronics
+2013S4333S,Computer Science and Information Systems,M.Sc,8.06,4,Tenstorrent
+2013A4340A,Mathematics,B.E,7.1,4,Intel
+2013A4343A,Biological Sciences,B.E,9.99,4,SII
+2013A4347A,Civil Engineering,B.E,6.44,4,Unplaced
+2013S4350S,Biological Sciences,M.Sc,6.51,4,GSK Pharmaceuticals
+2013A4356A,Civil Engineering,B.E,8.67,4,Unplaced
+2013H4358H,Mathematics,M.E,8.53,4,Amazon
+2013A4360A,Pharmacy,B.E,8.39,4,DataZymes
+2013S4361S,Biological Sciences,M.Sc,7.78,4,Dr. Reddys Laboratories
+2013A4368A,Chemisty,B.E,5.95,4,DuPont
+2013H4373H,Biological Sciences,M.E,6.51,4,Aragen
+2013S4374S,Physics,M.Sc,7.9,4,IBM
+2013A4378A,Mechanical Engineering,B.E,9.3,4,Mercedes Benz
+2013H4380H,Pharmacy,M.E,5.45,4,Zydus
+2013H4394H,Computer Science and Information Systems,M.E,7.04,4,Unplaced
+2013A4396A,Pharmacy,B.E,9.5,4,Strand
+2013H4411H,Biological Sciences,M.E,7.2,4,PEISION MEDICINE SOLUTIONS
+2013D4412D,Computer Science and Information Systems,Ph.D,8.3,4,Western Digital
+2013A4414A,Humanities and Social Sciences,B.E,8.21,4,Amazon
+2013A4415A,Economics and Finanace,B.E,9.12,4,Unplaced
+2013S4418S,Pharmacy,M.Sc,7.71,4,Natco Pharma
+2013A4419A,Chemisty,B.E,8.94,4,Eastman Chemical Company
+2013A4430A,Civil Engineering,B.E,8.48,4,RAMBOLL
+2013A4432A,Humanities and Social Sciences,B.E,9.28,4,Unplaced
+2013A4439A,Chemisty,B.E,9.53,4,Linde
+2013P4443P,Chemisty,B.Pharm,5.72,4,Aragen
+2013A4445A,Pharmacy,B.E,9.05,4,Unplaced
+2013A4450A,Computer Science and Information Systems,B.E,7.51,4,Secureworks
+2013S4456S,Civil Engineering,M.Sc,8.94,4,Unplaced
+2013A4461A,Humanities and Social Sciences,B.E,9.61,4,EY (Ernst & Young)
+2013A4464A,Electrical and Electronics Engineering,B.E,5.4,4,INSTRUMENTS
+2013A4469A,Chemical Engineering,B.E,6.61,4,Lanxess
+2013H4471H,Economics and Finanace,M.E,8.79,4,Unplaced
+2013H4472H,Civil Engineering,M.E,7.18,4,RAMBOLL
+2013A4488A,Electrical and Electronics Engineering,B.E,7.72,4,INSTRUMENTS
+2013A4495A,Mechanical Engineering,B.E,9.64,4,Ford Motor Company
+2013A4496A,Humanities and Social Sciences,B.E,8.19,4,Flipkart
+2013A4498A,Physics,B.E,9.8,4,SAMSUNG
+2013S4499S,Computer Science and Information Systems,M.Sc,9.73,4,Axtria
+2013S4503S,Chemical Engineering,M.Sc,8.05,4,Baker Hughes
+2013D4509D,Chemical Engineering,Ph.D,7.36,4,GSK
+2013A4510A,Chemisty,B.E,9.13,4,DuPont
+2013A4515A,Biological Sciences,B.E,6.1,4,Novartis
+2013H4519H,Mathematics,M.E,6.68,4,Intel
+2013H4526H,Biological Sciences,M.E,7.26,4,Wockhardt
+2013H4527H,Chemisty,M.E,9.11,4,FRESENIUS
+2013A4530A,Mathematics,B.E,8.05,4,Unplaced
+2013H4532H,Civil Engineering,M.E,9.07,4,Unplaced
+2013S4534S,Pharmacy,M.Sc,5.57,4,GSK Pharmaceuticals
+2013A4541A,Economics and Finanace,B.E,9.49,4,Standard Chartered
+2013H4544H,Electrical and Electronics Engineering,M.E,9.76,4,Qualcomm
+2013A4549A,Chemical Engineering,B.E,8.11,4,Chevron
+2013A4550A,Mechanical Engineering,B.E,7.22,4,Caterpillar Inc.
+2013A4552A,Economics and Finanace,B.E,9.85,4,Unplaced
+2013A4558A,Physics,B.E,9.77,4,Qualcomm
+2013A4567A,Humanities and Social Sciences,B.E,6.34,4,ICICI Bank
+2013S4568S,Chemisty,M.Sc,8.82,4,SABIC
+2013H4570H,Chemical Engineering,M.E,8.82,4,Procter & Gamble
+2013P4572P,Mechanical Engineering,B.Pharm,7.29,4,General Electric (GE)
+2013S4581S,Mechanical Engineering,M.Sc,5.83,4,SONA COMSTAR
+2013H4584H,Chemisty,M.E,6.99,4,DataZymes
+2013A4593A,Mechanical Engineering,B.E,7.98,4,Caterpillar Inc.
+2013S4596S,Biological Sciences,M.Sc,5.75,4,Abbott Laboratories
+2013H4599H,Physics,M.E,6.95,4,CISCO
+2013H4603H,Mechanical Engineering,M.E,5.96,4,SONA COMSTAR
+2013A4607A,Pharmacy,B.E,5.59,4,Ipca Laboratories
+2013H4615H,Electrical and Electronics Engineering,M.E,7.79,4,MICROCHIP
+2013A4619A,Mechanical Engineering,B.E,7.99,4,FORVIA
+2013A4620A,Chemisty,B.E,6.58,4,Unplaced
+2013A4625A,Humanities and Social Sciences,B.E,6.54,4,Google
+2013P4627P,Economics and Finanace,B.Pharm,7.99,4,Fitch Ratings
+2013H4633H,Biological Sciences,M.E,8.71,4,Natco Pharma
+2013A4635A,Chemical Engineering,B.E,9.65,4,AkzoNobel
+2013P4637P,Pharmacy,B.Pharm,9.85,4,Unplaced
+2013H4654H,Chemical Engineering,M.E,9.17,4,Praxair
+2013H4656H,Physics,M.E,9.03,4,Unplaced
+2013A4658A,Biological Sciences,B.E,6.67,4,Zydus
+2013A4663A,Electrical and Electronics Engineering,B.E,9.68,4,NXP Semiconductors
+2013S4667S,Biological Sciences,M.Sc,6.43,4,Torrent Pharmaceuticals
+2013H4669H,Economics and Finanace,M.E,5.91,4,IHS Markit
+2013A4674A,Economics and Finanace,B.E,7.12,4,Capital IQ
+2013H4675H,Civil Engineering,M.E,6.46,4,Obayashi Corporation
+2013D4676D,Humanities and Social Sciences,Ph.D,5.44,4,EY (Ernst & Young)
+2013P4679P,Computer Science and Information Systems,B.Pharm,6.12,4,Unplaced
+2013S4681S,Electrical and Electronics Engineering,M.Sc,8.15,4,MICROCHIP
+2013A4692A,Mechanical Engineering,B.E,8.76,4,Siemens
+2013A4698A,Chemical Engineering,B.E,7.21,4,3M
+2013S4701S,Pharmacy,M.Sc,8.04,4,Natco Pharma
+2013H4710H,Chemical Engineering,M.E,7.89,4,Unplaced
+2013P4715P,Economics and Finanace,B.Pharm,6.58,4,Unplaced
+2013A4726A,Economics and Finanace,B.E,5.61,4,IHS Markit
+2013A4730A,Chemisty,B.E,6.5,4,Unplaced
+2013H4732H,Physics,M.E,8.98,4,STMicroelectronics
+2013S4733S,Civil Engineering,M.Sc,6.9,4,IcoNS
+2013A4735A,Civil Engineering,B.E,8.45,4,Unplaced
+2013S4739S,Mathematics,M.Sc,6.61,4,Piramal
+2013A4742A,Pharmacy,B.E,6.67,4,Alkem Laboratories
+2013A4743A,Electrical and Electronics Engineering,B.E,6.2,4,NXP Semiconductors
+2013S4748S,Humanities and Social Sciences,M.Sc,7.43,4,Google
+2013S4749S,Biological Sciences,M.Sc,9.28,4,Lupin Limited
+2013A4752A,Chemisty,B.E,7.61,4,DuPont
+2013P4753P,Computer Science and Information Systems,B.Pharm,6.28,4,Microsoft
+2013A4755A,Mechanical Engineering,B.E,10.0,4,Siemens
+2013A4762A,Biological Sciences,B.E,6.32,4,Lupin Limited
+2013D4775D,Economics and Finanace,Ph.D,7.69,4,Morningstar
+2013D4778D,Biological Sciences,Ph.D,8.21,4,Strand
+2013A4783A,Mathematics,B.E,7.47,4,Unplaced
+2013A4786A,Civil Engineering,B.E,7.02,4,ATKINS
+2013P4790P,Economics and Finanace,B.Pharm,5.97,4,Unplaced
+2013A4796A,Physics,B.E,8.26,4,Unplaced
+2013A4805A,Chemisty,B.E,8.75,4,DuPont
+2013A4806A,Biological Sciences,B.E,7.94,4,Strand
+2013H4809H,Chemisty,M.E,6.87,4,Unplaced
+2013A4814A,Biological Sciences,B.E,5.96,4,Zydus
+2013H4815H,Mathematics,M.E,7.16,4,Dell
+2013P4817P,Chemisty,B.Pharm,7.73,4,DataZymes
+2013A4821A,Electrical and Electronics Engineering,B.E,9.47,4,Intel
+2013A4824A,Biological Sciences,B.E,6.69,4,Zydus
+2013S4848S,Mechanical Engineering,M.Sc,6.36,4,Boeing
+2013A4849A,Humanities and Social Sciences,B.E,9.42,4,Unplaced
+2013H4853H,Humanities and Social Sciences,M.E,7.04,4,Flipkart
+2013A4860A,Chemisty,B.E,9.03,4,Unplaced
+2013H4861H,Physics,M.E,6.43,4,Unplaced
+2013S4862S,Computer Science and Information Systems,M.Sc,7.39,4,Secureworks
+2013A4867A,Mathematics,B.E,8.75,4,IBM
+2013H4875H,Computer Science and Information Systems,M.E,7.7,4,Tenstorrent
+2013P4878P,Mechanical Engineering,B.Pharm,9.83,4,Infineon
+2013H4882H,Civil Engineering,M.E,8.72,4,Greenko Jacobs
+2013A4888A,Computer Science and Information Systems,B.E,8.72,4,BLEND360
+2013D4891D,Chemical Engineering,Ph.D,6.26,4,Syngenta
+2013H4894H,Civil Engineering,M.E,5.69,4,Thornton Tomasetti
+2013A4895A,Civil Engineering,B.E,9.67,4,Force
+2013H4902H,Pharmacy,M.E,6.1,4,Sun Pharmaceutical Industries
+2013P4912P,Civil Engineering,B.Pharm,6.39,4,Force
+2013D4913D,Biological Sciences,Ph.D,7.23,4,PEISION MEDICINE SOLUTIONS
+2013P4921P,Pharmacy,B.Pharm,6.11,4,Natco Pharma
+2013A4923A,Biological Sciences,B.E,5.75,4,Strand
+2013P4927P,Pharmacy,B.Pharm,9.85,4,Cipla
+2013A4933A,Mathematics,B.E,5.58,4,Cisco
+2013H4936H,Pharmacy,M.E,9.33,4,SII
+2013H4939H,Biological Sciences,M.E,6.32,4,Unplaced
+2013H4945H,Mechanical Engineering,M.E,8.68,4,TATA
+2013H4949H,Humanities and Social Sciences,M.E,8.68,4,Hindustan Unilever Limited (HUL)
+2013A4956A,Civil Engineering,B.E,5.03,4,Parsons Corporation
+2013S4959S,Computer Science and Information Systems,M.Sc,6.17,4,Tenstorrent
+2013A4960A,Chemical Engineering,B.E,7.46,4,3M
+2013D4965D,Mathematics,Ph.D,6.96,4,Unplaced
+2013P4966P,Electrical and Electronics Engineering,B.Pharm,9.67,4,STMicroelectronics
+2013A4968A,Chemical Engineering,B.E,9.78,4,Novozymes
+2013S4969S,Electrical and Electronics Engineering,M.Sc,9.26,4,Infineon
+2013A4971A,Mechanical Engineering,B.E,6.47,4,Wabtec
+2013H4975H,Mathematics,M.E,6.52,4,Pharmo Solutions
+2013H4979H,Physics,M.E,7.1,4,SAMSUNG
+2013H4981H,Chemisty,M.E,5.43,4,FRESENIUS
+2013A4986A,Chemical Engineering,B.E,5.51,4,Novozymes
+2013P5001P,Mechanical Engineering,B.Pharm,8.72,4,Caterpillar Inc.
+2013A5003A,Humanities and Social Sciences,B.E,5.71,4,State Bank of India (SBI)
+2013H5009H,Computer Science and Information Systems,M.E,9.59,4,Amazon
+2013A5010A,Chemical Engineering,B.E,6.2,4,Praxair
+2013D5011D,Physics,Ph.D,5.49,4,Unplaced
+2013H5013H,Physics,M.E,5.52,4,CISCO
+2013H5019H,Chemical Engineering,M.E,6.03,4,AkzoNobel
+2013D5021D,Physics,Ph.D,5.6,4,CISCO
+2013D5022D,Chemisty,Ph.D,7.79,4,Honeywell UOP
+2013H5023H,Mathematics,M.E,8.72,4,Amazon
+2013H5029H,Chemisty,M.E,9.47,4,Unplaced
+2013S5032S,Civil Engineering,M.Sc,5.2,4,Parsons Corporation
+2013A5039A,Chemisty,B.E,6.07,4,Unplaced
+2013A5041A,Electrical and Electronics Engineering,B.E,7.93,4,NXP Semiconductors
+2013P5042P,Mechanical Engineering,B.Pharm,8.34,4,Lockheed Martin
+2013H5043H,Mathematics,M.E,6.76,4,Intel
+2013H5044H,Computer Science and Information Systems,M.E,6.99,4,Mediatek
+2013A5045A,Biological Sciences,B.E,6.94,4,Sun Pharmaceutical Industries
+2013A5052A,Electrical and Electronics Engineering,B.E,5.36,4,Sony
+2013A5065A,Physics,B.E,7.75,4,STMicroelectronics
+2013A5072A,Humanities and Social Sciences,B.E,7.53,4,Axis Bank
+2013A5081A,Pharmacy,B.E,9.06,4,Alkem Laboratories
+2013A5082A,Chemisty,B.E,6.14,4,FRESENIUS
+2013A5085A,Computer Science and Information Systems,B.E,7.11,4,IBM
+2013A5088A,Humanities and Social Sciences,B.E,6.02,4,Genpact
+2013H5098H,Economics and Finanace,M.E,6.3,4,American Express
+2013H5101H,Biological Sciences,M.E,7.24,4,Glenmark Pharmaceuticals
+2013A5102A,Computer Science and Information Systems,B.E,5.68,4,Tenstorrent
+2013A5106A,Physics,B.E,7.74,4,IBM
+2013A5109A,Mathematics,B.E,7.16,4,Teradata
+2013A5111A,Computer Science and Information Systems,B.E,7.59,4,AMD
+2013A5116A,Humanities and Social Sciences,B.E,6.0,4,ICICI Bank
+2013A5118A,Mechanical Engineering,B.E,9.27,4,Johnson Controls
+2013A5121A,Electrical and Electronics Engineering,B.E,7.25,4,Unplaced
+2013H5122H,Mathematics,M.E,7.98,4,Teradata
+2013A5127A,Chemisty,B.E,9.23,4,BASF
+2013S5132S,Chemical Engineering,M.Sc,8.81,4,Unplaced
+2013A5133A,Economics and Finanace,B.E,8.26,4,Morgan Stanley
+2013H5134H,Electrical and Electronics Engineering,M.E,8.03,4,Honeywell
+2013A5137A,Chemical Engineering,B.E,6.44,4,Dow
+2013A5150A,Electrical and Electronics Engineering,B.E,9.62,4,IBM
+2013A5153A,Civil Engineering,B.E,5.92,4,Bechtel Corporation
+2013A5159A,Mechanical Engineering,B.E,5.16,4,FORVIA
+2013A5164A,Humanities and Social Sciences,B.E,8.5,4,Unplaced
+2013A5168A,Computer Science and Information Systems,B.E,9.87,4,VMware
+2013H5169H,Biological Sciences,M.E,5.63,4,AstraZeneca
+2013A5176A,Mathematics,B.E,9.3,4,Cisco
+2013A5177A,Computer Science and Information Systems,B.E,9.08,4,Samsung
+2013S5198S,Computer Science and Information Systems,M.Sc,9.25,4,Western Digital
+2013A5204A,Humanities and Social Sciences,B.E,8.9,4,ITC Limited
+2013A5213A,Mechanical Engineering,B.E,5.66,4,3SC
+2013A5216A,Physics,B.E,7.0,4,Unplaced
+2013H5218H,Pharmacy,M.E,9.27,4,Unplaced
+2013D5220D,Physics,Ph.D,5.13,4,Unplaced
+2013H5231H,Mathematics,M.E,9.26,4,Teradata
+2013A5240A,Computer Science and Information Systems,B.E,8.86,4,Infineon
+2013D5241D,Humanities and Social Sciences,Ph.D,5.21,4,Unplaced
+2013H5244H,Mechanical Engineering,M.E,7.95,4,Infineon
+2013P5251P,Electrical and Electronics Engineering,B.Pharm,8.55,4,Intel
+2013D5257D,Chemical Engineering,Ph.D,8.93,4,Unplaced
+2013A5261A,Physics,B.E,8.98,4,MathWorks
+2013H5263H,Humanities and Social Sciences,M.E,5.86,4,Tata Steel
+2013S5269S,Mechanical Engineering,M.Sc,8.51,4,DOVER
+2013H5270H,Electrical and Electronics Engineering,M.E,5.85,4,Fujitsu
+2013H5271H,Biological Sciences,M.E,5.67,4,FRESENIUS
+2013H5280H,Chemisty,M.E,5.8,4,BASF
+2013A5285A,Economics and Finanace,B.E,7.0,4,Unplaced
+2013A5286A,Chemical Engineering,B.E,9.62,4,Lanxess
+2013H5287H,Biological Sciences,M.E,7.37,4,Zydus
+2013P5291P,Computer Science and Information Systems,B.Pharm,7.12,4,Rizzle
+2013A5295A,Computer Science and Information Systems,B.E,8.56,4,Pharmo Solutions
+2013A5300A,Humanities and Social Sciences,B.E,5.89,4,ICICI Bank
+2013P5306P,Electrical and Electronics Engineering,B.Pharm,9.04,4,Sony
+2013P5309P,Chemical Engineering,B.Pharm,9.18,4,Unplaced
+2013H5317H,Civil Engineering,M.E,7.5,4,Stantec
+2013A5327A,Pharmacy,B.E,9.43,4,Alkem Laboratories
+2013A5334A,Humanities and Social Sciences,B.E,9.23,4,State Bank of India (SBI)
+2013A5340A,Electrical and Electronics Engineering,B.E,6.28,4,Honeywell
+2013A5341A,Humanities and Social Sciences,B.E,5.66,4,Unplaced
+2013A5345A,Biological Sciences,B.E,5.75,4,Sun Pharmaceutical Industries
+2013H5348H,Economics and Finanace,M.E,5.21,4,Standard Chartered
+2013D5349D,Pharmacy,Ph.D,9.21,4,Natco Pharma
+2013A5351A,Economics and Finanace,B.E,7.06,4,Goldman Sachs
+2013H5353H,Civil Engineering,M.E,8.53,4,"Skidmore, Owings & Merrill (SOM)"
+2013S5355S,Civil Engineering,M.Sc,5.14,4,WSP Global
+2013A5357A,Biological Sciences,B.E,9.09,4,Wockhardt
+2013H5360H,Physics,M.E,5.92,4,SAMSUNG
+2013S5362S,Chemical Engineering,M.Sc,8.07,4,AkzoNobel
+2013S5363S,Mathematics,M.Sc,8.24,4,Intel
+2013A5368A,Pharmacy,B.E,9.07,4,Novartis
+2013A5372A,Chemisty,B.E,9.14,4,Eastman Chemical Company
+2013P5373P,Biological Sciences,B.Pharm,6.31,4,Wockhardt
+2013P5374P,Chemical Engineering,B.Pharm,7.73,4,Praxair
+2013P5377P,Biological Sciences,B.Pharm,8.81,4,Strand
+2013P5384P,Civil Engineering,B.Pharm,7.32,4,Obayashi Corporation
+2013S5387S,Mechanical Engineering,M.Sc,6.31,4,Unplaced
+2013A5392A,Chemical Engineering,B.E,6.41,4,Unplaced
+2013S5393S,Humanities and Social Sciences,M.Sc,5.13,4,State Bank of India (SBI)
+2013S5408S,Biological Sciences,M.Sc,6.0,4,Unplaced
+2013A5410A,Mechanical Engineering,B.E,9.89,4,Toyota
+2013H5411H,Pharmacy,M.E,6.49,4,Unplaced
+2013A5415A,Mathematics,B.E,5.83,4,Unplaced
+2013A5420A,Mechanical Engineering,B.E,5.92,4,Ford Motor Company
+2013H5422H,Electrical and Electronics Engineering,M.E,7.7,4,Sony
+2013A5423A,Mechanical Engineering,B.E,8.43,4,Unplaced
+2013A5424A,Chemical Engineering,B.E,5.86,4,Unplaced
+2013A5432A,Pharmacy,B.E,6.27,4,Cipla
+2013D5441D,Civil Engineering,Ph.D,8.05,4,Dragados
+2013H5445H,Civil Engineering,M.E,8.49,4,RAMBOLL
+2013H5447H,Physics,M.E,7.66,4,Unplaced
+2013A5452A,Economics and Finanace,B.E,9.37,4,Genpact
+2013A5454A,Computer Science and Information Systems,B.E,9.7,4,Microsoft
+2013D5457D,Electrical and Electronics Engineering,Ph.D,7.02,4,Toshiba
+2013A5458A,Mechanical Engineering,B.E,8.88,4,Unplaced
+2013H5460H,Economics and Finanace,M.E,7.91,4,JP Morgan
+2013A5463A,Chemisty,B.E,8.02,4,Unplaced
+2013A5464A,Chemisty,B.E,5.83,4,DuPont
+2013S5467S,Humanities and Social Sciences,M.Sc,9.74,4,EY (Ernst & Young)
+2013A5471A,Civil Engineering,B.E,6.6,4,Orascom Construction
+2013A5472A,Electrical and Electronics Engineering,B.E,7.78,4,NXP Semiconductors
+2013S5474S,Economics and Finanace,M.Sc,9.58,4,Standard Chartered
+2013A5483A,Pharmacy,B.E,9.89,4,kmk
+2013A5488A,Civil Engineering,B.E,7.58,4,"Skidmore, Owings & Merrill (SOM)"
+2013H5489H,Economics and Finanace,M.E,5.76,4,Morgan Stanley
+2013H5490H,Chemisty,M.E,5.17,4,DataZymes
+2013A5491A,Pharmacy,B.E,6.64,4,Aragen
+2013D5497D,Mechanical Engineering,Ph.D,9.66,4,ABB
+2013A5499A,Mechanical Engineering,B.E,9.72,4,Caterpillar Inc.
+2013D5505D,Humanities and Social Sciences,Ph.D,8.08,4,Unplaced
+2013A5506A,Chemical Engineering,B.E,9.68,4,Shell
+2013H5507H,Mechanical Engineering,M.E,6.67,4,General Electric (GE)
+2013A5515A,Pharmacy,B.E,5.85,4,DataZymes
+2013S5516S,Economics and Finanace,M.Sc,5.31,4,Genpact
+2013H5520H,Mechanical Engineering,M.E,5.99,4,CYNLR
+2013A5526A,Humanities and Social Sciences,B.E,7.16,4,Bain & Company
+2013D5527D,Physics,Ph.D,9.79,4,SAMSUNG
+2013A5530A,Physics,B.E,9.18,4,Infineon
+2013P5535P,Chemical Engineering,B.Pharm,6.34,4,PPG Industries
+2013A5540A,Economics and Finanace,B.E,9.48,4,Morgan Stanley
+2013A5541A,Computer Science and Information Systems,B.E,6.36,4,Unplaced
+2013H5543H,Electrical and Electronics Engineering,M.E,5.23,4,Panasonic
+2013P5550P,Pharmacy,B.Pharm,6.05,4,Unplaced
+2013A5552A,Civil Engineering,B.E,7.57,4,RAMBOLL
+2013H5557H,Electrical and Electronics Engineering,M.E,6.41,4,Unplaced
+2013A5559A,Physics,B.E,6.18,4,Unplaced
+2013A5563A,Electrical and Electronics Engineering,B.E,7.44,4,STMicroelectronics
+2013H5573H,Chemical Engineering,M.E,7.97,4,Evonik Industries
+2013D5574D,Biological Sciences,Ph.D,6.48,4,Granules India
+2013A5586A,Electrical and Electronics Engineering,B.E,9.38,4,Unplaced
+2013H5593H,Chemisty,M.E,6.87,4,FRESENIUS
+2013S5594S,Biological Sciences,M.Sc,6.08,4,Glenmark Pharmaceuticals
+2013H5596H,Electrical and Electronics Engineering,M.E,6.18,4,Intel
+2013S5607S,Humanities and Social Sciences,M.Sc,8.78,4,Unplaced
+2013H5610H,Electrical and Electronics Engineering,M.E,5.21,4,Infineon
+2013S5611S,Biological Sciences,M.Sc,5.67,4,SII
+2013H5612H,Economics and Finanace,M.E,9.59,4,Deutsche Bank
+2013H5621H,Economics and Finanace,M.E,6.99,4,Unplaced
+2013S5623S,Chemisty,M.Sc,5.62,4,Aragen
+2013A5624A,Biological Sciences,B.E,6.57,4,Lupin Limited
+2013A5625A,Electrical and Electronics Engineering,B.E,5.06,4,Intel
+2013H5628H,Humanities and Social Sciences,M.E,5.05,4,Amazon
+2013P5629P,Pharmacy,B.Pharm,5.77,4,Glenmark Pharmaceuticals
+2013A5634A,Pharmacy,B.E,5.02,4,ADITYA BIRLA
+2013A5641A,Mechanical Engineering,B.E,6.63,4,Caterpillar Inc.
+2013A5642A,Mechanical Engineering,B.E,6.33,4,SONA COMSTAR
+2013A5645A,Physics,B.E,9.69,4,SILICON LABS
+2013A5646A,Mechanical Engineering,B.E,5.27,4,Unplaced
+2013H5648H,Pharmacy,M.E,9.66,4,Cipla
+2013H5654H,Pharmacy,M.E,8.35,4,Aragen
+2013H5657H,Chemisty,M.E,9.85,4,Honeywell UOP
+2013A5664A,Physics,B.E,8.53,4,proteanTecs
+2013A5666A,Civil Engineering,B.E,7.83,4,Force
+2013H5669H,Electrical and Electronics Engineering,M.E,9.67,4,AMDET
+2013A5671A,Computer Science and Information Systems,B.E,5.83,4,IBM
+2013A5680A,Civil Engineering,B.E,9.81,4,Thornton Tomasetti
+2013H5682H,Mechanical Engineering,M.E,5.05,4,Ford Motor Company
+2013A5688A,Chemical Engineering,B.E,5.15,4,"KBR, Inc."
+2013D5690D,Pharmacy,Ph.D,5.77,4,Glenmark Pharmaceuticals
+2013H5692H,Chemisty,M.E,7.46,4,Aragen
+2013A5696A,Physics,B.E,7.39,4,Unplaced
+2013A5702A,Physics,B.E,9.12,4,Unplaced
+2013A5705A,Biological Sciences,B.E,8.38,4,Novartis
+2013P5707P,Chemisty,B.Pharm,7.14,4,DuPont
+2013A5710A,Biological Sciences,B.E,6.23,4,Strand
+2013A5712A,Pharmacy,B.E,9.23,4,Strand
+2013A5717A,Mechanical Engineering,B.E,8.49,4,Unplaced
+2013H5720H,Mechanical Engineering,M.E,9.57,4,Unplaced
+2013A5724A,Chemisty,B.E,9.12,4,DataZymes
+2013A5732A,Physics,B.E,5.37,4,Texas Instruments
+2013S5736S,Economics and Finanace,M.Sc,6.99,4,Deutsche Bank
+2013D5737D,Physics,Ph.D,7.52,4,Texas Instruments
+2013P5739P,Chemisty,B.Pharm,6.03,4,Aragen
+2013H5746H,Mathematics,M.E,7.14,4,Pharmo Solutions
+2013A5747A,Mechanical Engineering,B.E,6.35,4,Unplaced
+2013A5749A,Biological Sciences,B.E,9.28,4,Unplaced
+2013H5752H,Mechanical Engineering,M.E,9.4,4,SEDEMAC
+2013A5755A,Economics and Finanace,B.E,9.5,4,Nomura
+2013A5757A,Economics and Finanace,B.E,7.5,4,Unplaced
+2013A5761A,Biological Sciences,B.E,5.03,4,Pfizer
+2013A5762A,Mathematics,B.E,7.23,4,Unplaced
+2013H5768H,Chemical Engineering,M.E,8.85,4,Air Liquide
+2013P5770P,Civil Engineering,B.Pharm,7.65,4,Unplaced
+2013A5776A,Chemisty,B.E,9.58,4,Linde
+2013P5781P,Pharmacy,B.Pharm,7.89,4,Zydus Cadila
+2013S5782S,Pharmacy,M.Sc,5.33,4,Cipla
+2013A5783A,Mechanical Engineering,B.E,7.42,4,CYNLR
+2013A5789A,Electrical and Electronics Engineering,B.E,8.76,4,Microsemi
+2013H5794H,Chemisty,M.E,8.29,4,Unplaced
+2013A5802A,Mechanical Engineering,B.E,8.72,4,JK Fenner
+2013A5803A,Humanities and Social Sciences,B.E,6.43,4,McKinsey & Company
+2013S5809S,Mechanical Engineering,M.Sc,6.6,4,Bosch
+2013P5810P,Computer Science and Information Systems,B.Pharm,5.53,4,Mediatek
+2013A5812A,Chemisty,B.E,9.86,4,kmk
+2013A5815A,Chemisty,B.E,7.3,4,КАВІ
+2013A5817A,Chemical Engineering,B.E,9.25,4,Air Liquide
+2013S5818S,Civil Engineering,M.Sc,8.5,4,Kiewit Corporation
+2013S5823S,Computer Science and Information Systems,M.Sc,8.89,4,Piramal
+2013A5832A,Biological Sciences,B.E,8.54,4,Unplaced
+2013H5833H,Economics and Finanace,M.E,9.12,4,Unplaced
+2013D5836D,Physics,Ph.D,6.3,4,MathWorks
+2013H5840H,Humanities and Social Sciences,M.E,8.74,4,Hindustan Unilever Limited (HUL)
+2013D5844D,Mathematics,Ph.D,9.94,4,Google
+2013P5846P,Computer Science and Information Systems,B.Pharm,7.75,4,Unplaced
+2013A5848A,Chemisty,B.E,9.8,4,Cipla
+2013P5854P,Chemisty,B.Pharm,9.64,4,Eastman Chemical Company
+2013A5861A,Mechanical Engineering,B.E,7.77,4,Unplaced
+2013A5863A,Civil Engineering,B.E,6.37,4,Acciona
+2013A5864A,Pharmacy,B.E,6.52,4,GSK Pharmaceuticals
+2013H5867H,Humanities and Social Sciences,M.E,7.56,4,Flipkart
+2013A5869A,Civil Engineering,B.E,6.69,4,Bechtel Corporation
+2013D5870D,Biological Sciences,Ph.D,9.0,4,Dr. Reddys Laboratories
+2013D5884D,Biological Sciences,Ph.D,5.99,4,Lupin Limited
+2013S5885S,Chemical Engineering,M.Sc,6.62,4,BASF
+2013A5887A,Mechanical Engineering,B.E,8.19,4,FORVIA
+2013H5890H,Pharmacy,M.E,6.34,4,Alkem Laboratories
+2013A5891A,Mathematics,B.E,6.46,4,Unplaced
+2013P5894P,Electrical and Electronics Engineering,B.Pharm,8.63,4,Intel
+2013A5899A,Chemical Engineering,B.E,6.78,4,Unplaced
+2013P5910P,Civil Engineering,B.Pharm,7.92,4,Kiewit Corporation
+2013A5912A,Computer Science and Information Systems,B.E,6.46,4,Mediatek
+2013A5913A,Humanities and Social Sciences,B.E,8.55,4,Amazon
+2013H5924H,Computer Science and Information Systems,M.E,8.34,4,Flipkart
+2013A5926A,Mathematics,B.E,6.02,4,Pharmo Solutions
+2013H5932H,Physics,M.E,5.15,4,A Lam
+2013A5934A,Mathematics,B.E,9.45,4,IBM
+2013A5936A,Mechanical Engineering,B.E,8.73,4,Unplaced
+2013S5945S,Physics,M.Sc,7.19,4,Intel
+2013A5946A,Mathematics,B.E,6.1,4,Google
+2013A5948A,Chemical Engineering,B.E,7.37,4,Covestro
+2013A5950A,Pharmacy,B.E,6.52,4,Novartis
+2013S5954S,Electrical and Electronics Engineering,M.Sc,9.54,4,Fujitsu
+2013H5955H,Computer Science and Information Systems,M.E,5.7,4,MathWorks
+2013A5956A,Biological Sciences,B.E,5.55,4,Dr. Reddys Laboratories
+2013A5959A,Physics,B.E,9.52,4,NXP Semiconductors
+2013H5962H,Humanities and Social Sciences,M.E,8.43,4,Tata Steel
+2013A5971A,Mechanical Engineering,B.E,5.0,4,Unplaced
+2013S5978S,Physics,M.Sc,8.91,4,SEDEMAC
+2013D5982D,Computer Science and Information Systems,Ph.D,6.22,4,Secureworks
+2013S5986S,Physics,M.Sc,8.48,4,Tenstorrent
+2013A5989A,Chemical Engineering,B.E,6.25,4,Baker Hughes
+2013A5996A,Humanities and Social Sciences,B.E,9.19,4,EY (Ernst & Young)
+2013D6003D,Civil Engineering,Ph.D,5.27,4,Acciona
+2013A6008A,Biological Sciences,B.E,7.02,4,Glenmark Pharmaceuticals
+2013H6011H,Biological Sciences,M.E,5.48,4,Unplaced
+2013H6026H,Economics and Finanace,M.E,9.16,4,Goldman Sachs
+2013A6028A,Civil Engineering,B.E,6.52,4,Hill International
+2013A6031A,Chemisty,B.E,6.32,4,Honeywell UOP
+2013D6034D,Civil Engineering,Ph.D,7.19,4,Bechtel Corporation
+2013A6039A,Economics and Finanace,B.E,8.44,4,Bain & Company
+2013A6042A,Humanities and Social Sciences,B.E,8.82,4,Flipkart
+2013A6044A,Pharmacy,B.E,7.55,4,Unplaced
+2013P6048P,Chemisty,B.Pharm,6.44,4,Linde
+2013A6049A,Computer Science and Information Systems,B.E,9.62,4,Dell
+2013A6051A,Economics and Finanace,B.E,6.04,4,Deutsche Bank
+2013P6054P,Civil Engineering,B.Pharm,9.39,4,Unplaced
+2013A6056A,Computer Science and Information Systems,B.E,5.52,4,Unplaced
+2013A6057A,Chemical Engineering,B.E,5.78,4,Air Liquide
+2013H6058H,Pharmacy,M.E,8.49,4,Alembic Pharmaceuticals
+2013H6061H,Electrical and Electronics Engineering,M.E,7.74,4,Infineon
+2013A6063A,Electrical and Electronics Engineering,B.E,8.92,4,Unplaced
+2013A6074A,Chemical Engineering,B.E,6.37,4,BASF
+2013A6076A,Mathematics,B.E,9.48,4,Unplaced
+2013P6080P,Mechanical Engineering,B.Pharm,8.84,4,ABB
+2013A6085A,Civil Engineering,B.E,7.99,4,IcoNS
+2013S6089S,Pharmacy,M.Sc,5.55,4,Unplaced
+2013A6091A,Mechanical Engineering,B.E,7.3,4,FORVIA
+2013A6095A,Biological Sciences,B.E,5.52,4,Sun Pharmaceutical Industries
+2013S6101S,Humanities and Social Sciences,M.Sc,9.59,4,Amazon
+2013A6108A,Mathematics,B.E,5.46,4,Pharmo Solutions
+2013P6112P,Biological Sciences,B.Pharm,5.75,4,Unplaced
+2013A6113A,Electrical and Electronics Engineering,B.E,9.63,4,Siemens
+2013A6120A,Chemical Engineering,B.E,7.13,4,Unplaced
+2013S6123S,Civil Engineering,M.Sc,9.6,4,Parsons Corporation
+2013H6124H,Biological Sciences,M.E,5.4,4,Abbott Laboratories
+2013H6133H,Economics and Finanace,M.E,5.68,4,BlackRock
+2013A6136A,Humanities and Social Sciences,B.E,6.9,4,Unplaced
+2013P6138P,Chemical Engineering,B.Pharm,5.19,4,Praxair
+2013S6146S,Electrical and Electronics Engineering,M.Sc,7.98,4,Unplaced
+2013D6150D,Chemisty,Ph.D,8.79,4,Eastman Chemical Company
+2013S6160S,Electrical and Electronics Engineering,M.Sc,7.26,4,Xilinx
+2013A6164A,Humanities and Social Sciences,B.E,5.78,4,Procter & Gamble
+2013A6167A,Electrical and Electronics Engineering,B.E,9.37,4,proteanTecs
+2013D6171D,Electrical and Electronics Engineering,Ph.D,7.55,4,SILICON LABS
+2013A6172A,Chemisty,B.E,6.3,4,Linde
+2013D6174D,Pharmacy,Ph.D,9.9,4,Unplaced
+2013A6192A,Civil Engineering,B.E,6.59,4,Obayashi Corporation
+2013H6194H,Biological Sciences,M.E,8.96,4,Novartis
+2013D6203D,Pharmacy,Ph.D,6.31,4,FRESENIUS
+2013H6204H,Mathematics,M.E,7.05,4,IBM
+2013A6209A,Pharmacy,B.E,9.98,4,Unplaced
+2013H6211H,Chemical Engineering,M.E,6.11,4,Novozymes
+2013D6219D,Electrical and Electronics Engineering,Ph.D,8.01,4,Unplaced
+2013P6221P,Economics and Finanace,B.Pharm,9.47,4,Deloitte
+2013S6223S,Electrical and Electronics Engineering,M.Sc,6.66,4,Unplaced
+2013A6231A,Mathematics,B.E,6.4,4,Cisco
+2013A6233A,Pharmacy,B.E,8.06,4,Unplaced
+2013P6234P,Computer Science and Information Systems,B.Pharm,6.35,4,Unplaced
+2013A6240A,Biological Sciences,B.E,6.37,4,DataZymes
+2013D6244D,Mathematics,Ph.D,6.69,4,Pharmo Solutions

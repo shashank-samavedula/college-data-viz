@@ -1,0 +1,2691 @@
+Student ID,Course,Degree,CGPA,Year,Placement
+2020A0002A,Economics and Finanace,B.E,7.31,4,Nomura
+2020H0008H,Biological Sciences,M.E,9.43,4,Abbott Laboratories
+2020A0009A,Chemisty,B.E,8.13,4,Procter & Gamble
+2020A0010A,Chemisty,B.E,8.74,4,Shell
+2020A0017A,Mathematics,B.E,8.02,4,MathWorks
+2020H0020H,Chemisty,M.E,7.62,4,Dow
+2020A0025A,Chemical Engineering,B.E,5.31,4,Unplaced
+2020S0029S,Computer Science and Information Systems,M.Sc,6.42,4,Pharmo Solutions
+2020A0036A,Mathematics,B.E,7.94,4,Trilogy
+2020A0038A,Physics,B.E,9.36,4,IBM
+2020H0043H,Chemisty,M.E,7.56,4,Unplaced
+2020S0046S,Civil Engineering,M.Sc,7.8,4,Parsons Corporation
+2020S0051S,Physics,M.Sc,5.71,4,SEDEMAC
+2020P0053P,Pharmacy,B.Pharm,5.6,4,Novartis
+2020H0062H,Biological Sciences,M.E,8.24,4,Aurobindo Pharma
+2020A0065A,Physics,B.E,9.64,4,MathWorks
+2020A0075A,Mathematics,B.E,5.07,4,Pharmo Solutions
+2020A0097A,Computer Science and Information Systems,B.E,6.3,4,Unplaced
+2020A0099A,Mechanical Engineering,B.E,6.82,4,Unplaced
+2020P0101P,Biological Sciences,B.Pharm,9.75,4,Lupin Limited
+2020S0111S,Biological Sciences,M.Sc,5.79,4,Strand
+2020S0115S,Biological Sciences,M.Sc,7.2,4,Alembic Pharmaceuticals
+2020A0116A,Mechanical Engineering,B.E,7.88,4,Siemens
+2020H0135H,Chemical Engineering,M.E,7.35,4,Novozymes
+2020D0136D,Physics,Ph.D,6.06,4,Unplaced
+2020A0137A,Pharmacy,B.E,6.88,4,Cipla
+2020H0141H,Pharmacy,M.E,8.65,4,Strand
+2020A0146A,Mathematics,B.E,9.12,4,Qualcomm
+2020S0150S,Electrical and Electronics Engineering,M.Sc,8.27,4,CISCO
+2020P0151P,Chemisty,B.Pharm,6.42,4,Unplaced
+2020A0153A,Computer Science and Information Systems,B.E,9.79,4,Unplaced
+2020A0156A,Pharmacy,B.E,8.66,4,Ipca Laboratories
+2020P0158P,Mechanical Engineering,B.Pharm,7.53,4,Honda
+2020P0159P,Biological Sciences,B.Pharm,7.43,4,PEISION MEDICINE SOLUTIONS
+2020S0162S,Mechanical Engineering,M.Sc,9.04,4,DOVER
+2020A0163A,Mathematics,B.E,6.86,4,Microsoft
+2020P0165P,Chemical Engineering,B.Pharm,8.93,4,SABIC
+2020A0168A,Civil Engineering,B.E,7.57,4,"Skidmore, Owings & Merrill (SOM)"
+2020A0170A,Biological Sciences,B.E,5.61,4,Granules India
+2020D0179D,Chemisty,Ph.D,8.63,4,FRESENIUS
+2020A0182A,Physics,B.E,9.1,4,AMDET
+2020H0193H,Mechanical Engineering,M.E,7.36,4,Wabtec
+2020A0198A,Electrical and Electronics Engineering,B.E,6.04,4,Infineon
+2020P0203P,Mechanical Engineering,B.Pharm,6.44,4,Unplaced
+2020A0207A,Humanities and Social Sciences,B.E,5.76,4,Boston Consulting Group (BCG)
+2020A0209A,Pharmacy,B.E,6.95,4,Elucidata
+2020P0216P,Mechanical Engineering,B.Pharm,6.76,4,Unplaced
+2020S0218S,Computer Science and Information Systems,M.Sc,7.78,4,CONCR
+2020A0223A,Chemisty,B.E,8.83,4,Elucidata
+2020S0228S,Mathematics,M.Sc,7.68,4,Pharmo Solutions
+2020A0229A,Civil Engineering,B.E,9.3,4,Gammon Construction
+2020P0230P,Humanities and Social Sciences,B.Pharm,6.43,4,Tata Consultancy Services (TCS)
+2020A0234A,Electrical and Electronics Engineering,B.E,7.9,4,Unplaced
+2020A0237A,Mechanical Engineering,B.E,7.85,4,Lime
+2020P0239P,Chemisty,B.Pharm,7.85,4,КАВІ
+2020A0241A,Biological Sciences,B.E,8.71,4,Divis Laboratories
+2020D0246D,Biological Sciences,Ph.D,6.04,4,DataZymes
+2020D0247D,Humanities and Social Sciences,Ph.D,6.23,4,ITC Limited
+2020P0248P,Civil Engineering,B.Pharm,8.98,4,Thornton Tomasetti
+2020H0251H,Biological Sciences,M.E,8.74,4,Cipla
+2020A0252A,Mathematics,B.E,9.98,4,Piramal
+2020A0257A,Economics and Finanace,B.E,7.0,4,Standard Chartered
+2020A0260A,Physics,B.E,5.84,4,Texas Instruments
+2020P0264P,Humanities and Social Sciences,B.Pharm,9.5,4,Accenture
+2020A0272A,Mechanical Engineering,B.E,8.17,4,Mercedes Benz
+2020A0275A,Chemisty,B.E,8.04,4,FRESENIUS
+2020S0279S,Physics,M.Sc,7.54,4,proteanTecs
+2020S0282S,Mathematics,M.Sc,6.87,4,Qualcomm
+2020P0283P,Pharmacy,B.Pharm,5.85,4,Unplaced
+2020A0284A,Chemisty,B.E,7.42,4,FRESENIUS
+2020S0288S,Pharmacy,M.Sc,5.98,4,Unplaced
+2020A0297A,Civil Engineering,B.E,8.45,4,ARUP
+2020P0302P,Civil Engineering,B.Pharm,6.14,4,The Walsh Group
+2020H0305H,Civil Engineering,M.E,7.39,4,Parsons Corporation
+2020A0307A,Mathematics,B.E,7.95,4,Unplaced
+2020A0308A,Computer Science and Information Systems,B.E,7.85,4,Flipkart
+2020H0309H,Chemical Engineering,M.E,8.6,4,Wood Group
+2020H0310H,Pharmacy,M.E,5.97,4,Unplaced
+2020A0311A,Biological Sciences,B.E,6.26,4,Unplaced
+2020S0317S,Humanities and Social Sciences,M.Sc,5.03,4,Procter & Gamble
+2020A0323A,Economics and Finanace,B.E,8.83,4,Unplaced
+2020A0326A,Chemisty,B.E,5.96,4,Cipla
+2020A0328A,Economics and Finanace,B.E,9.78,4,Unplaced
+2020A0329A,Pharmacy,B.E,7.98,4,Unplaced
+2020A0334A,Humanities and Social Sciences,B.E,6.54,4,Flipkart
+2020S0335S,Electrical and Electronics Engineering,M.Sc,5.03,4,ON Semiconductor
+2020A0337A,Pharmacy,B.E,9.03,4,Biocon
+2020P0341P,Economics and Finanace,B.Pharm,7.14,4,Genpact
+2020H0343H,Civil Engineering,M.E,8.09,4,TATA
+2020H0345H,Chemisty,M.E,6.63,4,DuPont
+2020P0347P,Pharmacy,B.Pharm,6.95,4,Natco Pharma
+2020A0348A,Civil Engineering,B.E,6.4,4,ATKINS
+2020H0350H,Computer Science and Information Systems,M.E,7.69,4,Unplaced
+2020D0352D,Physics,Ph.D,5.37,4,Unplaced
+2020D0359D,Economics and Finanace,Ph.D,9.53,4,Citi
+2020A0361A,Economics and Finanace,B.E,7.34,4,Genpact
+2020A0364A,Chemisty,B.E,5.6,4,Linde
+2020S0365S,Electrical and Electronics Engineering,M.Sc,6.98,4,STMicroelectronics
+2020A0367A,Mathematics,B.E,6.87,4,Unplaced
+2020A0374A,Chemical Engineering,B.E,8.84,4,Bayer
+2020A0377A,Pharmacy,B.E,7.88,4,Zydus Cadila
+2020H0378H,Mathematics,M.E,8.91,4,Unplaced
+2020A0380A,Biological Sciences,B.E,8.12,4,Unplaced
+2020A0394A,Economics and Finanace,B.E,5.14,4,Unplaced
+2020A0395A,Chemical Engineering,B.E,9.17,4,Chevron
+2020H0397H,Electrical and Electronics Engineering,M.E,5.25,4,MICROCHIP
+2020P0398P,Electrical and Electronics Engineering,B.Pharm,5.99,4,Texas Instruments
+2020A0406A,Humanities and Social Sciences,B.E,5.08,4,Capgemini
+2020S0411S,Pharmacy,M.Sc,8.22,4,Zydus
+2020A0416A,Mathematics,B.E,5.78,4,Mediatek
+2020S0426S,Biological Sciences,M.Sc,6.66,4,Biocon
+2020H0428H,Electrical and Electronics Engineering,M.E,5.23,4,AMDET
+2020A0432A,Chemical Engineering,B.E,9.84,4,Occidental Petroleum Corporation (OxyChem)
+2020A0433A,Electrical and Electronics Engineering,B.E,9.28,4,Toshiba
+2020H0441H,Physics,M.E,5.47,4,AMDET
+2020H0448H,Physics,M.E,9.53,4,IBM
+2020A0452A,Biological Sciences,B.E,7.86,4,Alkem Laboratories
+2020A0453A,Economics and Finanace,B.E,5.94,4,FactSet
+2020H0454H,Humanities and Social Sciences,M.E,9.96,4,Microsoft
+2020H0455H,Mechanical Engineering,M.E,6.31,4,Cummins Inc.
+2020A0458A,Computer Science and Information Systems,B.E,6.7,4,PEGA
+2020D0461D,Chemical Engineering,Ph.D,8.91,4,Lanxess
+2020A0463A,Chemical Engineering,B.E,6.14,4,Merck
+2020S0476S,Physics,M.Sc,5.76,4,NXP Semiconductors
+2020A0477A,Civil Engineering,B.E,6.39,4,Kiewit Corporation
+2020H0478H,Computer Science and Information Systems,M.E,6.95,4,Western Digital
+2020S0496S,Mathematics,M.Sc,8.71,4,Unplaced
+2020A0500A,Chemical Engineering,B.E,8.13,4,Bayer
+2020A0501A,Mechanical Engineering,B.E,5.84,4,Johnson Controls
+2020D0504D,Civil Engineering,Ph.D,9.35,4,AECOM
+2020A0505A,Physics,B.E,9.82,4,Texas Instruments
+2020A0508A,Pharmacy,B.E,7.54,4,Unplaced
+2020P0510P,Chemical Engineering,B.Pharm,5.06,4,BASF
+2020A0513A,Chemical Engineering,B.E,9.99,4,Syngenta
+2020A0514A,Mathematics,B.E,8.03,4,AMD
+2020A0515A,Mechanical Engineering,B.E,7.59,4,JK Fenner
+2020S0518S,Economics and Finanace,M.Sc,7.9,4,Bain & Company
+2020H0520H,Economics and Finanace,M.E,8.24,4,Fidelity International
+2020A0522A,Electrical and Electronics Engineering,B.E,9.07,4,Texas Instruments
+2020A0525A,Chemical Engineering,B.E,6.46,4,Johnson Matthey
+2020A0536A,Physics,B.E,5.45,4,NXP Semiconductors
+2020D0538D,Electrical and Electronics Engineering,Ph.D,6.01,4,Texas Instruments
+2020A0539A,Economics and Finanace,B.E,6.69,4,Unplaced
+2020A0543A,Mathematics,B.E,7.69,4,Cisco
+2020S0545S,Chemical Engineering,M.Sc,5.45,4,Wood Group
+2020A0550A,Economics and Finanace,B.E,10.0,4,Unplaced
+2020A0554A,Civil Engineering,B.E,9.38,4,Balfour Beatty
+2020A0557A,Mechanical Engineering,B.E,7.42,4,Cummins Inc.
+2020H0559H,Electrical and Electronics Engineering,M.E,5.93,4,Microsemi
+2020A0560A,Pharmacy,B.E,7.88,4,freyr
+2020A0571A,Humanities and Social Sciences,B.E,8.09,4,Unplaced
+2020H0577H,Physics,M.E,5.14,4,Unplaced
+2020A0579A,Electrical and Electronics Engineering,B.E,6.08,4,STMicroelectronics
+2020A0581A,Economics and Finanace,B.E,6.16,4,S&P Global
+2020D0585D,Chemical Engineering,Ph.D,8.07,4,Solvay
+2020H0588H,Chemisty,M.E,5.15,4,КАВІ
+2020A0590A,Chemical Engineering,B.E,9.73,4,Baker Hughes
+2020H0591H,Electrical and Electronics Engineering,M.E,6.91,4,Unplaced
+2020P0594P,Electrical and Electronics Engineering,B.Pharm,9.4,4,Renesas Electronics
+2020P0595P,Chemical Engineering,B.Pharm,5.92,4,Evonik Industries
+2020D0609D,Mathematics,Ph.D,5.74,4,Unplaced
+2020H0614H,Mechanical Engineering,M.E,9.6,4,Wabtec
+2020P0615P,Pharmacy,B.Pharm,7.74,4,Divis Laboratories
+2020D0618D,Civil Engineering,Ph.D,9.8,4,COWI
+2020A0620A,Economics and Finanace,B.E,5.29,4,Unplaced
+2020A0623A,Mathematics,B.E,7.81,4,Piramal
+2020H0626H,Computer Science and Information Systems,M.E,9.72,4,Microsoft
+2020A0629A,Economics and Finanace,B.E,7.81,4,EY (Ernst & Young)
+2020A0647A,Economics and Finanace,B.E,9.59,4,Genpact
+2020D0649D,Mechanical Engineering,Ph.D,8.34,4,Faurecia
+2020A0652A,Electrical and Electronics Engineering,B.E,8.45,4,LG Electronics
+2020H0661H,Pharmacy,M.E,8.58,4,Ipca Laboratories
+2020A0665A,Chemical Engineering,B.E,7.77,4,Unplaced
+2020A0668A,Civil Engineering,B.E,5.19,4,ATKINS
+2020A0671A,Humanities and Social Sciences,B.E,8.69,4,Flipkart
+2020A0677A,Pharmacy,B.E,5.28,4,Divis Laboratories
+2020P0680P,Economics and Finanace,B.Pharm,8.29,4,Morningstar
+2020A0688A,Pharmacy,B.E,6.17,4,Alembic Pharmaceuticals
+2020S0689S,Biological Sciences,M.Sc,7.81,4,Unplaced
+2020D0692D,Biological Sciences,Ph.D,8.24,4,Ipca Laboratories
+2020A0694A,Pharmacy,B.E,8.08,4,Unplaced
+2020D0695D,Physics,Ph.D,6.19,4,Dolcera
+2020A0696A,Mechanical Engineering,B.E,6.25,4,SONA COMSTAR
+2020S0701S,Economics and Finanace,M.Sc,8.7,4,Standard Chartered
+2020S0702S,Computer Science and Information Systems,M.Sc,5.72,4,Teradata
+2020P0705P,Civil Engineering,B.Pharm,9.71,4,AMARARALA
+2020A0706A,Electrical and Electronics Engineering,B.E,7.3,4,Unplaced
+2020A0707A,Humanities and Social Sciences,B.E,9.76,4,Amazon
+2020H0708H,Economics and Finanace,M.E,6.69,4,Barclays
+2020A0712A,Humanities and Social Sciences,B.E,7.74,4,HDFC Bank
+2020H0718H,Pharmacy,M.E,6.92,4,Abbott Laboratories
+2020H0723H,Chemisty,M.E,7.06,4,Sun Pharmaceutical Industries
+2020H0732H,Mechanical Engineering,M.E,9.52,4,SONA COMSTAR
+2020P0736P,Mechanical Engineering,B.Pharm,7.05,4,Unplaced
+2020S0740S,Chemisty,M.Sc,9.4,4,Aragen
+2020A0744A,Humanities and Social Sciences,B.E,9.47,4,Bain & Company
+2020A0751A,Economics and Finanace,B.E,8.01,4,BlackRock
+2020A0752A,Biological Sciences,B.E,8.11,4,Cadila Healthcare
+2020A0757A,Computer Science and Information Systems,B.E,7.24,4,Flipkart
+2020A0758A,Economics and Finanace,B.E,5.2,4,Morgan Stanley
+2020A0762A,Electrical and Electronics Engineering,B.E,6.0,4,SynOPSYS
+2020H0765H,Mathematics,M.E,9.27,4,Qualcomm
+2020A0776A,Mechanical Engineering,B.E,5.35,4,TATA
+2020A0784A,Humanities and Social Sciences,B.E,9.09,4,EY (Ernst & Young)
+2020H0785H,Mechanical Engineering,M.E,8.53,4,Infineon
+2020D0799D,Physics,Ph.D,5.3,4,proteanTecs
+2020A0800A,Chemical Engineering,B.E,8.37,4,SABIC
+2020H0805H,Humanities and Social Sciences,M.E,6.79,4,Capgemini
+2020H0806H,Economics and Finanace,M.E,7.5,4,Nomura
+2020A0809A,Physics,B.E,6.76,4,proteanTecs
+2020S0810S,Humanities and Social Sciences,M.Sc,6.62,4,Unplaced
+2020H0811H,Humanities and Social Sciences,M.E,9.34,4,Axis Bank
+2020A0812A,Humanities and Social Sciences,B.E,5.76,4,WNS Global Services
+2020A0815A,Electrical and Electronics Engineering,B.E,6.83,4,Renesas Electronics
+2020D0818D,Chemical Engineering,Ph.D,5.08,4,Unplaced
+2020P0822P,Civil Engineering,B.Pharm,5.95,4,Kiewit Corporation
+2020A0827A,Chemisty,B.E,6.18,4,Biocon Biologics
+2020P0830P,Pharmacy,B.Pharm,6.55,4,Abbott Laboratories
+2020H0835H,Biological Sciences,M.E,7.24,4,Abbott Laboratories
+2020A0838A,Pharmacy,B.E,9.58,4,Divis Laboratories
+2020A0843A,Civil Engineering,B.E,7.44,4,AMARARALA
+2020P0846P,Chemical Engineering,B.Pharm,7.65,4,Unplaced
+2020H0853H,Computer Science and Information Systems,M.E,9.78,4,Western Digital
+2020H0858H,Civil Engineering,M.E,8.95,4,Force
+2020H0861H,Computer Science and Information Systems,M.E,5.13,4,Intel
+2020A0865A,Chemical Engineering,B.E,9.68,4,Bayer
+2020H0866H,Computer Science and Information Systems,M.E,5.99,4,VMware
+2020H0869H,Biological Sciences,M.E,9.34,4,Glenmark Pharmaceuticals
+2020A0870A,Economics and Finanace,B.E,5.71,4,American Express
+2020A0871A,Mathematics,B.E,5.13,4,BLEND360
+2020H0879H,Economics and Finanace,M.E,6.69,4,Standard Chartered
+2020H0880H,Economics and Finanace,M.E,8.75,4,Unplaced
+2020A0881A,Electrical and Electronics Engineering,B.E,7.73,4,Unplaced
+2020P0889P,Economics and Finanace,B.Pharm,6.61,4,Thomson Reuters
+2020A0891A,Humanities and Social Sciences,B.E,5.12,4,Flipkart
+2020H0899H,Computer Science and Information Systems,M.E,7.78,4,Google
+2020D0903D,Humanities and Social Sciences,Ph.D,5.14,4,Amazon
+2020P0912P,Economics and Finanace,B.Pharm,6.03,4,Citi
+2020P0913P,Economics and Finanace,B.Pharm,7.29,4,Unplaced
+2020A0914A,Mechanical Engineering,B.E,8.77,4,FORVIA
+2020H0922H,Pharmacy,M.E,5.95,4,Biocon
+2020A0926A,Computer Science and Information Systems,B.E,5.71,4,GE HealthCare
+2020H0929H,Chemical Engineering,M.E,8.62,4,SABIC
+2020A0931A,Computer Science and Information Systems,B.E,5.11,4,Infineon
+2020H0933H,Civil Engineering,M.E,5.33,4,Gammon Construction
+2020A0934A,Biological Sciences,B.E,5.19,4,Strand
+2020A0937A,Computer Science and Information Systems,B.E,8.55,4,Microsoft
+2020A0941A,Pharmacy,B.E,5.22,4,Elucidata
+2020A0942A,Mathematics,B.E,9.76,4,Google
+2020A0949A,Electrical and Electronics Engineering,B.E,5.87,4,AMDET
+2020A0951A,Computer Science and Information Systems,B.E,5.74,4,Micron
+2020A0959A,Physics,B.E,6.98,4,SynOPSYS
+2020A0965A,Mathematics,B.E,9.68,4,Mediatek
+2020S0966S,Civil Engineering,M.Sc,7.89,4,Balfour Beatty
+2020A0968A,Civil Engineering,B.E,8.2,4,Unplaced
+2020A0978A,Electrical and Electronics Engineering,B.E,9.72,4,LG Electronics
+2020A0981A,Computer Science and Information Systems,B.E,7.14,4,VMware
+2020P0985P,Computer Science and Information Systems,B.Pharm,8.5,4,Tenstorrent
+2020A0986A,Mathematics,B.E,8.85,4,Unplaced
+2020A0989A,Electrical and Electronics Engineering,B.E,5.19,4,onsemi
+2020A0993A,Civil Engineering,B.E,8.02,4,Unplaced
+2020A0994A,Biological Sciences,B.E,6.61,4,Wockhardt
+2020A0998A,Humanities and Social Sciences,B.E,6.37,4,Wipro
+2020A1000A,Computer Science and Information Systems,B.E,7.93,4,Qualcomm
+2020A1004A,Chemical Engineering,B.E,6.0,4,ADM (Archer Daniels Midland)
+2020H1007H,Civil Engineering,M.E,6.7,4,TATA
+2020P1010P,Mechanical Engineering,B.Pharm,7.81,4,Unplaced
+2020H1011H,Humanities and Social Sciences,M.E,6.83,4,Unplaced
+2020A1013A,Pharmacy,B.E,7.72,4,FRESENIUS
+2020A1014A,Humanities and Social Sciences,B.E,5.17,4,Axis Bank
+2020P1022P,Pharmacy,B.Pharm,5.93,4,Abbott Laboratories
+2020A1029A,Economics and Finanace,B.E,9.6,4,Fitch Ratings
+2020H1030H,Civil Engineering,M.E,5.94,4,Unplaced
+2020A1035A,Mechanical Engineering,B.E,5.82,4,FORVIA
+2020H1037H,Computer Science and Information Systems,M.E,7.03,4,Unplaced
+2020A1038A,Biological Sciences,B.E,9.35,4,Wockhardt
+2020A1041A,Physics,B.E,9.54,4,Tenstorrent
+2020A1042A,Mechanical Engineering,B.E,9.75,4,Mercedes Benz
+2020A1045A,Humanities and Social Sciences,B.E,8.87,4,Google
+2020H1051H,Computer Science and Information Systems,M.E,9.28,4,Unplaced
+2020A1053A,Humanities and Social Sciences,B.E,6.69,4,Unplaced
+2020P1068P,Chemisty,B.Pharm,9.44,4,Unplaced
+2020P1069P,Economics and Finanace,B.Pharm,6.23,4,Goldman Sachs
+2020D1070D,Physics,Ph.D,6.35,4,SILICON LABS
+2020P1073P,Electrical and Electronics Engineering,B.Pharm,9.07,4,Panasonic
+2020H1077H,Computer Science and Information Systems,M.E,5.25,4,PEGA
+2020A1084A,Chemisty,B.E,8.92,4,Biocon Biologics
+2020S1091S,Civil Engineering,M.Sc,5.86,4,Parsons Corporation
+2020P1095P,Electrical and Electronics Engineering,B.Pharm,6.1,4,Fujitsu
+2020P1098P,Civil Engineering,B.Pharm,8.36,4,Acciona
+2020A1099A,Mechanical Engineering,B.E,9.3,4,Honda
+2020S1101S,Chemical Engineering,M.Sc,7.04,4,Unplaced
+2020S1102S,Humanities and Social Sciences,M.Sc,5.75,4,Aditya Birla Group
+2020D1106D,Economics and Finanace,Ph.D,5.1,4,EY (Ernst & Young)
+2020A1108A,Chemisty,B.E,8.52,4,FRESENIUS
+2020P1110P,Civil Engineering,B.Pharm,6.57,4,Assystem Stup
+2020A1112A,Civil Engineering,B.E,6.9,4,Obayashi Corporation
+2020A1114A,Pharmacy,B.E,8.49,4,FRESENIUS
+2020H1115H,Physics,M.E,9.0,4,INSTRUMENTS
+2020P1116P,Mechanical Engineering,B.Pharm,6.73,4,3SC
+2020A1117A,Biological Sciences,B.E,7.45,4,SII
+2020H1132H,Computer Science and Information Systems,M.E,7.74,4,Unplaced
+2020A1136A,Mathematics,B.E,5.62,4,Unplaced
+2020S1144S,Mechanical Engineering,M.Sc,8.92,4,Infineon
+2020P1148P,Biological Sciences,B.Pharm,6.44,4,Natco Pharma
+2020A1149A,Pharmacy,B.E,8.77,4,Alembic Pharmaceuticals
+2020H1151H,Mechanical Engineering,M.E,7.89,4,JK Fenner
+2020A1152A,Computer Science and Information Systems,B.E,7.62,4,Google
+2020A1153A,Chemisty,B.E,7.52,4,Unplaced
+2020S1156S,Computer Science and Information Systems,M.Sc,5.58,4,Google
+2020A1161A,Pharmacy,B.E,8.97,4,Elucidata
+2020A1163A,Humanities and Social Sciences,B.E,6.26,4,KPMG
+2020S1165S,Civil Engineering,M.Sc,7.32,4,Unplaced
+2020A1168A,Economics and Finanace,B.E,5.27,4,KPMG
+2020H1169H,Electrical and Electronics Engineering,M.E,9.44,4,Renesas Electronics
+2020A1178A,Humanities and Social Sciences,B.E,7.02,4,Accenture
+2020S1181S,Humanities and Social Sciences,M.Sc,8.79,4,Bain & Company
+2020A1183A,Chemisty,B.E,9.66,4,Elucidata
+2020H1184H,Economics and Finanace,M.E,8.3,4,Capital IQ
+2020S1205S,Civil Engineering,M.Sc,9.07,4,AMARARALA
+2020H1207H,Humanities and Social Sciences,M.E,9.86,4,IBM
+2020H1213H,Electrical and Electronics Engineering,M.E,8.71,4,NEC Corporation
+2020A1215A,Civil Engineering,B.E,5.81,4,Unplaced
+2020H1217H,Biological Sciences,M.E,7.18,4,Emcure Pharmaceuticals
+2020A1220A,Computer Science and Information Systems,B.E,6.18,4,Micron
+2020P1221P,Electrical and Electronics Engineering,B.Pharm,7.94,4,LG Electronics
+2020S1227S,Chemisty,M.Sc,7.7,4,Unplaced
+2020P1236P,Chemisty,B.Pharm,9.49,4,FRESENIUS
+2020P1244P,Pharmacy,B.Pharm,5.81,4,Alkem Laboratories
+2020A1246A,Computer Science and Information Systems,B.E,8.27,4,ARM
+2020H1251H,Chemisty,M.E,5.54,4,Unplaced
+2020P1254P,Mechanical Engineering,B.Pharm,6.2,4,Siemens
+2020A1256A,Physics,B.E,6.05,4,INSTRUMENTS
+2020A1260A,Electrical and Electronics Engineering,B.E,5.93,4,MathWorks
+2020H1261H,Humanities and Social Sciences,M.E,8.29,4,Unplaced
+2020S1262S,Physics,M.Sc,9.31,4,SynOPSYS
+2020D1263D,Chemisty,Ph.D,9.08,4,Unplaced
+2020H1266H,Computer Science and Information Systems,M.E,7.08,4,Unplaced
+2020A1268A,Civil Engineering,B.E,7.56,4,"Daelim Industrial Co., Ltd."
+2020D1278D,Mathematics,Ph.D,9.98,4,Cisco
+2020S1281S,Humanities and Social Sciences,M.Sc,9.15,4,Axis Bank
+2020A1287A,Biological Sciences,B.E,6.11,4,КАВІ
+2020H1288H,Civil Engineering,M.E,6.98,4,Unplaced
+2020D1290D,Mathematics,Ph.D,9.07,4,Piramal
+2020S1292S,Mechanical Engineering,M.Sc,8.32,4,Lime
+2020A1294A,Chemical Engineering,B.E,9.28,4,Unplaced
+2020P1296P,Pharmacy,B.Pharm,6.0,4,GSK Pharmaceuticals
+2020A1301A,Electrical and Electronics Engineering,B.E,5.81,4,SynOPSYS
+2020A1308A,Humanities and Social Sciences,B.E,6.69,4,Unplaced
+2020A1317A,Biological Sciences,B.E,6.7,4,FRESENIUS
+2020A1318A,Electrical and Electronics Engineering,B.E,5.52,4,Microsemi
+2020D1319D,Civil Engineering,Ph.D,5.84,4,J. Murphy & Sons
+2020S1321S,Physics,M.Sc,6.13,4,INSTRUMENTS
+2020A1322A,Mathematics,B.E,8.85,4,Dell
+2020A1330A,Mechanical Engineering,B.E,5.68,4,Toyota
+2020A1336A,Physics,B.E,6.29,4,INSTRUMENTS
+2020S1337S,Chemisty,M.Sc,6.4,4,Unplaced
+2020P1349P,Pharmacy,B.Pharm,6.49,4,Ipca Laboratories
+2020P1350P,Biological Sciences,B.Pharm,6.56,4,Unplaced
+2020H1355H,Humanities and Social Sciences,M.E,9.05,4,Cognizant
+2020D1360D,Pharmacy,Ph.D,9.06,4,SII
+2020A1366A,Electrical and Electronics Engineering,B.E,6.06,4,Panasonic
+2020A1368A,Economics and Finanace,B.E,5.68,4,Boston Consulting Group (BCG)
+2020P1371P,Electrical and Electronics Engineering,B.Pharm,6.27,4,Xilinx
+2020A1372A,Biological Sciences,B.E,9.89,4,Granules India
+2020S1384S,Economics and Finanace,M.Sc,6.63,4,Moodys Analytics
+2020A1395A,Electrical and Electronics Engineering,B.E,8.85,4,Unplaced
+2020H1396H,Mathematics,M.E,5.33,4,MathWorks
+2020P1400P,Chemisty,B.Pharm,7.4,4,Linde
+2020A1412A,Physics,B.E,8.85,4,Texas Instruments
+2020P1413P,Mechanical Engineering,B.Pharm,6.71,4,Micron
+2020A1426A,Chemical Engineering,B.E,8.4,4,Unplaced
+2020A1429A,Computer Science and Information Systems,B.E,5.06,4,Teradata
+2020A1430A,Chemical Engineering,B.E,9.96,4,Unplaced
+2020A1439A,Mechanical Engineering,B.E,6.39,4,Honda
+2020A1446A,Civil Engineering,B.E,5.66,4,Obayashi Corporation
+2020A1454A,Pharmacy,B.E,9.21,4,Divis Laboratories
+2020S1456S,Civil Engineering,M.Sc,5.37,4,Parsons Corporation
+2020A1460A,Humanities and Social Sciences,B.E,7.12,4,IBM
+2020A1463A,Civil Engineering,B.E,7.03,4,AMARARALA
+2020P1474P,Chemisty,B.Pharm,5.22,4,Unplaced
+2020D1477D,Mechanical Engineering,Ph.D,7.21,4,SpaceX
+2020H1484H,Chemical Engineering,M.E,8.44,4,Unplaced
+2020H1491H,Mechanical Engineering,M.E,8.34,4,FORVIA
+2020A1501A,Mathematics,B.E,5.75,4,MathWorks
+2020A1502A,Mechanical Engineering,B.E,5.61,4,Unplaced
+2020H1507H,Mathematics,M.E,8.57,4,MathWorks
+2020D1509D,Electrical and Electronics Engineering,Ph.D,8.01,4,CISCO
+2020S1513S,Biological Sciences,M.Sc,9.64,4,Granules India
+2020H1517H,Pharmacy,M.E,5.89,4,Elucidata
+2020A1526A,Economics and Finanace,B.E,8.61,4,BlackRock
+2020H1529H,Electrical and Electronics Engineering,M.E,6.46,4,Unplaced
+2020H1536H,Pharmacy,M.E,5.42,4,Unplaced
+2020A1550A,Chemical Engineering,B.E,5.45,4,INEOS
+2020A1554A,Humanities and Social Sciences,B.E,6.08,4,WNS Global Services
+2020S1558S,Mechanical Engineering,M.Sc,8.81,4,Unplaced
+2020P1560P,Humanities and Social Sciences,B.Pharm,9.8,4,McKinsey & Company
+2020S1564S,Mechanical Engineering,M.Sc,5.53,4,Unplaced
+2020A1567A,Humanities and Social Sciences,B.E,8.18,4,Tata Consultancy Services (TCS)
+2020H1570H,Mechanical Engineering,M.E,8.4,4,ExxonMobil
+2020H1576H,Civil Engineering,M.E,6.99,4,Unplaced
+2020S1584S,Chemisty,M.Sc,7.6,4,Shell
+2020A1587A,Civil Engineering,B.E,7.46,4,Unplaced
+2020H1594H,Biological Sciences,M.E,6.93,4,Torrent Pharmaceuticals
+2020A1599A,Electrical and Electronics Engineering,B.E,7.86,4,Analog Devices
+2020D1600D,Pharmacy,Ph.D,9.24,4,Glenmark Pharmaceuticals
+2020A1606A,Economics and Finanace,B.E,6.49,4,JP Morgan
+2020S1615S,Biological Sciences,M.Sc,8.57,4,Zydus
+2020S1617S,Electrical and Electronics Engineering,M.Sc,8.78,4,STMicroelectronics
+2020A1618A,Mechanical Engineering,B.E,7.86,4,General Electric (GE)
+2020A1619A,Pharmacy,B.E,6.48,4,Biocon
+2020A1628A,Computer Science and Information Systems,B.E,8.9,4,Unplaced
+2020S1631S,Mathematics,M.Sc,7.36,4,Intel
+2020D1632D,Pharmacy,Ph.D,5.59,4,Unplaced
+2020S1641S,Chemisty,M.Sc,9.51,4,КАВІ
+2020A1645A,Chemical Engineering,B.E,8.92,4,Linde
+2020H1646H,Mechanical Engineering,M.E,6.89,4,Wabtec
+2020A1648A,Biological Sciences,B.E,7.81,4,Granules India
+2020A1658A,Biological Sciences,B.E,8.34,4,Unplaced
+2020A1659A,Mechanical Engineering,B.E,6.95,4,Procter & Gamble
+2020H1666H,Physics,M.E,6.61,4,AMDET
+2020D1668D,Mechanical Engineering,Ph.D,9.75,4,ExxonMobil
+2020S1671S,Biological Sciences,M.Sc,9.48,4,Zydus
+2020P1672P,Humanities and Social Sciences,B.Pharm,7.99,4,Infosys
+2020P1673P,Chemisty,B.Pharm,5.29,4,Sun Pharmaceutical Industries
+2020P1674P,Chemisty,B.Pharm,8.63,4,DataZymes
+2020A1677A,Physics,B.E,9.36,4,CISCO
+2020A1685A,Civil Engineering,B.E,6.72,4,Unplaced
+2020A1696A,Biological Sciences,B.E,5.7,4,Granules India
+2020H1701H,Chemisty,M.E,9.53,4,Unplaced
+2020H1704H,Pharmacy,M.E,5.46,4,Unplaced
+2020H1707H,Mathematics,M.E,9.65,4,Unplaced
+2020P1709P,Humanities and Social Sciences,B.Pharm,8.92,4,Unplaced
+2020A1715A,Humanities and Social Sciences,B.E,8.93,4,Bain & Company
+2020A1718A,Electrical and Electronics Engineering,B.E,9.3,4,Siemens
+2020A1724A,Pharmacy,B.E,5.8,4,AstraZeneca
+2020A1726A,Biological Sciences,B.E,8.89,4,Ipca Laboratories
+2020H1727H,Chemical Engineering,M.E,8.43,4,3M
+2020H1731H,Economics and Finanace,M.E,7.84,4,Barclays
+2020P1737P,Pharmacy,B.Pharm,9.21,4,Biocon
+2020A1743A,Humanities and Social Sciences,B.E,8.13,4,Cognizant
+2020A1744A,Biological Sciences,B.E,8.48,4,Zydus
+2020H1746H,Civil Engineering,M.E,9.48,4,COWI
+2020A1749A,Biological Sciences,B.E,9.67,4,Alkem Laboratories
+2020H1751H,Mechanical Engineering,M.E,5.32,4,FORVIA
+2020H1752H,Humanities and Social Sciences,M.E,8.05,4,McKinsey & Company
+2020P1753P,Electrical and Electronics Engineering,B.Pharm,7.71,4,Xilinx
+2020S1766S,Computer Science and Information Systems,M.Sc,6.26,4,Wabtec
+2020A1782A,Economics and Finanace,B.E,5.13,4,UBS
+2020A1784A,Biological Sciences,B.E,8.05,4,Aurobindo Pharma
+2020A1788A,Chemical Engineering,B.E,9.57,4,Evonik Industries
+2020S1797S,Civil Engineering,M.Sc,8.99,4,Force
+2020A1803A,Physics,B.E,7.96,4,Infineon
+2020D1808D,Economics and Finanace,Ph.D,7.79,4,Accenture
+2020S1810S,Mechanical Engineering,M.Sc,7.53,4,ANAND
+2020A1814A,Mathematics,B.E,8.16,4,Piramal
+2020H1830H,Computer Science and Information Systems,M.E,9.26,4,Trilogy
+2020S1831S,Electrical and Electronics Engineering,M.Sc,7.93,4,Unplaced
+2020A1833A,Electrical and Electronics Engineering,B.E,7.25,4,Panasonic
+2020A1834A,Physics,B.E,9.75,4,Unplaced
+2020A1843A,Mechanical Engineering,B.E,5.46,4,Toyota
+2020A1846A,Humanities and Social Sciences,B.E,5.8,4,WNS Global Services
+2020H1852H,Mathematics,M.E,8.14,4,Unplaced
+2020P1855P,Pharmacy,B.Pharm,8.71,4,SII
+2020A1873A,Computer Science and Information Systems,B.E,7.09,4,Teradata
+2020A1874A,Physics,B.E,8.22,4,INSTRUMENTS
+2020H1875H,Civil Engineering,M.E,5.81,4,Unplaced
+2020A1878A,Mechanical Engineering,B.E,9.05,4,3SC
+2020A1880A,Chemisty,B.E,9.47,4,DuPont
+2020S1883S,Economics and Finanace,M.Sc,6.23,4,Citi
+2020S1888S,Chemisty,M.Sc,8.97,4,FRESENIUS
+2020A1891A,Biological Sciences,B.E,6.33,4,SII
+2020H1892H,Mechanical Engineering,M.E,9.05,4,ABB
+2020A1893A,Mathematics,B.E,7.52,4,BLEND360
+2020P1896P,Civil Engineering,B.Pharm,8.19,4,Thornton Tomasetti
+2020S1908S,Biological Sciences,M.Sc,7.88,4,Alkem Laboratories
+2020A1909A,Chemical Engineering,B.E,6.05,4,SABIC
+2020P1913P,Chemical Engineering,B.Pharm,9.33,4,"KBR, Inc."
+2020A1916A,Chemical Engineering,B.E,5.56,4,"KBR, Inc."
+2020A1920A,Pharmacy,B.E,8.71,4,Aizant
+2020H1928H,Biological Sciences,M.E,8.95,4,Unplaced
+2020A1937A,Chemisty,B.E,8.9,4,Unplaced
+2020A1945A,Biological Sciences,B.E,5.7,4,Unplaced
+2020A1958A,Biological Sciences,B.E,8.08,4,Unplaced
+2020A1959A,Humanities and Social Sciences,B.E,7.82,4,State Bank of India (SBI)
+2020S1961S,Mechanical Engineering,M.Sc,5.32,4,DOVER
+2020A1969A,Biological Sciences,B.E,9.03,4,FRESENIUS
+2020A1970A,Mathematics,B.E,6.15,4,Piramal
+2020A1974A,Physics,B.E,8.35,4,MathWorks
+2020H1978H,Civil Engineering,M.E,7.54,4,Kiewit Corporation
+2020A1983A,Humanities and Social Sciences,B.E,6.5,4,EY (Ernst & Young)
+2020H1985H,Biological Sciences,M.E,5.09,4,Torrent Pharmaceuticals
+2020A1987A,Humanities and Social Sciences,B.E,7.13,4,Boston Consulting Group (BCG)
+2020A1991A,Mechanical Engineering,B.E,7.01,4,DOVER
+2020A1992A,Computer Science and Information Systems,B.E,9.19,4,PEGA
+2020H1995H,Chemisty,M.E,8.5,4,Sun Pharmaceutical Industries
+2020A2000A,Humanities and Social Sciences,B.E,7.94,4,Boston Consulting Group (BCG)
+2020S2009S,Mechanical Engineering,M.Sc,6.49,4,3SC
+2020A2010A,Electrical and Electronics Engineering,B.E,8.92,4,Microsemi
+2020A2012A,Civil Engineering,B.E,7.32,4,"Daelim Industrial Co., Ltd."
+2020H2013H,Pharmacy,M.E,5.6,4,SII
+2020A2015A,Chemical Engineering,B.E,7.05,4,3M
+2020A2016A,Chemical Engineering,B.E,5.74,4,Shell
+2020A2017A,Computer Science and Information Systems,B.E,9.76,4,PayU
+2020P2031P,Civil Engineering,B.Pharm,6.85,4,J. Murphy & Sons
+2020A2042A,Mathematics,B.E,5.23,4,Qualcomm
+2020A2044A,Chemisty,B.E,9.21,4,Unplaced
+2020P2045P,Mechanical Engineering,B.Pharm,5.43,4,Johnson Controls
+2020A2047A,Chemisty,B.E,7.55,4,Unplaced
+2020D2049D,Chemisty,Ph.D,8.0,4,DuPont
+2020P2051P,Humanities and Social Sciences,B.Pharm,8.63,4,Capgemini
+2020A2052A,Mechanical Engineering,B.E,9.72,4,ARUP
+2020A2060A,Chemical Engineering,B.E,8.9,4,Novozymes
+2020A2061A,Mechanical Engineering,B.E,8.99,4,ABB
+2020A2065A,Physics,B.E,6.32,4,Unplaced
+2020A2070A,Mechanical Engineering,B.E,8.8,4,FORVIA
+2020H2074H,Mechanical Engineering,M.E,5.21,4,3SC
+2020A2075A,Chemisty,B.E,9.93,4,КАВІ
+2020A2076A,Humanities and Social Sciences,B.E,5.76,4,Unplaced
+2020A2077A,Mechanical Engineering,B.E,7.88,4,JK Fenner
+2020A2083A,Civil Engineering,B.E,6.07,4,Orascom Construction
+2020A2089A,Chemical Engineering,B.E,8.08,4,Shell
+2020A2093A,Humanities and Social Sciences,B.E,8.78,4,Wipro
+2020S2098S,Chemical Engineering,M.Sc,6.36,4,SABIC
+2020A2103A,Physics,B.E,9.88,4,Unplaced
+2020A2104A,Physics,B.E,8.09,4,Intel
+2020A2105A,Computer Science and Information Systems,B.E,9.65,4,AMD
+2020S2112S,Civil Engineering,M.Sc,8.48,4,Acciona
+2020A2114A,Chemical Engineering,B.E,7.37,4,Unplaced
+2020A2116A,Mechanical Engineering,B.E,7.69,4,3SC
+2020D2124D,Chemisty,Ph.D,5.23,4,Unplaced
+2020A2126A,Physics,B.E,9.31,4,Panasonic
+2020A2132A,Mathematics,B.E,9.46,4,Piramal
+2020A2136A,Computer Science and Information Systems,B.E,8.99,4,Microsoft
+2020A2141A,Biological Sciences,B.E,5.05,4,Strand
+2020D2144D,Humanities and Social Sciences,Ph.D,7.14,4,Unplaced
+2020A2151A,Mathematics,B.E,8.98,4,Unplaced
+2020H2153H,Chemical Engineering,M.E,7.37,4,ExxonMobil
+2020A2158A,Computer Science and Information Systems,B.E,7.23,4,Pharmo Solutions
+2020A2159A,Computer Science and Information Systems,B.E,9.26,4,VMware
+2020A2162A,Civil Engineering,B.E,8.68,4,Unplaced
+2020A2164A,Physics,B.E,7.94,4,Unplaced
+2020A2171A,Biological Sciences,B.E,5.16,4,Unplaced
+2020H2176H,Chemisty,M.E,9.67,4,Unplaced
+2020A2177A,Computer Science and Information Systems,B.E,8.85,4,Amazon
+2020A2179A,Humanities and Social Sciences,B.E,7.19,4,Cognizant
+2020A2186A,Chemical Engineering,B.E,8.03,4,Pfizer
+2020P2194P,Chemical Engineering,B.Pharm,8.58,4,Unplaced
+2020A2196A,Mathematics,B.E,9.53,4,Google
+2020A2206A,Mathematics,B.E,8.68,4,Intel
+2020A2210A,Humanities and Social Sciences,B.E,5.52,4,ICICI Bank
+2020P2211P,Pharmacy,B.Pharm,5.69,4,Zydus
+2020A2213A,Physics,B.E,9.93,4,Unplaced
+2020H2218H,Chemisty,M.E,9.88,4,Linde
+2020S2226S,Chemical Engineering,M.Sc,8.46,4,Occidental Petroleum Corporation (OxyChem)
+2020A2228A,Biological Sciences,B.E,9.55,4,Biocon
+2020A2237A,Civil Engineering,B.E,6.57,4,Obayashi Corporation
+2020A2240A,Humanities and Social Sciences,B.E,9.18,4,Bain & Company
+2020A2242A,Economics and Finanace,B.E,9.76,4,Unplaced
+2020S2245S,Electrical and Electronics Engineering,M.Sc,7.16,4,Toshiba
+2020A2247A,Biological Sciences,B.E,9.52,4,Zydus
+2020S2250S,Computer Science and Information Systems,M.Sc,5.01,4,Microsoft
+2020D2251D,Mathematics,Ph.D,6.62,4,Google
+2020A2256A,Computer Science and Information Systems,B.E,7.77,4,GE HealthCare
+2020A2257A,Mathematics,B.E,8.63,4,Piramal
+2020H2258H,Chemisty,M.E,6.94,4,Unplaced
+2020A2259A,Biological Sciences,B.E,7.64,4,Alkem Laboratories
+2020A2261A,Humanities and Social Sciences,B.E,7.65,4,Microsoft
+2020H2263H,Economics and Finanace,M.E,9.01,4,Unplaced
+2020S2265S,Mechanical Engineering,M.Sc,7.27,4,Unplaced
+2020A2272A,Chemisty,B.E,9.7,4,КАВІ
+2020A2274A,Chemical Engineering,B.E,7.3,4,Unplaced
+2020D2278D,Computer Science and Information Systems,Ph.D,5.46,4,Qualcomm
+2020A2280A,Chemisty,B.E,5.7,4,freyr
+2020A2285A,Pharmacy,B.E,6.47,4,КАВІ
+2020A2290A,Physics,B.E,5.25,4,CISCO
+2020A2294A,Computer Science and Information Systems,B.E,9.24,4,Unplaced
+2020P2297P,Biological Sciences,B.Pharm,5.29,4,Natco Pharma
+2020A2299A,Chemisty,B.E,8.44,4,Unplaced
+2020P2300P,Civil Engineering,B.Pharm,5.45,4,Assystem Stup
+2020A2305A,Biological Sciences,B.E,8.05,4,GSK Pharmaceuticals
+2020H2310H,Civil Engineering,M.E,5.22,4,Unplaced
+2020S2312S,Pharmacy,M.Sc,5.07,4,AstraZeneca
+2020A2317A,Mechanical Engineering,B.E,7.61,4,Wabtec
+2020S2326S,Chemisty,M.Sc,6.76,4,Aragen
+2020H2332H,Electrical and Electronics Engineering,M.E,7.65,4,Unplaced
+2020S2333S,Computer Science and Information Systems,M.Sc,9.9,4,Intel
+2020H2334H,Biological Sciences,M.E,8.73,4,Emcure Pharmaceuticals
+2020P2341P,Economics and Finanace,B.Pharm,6.67,4,JP Morgan
+2020P2344P,Economics and Finanace,B.Pharm,5.4,4,Unplaced
+2020A2351A,Chemical Engineering,B.E,7.31,4,Unplaced
+2020H2354H,Physics,M.E,9.71,4,SEDEMAC
+2020A2356A,Chemisty,B.E,8.17,4,DataZymes
+2020A2363A,Biological Sciences,B.E,5.79,4,Abbott Laboratories
+2020H2370H,Humanities and Social Sciences,M.E,5.5,4,Unplaced
+2020P2371P,Civil Engineering,B.Pharm,9.22,4,Unplaced
+2020A2376A,Biological Sciences,B.E,5.05,4,КАВІ
+2020H2381H,Biological Sciences,M.E,9.39,4,Lupin Limited
+2020S2389S,Chemisty,M.Sc,5.23,4,DuPont
+2020A2390A,Chemical Engineering,B.E,5.17,4,Evonik Industries
+2020A2392A,Pharmacy,B.E,5.1,4,Torrent Pharmaceuticals
+2020P2393P,Biological Sciences,B.Pharm,5.37,4,Alembic Pharmaceuticals
+2020P2400P,Civil Engineering,B.Pharm,5.1,4,AMARARALA
+2020P2404P,Chemical Engineering,B.Pharm,7.47,4,PPG Industries
+2020A2405A,Economics and Finanace,B.E,6.28,4,JP Morgan
+2020A2406A,Chemisty,B.E,6.43,4,Dow
+2020A2412A,Mechanical Engineering,B.E,5.2,4,Unplaced
+2020D2414D,Biological Sciences,Ph.D,8.19,4,Zydus
+2020D2417D,Chemical Engineering,Ph.D,6.92,4,Bayer
+2020P2420P,Humanities and Social Sciences,B.Pharm,6.67,4,HCL Technologies
+2020S2422S,Chemical Engineering,M.Sc,5.85,4,Unplaced
+2020A2428A,Chemical Engineering,B.E,6.28,4,Johnson Matthey
+2020H2436H,Mathematics,M.E,7.86,4,AMD
+2020H2442H,Mechanical Engineering,M.E,8.75,4,Oeing Lie
+2020A2447A,Chemical Engineering,B.E,7.74,4,Covestro
+2020H2448H,Mechanical Engineering,M.E,9.71,4,JK Fenner
+2020H2452H,Chemisty,M.E,8.61,4,Unplaced
+2020S2473S,Biological Sciences,M.Sc,7.04,4,Torrent Pharmaceuticals
+2020S2485S,Chemical Engineering,M.Sc,8.1,4,Occidental Petroleum Corporation (OxyChem)
+2020H2487H,Civil Engineering,M.E,9.69,4,Unplaced
+2020A2490A,Electrical and Electronics Engineering,B.E,9.21,4,Unplaced
+2020H2492H,Electrical and Electronics Engineering,M.E,6.17,4,Altera
+2020S2493S,Chemisty,M.Sc,5.42,4,BASF
+2020A2496A,Computer Science and Information Systems,B.E,8.28,4,Flipkart
+2020A2499A,Physics,B.E,6.12,4,Unplaced
+2020A2500A,Economics and Finanace,B.E,5.04,4,Fidelity International
+2020A2502A,Chemisty,B.E,6.93,4,DuPont
+2020A2504A,Computer Science and Information Systems,B.E,6.08,4,VMware
+2020A2512A,Physics,B.E,5.42,4,SAMSUNG
+2020S2520S,Pharmacy,M.Sc,7.65,4,КАВІ
+2020H2522H,Economics and Finanace,M.E,9.32,4,Unplaced
+2020A2524A,Humanities and Social Sciences,B.E,6.65,4,Unplaced
+2020A2528A,Electrical and Electronics Engineering,B.E,6.85,4,Unplaced
+2020P2529P,Computer Science and Information Systems,B.Pharm,6.97,4,Microsoft
+2020H2547H,Physics,M.E,9.05,4,STMicroelectronics
+2020A2548A,Mechanical Engineering,B.E,7.06,4,Micron
+2020A2553A,Chemical Engineering,B.E,6.84,4,"KBR, Inc."
+2020A2557A,Electrical and Electronics Engineering,B.E,9.45,4,onsemi
+2020H2558H,Computer Science and Information Systems,M.E,6.34,4,CONCR
+2020S2565S,Electrical and Electronics Engineering,M.Sc,5.94,4,Ricoh
+2020D2579D,Civil Engineering,Ph.D,5.61,4,J. Murphy & Sons
+2020A2583A,Mechanical Engineering,B.E,8.63,4,ANAND
+2020A2587A,Pharmacy,B.E,8.47,4,Aragen
+2020A2590A,Biological Sciences,B.E,6.44,4,AstraZeneca
+2020A2595A,Biological Sciences,B.E,7.76,4,Zydus
+2020P2596P,Biological Sciences,B.Pharm,7.56,4,Zydus
+2020S2600S,Humanities and Social Sciences,M.Sc,5.62,4,Amazon
+2020A2603A,Physics,B.E,5.45,4,proteanTecs
+2020A2604A,Pharmacy,B.E,8.97,4,Unplaced
+2020H2619H,Electrical and Electronics Engineering,M.E,6.21,4,Infineon
+2020H2621H,Mathematics,M.E,5.28,4,BLEND360
+2020H2630H,Pharmacy,M.E,7.0,4,КАВІ
+2020A2632A,Economics and Finanace,B.E,8.65,4,IHS Markit
+2020D2641D,Mechanical Engineering,Ph.D,6.61,4,Caterpillar Inc.
+2020S2644S,Biological Sciences,M.Sc,6.27,4,Cipla
+2020A2646A,Mechanical Engineering,B.E,9.33,4,Cummins Inc.
+2020A2649A,Mechanical Engineering,B.E,6.22,4,DOVER
+2020A2650A,Mechanical Engineering,B.E,7.02,4,Procter & Gamble
+2020A2651A,Electrical and Electronics Engineering,B.E,5.18,4,onsemi
+2020H2652H,Civil Engineering,M.E,5.37,4,ATKINS
+2020A2655A,Chemisty,B.E,7.19,4,freyr
+2020A2656A,Pharmacy,B.E,8.82,4,Unplaced
+2020A2657A,Economics and Finanace,B.E,8.48,4,Citi
+2020A2668A,Computer Science and Information Systems,B.E,7.82,4,CONCR
+2020P2670P,Biological Sciences,B.Pharm,5.7,4,Biocon
+2020S2671S,Electrical and Electronics Engineering,M.Sc,6.53,4,Renesas Electronics
+2020S2672S,Humanities and Social Sciences,M.Sc,7.0,4,Unplaced
+2020P2675P,Electrical and Electronics Engineering,B.Pharm,9.45,4,Unplaced
+2020D2677D,Economics and Finanace,Ph.D,5.17,4,Citi
+2020A2679A,Humanities and Social Sciences,B.E,6.0,4,ICICI Bank
+2020S2683S,Chemisty,M.Sc,7.85,4,Unplaced
+2020A2685A,Physics,B.E,6.85,4,Infineon
+2020S2696S,Computer Science and Information Systems,M.Sc,8.06,4,Microsoft
+2020A2703A,Mathematics,B.E,7.1,4,Cisco
+2020A2706A,Biological Sciences,B.E,9.99,4,Unplaced
+2020H2710H,Civil Engineering,M.E,6.44,4,Balfour Beatty
+2020S2713S,Biological Sciences,M.Sc,6.51,4,Pfizer
+2020A2719A,Civil Engineering,B.E,8.67,4,Unplaced
+2020S2721S,Mathematics,M.Sc,8.53,4,Unplaced
+2020S2723S,Pharmacy,M.Sc,8.39,4,Novartis
+2020A2724A,Biological Sciences,B.E,7.78,4,Emcure Pharmaceuticals
+2020H2731H,Chemisty,M.E,5.95,4,Unplaced
+2020H2736H,Biological Sciences,M.E,6.51,4,Unplaced
+2020H2737H,Physics,M.E,7.9,4,Unplaced
+2020P2741P,Mechanical Engineering,B.Pharm,9.3,4,Unplaced
+2020A2743A,Pharmacy,B.E,5.45,4,Unplaced
+2020H2757H,Computer Science and Information Systems,M.E,7.04,4,Trilogy
+2020A2759A,Pharmacy,B.E,9.5,4,Unplaced
+2020A2774A,Biological Sciences,B.E,7.2,4,Unplaced
+2020H2775H,Computer Science and Information Systems,M.E,8.3,4,Google
+2020A2777A,Humanities and Social Sciences,B.E,8.21,4,Procter & Gamble
+2020A2778A,Economics and Finanace,B.E,9.12,4,Unplaced
+2020A2781A,Pharmacy,B.E,7.71,4,Novartis
+2020A2782A,Chemisty,B.E,8.94,4,DuPont
+2020H2793H,Civil Engineering,M.E,8.48,4,Leighton Holdings
+2020A2795A,Humanities and Social Sciences,B.E,9.28,4,HDFC Bank
+2020A2802A,Chemisty,B.E,9.53,4,Dow
+2020S2806S,Chemisty,M.Sc,5.72,4,FRESENIUS
+2020H2808H,Pharmacy,M.E,9.05,4,КАВІ
+2020A2813A,Computer Science and Information Systems,B.E,7.51,4,BLEND360
+2020A2819A,Civil Engineering,B.E,8.94,4,Unplaced
+2020S2824S,Humanities and Social Sciences,M.Sc,9.61,4,State Bank of India (SBI)
+2020H2827H,Electrical and Electronics Engineering,M.E,5.4,4,Unplaced
+2020H2832H,Chemical Engineering,M.E,6.61,4,Unplaced
+2020A2834A,Economics and Finanace,B.E,8.79,4,FactSet
+2020D2835D,Civil Engineering,Ph.D,7.18,4,Unplaced
+2020A2851A,Electrical and Electronics Engineering,B.E,7.72,4,MathWorks
+2020H2858H,Mechanical Engineering,M.E,9.64,4,SpaceX
+2020A2859A,Humanities and Social Sciences,B.E,8.19,4,Bain & Company
+2020D2861D,Physics,Ph.D,9.8,4,Infineon
+2020A2862A,Computer Science and Information Systems,B.E,9.73,4,Western Digital
+2020S2866S,Chemical Engineering,M.Sc,8.05,4,Praxair
+2020A2872A,Chemical Engineering,B.E,7.36,4,Mitsubishi Chemical Corporation
+2020A2873A,Chemisty,B.E,9.13,4,Dow
+2020H2878H,Biological Sciences,M.E,6.1,4,Biocon
+2020H2882H,Mathematics,M.E,6.68,4,AMD
+2020H2887H,Mathematics,M.E,8.45,4,Unplaced
+2020H2889H,Biological Sciences,M.E,7.26,4,Aurobindo Pharma
+2020P2890P,Chemisty,B.Pharm,9.11,4,FRESENIUS
+2020A2893A,Mathematics,B.E,8.05,4,Google
+2020P2895P,Civil Engineering,B.Pharm,9.07,4,Assystem Stup
+2020A2897A,Pharmacy,B.E,5.57,4,Cadila Healthcare
+2020A2904A,Economics and Finanace,B.E,9.49,4,Moodys Analytics
+2020H2907H,Electrical and Electronics Engineering,M.E,9.76,4,Unplaced
+2020A2912A,Chemical Engineering,B.E,8.11,4,ExxonMobil
+2020A2913A,Mechanical Engineering,B.E,7.22,4,Faurecia
+2020A2915A,Economics and Finanace,B.E,9.85,4,Nomura
+2020A2921A,Physics,B.E,9.77,4,Texas Instruments
+2020H2930H,Humanities and Social Sciences,M.E,6.34,4,WNS Global Services
+2020P2931P,Chemisty,B.Pharm,8.82,4,Dow
+2020A2933A,Chemical Engineering,B.E,8.82,4,ADM (Archer Daniels Midland)
+2020A2935A,Mathematics,B.E,8.91,4,AMD
+2020A2936A,Computer Science and Information Systems,B.E,8.43,4,Unplaced
+2020A2945A,Mechanical Engineering,B.E,5.83,4,Toyota
+2020D2948D,Chemisty,Ph.D,6.99,4,FRESENIUS
+2020A2957A,Mechanical Engineering,B.E,7.98,4,Shell
+2020A2960A,Biological Sciences,B.E,5.75,4,Abbott Laboratories
+2020P2963P,Electrical and Electronics Engineering,B.Pharm,8.8,4,CISCO
+2020A2967A,Mechanical Engineering,B.E,5.96,4,SpaceX
+2020S2971S,Pharmacy,M.Sc,5.59,4,Unplaced
+2020A2979A,Electrical and Electronics Engineering,B.E,7.79,4,Analog Devices
+2020H2983H,Mechanical Engineering,M.E,7.99,4,Siemens
+2020H2984H,Chemisty,M.E,6.58,4,Linde
+2020A2989A,Humanities and Social Sciences,B.E,6.54,4,Bain & Company
+2020H2991H,Economics and Finanace,M.E,7.99,4,Thomson Reuters
+2020A2997A,Biological Sciences,B.E,8.71,4,Lupin Limited
+2020H2999H,Chemical Engineering,M.E,9.65,4,Occidental Petroleum Corporation (OxyChem)
+2020A3001A,Pharmacy,B.E,9.85,4,Glenmark Pharmaceuticals
+2020S3018S,Chemical Engineering,M.Sc,9.17,4,Pfizer
+2020A3020A,Physics,B.E,9.03,4,AMDET
+2020A3022A,Biological Sciences,B.E,6.67,4,Cadila Healthcare
+2020P3027P,Electrical and Electronics Engineering,B.Pharm,9.68,4,MathWorks
+2020A3031A,Biological Sciences,B.E,6.43,4,Unplaced
+2020H3033H,Economics and Finanace,M.E,5.91,4,Morningstar
+2020A3038A,Economics and Finanace,B.E,7.12,4,Citi
+2020A3039A,Civil Engineering,B.E,6.46,4,LISEN A TOLERO
+2020H3040H,Humanities and Social Sciences,M.E,5.44,4,Axis Bank
+2020S3043S,Computer Science and Information Systems,M.Sc,6.12,4,Mediatek
+2020A3045A,Electrical and Electronics Engineering,B.E,8.15,4,Unplaced
+2020S3056S,Mechanical Engineering,M.Sc,8.76,4,Wabtec
+2020A3062A,Chemical Engineering,B.E,7.21,4,SABIC
+2020S3065S,Pharmacy,M.Sc,8.04,4,Unplaced
+2020S3074S,Chemical Engineering,M.Sc,7.89,4,3M
+2020S3079S,Economics and Finanace,M.Sc,6.58,4,American Express
+2020S3090S,Economics and Finanace,M.Sc,5.61,4,Barclays
+2020A3094A,Chemisty,B.E,6.5,4,Unplaced
+2020H3096H,Physics,M.E,8.98,4,SynOPSYS
+2020S3097S,Civil Engineering,M.Sc,6.9,4,LISEN A TOLERO
+2020H3099H,Civil Engineering,M.E,8.45,4,AMARARALA
+2020A3103A,Mathematics,B.E,6.61,4,Pharmo Solutions
+2020A3106A,Pharmacy,B.E,6.67,4,Unplaced
+2020A3107A,Electrical and Electronics Engineering,B.E,6.2,4,Unplaced
+2020A3112A,Humanities and Social Sciences,B.E,7.43,4,KPMG
+2020H3113H,Biological Sciences,M.E,9.28,4,Unplaced
+2020A3116A,Chemisty,B.E,7.61,4,Unplaced
+2020P3117P,Computer Science and Information Systems,B.Pharm,6.28,4,Western Digital
+2020S3119S,Mechanical Engineering,M.Sc,10.0,4,3SC
+2020A3126A,Biological Sciences,B.E,6.32,4,Glenmark Pharmaceuticals
+2020A3139A,Economics and Finanace,B.E,7.69,4,S&P Global
+2020P3142P,Biological Sciences,B.Pharm,8.21,4,Wockhardt
+2020P3148P,Humanities and Social Sciences,B.Pharm,6.03,4,Cognizant
+2020A3151A,Civil Engineering,B.E,7.02,4,Unplaced
+2020A3155A,Economics and Finanace,B.E,5.97,4,Morningstar
+2020H3161H,Physics,M.E,8.26,4,Tenstorrent
+2020A3170A,Chemisty,B.E,8.75,4,Unplaced
+2020A3171A,Biological Sciences,B.E,7.94,4,Strand
+2020A3174A,Chemisty,B.E,6.87,4,Cipla
+2020A3179A,Biological Sciences,B.E,5.96,4,Unplaced
+2020A3180A,Mathematics,B.E,7.16,4,AMD
+2020H3182H,Chemisty,M.E,7.73,4,Unplaced
+2020A3186A,Electrical and Electronics Engineering,B.E,9.47,4,Ricoh
+2020A3189A,Biological Sciences,B.E,6.69,4,Dr. Reddys Laboratories
+2020S3205S,Humanities and Social Sciences,M.Sc,9.17,4,Amazon
+2020H3206H,Computer Science and Information Systems,M.E,6.53,4,BLEND360
+2020S3214S,Mechanical Engineering,M.Sc,6.36,4,Unplaced
+2020P3215P,Humanities and Social Sciences,B.Pharm,9.42,4,Cognizant
+2020A3219A,Humanities and Social Sciences,B.E,7.04,4,McKinsey & Company
+2020S3226S,Chemisty,M.Sc,9.03,4,Shell
+2020A3227A,Physics,B.E,6.43,4,Unplaced
+2020A3228A,Computer Science and Information Systems,B.E,7.39,4,Unplaced
+2020S3233S,Mathematics,M.Sc,8.75,4,Flipkart
+2020A3241A,Computer Science and Information Systems,B.E,7.7,4,CONFLUENT
+2020A3244A,Mechanical Engineering,B.E,9.83,4,Unplaced
+2020H3248H,Civil Engineering,M.E,8.72,4,Thornton Tomasetti
+2020A3254A,Computer Science and Information Systems,B.E,8.72,4,Microsoft
+2020D3257D,Chemical Engineering,Ph.D,6.26,4,Novozymes
+2020A3260A,Civil Engineering,B.E,5.69,4,Assystem Stup
+2020A3261A,Civil Engineering,B.E,9.67,4,ARUP
+2020A3268A,Pharmacy,B.E,6.1,4,kmk
+2020A3277A,Civil Engineering,B.E,6.39,4,Kiewit Corporation
+2020H3278H,Biological Sciences,M.E,7.23,4,Wockhardt
+2020A3286A,Pharmacy,B.E,6.11,4,Alkem Laboratories
+2020P3288P,Biological Sciences,B.Pharm,5.75,4,Unplaced
+2020D3290D,Mathematics,Ph.D,9.44,4,Amazon
+2020S3293S,Pharmacy,M.Sc,9.85,4,Unplaced
+2020A3299A,Mathematics,B.E,5.58,4,Piramal
+2020H3302H,Pharmacy,M.E,9.33,4,Biocon Biologics
+2020H3305H,Biological Sciences,M.E,6.32,4,Glenmark Pharmaceuticals
+2020A3311A,Mechanical Engineering,B.E,8.68,4,SONA COMSTAR
+2020A3315A,Humanities and Social Sciences,B.E,8.68,4,ITC Limited
+2020A3322A,Civil Engineering,B.E,5.03,4,Orascom Construction
+2020P3325P,Computer Science and Information Systems,B.Pharm,6.17,4,VMware
+2020H3326H,Chemical Engineering,M.E,7.46,4,Unplaced
+2020A3331A,Mathematics,B.E,6.96,4,Qualcomm
+2020P3332P,Electrical and Electronics Engineering,B.Pharm,9.67,4,onsemi
+2020A3334A,Chemical Engineering,B.E,9.78,4,Johnson Matthey
+2020H3335H,Electrical and Electronics Engineering,M.E,9.26,4,SynOPSYS
+2020S3337S,Mechanical Engineering,M.Sc,6.47,4,Cummins Inc.
+2020H3341H,Mathematics,M.E,6.52,4,Unplaced
+2020A3345A,Physics,B.E,7.1,4,Unplaced
+2020P3347P,Chemisty,B.Pharm,5.43,4,Chevron
+2020A3352A,Chemical Engineering,B.E,5.51,4,Syngenta
+2020H3355H,Biological Sciences,M.E,9.29,4,Ipca Laboratories
+2020A3368A,Mechanical Engineering,B.E,8.72,4,General Electric (GE)
+2020P3370P,Humanities and Social Sciences,B.Pharm,5.71,4,Microsoft
+2020A3376A,Computer Science and Information Systems,B.E,9.59,4,Mediatek
+2020S3377S,Chemical Engineering,M.Sc,6.2,4,Unplaced
+2020A3378A,Physics,B.E,5.49,4,Unplaced
+2020S3380S,Physics,M.Sc,5.52,4,INSTRUMENTS
+2020H3384H,Mechanical Engineering,M.E,8.24,4,Wabtec
+2020A3389A,Physics,B.E,5.6,4,Unplaced
+2020S3390S,Chemisty,M.Sc,7.79,4,Shell
+2020A3391A,Mathematics,B.E,8.72,4,Qualcomm
+2020A3397A,Chemisty,B.E,9.47,4,Unplaced
+2020P3400P,Civil Engineering,B.Pharm,5.2,4,WSP Global
+2020P3407P,Chemisty,B.Pharm,6.07,4,Linde
+2020A3409A,Electrical and Electronics Engineering,B.E,7.93,4,MICROCHIP
+2020A3410A,Mechanical Engineering,B.E,8.34,4,Shell
+2020A3411A,Mathematics,B.E,6.76,4,Pharmo Solutions
+2020S3412S,Computer Science and Information Systems,M.Sc,6.99,4,BLEND360
+2020A3413A,Biological Sciences,B.E,6.94,4,Alembic Pharmaceuticals
+2020A3420A,Electrical and Electronics Engineering,B.E,5.36,4,STMicroelectronics
+2020A3428A,Computer Science and Information Systems,B.E,9.56,4,Pharmo Solutions
+2020A3433A,Physics,B.E,7.75,4,Dolcera
+2020A3440A,Humanities and Social Sciences,B.E,7.53,4,EY (Ernst & Young)
+2020D3449D,Pharmacy,Ph.D,9.06,4,Zydus
+2020H3450H,Chemisty,M.E,6.14,4,Sun Pharmaceutical Industries
+2020H3453H,Computer Science and Information Systems,M.E,7.11,4,Qualcomm
+2020H3456H,Humanities and Social Sciences,M.E,6.02,4,HCL Technologies
+2020P3466P,Economics and Finanace,B.Pharm,6.3,4,Unplaced
+2020A3469A,Biological Sciences,B.E,7.24,4,FRESENIUS
+2020H3470H,Computer Science and Information Systems,M.E,5.68,4,Unplaced
+2020H3474H,Civil Engineering,M.E,8.63,4,COWI
+2020H3477H,Mathematics,M.E,7.16,4,Qualcomm
+2020H3479H,Computer Science and Information Systems,M.E,7.59,4,VMware
+2020D3484D,Humanities and Social Sciences,Ph.D,6.0,4,Genpact
+2020H3486H,Mechanical Engineering,M.E,9.27,4,General Electric (GE)
+2020A3489A,Electrical and Electronics Engineering,B.E,7.25,4,ON Semiconductor
+2020A3490A,Mathematics,B.E,7.98,4,Flipkart
+2020A3495A,Chemisty,B.E,9.23,4,Elucidata
+2020H3500H,Chemical Engineering,M.E,8.81,4,AkzoNobel
+2020H3501H,Economics and Finanace,M.E,8.26,4,Morningstar
+2020P3502P,Electrical and Electronics Engineering,B.Pharm,8.03,4,Unplaced
+2020P3505P,Chemical Engineering,B.Pharm,6.44,4,Bayer
+2020A3518A,Electrical and Electronics Engineering,B.E,9.62,4,Unplaced
+2020A3521A,Civil Engineering,B.E,5.92,4,LISEN A TOLERO
+2020A3527A,Mechanical Engineering,B.E,5.16,4,Unplaced
+2020A3532A,Humanities and Social Sciences,B.E,8.5,4,HDFC Bank
+2020S3536S,Computer Science and Information Systems,M.Sc,9.87,4,GE HealthCare
+2020A3537A,Biological Sciences,B.E,5.63,4,Unplaced
+2020A3544A,Mathematics,B.E,9.3,4,Microsoft
+2020H3545H,Computer Science and Information Systems,M.E,9.08,4,Infineon
+2020S3571S,Humanities and Social Sciences,M.Sc,8.9,4,Unplaced
+2020H3580H,Mechanical Engineering,M.E,5.66,4,ANAND
+2020A3583A,Physics,B.E,7.0,4,SILICON LABS
+2020A3585A,Pharmacy,B.E,9.27,4,Aizant
+2020A3587A,Physics,B.E,5.13,4,CISCO
+2020H3598H,Mathematics,M.E,9.26,4,Pharmo Solutions
+2020H3607H,Computer Science and Information Systems,M.E,8.86,4,Intel
+2020A3608A,Humanities and Social Sciences,B.E,5.21,4,Unplaced
+2020H3611H,Mechanical Engineering,M.E,7.95,4,Caterpillar Inc.
+2020A3618A,Physics,B.E,7.19,4,Qualcomm
+2020A3624A,Chemical Engineering,B.E,8.93,4,Mitsubishi Chemical Corporation
+2020A3628A,Physics,B.E,8.98,4,Infineon
+2020A3630A,Humanities and Social Sciences,B.E,5.86,4,Wipro
+2020H3636H,Mechanical Engineering,M.E,8.51,4,Rolls-Royce
+2020S3637S,Electrical and Electronics Engineering,M.Sc,5.85,4,onsemi
+2020A3638A,Biological Sciences,B.E,5.67,4,Unplaced
+2020A3647A,Chemisty,B.E,5.8,4,Sun Pharmaceutical Industries
+2020A3652A,Economics and Finanace,B.E,7.0,4,KPMG
+2020S3653S,Chemical Engineering,M.Sc,9.62,4,Unplaced
+2020A3654A,Biological Sciences,B.E,7.37,4,Lupin Limited
+2020A3659A,Computer Science and Information Systems,B.E,7.12,4,Flipkart
+2020D3663D,Computer Science and Information Systems,Ph.D,8.56,4,IBM
+2020A3668A,Humanities and Social Sciences,B.E,5.89,4,Amazon
+2020S3674S,Electrical and Electronics Engineering,M.Sc,9.04,4,Panasonic
+2020A3677A,Chemical Engineering,B.E,9.18,4,Wood Group
+2020P3685P,Civil Engineering,B.Pharm,7.5,4,Parsons Corporation
+2020A3695A,Pharmacy,B.E,9.43,4,FRESENIUS
+2020P3702P,Humanities and Social Sciences,B.Pharm,9.23,4,Boston Consulting Group (BCG)
+2020A3708A,Electrical and Electronics Engineering,B.E,6.28,4,Unplaced
+2020H3709H,Humanities and Social Sciences,M.E,5.66,4,Reliance Industries
+2020H3713H,Biological Sciences,M.E,5.75,4,Unplaced
+2020H3716H,Economics and Finanace,M.E,5.21,4,Genpact
+2020H3717H,Pharmacy,M.E,9.21,4,Alembic Pharmaceuticals
+2020A3719A,Economics and Finanace,B.E,7.06,4,Unplaced
+2020A3721A,Civil Engineering,B.E,8.53,4,Obayashi Corporation
+2020P3723P,Civil Engineering,B.Pharm,5.14,4,Parsons Corporation
+2020A3725A,Biological Sciences,B.E,9.09,4,Unplaced
+2020A3728A,Physics,B.E,5.92,4,SynOPSYS
+2020D3730D,Chemical Engineering,Ph.D,8.07,4,Solvay
+2020A3731A,Mathematics,B.E,8.24,4,Piramal
+2020A3736A,Pharmacy,B.E,9.07,4,Biocon
+2020A3740A,Chemisty,B.E,9.14,4,Aragen
+2020A3741A,Biological Sciences,B.E,6.31,4,Dr. Reddys Laboratories
+2020A3742A,Physics,B.E,8.82,4,NXP Semiconductors
+2020S3745S,Biological Sciences,M.Sc,8.81,4,Unplaced
+2020A3752A,Civil Engineering,B.E,7.32,4,COWI
+2020S3755S,Mechanical Engineering,M.Sc,6.31,4,Toyota
+2020A3760A,Chemical Engineering,B.E,6.41,4,PPG Industries
+2020P3761P,Humanities and Social Sciences,B.Pharm,5.13,4,ITC Limited
+2020H3776H,Biological Sciences,M.E,6.0,4,AstraZeneca
+2020A3778A,Mechanical Engineering,B.E,9.89,4,Infineon
+2020A3779A,Pharmacy,B.E,6.49,4,Biocon
+2020A3783A,Mathematics,B.E,5.83,4,MathWorks
+2020A3788A,Mechanical Engineering,B.E,5.92,4,Siemens
+2020A3790A,Electrical and Electronics Engineering,B.E,7.7,4,Fujitsu
+2020H3791H,Mechanical Engineering,M.E,8.43,4,Unplaced
+2020A3792A,Chemical Engineering,B.E,5.86,4,"KBR, Inc."
+2020A3800A,Pharmacy,B.E,6.27,4,Zydus
+2020H3809H,Civil Engineering,M.E,8.05,4,J. Murphy & Sons
+2020S3813S,Economics and Finanace,M.Sc,6.11,4,Deutsche Bank
+2020A3815A,Physics,B.E,7.66,4,SynOPSYS
+2020A3820A,Economics and Finanace,B.E,9.37,4,Unplaced
+2020S3822S,Computer Science and Information Systems,M.Sc,9.7,4,PayU
+2020P3825P,Electrical and Electronics Engineering,B.Pharm,7.02,4,AMDET
+2020A3826A,Mechanical Engineering,B.E,8.88,4,Unplaced
+2020H3828H,Economics and Finanace,M.E,7.91,4,Morgan Stanley
+2020S3831S,Chemisty,M.Sc,8.02,4,Unplaced
+2020A3832A,Chemisty,B.E,5.83,4,Elucidata
+2020P3835P,Humanities and Social Sciences,B.Pharm,9.74,4,HCL Technologies
+2020A3839A,Civil Engineering,B.E,6.6,4,COWI
+2020S3840S,Electrical and Electronics Engineering,M.Sc,7.78,4,Panasonic
+2020H3842H,Economics and Finanace,M.E,9.58,4,Unplaced
+2020S3851S,Pharmacy,M.Sc,9.89,4,Ipca Laboratories
+2020S3856S,Civil Engineering,M.Sc,7.58,4,Unplaced
+2020S3857S,Economics and Finanace,M.Sc,5.76,4,Capital IQ
+2020H3858H,Chemisty,M.E,5.17,4,Elucidata
+2020H3859H,Pharmacy,M.E,6.64,4,Novartis
+2020S3865S,Mechanical Engineering,M.Sc,9.66,4,SpaceX
+2020H3867H,Mechanical Engineering,M.E,9.72,4,Toyota
+2020H3873H,Humanities and Social Sciences,M.E,8.08,4,KPMG
+2020A3874A,Chemical Engineering,B.E,9.68,4,Pfizer
+2020A3875A,Mechanical Engineering,B.E,6.67,4,Unplaced
+2020S3883S,Pharmacy,M.Sc,5.85,4,Zydus Cadila
+2020A3884A,Economics and Finanace,B.E,5.31,4,Capital IQ
+2020A3888A,Mechanical Engineering,B.E,5.99,4,SONA COMSTAR
+2020P3894P,Humanities and Social Sciences,B.Pharm,7.16,4,Cognizant
+2020A3895A,Physics,B.E,9.79,4,AMDET
+2020A3898A,Physics,B.E,9.18,4,Intel
+2020A3903A,Chemical Engineering,B.E,6.34,4,PPG Industries
+2020S3908S,Economics and Finanace,M.Sc,9.48,4,JP Morgan
+2020D3909D,Computer Science and Information Systems,Ph.D,6.36,4,Flipkart
+2020H3911H,Electrical and Electronics Engineering,M.E,5.23,4,Sony
+2020H3918H,Pharmacy,M.E,6.05,4,Emcure Pharmaceuticals
+2020S3920S,Civil Engineering,M.Sc,7.57,4,Obayashi Corporation
+2020A3925A,Electrical and Electronics Engineering,B.E,6.41,4,LG Electronics
+2020A3927A,Physics,B.E,6.18,4,SAMSUNG
+2020P3931P,Electrical and Electronics Engineering,B.Pharm,7.44,4,Unplaced
+2020A3941A,Chemical Engineering,B.E,7.97,4,Wood Group
+2020H3942H,Biological Sciences,M.E,6.48,4,Unplaced
+2020H3954H,Electrical and Electronics Engineering,M.E,9.38,4,MathWorks
+2020A3957A,Physics,B.E,8.79,4,Unplaced
+2020A3961A,Chemisty,B.E,6.87,4,Unplaced
+2020S3962S,Biological Sciences,M.Sc,6.08,4,Aragen
+2020A3965A,Electrical and Electronics Engineering,B.E,6.98,4,Texas Instruments
+2020A3976A,Humanities and Social Sciences,B.E,8.78,4,Capgemini
+2020S3979S,Electrical and Electronics Engineering,M.Sc,5.21,4,Micron
+2020S3980S,Biological Sciences,M.Sc,5.67,4,Abbott Laboratories
+2020S3981S,Economics and Finanace,M.Sc,9.59,4,Nomura
+2020A3988A,Physics,B.E,7.74,4,Texas Instruments
+2020A3991A,Economics and Finanace,B.E,6.99,4,Accenture
+2020A3993A,Chemisty,B.E,5.62,4,Elucidata
+2020A3994A,Biological Sciences,B.E,6.57,4,Unplaced
+2020P3995P,Electrical and Electronics Engineering,B.Pharm,5.06,4,Hitachi
+2020A3998A,Humanities and Social Sciences,B.E,5.05,4,Bain & Company
+2020P3999P,Pharmacy,B.Pharm,5.77,4,Sun Pharmaceutical Industries
+2020A4004A,Pharmacy,B.E,5.02,4,Natco Pharma
+2020H4011H,Mechanical Engineering,M.E,6.63,4,Cummins Inc.
+2020P4012P,Mechanical Engineering,B.Pharm,6.33,4,Micron
+2020P4017P,Pharmacy,B.Pharm,9.66,4,Unplaced
+2020P4019P,Electrical and Electronics Engineering,B.Pharm,7.9,4,Toshiba
+2020A4023A,Pharmacy,B.E,8.35,4,GSK Pharmaceuticals
+2020A4026A,Chemisty,B.E,9.85,4,Eastman Chemical Company
+2020A4034A,Pharmacy,B.E,5.67,4,DataZymes
+2020P4037P,Civil Engineering,B.Pharm,8.82,4,Unplaced
+2020A4039A,Computer Science and Information Systems,B.E,5.83,4,Google
+2020H4048H,Civil Engineering,M.E,9.81,4,Jacobs Engineering Group
+2020A4050A,Mechanical Engineering,B.E,5.05,4,Unplaced
+2020S4056S,Chemical Engineering,M.Sc,5.15,4,Wood Group
+2020A4058A,Pharmacy,B.E,5.77,4,Dr. Reddys Laboratories
+2020H4060H,Chemisty,M.E,7.46,4,Unplaced
+2020D4064D,Physics,Ph.D,7.39,4,Unplaced
+2020S4070S,Physics,M.Sc,9.12,4,SILICON LABS
+2020H4073H,Biological Sciences,M.E,8.38,4,Torrent Pharmaceuticals
+2020A4075A,Mathematics,B.E,5.84,4,Microsoft
+2020A4078A,Biological Sciences,B.E,6.23,4,Cipla
+2020H4080H,Pharmacy,M.E,9.23,4,Biocon
+2020A4085A,Mechanical Engineering,B.E,8.49,4,Ford Motor Company
+2020A4088A,Mechanical Engineering,B.E,9.57,4,FORVIA
+2020A4092A,Chemisty,B.E,9.12,4,ADITYA BIRLA
+2020H4100H,Physics,M.E,5.37,4,Intel
+2020H4104H,Economics and Finanace,M.E,6.99,4,Barclays
+2020A4106A,Chemisty,B.E,6.03,4,Unplaced
+2020A4113A,Mathematics,B.E,7.14,4,Unplaced
+2020A4114A,Mechanical Engineering,B.E,6.35,4,Micron
+2020A4116A,Biological Sciences,B.E,9.28,4,Zydus
+2020A4119A,Mechanical Engineering,B.E,9.4,4,SONA COMSTAR
+2020A4122A,Economics and Finanace,B.E,9.5,4,BlackRock
+2020A4124A,Economics and Finanace,B.E,7.5,4,KPMG
+2020A4128A,Biological Sciences,B.E,5.03,4,Novartis
+2020A4129A,Mathematics,B.E,7.23,4,Intel
+2020H4135H,Chemical Engineering,M.E,8.85,4,Mitsubishi Chemical Corporation
+2020A4137A,Civil Engineering,B.E,7.65,4,Unplaced
+2020S4143S,Chemisty,M.Sc,9.58,4,Unplaced
+2020A4148A,Pharmacy,B.E,7.89,4,SII
+2020A4149A,Pharmacy,B.E,5.33,4,Dr. Reddys Laboratories
+2020A4150A,Mechanical Engineering,B.E,7.42,4,ExxonMobil
+2020H4156H,Electrical and Electronics Engineering,M.E,8.76,4,MathWorks
+2020S4161S,Chemisty,M.Sc,8.29,4,Procter & Gamble
+2020S4169S,Mechanical Engineering,M.Sc,8.72,4,Faurecia
+2020A4170A,Humanities and Social Sciences,B.E,6.43,4,Procter & Gamble
+2020S4176S,Mechanical Engineering,M.Sc,6.6,4,Unplaced
+2020H4180H,Chemisty,M.E,9.86,4,Aizant
+2020A4183A,Chemisty,B.E,7.3,4,BASF
+2020P4185P,Chemical Engineering,B.Pharm,9.25,4,Unplaced
+2020A4186A,Civil Engineering,B.E,8.5,4,Unplaced
+2020A4191A,Computer Science and Information Systems,B.E,8.89,4,Trilogy
+2020A4200A,Biological Sciences,B.E,8.54,4,Unplaced
+2020A4201A,Economics and Finanace,B.E,9.12,4,Unplaced
+2020P4204P,Computer Science and Information Systems,B.Pharm,5.35,4,AMD
+2020A4208A,Humanities and Social Sciences,B.E,8.74,4,Procter & Gamble
+2020S4212S,Mathematics,M.Sc,9.94,4,Cisco
+2020D4214D,Mathematics,Ph.D,6.32,4,Qualcomm
+2020A4216A,Chemisty,B.E,9.8,4,Shell
+2020A4222A,Chemisty,B.E,9.64,4,Unplaced
+2020A4229A,Mechanical Engineering,B.E,7.77,4,JK Fenner
+2020A4231A,Civil Engineering,B.E,6.37,4,The Walsh Group
+2020S4232S,Pharmacy,M.Sc,6.52,4,Unplaced
+2020A4235A,Humanities and Social Sciences,B.E,7.56,4,Wipro
+2020A4237A,Civil Engineering,B.E,6.69,4,Unplaced
+2020A4238A,Biological Sciences,B.E,9.0,4,Aurobindo Pharma
+2020P4249P,Computer Science and Information Systems,B.Pharm,5.32,4,Mediatek
+2020A4252A,Biological Sciences,B.E,5.99,4,КАВІ
+2020S4253S,Chemical Engineering,M.Sc,6.62,4,Linde
+2020A4255A,Mechanical Engineering,B.E,8.19,4,Lime
+2020A4258A,Pharmacy,B.E,6.34,4,Aizant
+2020A4259A,Mathematics,B.E,6.46,4,Unplaced
+2020H4262H,Electrical and Electronics Engineering,M.E,8.63,4,Unplaced
+2020A4267A,Chemical Engineering,B.E,6.78,4,"KBR, Inc."
+2020H4278H,Mathematics,M.E,6.24,4,Unplaced
+2020A4279A,Electrical and Electronics Engineering,B.E,5.12,4,Toshiba
+2020A4280A,Civil Engineering,B.E,6.5,4,"Skidmore, Owings & Merrill (SOM)"
+2020A4281A,Humanities and Social Sciences,B.E,8.55,4,EY (Ernst & Young)
+2020A4292A,Computer Science and Information Systems,B.E,8.34,4,Western Digital
+2020S4294S,Mathematics,M.Sc,6.02,4,Unplaced
+2020A4300A,Physics,B.E,5.15,4,SAMSUNG
+2020A4302A,Mathematics,B.E,9.45,4,Mediatek
+2020A4304A,Mechanical Engineering,B.E,8.73,4,Mercedes Benz
+2020A4313A,Physics,B.E,7.19,4,Qualcomm
+2020H4314H,Mathematics,M.E,6.1,4,Cisco
+2020S4316S,Chemical Engineering,M.Sc,7.37,4,Merck
+2020S4318S,Pharmacy,M.Sc,6.52,4,Glenmark Pharmaceuticals
+2020S4322S,Electrical and Electronics Engineering,M.Sc,9.54,4,Unplaced
+2020H4323H,Computer Science and Information Systems,M.E,5.7,4,GE HealthCare
+2020A4324A,Biological Sciences,B.E,5.55,4,Aurobindo Pharma
+2020H4327H,Physics,M.E,9.52,4,proteanTecs
+2020H4330H,Humanities and Social Sciences,M.E,8.43,4,ICICI Bank
+2020S4339S,Mechanical Engineering,M.Sc,5.0,4,JK Fenner
+2020A4346A,Physics,B.E,8.91,4,AMDET
+2020A4350A,Computer Science and Information Systems,B.E,6.22,4,Pharmo Solutions
+2020A4354A,Physics,B.E,8.48,4,Qualcomm
+2020S4357S,Chemical Engineering,M.Sc,6.25,4,Merck
+2020S4364S,Humanities and Social Sciences,M.Sc,9.19,4,KPMG
+2020A4371A,Civil Engineering,B.E,5.27,4,Kiewit Corporation
+2020A4376A,Biological Sciences,B.E,7.02,4,Cadila Healthcare
+2020S4379S,Biological Sciences,M.Sc,5.48,4,Alembic Pharmaceuticals
+2020S4394S,Economics and Finanace,M.Sc,9.16,4,Morningstar
+2020A4396A,Civil Engineering,B.E,6.52,4,Obayashi Corporation
+2020H4399H,Chemisty,M.E,6.32,4,BASF
+2020A4402A,Civil Engineering,B.E,7.19,4,TATA
+2020D4407D,Economics and Finanace,Ph.D,8.44,4,S&P Global
+2020P4410P,Humanities and Social Sciences,B.Pharm,8.82,4,HDFC Bank
+2020H4412H,Pharmacy,M.E,7.55,4,Strand
+2020A4416A,Chemisty,B.E,6.44,4,Unplaced
+2020A4417A,Computer Science and Information Systems,B.E,9.62,4,Unplaced
+2020H4419H,Economics and Finanace,M.E,6.04,4,Unplaced
+2020H4422H,Civil Engineering,M.E,9.39,4,COWI
+2020A4424A,Computer Science and Information Systems,B.E,5.52,4,Tenstorrent
+2020A4425A,Chemical Engineering,B.E,5.78,4,Occidental Petroleum Corporation (OxyChem)
+2020P4426P,Pharmacy,B.Pharm,8.49,4,Natco Pharma
+2020P4429P,Electrical and Electronics Engineering,B.Pharm,7.74,4,AMDET
+2020S4431S,Electrical and Electronics Engineering,M.Sc,8.92,4,Infineon
+2020S4442S,Chemical Engineering,M.Sc,6.37,4,Unplaced
+2020H4444H,Mathematics,M.E,9.48,4,Mediatek
+2020H4448H,Mechanical Engineering,M.E,8.84,4,Honda
+2020S4453S,Civil Engineering,M.Sc,7.99,4,ARUP
+2020P4457P,Pharmacy,B.Pharm,5.55,4,DataZymes
+2020H4459H,Mechanical Engineering,M.E,7.3,4,Unplaced
+2020A4463A,Biological Sciences,B.E,5.52,4,Cadila Healthcare
+2020A4469A,Humanities and Social Sciences,B.E,9.59,4,Axis Bank
+2020H4476H,Mathematics,M.E,5.46,4,Unplaced
+2020D4480D,Biological Sciences,Ph.D,5.75,4,FRESENIUS
+2020A4481A,Electrical and Electronics Engineering,B.E,9.63,4,Renesas Electronics
+2020A4488A,Chemical Engineering,B.E,7.13,4,Johnson Matthey
+2020A4491A,Civil Engineering,B.E,9.6,4,Acciona
+2020S4492S,Biological Sciences,M.Sc,5.4,4,Dr. Reddys Laboratories
+2020A4501A,Economics and Finanace,B.E,5.68,4,Fitch Ratings
+2020P4504P,Humanities and Social Sciences,B.Pharm,6.9,4,Accenture
+2020H4507H,Biological Sciences,M.E,9.59,4,Unplaced
+2020P4515P,Electrical and Electronics Engineering,B.Pharm,7.98,4,Texas Instruments
+2020D4519D,Chemisty,Ph.D,8.79,4,ExxonMobil
+2020A4529A,Electrical and Electronics Engineering,B.E,7.26,4,AMDET
+2020D4533D,Humanities and Social Sciences,Ph.D,5.78,4,Bain & Company
+2020A4536A,Electrical and Electronics Engineering,B.E,9.37,4,Altera
+2020A4540A,Electrical and Electronics Engineering,B.E,7.55,4,SILICON LABS
+2020A4541A,Chemisty,B.E,6.3,4,Biocon Biologics
+2020A4543A,Pharmacy,B.E,9.9,4,Zydus
+2020A4561A,Civil Engineering,B.E,6.59,4,Unplaced
+2020A4563A,Biological Sciences,B.E,8.96,4,Cadila Healthcare
+2020A4572A,Pharmacy,B.E,6.31,4,ADITYA BIRLA
+2020A4573A,Mathematics,B.E,7.05,4,Teradata
+2020A4579A,Pharmacy,B.E,9.98,4,Unplaced
+2020A4582A,Pharmacy,B.E,8.1,4,Unplaced
+2020P4590P,Electrical and Electronics Engineering,B.Pharm,8.01,4,MathWorks
+2020A4592A,Economics and Finanace,B.E,9.47,4,EY (Ernst & Young)
+2020P4594P,Electrical and Electronics Engineering,B.Pharm,6.66,4,NXP Semiconductors
+2020A4602A,Mathematics,B.E,6.4,4,AMD
+2020H4604H,Pharmacy,M.E,8.06,4,Aurobindo Pharma
+2020H4605H,Computer Science and Information Systems,M.E,6.35,4,Unplaced
+2020H4611H,Biological Sciences,M.E,6.37,4,Aurobindo Pharma
+2020H4615H,Mathematics,M.E,6.69,4,Unplaced
+2020A4617A,Electrical and Electronics Engineering,B.E,5.87,4,Sony
+2020P4628P,Mechanical Engineering,B.Pharm,8.0,4,Procter & Gamble
+2020H4631H,Biological Sciences,M.E,6.51,4,Abbott Laboratories
+2020A4634A,Mechanical Engineering,B.E,5.88,4,SONA COMSTAR
+2020A4635A,Electrical and Electronics Engineering,B.E,8.02,4,Texas Instruments
+2020A4648A,Chemisty,B.E,9.21,4,DuPont
+2020A4656A,Electrical and Electronics Engineering,B.E,8.25,4,Infineon
+2020A4663A,Chemical Engineering,B.E,8.35,4,Pfizer
+2020P4664P,Electrical and Electronics Engineering,B.Pharm,9.85,4,Texas Instruments
+2020A4666A,Pharmacy,B.E,7.35,4,Alkem Laboratories
+2020P4669P,Humanities and Social Sciences,B.Pharm,7.74,4,Microsoft
+2020A4672A,Pharmacy,B.E,5.57,4,Glenmark Pharmaceuticals
+2020A4673A,Pharmacy,B.E,7.74,4,Divis Laboratories
+2020H4674H,Biological Sciences,M.E,6.93,4,Alembic Pharmaceuticals
+2020D4680D,Pharmacy,Ph.D,7.56,4,Novartis
+2020A4688A,Civil Engineering,B.E,5.72,4,Gammon Construction
+2020H4689H,Economics and Finanace,M.E,8.0,4,Bain & Company
+2020S4697S,Pharmacy,M.Sc,9.35,4,Dr. Reddys Laboratories
+2020P4698P,Economics and Finanace,B.Pharm,5.82,4,Thomson Reuters
+2020A4699A,Electrical and Electronics Engineering,B.E,6.46,4,Ricoh
+2020P4705P,Pharmacy,B.Pharm,6.96,4,Divis Laboratories
+2020A4706A,Mechanical Engineering,B.E,7.35,4,FORVIA
+2020P4712P,Economics and Finanace,B.Pharm,5.03,4,Unplaced
+2020D4713D,Mechanical Engineering,Ph.D,5.65,4,Siemens
+2020P4716P,Electrical and Electronics Engineering,B.Pharm,8.83,4,Unplaced
+2020A4719A,Physics,B.E,5.11,4,A Lam
+2020S4725S,Computer Science and Information Systems,M.Sc,9.46,4,PEGA
+2020A4727A,Computer Science and Information Systems,B.E,9.55,4,ARM
+2020A4730A,Physics,B.E,8.28,4,A Lam
+2020A4735A,Economics and Finanace,B.E,5.32,4,Barclays
+2020H4736H,Humanities and Social Sciences,M.E,7.0,4,KPMG
+2020A4737A,Biological Sciences,B.E,6.98,4,Unplaced
+2020A4746A,Electrical and Electronics Engineering,B.E,9.25,4,onsemi
+2020A4748A,Physics,B.E,7.7,4,Qualcomm
+2020A4752A,Mechanical Engineering,B.E,9.59,4,Unplaced
+2020A4760A,Computer Science and Information Systems,B.E,6.96,4,Microsoft
+2020A4766A,Civil Engineering,B.E,5.32,4,"Skidmore, Owings & Merrill (SOM)"
+2020D4776D,Humanities and Social Sciences,Ph.D,9.2,4,Axis Bank
+2020S4778S,Mechanical Engineering,M.Sc,5.19,4,Shell
+2020H4780H,Humanities and Social Sciences,M.E,8.51,4,American Express
+2020D4781D,Chemical Engineering,Ph.D,5.53,4,Unplaced
+2020A4782A,Electrical and Electronics Engineering,B.E,9.9,4,Infineon
+2020A4783A,Chemical Engineering,B.E,5.43,4,Occidental Petroleum Corporation (OxyChem)
+2020A4785A,Pharmacy,B.E,6.0,4,Divis Laboratories
+2020A4794A,Computer Science and Information Systems,B.E,5.8,4,Unplaced
+2020A4795A,Pharmacy,B.E,5.71,4,Zydus
+2020A4798A,Electrical and Electronics Engineering,B.E,7.14,4,Unplaced
+2020P4801P,Civil Engineering,B.Pharm,5.79,4,Hill International
+2020A4802A,Chemisty,B.E,7.39,4,Unplaced
+2020A4808A,Biological Sciences,B.E,9.02,4,Unplaced
+2020A4810A,Mathematics,B.E,9.58,4,Unplaced
+2020P4814P,Humanities and Social Sciences,B.Pharm,8.97,4,Cognizant
+2020A4817A,Chemisty,B.E,6.6,4,FRESENIUS
+2020A4818A,Pharmacy,B.E,7.52,4,Novartis
+2020P4825P,Economics and Finanace,B.Pharm,8.69,4,Accenture
+2020S4826S,Physics,M.Sc,8.31,4,Texas Instruments
+2020A4827A,Chemical Engineering,B.E,8.79,4,Pfizer
+2020A4828A,Chemical Engineering,B.E,8.39,4,Unplaced
+2020A4829A,Chemical Engineering,B.E,6.88,4,Unplaced
+2020S4830S,Economics and Finanace,M.Sc,8.86,4,Accenture
+2020A4832A,Mechanical Engineering,B.E,8.05,4,ANAND
+2020A4836A,Chemisty,B.E,9.93,4,ExxonMobil
+2020H4842H,Humanities and Social Sciences,M.E,8.36,4,Bain & Company
+2020H4850H,Pharmacy,M.E,6.31,4,Biocon
+2020A4856A,Computer Science and Information Systems,B.E,6.92,4,Pharmo Solutions
+2020S4860S,Humanities and Social Sciences,M.Sc,8.46,4,McKinsey & Company
+2020D4868D,Chemical Engineering,Ph.D,6.52,4,Praxair
+2020H4871H,Civil Engineering,M.E,9.12,4,Mott MacDonald
+2020S4874S,Civil Engineering,M.Sc,6.6,4,ARUP
+2020A4875A,Pharmacy,B.E,9.55,4,Zydus
+2020A4887A,Pharmacy,B.E,7.22,4,Zydus
+2020H4888H,Chemical Engineering,M.E,6.21,4,AkzoNobel
+2020A4891A,Chemisty,B.E,9.93,4,Cipla
+2020H4898H,Biological Sciences,M.E,9.31,4,Zydus
+2020P4899P,Humanities and Social Sciences,B.Pharm,9.65,4,Axis Bank
+2020H4902H,Physics,M.E,6.54,4,Unplaced
+2020A4903A,Mechanical Engineering,B.E,6.16,4,Infineon
+2020H4905H,Physics,M.E,5.52,4,AMDET
+2020S4907S,Mathematics,M.Sc,7.48,4,Flipkart
+2020A4909A,Electrical and Electronics Engineering,B.E,9.63,4,Unplaced
+2020S4911S,Biological Sciences,M.Sc,5.44,4,Wockhardt
+2020A4912A,Pharmacy,B.E,5.81,4,Aurobindo Pharma
+2020A4914A,Electrical and Electronics Engineering,B.E,7.16,4,onsemi
+2020A4922A,Chemisty,B.E,6.62,4,Aizant
+2020A4923A,Humanities and Social Sciences,B.E,7.32,4,Hindustan Unilever Limited (HUL)
+2020A4924A,Economics and Finanace,B.E,9.87,4,Boston Consulting Group (BCG)
+2020A4939A,Mathematics,B.E,9.74,4,Qualcomm
+2020A4949A,Civil Engineering,B.E,9.25,4,ATKINS
+2020A4951A,Pharmacy,B.E,7.8,4,Unplaced
+2020H4955H,Electrical and Electronics Engineering,M.E,8.26,4,Xilinx
+2020D4956D,Chemisty,Ph.D,6.3,4,Unplaced
+2020H4962H,Electrical and Electronics Engineering,M.E,8.39,4,Hitachi
+2020H4963H,Computer Science and Information Systems,M.E,5.25,4,Unplaced
+2020D4967D,Physics,Ph.D,5.33,4,Unplaced
+2020A4968A,Pharmacy,B.E,7.15,4,Novartis
+2020S4974S,Pharmacy,M.Sc,7.74,4,Emcure Pharmaceuticals
+2020H4975H,Pharmacy,M.E,5.8,4,Elucidata
+2020H4976H,Humanities and Social Sciences,M.E,6.08,4,Accenture
+2020D4978D,Chemisty,Ph.D,5.15,4,Chevron
+2020A4979A,Humanities and Social Sciences,B.E,6.82,4,HDFC Bank
+2020D4981D,Civil Engineering,Ph.D,5.8,4,Unplaced
+2020A4983A,Computer Science and Information Systems,B.E,6.22,4,Teradata
+2020A4988A,Mathematics,B.E,6.35,4,Cisco
+2020P4992P,Mechanical Engineering,B.Pharm,5.23,4,Unplaced
+2020A4993A,Humanities and Social Sciences,B.E,6.14,4,Unplaced
+2020S5005S,Chemical Engineering,M.Sc,5.7,4,Bayer
+2020A5011A,Electrical and Electronics Engineering,B.E,6.79,4,Unplaced
+2020H5012H,Computer Science and Information Systems,M.E,5.74,4,Wabtec
+2020D5018D,Computer Science and Information Systems,Ph.D,8.16,4,Pharmo Solutions
+2020S5023S,Pharmacy,M.Sc,6.1,4,Ipca Laboratories
+2020A5024A,Physics,B.E,5.16,4,MICROCHIP
+2020A5029A,Humanities and Social Sciences,B.E,6.87,4,Capgemini
+2020S5034S,Mathematics,M.Sc,9.88,4,Qualcomm
+2020A5043A,Chemisty,B.E,9.57,4,Dow
+2020S5054S,Economics and Finanace,M.Sc,7.21,4,JP Morgan
+2020P5060P,Pharmacy,B.Pharm,6.5,4,Emcure Pharmaceuticals
+2020P5063P,Pharmacy,B.Pharm,9.91,4,Biocon Biologics
+2020S5066S,Pharmacy,M.Sc,7.92,4,FRESENIUS
+2020A5069A,Chemisty,B.E,7.55,4,Linde
+2020H5071H,Physics,M.E,5.27,4,Intel
+2020A5075A,Economics and Finanace,B.E,7.21,4,Nomura
+2020S5077S,Biological Sciences,M.Sc,6.79,4,Natco Pharma
+2020A5083A,Biological Sciences,B.E,5.65,4,Torrent Pharmaceuticals
+2020A5088A,Chemisty,B.E,7.97,4,ADITYA BIRLA
+2020A5092A,Computer Science and Information Systems,B.E,7.04,4,CONCR
+2020A5097A,Mathematics,B.E,8.33,4,IBM
+2020A5105A,Pharmacy,B.E,8.66,4,Cadila Healthcare
+2020P5106P,Chemical Engineering,B.Pharm,8.62,4,Unplaced
+2020A5109A,Pharmacy,B.E,9.69,4,Unplaced
+2020H5112H,Pharmacy,M.E,7.43,4,Alembic Pharmaceuticals
+2020S5116S,Humanities and Social Sciences,M.Sc,9.57,4,Unplaced
+2020A5120A,Chemical Engineering,B.E,5.9,4,Mitsubishi Chemical Corporation
+2020A5130A,Physics,B.E,8.78,4,Tenstorrent
+2020A5133A,Chemisty,B.E,8.71,4,Dow
+2020A5136A,Humanities and Social Sciences,B.E,5.49,4,Genpact
+2020D5141D,Computer Science and Information Systems,Ph.D,6.49,4,Qualcomm
+2020A5142A,Electrical and Electronics Engineering,B.E,5.88,4,Renesas Electronics
+2020A5145A,Chemical Engineering,B.E,9.03,4,Honeywell UOP
+2020A5149A,Chemical Engineering,B.E,8.0,4,Linde
+2020S5150S,Civil Engineering,M.Sc,9.44,4,AMARARALA
+2020A5152A,Electrical and Electronics Engineering,B.E,6.57,4,Microsemi
+2020H5153H,Mechanical Engineering,M.E,7.55,4,ARUP
+2020A5160A,Pharmacy,B.E,8.22,4,КАВІ
+2020P5164P,Mechanical Engineering,B.Pharm,5.47,4,SONA COMSTAR
+2020S5168S,Humanities and Social Sciences,M.Sc,8.48,4,Capgemini
+2020D5169D,Pharmacy,Ph.D,5.27,4,Unplaced
+2020A5175A,Computer Science and Information Systems,B.E,7.73,4,Flipkart
+2020A5178A,Biological Sciences,B.E,7.16,4,Unplaced
+2020A5184A,Physics,B.E,9.33,4,Dolcera
+2020D5186D,Mechanical Engineering,Ph.D,7.05,4,General Electric (GE)
+2020A5192A,Pharmacy,B.E,9.12,4,Unplaced
+2020P5193P,Chemical Engineering,B.Pharm,7.13,4,Solvay
+2020A5203A,Mathematics,B.E,6.12,4,Unplaced
+2020S5215S,Chemical Engineering,M.Sc,8.48,4,INEOS
+2020A5221A,Mechanical Engineering,B.E,6.21,4,Honda
+2020A5223A,Mechanical Engineering,B.E,5.23,4,Lockheed Martin
+2020A5228A,Physics,B.E,5.54,4,SynOPSYS
+2020A5233A,Mechanical Engineering,B.E,7.35,4,General Electric (GE)
+2020A5242A,Chemisty,B.E,8.67,4,Cipla
+2020A5251A,Chemical Engineering,B.E,8.34,4,Johnson Matthey
+2020D5267D,Civil Engineering,Ph.D,7.4,4,Assystem Stup
+2020A5268A,Electrical and Electronics Engineering,B.E,7.92,4,Unplaced
+2020H5275H,Computer Science and Information Systems,M.E,5.01,4,Microsoft
+2020A5279A,Civil Engineering,B.E,6.29,4,Acciona
+2020A5280A,Economics and Finanace,B.E,5.51,4,Unplaced
+2020A5282A,Physics,B.E,5.19,4,AMDET
+2020D5290D,Mechanical Engineering,Ph.D,6.36,4,DOVER
+2020H5292H,Mechanical Engineering,M.E,7.13,4,General Motors
+2020A5294A,Mechanical Engineering,B.E,5.48,4,Honda
+2020A5298A,Computer Science and Information Systems,B.E,5.68,4,VMware
+2020H5300H,Physics,M.E,8.65,4,Unplaced
+2020A5301A,Pharmacy,B.E,6.89,4,FRESENIUS
+2020A5308A,Mathematics,B.E,6.3,4,Mediatek
+2020A5309A,Chemical Engineering,B.E,6.68,4,"KBR, Inc."
+2020H5312H,Mathematics,M.E,8.64,4,MathWorks
+2020P5313P,Biological Sciences,B.Pharm,8.43,4,FRESENIUS
+2020A5317A,Economics and Finanace,B.E,8.05,4,JP Morgan
+2020D5320D,Pharmacy,Ph.D,6.68,4,FRESENIUS
+2020D5324D,Chemisty,Ph.D,8.98,4,DuPont
+2020H5329H,Mathematics,M.E,6.62,4,MathWorks
+2020S5330S,Electrical and Electronics Engineering,M.Sc,8.72,4,LG Electronics
+2020S5339S,Humanities and Social Sciences,M.Sc,7.75,4,Bain & Company
+2020A5342A,Chemisty,B.E,9.53,4,Cipla
+2020S5343S,Humanities and Social Sciences,M.Sc,6.75,4,Unplaced
+2020A5346A,Biological Sciences,B.E,9.73,4,Unplaced
+2020H5349H,Electrical and Electronics Engineering,M.E,7.54,4,Microsemi
+2020H5353H,Civil Engineering,M.E,6.85,4,Unplaced
+2020A5357A,Humanities and Social Sciences,B.E,7.31,4,Cognizant
+2020A5359A,Electrical and Electronics Engineering,B.E,6.23,4,Fujitsu
+2020A5361A,Mathematics,B.E,8.07,4,Flipkart
+2020A5362A,Humanities and Social Sciences,B.E,6.32,4,Amazon
+2020P5369P,Humanities and Social Sciences,B.Pharm,6.95,4,KPMG
+2020A5373A,Chemical Engineering,B.E,6.54,4,Novozymes
+2020S5375S,Chemical Engineering,M.Sc,6.59,4,Johnson Matthey
+2020P5383P,Economics and Finanace,B.Pharm,8.27,4,Unplaced
+2020A5392A,Electrical and Electronics Engineering,B.E,5.39,4,Unplaced
+2020A5395A,Mathematics,B.E,6.08,4,Unplaced
+2020A5397A,Computer Science and Information Systems,B.E,8.65,4,Unplaced
+2020H5399H,Mathematics,M.E,8.21,4,Trilogy
+2020A5401A,Computer Science and Information Systems,B.E,8.6,4,Unplaced
+2020A5402A,Electrical and Electronics Engineering,B.E,8.36,4,MEDIATEK
+2020H5409H,Mechanical Engineering,M.E,8.52,4,Cummins Inc.
+2020A5411A,Economics and Finanace,B.E,6.39,4,Unplaced
+2020S5412S,Pharmacy,M.Sc,6.21,4,ADITYA BIRLA
+2020A5415A,Civil Engineering,B.E,9.38,4,"Daelim Industrial Co., Ltd."
+2020S5416S,Electrical and Electronics Engineering,M.Sc,5.16,4,Microsemi
+2020A5424A,Physics,B.E,6.13,4,Tenstorrent
+2020A5426A,Chemical Engineering,B.E,7.69,4,ExxonMobil
+2020A5427A,Electrical and Electronics Engineering,B.E,6.55,4,Hitachi
+2020A5432A,Civil Engineering,B.E,6.34,4,Acciona
+2020A5439A,Chemisty,B.E,9.86,4,DataZymes
+2020A5460A,Computer Science and Information Systems,B.E,6.48,4,AMD
+2020H5462H,Biological Sciences,M.E,8.08,4,Unplaced
+2020A5465A,Humanities and Social Sciences,B.E,7.03,4,Accenture
+2020A5471A,Economics and Finanace,B.E,5.76,4,Barclays
+2020A5474A,Physics,B.E,8.74,4,Qualcomm
+2020H5480H,Chemisty,M.E,8.44,4,FRESENIUS
+2020A5481A,Economics and Finanace,B.E,9.64,4,Unplaced
+2020S5482S,Chemisty,M.Sc,8.25,4,Sun Pharmaceutical Industries
+2020S5483S,Mechanical Engineering,M.Sc,7.84,4,Faurecia
+2020A5491A,Biological Sciences,B.E,5.23,4,Unplaced
+2020A5492A,Computer Science and Information Systems,B.E,7.79,4,Trilogy
+2020A5498A,Physics,B.E,9.65,4,AMDET
+2020A5501A,Chemisty,B.E,6.31,4,Unplaced
+2020S5502S,Economics and Finanace,M.Sc,9.24,4,Unplaced
+2020A5503A,Computer Science and Information Systems,B.E,7.26,4,Unplaced
+2020H5508H,Civil Engineering,M.E,5.18,4,LISEN A TOLERO
+2020A5511A,Mathematics,B.E,7.79,4,Unplaced
+2020A5529A,Economics and Finanace,B.E,6.17,4,Nomura
+2020A5531A,Chemical Engineering,B.E,9.79,4,GSK
+2020D5534D,Chemisty,Ph.D,8.29,4,Aragen
+2020A5536A,Mathematics,B.E,8.8,4,Trilogy
+2020P5537P,Pharmacy,B.Pharm,7.64,4,Novartis
+2020H5547H,Pharmacy,M.E,9.71,4,GSK Pharmaceuticals
+2020A5548A,Humanities and Social Sciences,B.E,9.53,4,Procter & Gamble
+2020P5549P,Biological Sciences,B.Pharm,8.05,4,Emcure Pharmaceuticals
+2020A5552A,Mechanical Engineering,B.E,6.63,4,Honda
+2020S5557S,Mechanical Engineering,M.Sc,8.14,4,Micron
+2020A5558A,Computer Science and Information Systems,B.E,7.69,4,Unplaced
+2020H5560H,Physics,M.E,8.18,4,Unplaced
+2020H5563H,Physics,M.E,8.26,4,SILICON LABS
+2020A5568A,Mechanical Engineering,B.E,7.02,4,Honda
+2020A5572A,Biological Sciences,B.E,9.18,4,Unplaced
+2020A5574A,Physics,B.E,6.64,4,IBM
+2020S5587S,Economics and Finanace,M.Sc,8.97,4,S&P Global
+2020A5588A,Electrical and Electronics Engineering,B.E,9.93,4,Unplaced
+2020A5592A,Electrical and Electronics Engineering,B.E,5.2,4,Sony
+2020A5593A,Humanities and Social Sciences,B.E,9.28,4,Axis Bank
+2020A5594A,Pharmacy,B.E,8.5,4,Unplaced
+2020S5606S,Chemisty,M.Sc,6.93,4,Dow
+2020S5613S,Mechanical Engineering,M.Sc,7.52,4,JK Fenner
+2020D5618D,Civil Engineering,Ph.D,8.36,4,Parsons Corporation
+2020A5629A,Electrical and Electronics Engineering,B.E,7.69,4,Texas Instruments
+2020A5630A,Chemical Engineering,B.E,6.68,4,PPG Industries
+2020A5636A,Civil Engineering,B.E,6.8,4,AMARARALA
+2020A5639A,Economics and Finanace,B.E,8.22,4,Fidelity International
+2020A5647A,Economics and Finanace,B.E,6.35,4,American Express
+2020H5662H,Humanities and Social Sciences,M.E,5.51,4,Accenture
+2020S5663S,Mechanical Engineering,M.Sc,9.99,4,Mercedes Benz
+2020D5665D,Physics,Ph.D,9.9,4,Dolcera
+2020D5678D,Mechanical Engineering,Ph.D,5.17,4,Unplaced
+2020H5680H,Economics and Finanace,M.E,8.4,4,Unplaced
+2020H5683H,Pharmacy,M.E,7.75,4,Ipca Laboratories
+2020H5685H,Economics and Finanace,M.E,9.99,4,Barclays
+2020S5687S,Pharmacy,M.Sc,8.98,4,Aurobindo Pharma
+2020A5688A,Biological Sciences,B.E,7.45,4,Alembic Pharmaceuticals
+2020P5693P,Computer Science and Information Systems,B.Pharm,5.95,4,Unplaced
+2020A5695A,Mechanical Engineering,B.E,6.13,4,Unplaced
+2020A5697A,Humanities and Social Sciences,B.E,8.56,4,Unplaced
+2020A5701A,Pharmacy,B.E,5.26,4,Granules India
+2020A5704A,Mathematics,B.E,9.07,4,Pharmo Solutions
+2020A5706A,Chemisty,B.E,9.74,4,Dow
+2020P5707P,Civil Engineering,B.Pharm,9.48,4,COWI
+2020S5709S,Chemisty,M.Sc,9.43,4,DuPont
+2020S5714S,Economics and Finanace,M.Sc,9.33,4,Boston Consulting Group (BCG)
+2020S5715S,Chemical Engineering,M.Sc,9.62,4,"KBR, Inc."
+2020S5724S,Chemical Engineering,M.Sc,6.07,4,Covestro
+2020S5728S,Physics,M.Sc,7.97,4,Dolcera
+2020H5736H,Chemical Engineering,M.E,5.56,4,Solvay
+2020D5737D,Chemisty,Ph.D,7.71,4,freyr
+2020A5738A,Biological Sciences,B.E,5.98,4,Emcure Pharmaceuticals
+2020A5739A,Electrical and Electronics Engineering,B.E,9.6,4,Texas Instruments
+2020P5741P,Electrical and Electronics Engineering,B.Pharm,8.31,4,Panasonic
+2020A5744A,Biological Sciences,B.E,7.42,4,SII
+2020A5745A,Physics,B.E,9.19,4,STMicroelectronics
+2020A5746A,Chemisty,B.E,9.79,4,Biocon Biologics
+2020A5747A,Chemisty,B.E,5.21,4,Elucidata
+2020H5752H,Electrical and Electronics Engineering,M.E,6.28,4,Renesas Electronics
+2020A5755A,Mechanical Engineering,B.E,8.41,4,Wabtec
+2020A5757A,Mechanical Engineering,B.E,8.6,4,Unplaced
+2020A5760A,Physics,B.E,9.81,4,Texas Instruments
+2020P5767P,Mechanical Engineering,B.Pharm,6.24,4,DOVER
+2020H5770H,Chemisty,M.E,5.87,4,КАВІ
+2020A5772A,Mathematics,B.E,8.54,4,Mediatek
+2020H5778H,Biological Sciences,M.E,7.04,4,Torrent Pharmaceuticals
+2020A5787A,Economics and Finanace,B.E,7.57,4,Thomson Reuters
+2020A5789A,Economics and Finanace,B.E,9.04,4,Standard Chartered
+2020H5790H,Chemical Engineering,M.E,7.46,4,Solvay
+2020A5792A,Civil Engineering,B.E,5.16,4,Parsons Corporation
+2020S5795S,Computer Science and Information Systems,M.Sc,9.55,4,Microsoft
+2020H5796H,Biological Sciences,M.E,6.65,4,Dr. Reddys Laboratories
+2020H5799H,Civil Engineering,M.E,6.2,4,RAMBOLL
+2020H5800H,Mathematics,M.E,6.29,4,Cisco
+2020A5801A,Electrical and Electronics Engineering,B.E,7.29,4,CISCO
+2020H5803H,Civil Engineering,M.E,6.55,4,Gammon Construction
+2020A5805A,Chemical Engineering,B.E,8.2,4,LyondellBasell
+2020A5807A,Chemisty,B.E,6.32,4,Aizant
+2020A5808A,Physics,B.E,9.14,4,Qualcomm
+2020H5809H,Economics and Finanace,M.E,9.56,4,HSBC
+2020H5813H,Mechanical Engineering,M.E,6.52,4,CYNLR
+2020A5820A,Chemical Engineering,B.E,5.54,4,Procter & Gamble
+2020D5824D,Mathematics,Ph.D,7.83,4,Unplaced
+2020A5830A,Physics,B.E,7.08,4,Unplaced
+2020H5832H,Pharmacy,M.E,8.59,4,Unplaced
+2020A5834A,Electrical and Electronics Engineering,B.E,8.91,4,SynOPSYS
+2020S5835S,Biological Sciences,M.Sc,8.12,4,Unplaced
+2020H5836H,Humanities and Social Sciences,M.E,9.45,4,EY (Ernst & Young)
+2020H5838H,Pharmacy,M.E,6.03,4,Unplaced
+2020H5839H,Chemisty,M.E,6.88,4,FRESENIUS
+2020A5840A,Humanities and Social Sciences,B.E,7.95,4,Flipkart
+2020S5843S,Economics and Finanace,M.Sc,5.62,4,Moodys Investors Service
+2020S5855S,Civil Engineering,M.Sc,6.71,4,Gammon Construction
+2020A5865A,Economics and Finanace,B.E,6.24,4,Thomson Reuters
+2020S5868S,Humanities and Social Sciences,M.Sc,7.79,4,Unplaced
+2020A5869A,Mathematics,B.E,7.65,4,Unplaced
+2020A5875A,Mathematics,B.E,7.01,4,Trilogy
+2020A5877A,Mathematics,B.E,9.06,4,Mediatek
+2020H5878H,Chemisty,M.E,9.6,4,Unplaced
+2020A5881A,Mechanical Engineering,B.E,6.81,4,Infineon
+2020A5883A,Humanities and Social Sciences,B.E,9.58,4,WNS Global Services
+2020H5884H,Computer Science and Information Systems,M.E,6.5,4,Qualcomm
+2020A5892A,Chemical Engineering,B.E,8.62,4,Bayer
+2020H5894H,Chemical Engineering,M.E,6.99,4,Wood Group
+2020P5897P,Electrical and Electronics Engineering,B.Pharm,7.08,4,STMicroelectronics
+2020S5899S,Chemical Engineering,M.Sc,6.78,4,Pfizer
+2020S5900S,Pharmacy,M.Sc,8.4,4,Natco Pharma
+2020P5902P,Civil Engineering,B.Pharm,9.34,4,ARUP
+2020H5911H,Civil Engineering,M.E,5.67,4,Dragados
+2020S5913S,Mathematics,M.Sc,8.52,4,Piramal
+2020S5915S,Physics,M.Sc,5.53,4,Unplaced
+2020A5916A,Humanities and Social Sciences,B.E,8.05,4,Bain & Company
+2020A5928A,Electrical and Electronics Engineering,B.E,9.21,4,Unplaced
+2020A5930A,Biological Sciences,B.E,9.52,4,Unplaced
+2020H5931H,Economics and Finanace,M.E,9.15,4,American Express
+2020H5935H,Mechanical Engineering,M.E,7.06,4,Unplaced
+2020S5938S,Computer Science and Information Systems,M.Sc,8.27,4,Unplaced
+2020S5939S,Physics,M.Sc,7.25,4,INSTRUMENTS
+2020A5940A,Physics,B.E,8.95,4,SILICON LABS
+2020A5944A,Computer Science and Information Systems,B.E,8.11,4,BLEND360
+2020A5945A,Mathematics,B.E,7.48,4,Unplaced
+2020A5952A,Humanities and Social Sciences,B.E,7.91,4,Amazon
+2020H5955H,Electrical and Electronics Engineering,M.E,8.5,4,Unplaced
+2020H5957H,Computer Science and Information Systems,M.E,9.39,4,Texas Instruments
+2020A5974A,Pharmacy,B.E,8.81,4,Lupin Limited
+2020D5975D,Pharmacy,Ph.D,7.08,4,Unplaced
+2020A5983A,Electrical and Electronics Engineering,B.E,6.5,4,Microsemi
+2020A5985A,Computer Science and Information Systems,B.E,5.73,4,GE HealthCare
+2020A5989A,Chemical Engineering,B.E,7.0,4,"KBR, Inc."
+2020A5997A,Physics,B.E,6.73,4,Texas Instruments
+2020H6000H,Civil Engineering,M.E,6.23,4,The Walsh Group
+2020A6005A,Chemisty,B.E,6.47,4,Elucidata
+2020A6007A,Civil Engineering,B.E,8.57,4,Parsons Corporation
+2020H6013H,Economics and Finanace,M.E,6.62,4,JP Morgan
+2020A6026A,Chemical Engineering,B.E,8.08,4,Unplaced
+2020A6027A,Chemical Engineering,B.E,6.67,4,Merck
+2020H6032H,Electrical and Electronics Engineering,M.E,5.6,4,Fujitsu
+2020A6039A,Biological Sciences,B.E,6.57,4,Unplaced
+2020S6040S,Mathematics,M.Sc,9.04,4,Flipkart
+2020H6050H,Computer Science and Information Systems,M.E,9.0,4,Trilogy
+2020A6052A,Mathematics,B.E,7.62,4,Google
+2020A6056A,Economics and Finanace,B.E,8.14,4,Unplaced
+2020S6064S,Humanities and Social Sciences,M.Sc,6.05,4,Bain & Company
+2020H6067H,Mathematics,M.E,6.11,4,MathWorks
+2020D6073D,Mechanical Engineering,Ph.D,5.18,4,SpaceX
+2020S6074S,Electrical and Electronics Engineering,M.Sc,7.63,4,Unplaced
+2020A6077A,Electrical and Electronics Engineering,B.E,6.52,4,Microsemi
+2020A6081A,Mathematics,B.E,5.24,4,Qualcomm
+2020A6086A,Civil Engineering,B.E,8.85,4,The Walsh Group
+2020H6088H,Pharmacy,M.E,6.0,4,Dr. Reddys Laboratories
+2020H6089H,Humanities and Social Sciences,M.E,8.44,4,Cognizant
+2020S6100S,Mechanical Engineering,M.Sc,9.23,4,Wabtec
+2020H6101H,Pharmacy,M.E,7.29,4,Novartis
+2020H6110H,Chemical Engineering,M.E,7.19,4,Bayer
+2020A6111A,Economics and Finanace,B.E,9.95,4,S&P Global
+2020S6112S,Electrical and Electronics Engineering,M.Sc,5.76,4,Xilinx
+2020A6114A,Mathematics,B.E,8.03,4,Unplaced
+2020A6116A,Humanities and Social Sciences,B.E,8.89,4,HDFC Bank
+2020S6119S,Computer Science and Information Systems,M.Sc,5.19,4,Mediatek
+2020A6125A,Economics and Finanace,B.E,5.35,4,Thomson Reuters
+2020A6137A,Mathematics,B.E,7.72,4,Cisco
+2020S6150S,Physics,M.Sc,6.58,4,Unplaced
+2020P6152P,Computer Science and Information Systems,B.Pharm,8.63,4,Unplaced
+2020H6166H,Pharmacy,M.E,9.09,4,Novartis
+2020H6169H,Electrical and Electronics Engineering,M.E,6.36,4,Hitachi
+2020H6171H,Humanities and Social Sciences,M.E,6.64,4,Cognizant
+2020A6174A,Civil Engineering,B.E,6.07,4,ARUP
+2020S6175S,Computer Science and Information Systems,M.Sc,6.29,4,Unplaced
+2020A6179A,Chemical Engineering,B.E,5.93,4,Eastman Chemical Company
+2020A6180A,Computer Science and Information Systems,B.E,5.35,4,Dell
+2020A6181A,Biological Sciences,B.E,6.12,4,Alembic Pharmaceuticals
+2020A6184A,Economics and Finanace,B.E,7.44,4,CRISIL
+2020H6186H,Chemical Engineering,M.E,5.13,4,ADM (Archer Daniels Midland)
+2020A6187A,Pharmacy,B.E,6.66,4,Unplaced
+2020H6190H,Biological Sciences,M.E,5.31,4,Abbott Laboratories
+2020P6191P,Computer Science and Information Systems,B.Pharm,9.75,4,PEGA
+2020A6192A,Humanities and Social Sciences,B.E,8.0,4,HCL Technologies
+2020A6197A,Biological Sciences,B.E,9.61,4,Glenmark Pharmaceuticals
+2020A6204A,Humanities and Social Sciences,B.E,5.53,4,Amazon
+2020A6208A,Economics and Finanace,B.E,6.67,4,KPMG
+2020A6211A,Pharmacy,B.E,7.82,4,Unplaced
+2020H6220H,Physics,M.E,8.07,4,MathWorks
+2020A6221A,Civil Engineering,B.E,5.52,4,Unplaced
+2020P6228P,Humanities and Social Sciences,B.Pharm,8.29,4,ICICI Bank
+2020H6232H,Humanities and Social Sciences,M.E,9.59,4,EY (Ernst & Young)
+2020A6233A,Humanities and Social Sciences,B.E,9.69,4,Microsoft
+2020A6239A,Economics and Finanace,B.E,8.75,4,Genpact
+2020A6240A,Computer Science and Information Systems,B.E,7.0,4,Texas Instruments
+2020A6246A,Physics,B.E,7.71,4,Infineon
+2020A6253A,Chemical Engineering,B.E,9.09,4,Wood Group
+2020S6254S,Chemical Engineering,M.Sc,7.08,4,Occidental Petroleum Corporation (OxyChem)
+2020A6261A,Pharmacy,B.E,8.43,4,Novartis
+2020H6264H,Mathematics,M.E,5.62,4,IBM
+2020A6265A,Pharmacy,B.E,6.23,4,DataZymes
+2020A6266A,Economics and Finanace,B.E,9.85,4,S&P Global
+2020S6270S,Chemical Engineering,M.Sc,7.63,4,3M
+2020A6271A,Computer Science and Information Systems,B.E,5.61,4,Infineon
+2020H6273H,Biological Sciences,M.E,5.78,4,Pfizer
+2020A6274A,Computer Science and Information Systems,B.E,8.82,4,Secureworks
+2020A6277A,Electrical and Electronics Engineering,B.E,9.24,4,INSTRUMENTS
+2020P6283P,Pharmacy,B.Pharm,9.03,4,Ipca Laboratories
+2020S6287S,Chemisty,M.Sc,9.53,4,Unplaced
+2020A6289A,Civil Engineering,B.E,9.01,4,Acciona
+2020A6290A,Physics,B.E,8.65,4,SynOPSYS
+2020A6295A,Economics and Finanace,B.E,7.81,4,Accenture
+2020A6302A,Electrical and Electronics Engineering,B.E,9.77,4,Toshiba
+2020A6304A,Physics,B.E,9.83,4,Unplaced
+2020A6309A,Pharmacy,B.E,8.1,4,Unplaced
+2020S6310S,Humanities and Social Sciences,M.Sc,8.85,4,Unplaced
+2020A6316A,Humanities and Social Sciences,B.E,8.38,4,EY (Ernst & Young)
+2020P6317P,Humanities and Social Sciences,B.Pharm,5.06,4,State Bank of India (SBI)
+2020P6318P,Chemisty,B.Pharm,9.81,4,Sun Pharmaceutical Industries
+2020A6319A,Pharmacy,B.E,7.32,4,PEISION MEDICINE SOLUTIONS
+2020A6323A,Mathematics,B.E,5.21,4,Pharmo Solutions
+2020A6326A,Pharmacy,B.E,7.79,4,Cadila Healthcare
+2020A6328A,Chemical Engineering,B.E,5.2,4,SABIC
+2020A6330A,Chemical Engineering,B.E,5.86,4,Monsanto
+2020A6334A,Biological Sciences,B.E,5.32,4,Cadila Healthcare
+2020A6338A,Humanities and Social Sciences,B.E,8.07,4,Tata Consultancy Services (TCS)
+2020S6345S,Physics,M.Sc,5.64,4,Unplaced
+2020A6352A,Pharmacy,B.E,6.37,4,Alkem Laboratories
+2020D6357D,Chemical Engineering,Ph.D,7.11,4,Bayer
+2020A6358A,Mechanical Engineering,B.E,6.93,4,Toyota
+2020A6362A,Chemical Engineering,B.E,9.71,4,Occidental Petroleum Corporation (OxyChem)
+2020A6373A,Pharmacy,B.E,8.05,4,Aizant
+2020A6374A,Mechanical Engineering,B.E,7.87,4,Unplaced
+2020A6395A,Physics,B.E,8.8,4,Panasonic
+2020D6396D,Chemical Engineering,Ph.D,9.18,4,PPG Industries
+2020H6405H,Chemical Engineering,M.E,8.4,4,Unplaced
+2020H6410H,Pharmacy,M.E,5.52,4,Elucidata
+2020A6415A,Civil Engineering,B.E,6.89,4,Unplaced
+2020H6419H,Biological Sciences,M.E,8.43,4,Divis Laboratories
+2020H6422H,Physics,M.E,9.19,4,SEDEMAC
+2020H6426H,Civil Engineering,M.E,6.06,4,Balfour Beatty
+2020H6428H,Chemisty,M.E,7.57,4,Cipla
+2020A6430A,Civil Engineering,B.E,9.85,4,Unplaced
+2020A6438A,Physics,B.E,7.13,4,INSTRUMENTS
+2020S6445S,Humanities and Social Sciences,M.Sc,9.06,4,Accenture
+2020A6448A,Pharmacy,B.E,7.48,4,Unplaced
+2020P6454P,Pharmacy,B.Pharm,9.2,4,КАВІ
+2020H6468H,Chemical Engineering,M.E,6.42,4,PPG Industries
+2020S6471S,Civil Engineering,M.Sc,6.34,4,TATA
+2020A6474A,Economics and Finanace,B.E,6.84,4,Goldman Sachs
+2020H6479H,Economics and Finanace,M.E,7.82,4,Unplaced
+2020S6484S,Electrical and Electronics Engineering,M.Sc,6.62,4,Microsemi
+2020A6494A,Electrical and Electronics Engineering,B.E,5.03,4,Unplaced
+2020A6499A,Computer Science and Information Systems,B.E,8.39,4,Pharmo Solutions
+2020A6505A,Chemisty,B.E,5.31,4,Aizant
+2020A6508A,Electrical and Electronics Engineering,B.E,8.22,4,Texas Instruments
+2020A6513A,Humanities and Social Sciences,B.E,7.18,4,Unplaced
+2020P6514P,Chemisty,B.Pharm,9.56,4,Unplaced
+2020A6518A,Physics,B.E,7.98,4,Unplaced
+2020A6524A,Chemisty,B.E,7.55,4,КАВІ
+2020H6528H,Humanities and Social Sciences,M.E,8.68,4,Unplaced
+2020H6534H,Computer Science and Information Systems,M.E,6.29,4,Teradata
+2020H6537H,Humanities and Social Sciences,M.E,7.04,4,Unplaced
+2020A6538A,Physics,B.E,9.11,4,CISCO
+2020A6540A,Economics and Finanace,B.E,5.88,4,Genpact
+2020P6541P,Civil Engineering,B.Pharm,7.27,4,AMARARALA
+2020D6542D,Physics,Ph.D,6.25,4,SEDEMAC
+2020A6545A,Electrical and Electronics Engineering,B.E,6.59,4,Toshiba
+2020H6547H,Electrical and Electronics Engineering,M.E,5.43,4,LG Electronics
+2020A6552A,Physics,B.E,8.22,4,Infineon
+2020A6554A,Biological Sciences,B.E,6.71,4,Zydus
+2020H6555H,Chemical Engineering,M.E,8.23,4,ExxonMobil
+2020H6556H,Biological Sciences,M.E,6.67,4,AstraZeneca
+2020S6558S,Chemical Engineering,M.Sc,8.45,4,Bayer
+2020P6559P,Electrical and Electronics Engineering,B.Pharm,6.53,4,Fujitsu
+2020A6568A,Mathematics,B.E,5.1,4,Unplaced
+2020P6570P,Humanities and Social Sciences,B.Pharm,5.01,4,KPMG
+2020A6572A,Economics and Finanace,B.E,5.85,4,Genpact
+2020A6575A,Computer Science and Information Systems,B.E,6.13,4,Unplaced
+2020S6576S,Mathematics,M.Sc,7.89,4,Unplaced
+2020S6578S,Pharmacy,M.Sc,9.56,4,Cadila Healthcare
+2020A6585A,Pharmacy,B.E,6.45,4,Unplaced
+2020H6589H,Mechanical Engineering,M.E,9.51,4,Unplaced
+2020D6590D,Economics and Finanace,Ph.D,9.52,4,Unplaced
+2020H6592H,Pharmacy,M.E,6.15,4,Wockhardt
+2020A6593A,Economics and Finanace,B.E,7.98,4,Genpact
+2020P6602P,Humanities and Social Sciences,B.Pharm,8.95,4,Unplaced
+2020A6603A,Physics,B.E,7.87,4,Unplaced
+2020S6604S,Electrical and Electronics Engineering,M.Sc,7.67,4,MEDIATEK
+2020H6608H,Economics and Finanace,M.E,7.6,4,Morningstar
+2020D6615D,Biological Sciences,Ph.D,7.82,4,Cadila Healthcare
+2020S6617S,Civil Engineering,M.Sc,6.59,4,COWI
+2020H6621H,Mathematics,M.E,6.25,4,Google
+2020A6624A,Chemical Engineering,B.E,6.21,4,Mitsubishi Chemical Corporation
+2020A6626A,Biological Sciences,B.E,9.09,4,Biocon
+2020A6631A,Chemisty,B.E,6.73,4,ADITYA BIRLA
+2020A6634A,Mathematics,B.E,9.13,4,Mediatek
+2020A6641A,Humanities and Social Sciences,B.E,9.79,4,ICICI Bank
+2020A6648A,Electrical and Electronics Engineering,B.E,7.23,4,Infineon
+2020A6649A,Mechanical Engineering,B.E,9.6,4,Unplaced
+2020A6650A,Mechanical Engineering,B.E,9.97,4,Cummins Inc.
+2020A6652A,Economics and Finanace,B.E,7.56,4,Thomson Reuters
+2020S6657S,Physics,M.Sc,6.64,4,Dolcera
+2020A6666A,Economics and Finanace,B.E,7.05,4,S&P Global
+2020A6668A,Biological Sciences,B.E,9.83,4,Granules India
+2020D6676D,Pharmacy,Ph.D,8.58,4,Unplaced
+2020H6692H,Pharmacy,M.E,7.62,4,Novartis
+2020P6700P,Mechanical Engineering,B.Pharm,7.7,4,SpaceX
+2020P6703P,Civil Engineering,B.Pharm,9.34,4,Unplaced
+2020P6705P,Chemisty,B.Pharm,8.94,4,Unplaced
+2020A6707A,Chemisty,B.E,7.36,4,Shell
+2020A6709A,Chemisty,B.E,5.03,4,Procter & Gamble
+2020A6714A,Pharmacy,B.E,8.52,4,Novartis
+2020A6715A,Civil Engineering,B.E,6.71,4,"Daelim Industrial Co., Ltd."
+2020H6719H,Economics and Finanace,M.E,7.65,4,Nomura
+2020A6722A,Chemisty,B.E,7.75,4,Sun Pharmaceutical Industries
+2020A6727A,Mechanical Engineering,B.E,8.98,4,General Electric (GE)
+2020D6730D,Economics and Finanace,Ph.D,8.94,4,Credit Suisse
+2020S6732S,Electrical and Electronics Engineering,M.Sc,9.35,4,Unplaced
+2020A6736A,Physics,B.E,8.36,4,Dolcera
+2020A6740A,Economics and Finanace,B.E,7.67,4,Nomura
+2020H6741H,Biological Sciences,M.E,5.05,4,Strand
+2020H6749H,Civil Engineering,M.E,8.61,4,J. Murphy & Sons
+2020A6750A,Chemical Engineering,B.E,9.34,4,Novozymes
+2020A6758A,Chemisty,B.E,8.18,4,Aragen
+2020H6759H,Humanities and Social Sciences,M.E,5.83,4,Unplaced
+2020A6760A,Chemical Engineering,B.E,9.99,4,3M
+2020A6788A,Mechanical Engineering,B.E,6.0,4,Boeing
+2020H6795H,Computer Science and Information Systems,M.E,9.63,4,Western Digital
+2020A6798A,Chemisty,B.E,6.62,4,BASF
+2020A6804A,Mechanical Engineering,B.E,8.84,4,Shell
+2020A6805A,Physics,B.E,5.88,4,Unplaced
+2020S6815S,Mechanical Engineering,M.Sc,6.9,4,3SC
+2020S6822S,Civil Engineering,M.Sc,8.8,4,Unplaced
+2020A6827A,Mechanical Engineering,B.E,5.58,4,SONA COMSTAR
+2020D6833D,Humanities and Social Sciences,Ph.D,5.38,4,EY (Ernst & Young)
+2020H6834H,Electrical and Electronics Engineering,M.E,6.72,4,Analog Devices
+2020A6836A,Economics and Finanace,B.E,8.54,4,American Express
+2020A6837A,Chemisty,B.E,6.13,4,КАВІ
+2020H6838H,Physics,M.E,6.04,4,Unplaced
+2020H6839H,Biological Sciences,M.E,9.18,4,Alembic Pharmaceuticals
+2020P6842P,Economics and Finanace,B.Pharm,8.85,4,Unplaced
+2020A6843A,Biological Sciences,B.E,9.77,4,Lupin Limited
+2020A6844A,Civil Engineering,B.E,5.3,4,Force
+2020A6846A,Mechanical Engineering,B.E,8.04,4,ABB
+2020H6847H,Mechanical Engineering,M.E,9.31,4,Johnson Controls
+2020H6854H,Computer Science and Information Systems,M.E,8.28,4,Texas Instruments
+2020A6857A,Electrical and Electronics Engineering,B.E,6.69,4,Unplaced
+2020A6874A,Mathematics,B.E,6.56,4,Intel
+2020S6875S,Computer Science and Information Systems,M.Sc,7.59,4,Dell
+2020A6876A,Physics,B.E,6.33,4,SEDEMAC
+2020H6880H,Chemisty,M.E,7.88,4,Cipla
+2020A6888A,Chemical Engineering,B.E,7.07,4,Baker Hughes
+2020A6889A,Chemical Engineering,B.E,5.51,4,Unplaced
+2020A6890A,Biological Sciences,B.E,9.3,4,Strand
+2020H6902H,Pharmacy,M.E,7.05,4,Dr. Reddys Laboratories
+2020H6904H,Chemical Engineering,M.E,5.46,4,Evonik Industries
+2020D6907D,Mathematics,Ph.D,6.88,4,Cisco
+2020A6909A,Pharmacy,B.E,9.29,4,Unplaced
+2020S6913S,Mechanical Engineering,M.Sc,6.62,4,General Electric (GE)
+2020S6920S,Mathematics,M.Sc,6.36,4,Piramal
+2020A6921A,Humanities and Social Sciences,B.E,5.17,4,Accenture
+2020S6926S,Computer Science and Information Systems,M.Sc,8.07,4,Qualcomm
+2020H6928H,Chemisty,M.E,9.18,4,SABIC
+2020D6938D,Chemisty,Ph.D,7.11,4,Dow
+2020A6943A,Pharmacy,B.E,8.28,4,Unplaced
+2020A6950A,Humanities and Social Sciences,B.E,5.84,4,Amazon
+2020S6951S,Physics,M.Sc,6.8,4,A Lam
+2020A6954A,Electrical and Electronics Engineering,B.E,9.43,4,Intel
+2020A6955A,Computer Science and Information Systems,B.E,8.19,4,Mediatek
+2020S6962S,Chemical Engineering,M.Sc,6.5,4,Wood Group
+2020H6965H,Biological Sciences,M.E,8.79,4,Cipla
+2020A6967A,Physics,B.E,8.84,4,Intel
+2020H6969H,Physics,M.E,5.92,4,Tenstorrent
+2020A6971A,Mathematics,B.E,8.37,4,Unplaced
+2020A6972A,Humanities and Social Sciences,B.E,5.02,4,HCL Technologies
+2020H6979H,Mechanical Engineering,M.E,7.05,4,Wabtec
+2020S6986S,Biological Sciences,M.Sc,5.94,4,Torrent Pharmaceuticals
+2020P6990P,Pharmacy,B.Pharm,7.56,4,Biocon
+2020A6991A,Physics,B.E,8.53,4,SEDEMAC
+2020A6996A,Pharmacy,B.E,8.48,4,Unplaced
+2020A6997A,Humanities and Social Sciences,B.E,8.61,4,Procter & Gamble
+2020A7001A,Economics and Finanace,B.E,6.97,4,American Express
+2020A7002A,Chemisty,B.E,7.14,4,ExxonMobil
+2020A7009A,Chemisty,B.E,5.31,4,Dow
+2020H7011H,Biological Sciences,M.E,6.08,4,DataZymes
+2020H7020H,Humanities and Social Sciences,M.E,7.0,4,KPMG
+2020A7022A,Physics,B.E,7.79,4,Texas Instruments
+2020A7025A,Civil Engineering,B.E,7.0,4,Gammon Construction
+2020H7038H,Biological Sciences,M.E,6.02,4,Unplaced
+2020A7042A,Mathematics,B.E,6.4,4,Unplaced
+2020A7044A,Chemisty,B.E,6.8,4,DuPont
+2020S7046S,Computer Science and Information Systems,M.Sc,7.32,4,BLEND360
+2020A7048A,Pharmacy,B.E,8.39,4,Dr. Reddys Laboratories
+2020A7049A,Electrical and Electronics Engineering,B.E,7.86,4,Micron
+2020A7050A,Mathematics,B.E,5.08,4,BLEND360
+2020A7056A,Civil Engineering,B.E,8.57,4,ATKINS
+2020A7057A,Civil Engineering,B.E,8.24,4,Leighton Holdings
+2020H7061H,Civil Engineering,M.E,8.02,4,Kiewit Corporation
+2020A7065A,Mechanical Engineering,B.E,7.55,4,Cummins Inc.
+2020A7068A,Chemisty,B.E,6.66,4,Chevron
+2020A7069A,Electrical and Electronics Engineering,B.E,7.17,4,Panasonic
+2020A7072A,Computer Science and Information Systems,B.E,7.47,4,AMD
+2020A7073A,Chemical Engineering,B.E,9.35,4,Wood Group
+2020H7077H,Computer Science and Information Systems,M.E,5.73,4,Google
+2020A7079A,Economics and Finanace,B.E,6.76,4,FactSet
+2020A7080A,Civil Engineering,B.E,9.54,4,AMARARALA
+2020A7081A,Computer Science and Information Systems,B.E,6.03,4,Unplaced
+2020H7090H,Biological Sciences,M.E,8.31,4,Emcure Pharmaceuticals
+2020A7091A,Civil Engineering,B.E,6.9,4,LISEN A TOLERO
+2020A7093A,Economics and Finanace,B.E,8.68,4,Morningstar
+2020A7096A,Computer Science and Information Systems,B.E,9.59,4,Rizzle
+2020S7100S,Mechanical Engineering,M.Sc,5.05,4,Unplaced
+2020A7103A,Electrical and Electronics Engineering,B.E,6.55,4,Unplaced
+2020S7107S,Chemical Engineering,M.Sc,7.42,4,Unplaced
+2020S7112S,Biological Sciences,M.Sc,6.43,4,Pfizer
+2020A7113A,Civil Engineering,B.E,8.58,4,Parsons Corporation
+2020H7120H,Pharmacy,M.E,6.66,4,Emcure Pharmaceuticals
+2020H7126H,Economics and Finanace,M.E,5.22,4,Unplaced
+2020A7130A,Mathematics,B.E,9.3,4,Teradata
+2020A7133A,Civil Engineering,B.E,6.79,4,"Daelim Industrial Co., Ltd."
+2020A7139A,Economics and Finanace,B.E,9.34,4,Thomson Reuters
+2020S7140S,Mechanical Engineering,M.Sc,6.45,4,DOVER
+2020S7143S,Humanities and Social Sciences,M.Sc,6.38,4,Genpact
+2020A7148A,Civil Engineering,B.E,8.64,4,AMARARALA
+2020D7155D,Mathematics,Ph.D,7.08,4,Piramal
+2020A7169A,Mechanical Engineering,B.E,7.06,4,Unplaced
+2020A7170A,Chemical Engineering,B.E,7.51,4,ADM (Archer Daniels Midland)
+2020D7184D,Electrical and Electronics Engineering,Ph.D,5.77,4,Unplaced
+2020H7185H,Computer Science and Information Systems,M.E,7.7,4,Rizzle
+2020D7190D,Chemical Engineering,Ph.D,7.15,4,Solvay
+2020H7198H,Economics and Finanace,M.E,7.92,4,S&P Global
+2020A7202A,Pharmacy,B.E,6.7,4,FRESENIUS
+2020D7204D,Biological Sciences,Ph.D,9.41,4,Unplaced
+2020H7205H,Pharmacy,M.E,5.54,4,Wockhardt
+2020A7212A,Computer Science and Information Systems,B.E,6.28,4,Intel
+2020A7224A,Mechanical Engineering,B.E,8.27,4,Shell
+2020A7227A,Computer Science and Information Systems,B.E,8.1,4,Micron
+2020A7228A,Pharmacy,B.E,7.22,4,PEISION MEDICINE SOLUTIONS
+2020A7231A,Humanities and Social Sciences,B.E,7.03,4,Unplaced
+2020A7233A,Civil Engineering,B.E,5.22,4,J. Murphy & Sons
+2020S7234S,Computer Science and Information Systems,M.Sc,7.48,4,PEGA
+2020A7238A,Pharmacy,B.E,6.94,4,Unplaced
+2020A7239A,Electrical and Electronics Engineering,B.E,5.42,4,Renesas Electronics
+2020S7240S,Electrical and Electronics Engineering,M.Sc,5.69,4,STMicroelectronics
+2020A7243A,Computer Science and Information Systems,B.E,9.04,4,Trilogy
+2020A7244A,Mathematics,B.E,7.97,4,IBM
+2020A7269A,Computer Science and Information Systems,B.E,9.31,4,AMD
+2020P7271P,Pharmacy,B.Pharm,9.21,4,Elucidata
+2020A7276A,Civil Engineering,B.E,5.46,4,IcoNS
+2020A7279A,Biological Sciences,B.E,9.02,4,Abbott Laboratories
+2020A7281A,Electrical and Electronics Engineering,B.E,6.72,4,proteanTecs
+2020A7282A,Mathematics,B.E,8.86,4,Piramal
+2020A7285A,Economics and Finanace,B.E,9.33,4,Barclays
+2020A7288A,Civil Engineering,B.E,8.74,4,Unplaced
+2020D7292D,Chemical Engineering,Ph.D,5.34,4,Unplaced
+2020H7298H,Biological Sciences,M.E,9.94,4,Cipla
+2020A7299A,Electrical and Electronics Engineering,B.E,7.36,4,Ricoh
+2020H7301H,Mathematics,M.E,7.73,4,Pharmo Solutions
+2020A7302A,Computer Science and Information Systems,B.E,6.6,4,Qualcomm
+2020D7315D,Chemisty,Ph.D,7.95,4,Eastman Chemical Company
+2020A7316A,Computer Science and Information Systems,B.E,6.76,4,Google
+2020A7318A,Civil Engineering,B.E,5.35,4,TATA
+2020A7321A,Computer Science and Information Systems,B.E,8.93,4,Google
+2020H7322H,Chemisty,M.E,8.11,4,Unplaced
+2020H7325H,Civil Engineering,M.E,6.47,4,Unplaced
+2020H7338H,Computer Science and Information Systems,M.E,7.78,4,BLEND360
+2020A7343A,Humanities and Social Sciences,B.E,7.36,4,Accenture
+2020H7345H,Civil Engineering,M.E,7.01,4,Unplaced
+2020A7347A,Pharmacy,B.E,9.83,4,Glenmark Pharmaceuticals
+2020S7357S,Physics,M.Sc,8.9,4,Texas Instruments
+2020A7359A,Electrical and Electronics Engineering,B.E,7.0,4,ON Semiconductor
+2020P7368P,Electrical and Electronics Engineering,B.Pharm,8.75,4,Renesas Electronics
+2020A7369A,Mathematics,B.E,8.41,4,Google
+2020H7377H,Chemical Engineering,M.E,6.04,4,BASF
+2020A7378A,Civil Engineering,B.E,9.55,4,Orascom Construction
+2020A7380A,Humanities and Social Sciences,B.E,7.0,4,Accenture
+2020A7381A,Mathematics,B.E,7.46,4,Teradata
+2020D7388D,Chemisty,Ph.D,7.16,4,ADITYA BIRLA
+2020D7390D,Pharmacy,Ph.D,9.06,4,Abbott Laboratories
+2020P7396P,Electrical and Electronics Engineering,B.Pharm,9.86,4,NXP Semiconductors
+2020H7399H,Chemical Engineering,M.E,5.01,4,Mitsubishi Chemical Corporation
+2020H7400H,Chemical Engineering,M.E,9.0,4,Chevron
+2020S7403S,Economics and Finanace,M.Sc,9.91,4,Boston Consulting Group (BCG)
+2020H7405H,Electrical and Electronics Engineering,M.E,7.27,4,Panasonic
+2020A7406A,Humanities and Social Sciences,B.E,8.33,4,Flipkart
+2020P7412P,Economics and Finanace,B.Pharm,7.54,4,JP Morgan
+2020A7414A,Computer Science and Information Systems,B.E,9.56,4,Teradata
+2020A7416A,Economics and Finanace,B.E,9.58,4,Citi
+2020A7417A,Mechanical Engineering,B.E,5.98,4,Unplaced
+2020A7421A,Pharmacy,B.E,9.04,4,Aragen
+2020D7422D,Biological Sciences,Ph.D,9.09,4,Aurobindo Pharma
+2020A7423A,Mathematics,B.E,6.7,4,Google
+2020H7426H,Economics and Finanace,M.E,7.5,4,Barclays
+2020A7428A,Physics,B.E,9.58,4,Unplaced
+2020A7429A,Computer Science and Information Systems,B.E,6.36,4,CONFLUENT
+2020H7431H,Chemisty,M.E,7.45,4,Cipla
+2020A7434A,Physics,B.E,6.67,4,AMDET
+2020H7435H,Pharmacy,M.E,8.71,4,Cadila Healthcare
+2020H7444H,Pharmacy,M.E,9.16,4,Alkem Laboratories
+2020S7451S,Physics,M.Sc,7.67,4,MathWorks
+2020A7453A,Civil Engineering,B.E,7.04,4,Balfour Beatty
+2020A7458A,Chemical Engineering,B.E,6.76,4,Unplaced
+2020A7461A,Physics,B.E,9.4,4,Unplaced
+2020P7462P,Economics and Finanace,B.Pharm,7.58,4,Thomson Reuters
+2020S7464S,Civil Engineering,M.Sc,9.45,4,Mott MacDonald
+2020P7465P,Humanities and Social Sciences,B.Pharm,6.41,4,Accenture
+2020A7466A,Computer Science and Information Systems,B.E,8.46,4,Intel
+2020A7469A,Humanities and Social Sciences,B.E,5.98,4,HCL Technologies
+2020A7473A,Biological Sciences,B.E,5.9,4,Granules India
+2020A7477A,Mechanical Engineering,B.E,9.41,4,DOVER
+2020H7483H,Computer Science and Information Systems,M.E,8.53,4,Tenstorrent
+2020A7487A,Electrical and Electronics Engineering,B.E,5.16,4,AMDET
+2020D7488D,Biological Sciences,Ph.D,8.63,4,Natco Pharma
+2020A7489A,Economics and Finanace,B.E,7.16,4,Moodys Investors Service
+2020D7497D,Civil Engineering,Ph.D,7.49,4,J. Murphy & Sons
+2020P7500P,Pharmacy,B.Pharm,9.01,4,kmk
+2020A7502A,Electrical and Electronics Engineering,B.E,6.34,4,Altera
+2020P7527P,Chemisty,B.Pharm,8.04,4,FRESENIUS
+2020A7530A,Civil Engineering,B.E,6.79,4,Parsons Corporation
+2020A7540A,Physics,B.E,5.19,4,Intel
+2020P7545P,Computer Science and Information Systems,B.Pharm,7.65,4,CONFLUENT
+2020S7547S,Humanities and Social Sciences,M.Sc,8.78,4,Accenture
+2020A7553A,Chemical Engineering,B.E,7.68,4,Wood Group
+2020A7555A,Mathematics,B.E,9.35,4,Amazon
+2020H7558H,Economics and Finanace,M.E,6.83,4,Unplaced
+2020S7563S,Computer Science and Information Systems,M.Sc,6.31,4,PEGA
+2020A7571A,Biological Sciences,B.E,7.22,4,Abbott Laboratories
+2020H7576H,Pharmacy,M.E,5.76,4,Unplaced
+2020A7577A,Economics and Finanace,B.E,6.5,4,Standard Chartered
+2020A7578A,Pharmacy,B.E,7.48,4,AstraZeneca
+2020A7581A,Chemisty,B.E,6.08,4,Elucidata
+2020A7586A,Mathematics,B.E,9.16,4,Microsoft
+2020A7589A,Pharmacy,B.E,7.82,4,DataZymes
+2020P7596P,Chemisty,B.Pharm,7.45,4,Elucidata
+2020A7606A,Civil Engineering,B.E,6.87,4,Force
+2020H7607H,Physics,M.E,9.85,4,Unplaced
+2020H7611H,Computer Science and Information Systems,M.E,6.0,4,Mediatek
+2020H7614H,Chemisty,M.E,5.47,4,Dow
+2020A7615A,Mechanical Engineering,B.E,6.16,4,Siemens
+2020D7618D,Chemical Engineering,Ph.D,8.34,4,GSK
+2020S7627S,Physics,M.Sc,6.09,4,SAMSUNG
+2020H7630H,Mathematics,M.E,7.8,4,Amazon
+2020A7633A,Mathematics,B.E,6.49,4,BLEND360
+2020A7634A,Mathematics,B.E,5.5,4,Mediatek
+2020A7639A,Chemisty,B.E,6.47,4,ExxonMobil
+2020S7641S,Chemisty,M.Sc,8.64,4,BASF
+2020H7644H,Pharmacy,M.E,8.82,4,Dr. Reddys Laboratories
+2020A7645A,Mechanical Engineering,B.E,9.1,4,Cummins Inc.
+2020H7647H,Mathematics,M.E,5.46,4,Microsoft
+2020D7650D,Computer Science and Information Systems,Ph.D,6.94,4,Qualcomm
+2020S7655S,Economics and Finanace,M.Sc,9.04,4,Unplaced
+2020S7659S,Mathematics,M.Sc,9.69,4,Mediatek
+2020A7660A,Computer Science and Information Systems,B.E,8.83,4,PayU
+2020S7665S,Computer Science and Information Systems,M.Sc,6.92,4,Qualcomm
+2020A7670A,Civil Engineering,B.E,7.57,4,J. Murphy & Sons
+2020H7675H,Pharmacy,M.E,8.88,4,AstraZeneca
+2020H7680H,Electrical and Electronics Engineering,M.E,8.19,4,Panasonic
+2020A7682A,Mechanical Engineering,B.E,6.32,4,Ford Motor Company
+2020H7687H,Computer Science and Information Systems,M.E,5.75,4,PEGA
+2020P7697P,Mechanical Engineering,B.Pharm,7.5,4,SONA COMSTAR
+2020H7701H,Mathematics,M.E,5.48,4,Dell
+2020H7707H,Mechanical Engineering,M.E,9.16,4,Unplaced
+2020P7709P,Economics and Finanace,B.Pharm,9.24,4,Capital IQ
+2020A7716A,Chemical Engineering,B.E,6.1,4,Procter & Gamble
+2020A7718A,Chemisty,B.E,5.54,4,Elucidata
+2020H7720H,Humanities and Social Sciences,M.E,5.55,4,Microsoft
+2020A7731A,Economics and Finanace,B.E,5.75,4,BlackRock
+2020A7733A,Electrical and Electronics Engineering,B.E,8.15,4,ON Semiconductor
+2020H7734H,Physics,M.E,5.29,4,SAMSUNG
+2020A7737A,Physics,B.E,9.23,4,Dolcera
+2020S7738S,Mathematics,M.Sc,7.44,4,Google
+2020S7739S,Mechanical Engineering,M.Sc,5.01,4,Cummins Inc.
+2020H7748H,Chemical Engineering,M.E,9.35,4,Bayer
+2020A7753A,Electrical and Electronics Engineering,B.E,8.42,4,Fujitsu
+2020A7762A,Physics,B.E,6.24,4,Texas Instruments
+2020A7765A,Physics,B.E,6.51,4,MICROCHIP
+2020A7769A,Civil Engineering,B.E,7.25,4,Unplaced
+2020S7775S,Civil Engineering,M.Sc,9.6,4,Unplaced
+2020P7777P,Electrical and Electronics Engineering,B.Pharm,7.65,4,SynOPSYS
+2020S7784S,Mechanical Engineering,M.Sc,5.42,4,Johnson Controls
+2020A7787A,Humanities and Social Sciences,B.E,7.94,4,EY (Ernst & Young)
+2020S7790S,Physics,M.Sc,6.5,4,SEDEMAC
+2020A7794A,Humanities and Social Sciences,B.E,5.11,4,Unplaced
+2020A7806A,Mathematics,B.E,5.34,4,Piramal
+2020S7808S,Chemisty,M.Sc,7.5,4,BASF
+2020H7810H,Economics and Finanace,M.E,9.65,4,Citi
+2020A7811A,Humanities and Social Sciences,B.E,9.12,4,Tata Steel
+2020P7812P,Biological Sciences,B.Pharm,5.42,4,Unplaced
+2020H7815H,Electrical and Electronics Engineering,M.E,8.24,4,AMDET
+2020S7816S,Computer Science and Information Systems,M.Sc,7.17,4,Micron
+2020A7822A,Physics,B.E,9.17,4,INSTRUMENTS
+2020A7824A,Economics and Finanace,B.E,5.22,4,Unplaced
+2020H7825H,Economics and Finanace,M.E,5.53,4,FactSet
+2020S7826S,Physics,M.Sc,6.33,4,Unplaced
+2020D7829D,Physics,Ph.D,5.57,4,AMDET
+2020H7834H,Mathematics,M.E,6.18,4,Unplaced
+2020S7835S,Mechanical Engineering,M.Sc,7.89,4,Ford Motor Company
+2020A7840A,Chemisty,B.E,6.91,4,Unplaced
+2020A7841A,Chemical Engineering,B.E,7.89,4,Novozymes
+2020A7846A,Biological Sciences,B.E,6.6,4,Wockhardt
+2020P7847P,Chemisty,B.Pharm,7.58,4,Shell
+2020S7857S,Chemical Engineering,M.Sc,7.2,4,Syngenta
+2020A7860A,Pharmacy,B.E,8.61,4,Unplaced
+2020A7862A,Economics and Finanace,B.E,6.63,4,American Express
+2020H7863H,Physics,M.E,8.3,4,Unplaced
+2020P7869P,Chemical Engineering,B.Pharm,8.45,4,Occidental Petroleum Corporation (OxyChem)
+2020A7874A,Humanities and Social Sciences,B.E,8.22,4,Infosys
+2020D7877D,Electrical and Electronics Engineering,Ph.D,7.68,4,Unplaced
+2020H7883H,Chemisty,M.E,9.29,4,Unplaced
+2020A7888A,Mathematics,B.E,7.73,4,BLEND360
+2020H7893H,Chemical Engineering,M.E,5.45,4,Baker Hughes
+2020S7896S,Pharmacy,M.Sc,5.46,4,kmk
+2020A7906A,Civil Engineering,B.E,6.38,4,"Skidmore, Owings & Merrill (SOM)"
+2020A7909A,Physics,B.E,8.31,4,Unplaced
+2020P7921P,Civil Engineering,B.Pharm,8.37,4,ARCADIS
+2020S7926S,Pharmacy,M.Sc,6.87,4,Unplaced
+2020A7941A,Physics,B.E,6.54,4,IBM
+2020P7945P,Civil Engineering,B.Pharm,8.31,4,Greenko Jacobs
+2020A7953A,Civil Engineering,B.E,5.51,4,Parsons Corporation
+2020A7958A,Electrical and Electronics Engineering,B.E,5.87,4,Cypress Semiconductor
+2020A7962A,Chemisty,B.E,6.21,4,ADITYA BIRLA
+2020A7963A,Humanities and Social Sciences,B.E,9.0,4,ICICI Bank
+2020H7966H,Pharmacy,M.E,9.96,4,Zydus
+2020A7967A,Pharmacy,B.E,8.53,4,Abbott Laboratories
+2020A7968A,Physics,B.E,6.98,4,Qualcomm
+2020A7969A,Computer Science and Information Systems,B.E,5.26,4,AMD
+2020A7975A,Chemical Engineering,B.E,5.09,4,Unplaced
+2020A7976A,Chemisty,B.E,6.42,4,Chevron
+2020S7980S,Mechanical Engineering,M.Sc,5.89,4,DOVER
+2020H7986H,Humanities and Social Sciences,M.E,7.75,4,Microsoft
+2020S7989S,Economics and Finanace,M.Sc,9.52,4,Morningstar
+2020D7994D,Economics and Finanace,Ph.D,6.25,4,Moodys Analytics
+2020S7999S,Mechanical Engineering,M.Sc,6.41,4,ExxonMobil
+2020A8000A,Civil Engineering,B.E,8.91,4,J. Murphy & Sons
+2020A8001A,Electrical and Electronics Engineering,B.E,7.52,4,Unplaced
+2020H8014H,Biological Sciences,M.E,7.98,4,Unplaced
+2020D8021D,Electrical and Electronics Engineering,Ph.D,9.33,4,Fujitsu
+2020A8022A,Mathematics,B.E,8.93,4,Unplaced
+2020H8025H,Chemisty,M.E,7.58,4,Chevron
+2020A8030A,Chemical Engineering,B.E,9.52,4,Unplaced
+2020S8031S,Physics,M.Sc,6.59,4,MEDIATEK
+2020A8032A,Civil Engineering,B.E,8.79,4,Parsons Corporation
+2020A8036A,Biological Sciences,B.E,9.98,4,SII
+2020H8046H,Biological Sciences,M.E,7.72,4,Zydus
+2020A8048A,Electrical and Electronics Engineering,B.E,5.31,4,Unplaced
+2020D8051D,Mechanical Engineering,Ph.D,8.03,4,DOVER
+2020H8056H,Chemisty,M.E,5.52,4,Unplaced
+2020H8058H,Biological Sciences,M.E,6.47,4,Torrent Pharmaceuticals
+2020A8061A,Economics and Finanace,B.E,6.83,4,Genpact
+2020S8065S,Mechanical Engineering,M.Sc,9.8,4,Shell
+2020A8068A,Physics,B.E,7.61,4,proteanTecs
+2020S8069S,Physics,M.Sc,7.77,4,Unplaced
+2020A8070A,Humanities and Social Sciences,B.E,7.12,4,HDFC Bank
+2020P8076P,Biological Sciences,B.Pharm,6.39,4,Zydus
+2020P8079P,Economics and Finanace,B.Pharm,8.7,4,Accenture
+2020P8081P,Pharmacy,B.Pharm,8.68,4,Unplaced
+2020A8084A,Humanities and Social Sciences,B.E,9.81,4,Flipkart
+2020S8096S,Mathematics,M.Sc,6.57,4,Microsoft
+2020H8104H,Biological Sciences,M.E,7.25,4,Torrent Pharmaceuticals
+2020P8113P,Electrical and Electronics Engineering,B.Pharm,5.53,4,Hitachi
+2020H8116H,Physics,M.E,9.93,4,NXP Semiconductors
+2020A8117A,Electrical and Electronics Engineering,B.E,7.42,4,Unplaced
+2020A8120A,Computer Science and Information Systems,B.E,9.12,4,Intel
+2020A8121A,Biological Sciences,B.E,8.48,4,Cipla
+2020A8123A,Chemical Engineering,B.E,7.51,4,PPG Industries
+2020S8129S,Electrical and Electronics Engineering,M.Sc,8.3,4,Fujitsu
+2020H8133H,Mathematics,M.E,9.91,4,Unplaced
+2020S8138S,Biological Sciences,M.Sc,5.47,4,Granules India
+2020A8145A,Computer Science and Information Systems,B.E,6.21,4,VISA
+2020A8147A,Economics and Finanace,B.E,9.44,4,Bain & Company
+2020H8154H,Pharmacy,M.E,5.69,4,Unplaced
+2020H8159H,Computer Science and Information Systems,M.E,5.82,4,AMD
+2020P8163P,Electrical and Electronics Engineering,B.Pharm,5.6,4,IBM
+2020H8166H,Computer Science and Information Systems,M.E,8.67,4,Micron
+2020A8168A,Economics and Finanace,B.E,6.57,4,S&P Global
+2020A8179A,Economics and Finanace,B.E,5.14,4,Unplaced
+2020P8180P,Economics and Finanace,B.Pharm,5.23,4,Unplaced
+2020H8182H,Mechanical Engineering,M.E,8.43,4,Mercedes Benz
+2020D8185D,Physics,Ph.D,8.51,4,Infineon
+2020H8190H,Biological Sciences,M.E,7.17,4,Novartis
+2020A8192A,Electrical and Electronics Engineering,B.E,6.49,4,Unplaced
+2020H8193H,Chemisty,M.E,9.8,4,Biocon Biologics
+2020A8202A,Physics,B.E,5.99,4,Unplaced
+2020A8203A,Biological Sciences,B.E,5.46,4,Alembic Pharmaceuticals
+2020A8214A,Computer Science and Information Systems,B.E,9.69,4,Google
+2020A8216A,Pharmacy,B.E,9.62,4,Glenmark Pharmaceuticals
+2020A8217A,Chemical Engineering,B.E,8.93,4,Unplaced
+2020H8218H,Mechanical Engineering,M.E,9.55,4,DOVER
+2020S8221S,Physics,M.Sc,8.12,4,Unplaced
+2020A8230A,Humanities and Social Sciences,B.E,6.94,4,Axis Bank
+2020A8233A,Biological Sciences,B.E,6.39,4,Granules India
+2020A8235A,Chemical Engineering,B.E,5.82,4,SABIC
+2020A8243A,Humanities and Social Sciences,B.E,8.9,4,Reliance Industries
+2020D8247D,Civil Engineering,Ph.D,9.1,4,IcoNS
+2020S8253S,Electrical and Electronics Engineering,M.Sc,5.01,4,Hitachi
+2020H8255H,Pharmacy,M.E,8.13,4,Unplaced
+2020A8256A,Mechanical Engineering,B.E,8.33,4,Wabtec
+2020A8257A,Economics and Finanace,B.E,6.08,4,UBS
+2020S8265S,Chemical Engineering,M.Sc,9.91,4,Baker Hughes
+2020A8272A,Biological Sciences,B.E,8.04,4,Glenmark Pharmaceuticals
+2020A8273A,Chemisty,B.E,5.86,4,КАВІ
+2020H8279H,Economics and Finanace,M.E,9.05,4,Unplaced
+2020A8288A,Biological Sciences,B.E,7.22,4,Lupin Limited
+2020A8289A,Humanities and Social Sciences,B.E,8.25,4,Amazon
+2020A8293A,Mechanical Engineering,B.E,9.14,4,ANAND
+2020A8294A,Chemisty,B.E,9.51,4,Unplaced
+2020P8295P,Electrical and Electronics Engineering,B.Pharm,8.11,4,Unplaced
+2020H8296H,Chemisty,M.E,7.23,4,Biocon Biologics
+2020A8302A,Electrical and Electronics Engineering,B.E,5.73,4,Panasonic
+2020A8306A,Electrical and Electronics Engineering,B.E,8.92,4,proteanTecs
+2020H8308H,Humanities and Social Sciences,M.E,7.78,4,HDFC Bank
+2020A8312A,Biological Sciences,B.E,6.98,4,Glenmark Pharmaceuticals
+2020S8313S,Humanities and Social Sciences,M.Sc,8.21,4,ICICI Bank
+2020A8314A,Computer Science and Information Systems,B.E,9.75,4,Unplaced
+2020P8315P,Mechanical Engineering,B.Pharm,6.18,4,ARUP
+2020S8322S,Computer Science and Information Systems,M.Sc,9.91,4,Unplaced
+2020A8323A,Mathematics,B.E,5.07,4,Unplaced
+2020A8324A,Biological Sciences,B.E,6.46,4,Cipla
+2020A8325A,Pharmacy,B.E,7.95,4,Abbott Laboratories
+2020H8326H,Economics and Finanace,M.E,5.34,4,Wells Fargo
+2020A8339A,Economics and Finanace,B.E,8.88,4,Unplaced
+2020A8348A,Mechanical Engineering,B.E,9.45,4,Ford Motor Company
+2020S8351S,Electrical and Electronics Engineering,M.Sc,5.22,4,Unplaced
+2020A8356A,Physics,B.E,9.34,4,Qualcomm
+2020S8358S,Civil Engineering,M.Sc,6.94,4,Obayashi Corporation
+2020S8359S,Chemical Engineering,M.Sc,8.3,4,Chevron
+2020A8360A,Civil Engineering,B.E,7.52,4,Unplaced
+2020A8362A,Economics and Finanace,B.E,9.46,4,Boston Consulting Group (BCG)
+2020A8364A,Computer Science and Information Systems,B.E,9.86,4,Unplaced
+2020H8366H,Computer Science and Information Systems,M.E,8.8,4,Unplaced
+2020H8370H,Physics,M.E,8.67,4,Unplaced
+2020A8380A,Economics and Finanace,B.E,7.1,4,Nomura
+2020A8382A,Chemical Engineering,B.E,8.67,4,Eastman Chemical Company
+2020A8383A,Pharmacy,B.E,8.48,4,PEISION MEDICINE SOLUTIONS
+2020A8384A,Biological Sciences,B.E,6.48,4,Abbott Laboratories
+2020A8388A,Economics and Finanace,B.E,7.2,4,Morningstar
+2020H8389H,Humanities and Social Sciences,M.E,9.6,4,Capgemini
+2020S8390S,Electrical and Electronics Engineering,M.Sc,9.66,4,LG Electronics
+2020A8391A,Physics,B.E,7.17,4,SAMSUNG
+2020A8392A,Computer Science and Information Systems,B.E,7.4,4,Unplaced
+2020A8395A,Pharmacy,B.E,5.7,4,Unplaced
+2020A8398A,Biological Sciences,B.E,6.44,4,Strand
+2020A8399A,Mathematics,B.E,5.67,4,Qualcomm
+2020A8404A,Mechanical Engineering,B.E,9.13,4,Unplaced
+2020A8405A,Pharmacy,B.E,6.16,4,AstraZeneca
+2020A8408A,Computer Science and Information Systems,B.E,7.07,4,PayU
+2020H8420H,Economics and Finanace,M.E,5.77,4,Standard Chartered
+2020S8422S,Civil Engineering,M.Sc,7.06,4,TATA
+2020A8424A,Economics and Finanace,B.E,5.36,4,Unplaced
+2020A8428A,Electrical and Electronics Engineering,B.E,9.78,4,Unplaced
+2020D8431D,Physics,Ph.D,9.43,4,Unplaced
+2020A8432A,Pharmacy,B.E,6.25,4,Strand
+2020P8434P,Economics and Finanace,B.Pharm,9.72,4,Boston Consulting Group (BCG)
+2020A8441A,Chemical Engineering,B.E,7.43,4,Merck
+2020P8444P,Chemisty,B.Pharm,8.27,4,Honeywell UOP
+2020A8448A,Biological Sciences,B.E,5.94,4,Alembic Pharmaceuticals
+2020S8460S,Civil Engineering,M.Sc,8.66,4,Unplaced
+2020A8471A,Mathematics,B.E,5.27,4,Mediatek
+2020H8477H,Chemisty,M.E,8.78,4,Dow
+2020H8485H,Chemisty,M.E,9.55,4,Linde
+2020A8488A,Mechanical Engineering,B.E,6.33,4,Shell
+2020P8494P,Chemisty,B.Pharm,9.46,4,DuPont
+2020H8504H,Chemisty,M.E,5.17,4,Unplaced
+2020A8510A,Civil Engineering,B.E,9.12,4,The Walsh Group
+2020P8514P,Chemisty,B.Pharm,9.6,4,Unplaced
+2020A8517A,Pharmacy,B.E,7.54,4,Aurobindo Pharma
+2020H8518H,Mathematics,M.E,6.6,4,Mediatek
+2020H8524H,Economics and Finanace,M.E,7.57,4,Morningstar
+2020A8525A,Pharmacy,B.E,9.79,4,AstraZeneca
+2020S8527S,Mathematics,M.Sc,7.07,4,Unplaced
+2020A8530A,Computer Science and Information Systems,B.E,6.37,4,Western Digital
+2020A8532A,Physics,B.E,6.44,4,Qualcomm
+2020S8533S,Economics and Finanace,M.Sc,8.24,4,Unplaced
+2020P8535P,Economics and Finanace,B.Pharm,6.48,4,Nomura
+2020P8536P,Civil Engineering,B.Pharm,6.66,4,Unplaced
+2020A8539A,Chemical Engineering,B.E,8.94,4,Bayer
+2020H8540H,Electrical and Electronics Engineering,M.E,7.84,4,Toshiba
+2020H8542H,Mechanical Engineering,M.E,7.04,4,FORVIA
+2020H8545H,Chemisty,M.E,5.91,4,Shell
+2020S8552S,Civil Engineering,M.Sc,7.42,4,Unplaced
+2020D8555D,Civil Engineering,Ph.D,5.29,4,Orascom Construction
+2020A8564A,Mathematics,B.E,6.3,4,Piramal
+2020S8566S,Civil Engineering,M.Sc,8.02,4,"Skidmore, Owings & Merrill (SOM)"
+2020A8569A,Biological Sciences,B.E,9.75,4,Novartis
+2020P8571P,Electrical and Electronics Engineering,B.Pharm,7.15,4,Unplaced
+2020A8578A,Economics and Finanace,B.E,8.94,4,Boston Consulting Group (BCG)
+2020H8584H,Physics,M.E,9.14,4,Unplaced
+2020A8588A,Computer Science and Information Systems,B.E,8.19,4,Unplaced
+2020H8591H,Mechanical Engineering,M.E,8.64,4,Siemens
+2020A8592A,Chemical Engineering,B.E,7.73,4,SABIC
+2020D8593D,Mathematics,Ph.D,6.98,4,Unplaced
+2020D8594D,Physics,Ph.D,8.73,4,MathWorks
+2020S8598S,Chemical Engineering,M.Sc,7.6,4,Bayer
+2020S8599S,Mechanical Engineering,M.Sc,8.54,4,Cummins Inc.
+2020H8616H,Civil Engineering,M.E,9.07,4,Balfour Beatty
+2020S8621S,Civil Engineering,M.Sc,5.61,4,Unplaced
+2020A8624A,Civil Engineering,B.E,5.49,4,Assystem Stup
+2020H8625H,Humanities and Social Sciences,M.E,8.18,4,Unplaced
+2020A8632A,Computer Science and Information Systems,B.E,9.96,4,Western Digital
+2020H8634H,Economics and Finanace,M.E,6.42,4,Boston Consulting Group (BCG)
+2020A8637A,Physics,B.E,8.45,4,Dolcera
+2020P8649P,Chemisty,B.Pharm,8.56,4,Linde
+2020S8654S,Chemisty,M.Sc,9.45,4,kmk
+2020H8657H,Chemical Engineering,M.E,9.02,4,Merck
+2020A8660A,Chemical Engineering,B.E,6.67,4,Unplaced
+2020S8661S,Computer Science and Information Systems,M.Sc,8.77,4,Microsoft
+2020P8672P,Chemisty,B.Pharm,7.74,4,FRESENIUS
+2020A8674A,Humanities and Social Sciences,B.E,7.52,4,Unplaced
+2020S8677S,Biological Sciences,M.Sc,8.25,4,SII
+2020A8682A,Humanities and Social Sciences,B.E,5.83,4,Deloitte
+2020S8688S,Civil Engineering,M.Sc,6.28,4,Unplaced
+2020A8695A,Humanities and Social Sciences,B.E,5.25,4,Infosys
+2020A8696A,Computer Science and Information Systems,B.E,7.7,4,VISA
+2020A8697A,Mechanical Engineering,B.E,7.18,4,Infineon
+2020H8705H,Economics and Finanace,M.E,8.49,4,Thomson Reuters
+2020S8706S,Physics,M.Sc,7.01,4,SEDEMAC
+2020P8708P,Chemisty,B.Pharm,6.34,4,Chevron
+2020A8709A,Physics,B.E,5.14,4,Unplaced
+2020P8712P,Chemical Engineering,B.Pharm,9.66,4,PPG Industries
+2020S8721S,Mathematics,M.Sc,6.34,4,Qualcomm
+2020A8722A,Civil Engineering,B.E,6.8,4,Unplaced
+2020D8729D,Mechanical Engineering,Ph.D,7.52,4,Lime
+2020P8732P,Computer Science and Information Systems,B.Pharm,5.68,4,Trilogy
+2020H8734H,Economics and Finanace,M.E,8.61,4,Moodys Analytics
+2020A8736A,Mechanical Engineering,B.E,5.39,4,Unplaced
+2020A8741A,Biological Sciences,B.E,9.26,4,Emcure Pharmaceuticals
+2020H8746H,Chemisty,M.E,9.86,4,Sun Pharmaceutical Industries
+2020A8747A,Civil Engineering,B.E,7.01,4,Balfour Beatty
+2020H8761H,Chemical Engineering,M.E,9.89,4,Wood Group
+2020H8764H,Chemisty,M.E,7.93,4,Aragen
+2020H8766H,Economics and Finanace,M.E,6.07,4,Unplaced
+2020H8778H,Civil Engineering,M.E,8.71,4,ARCADIS
+2020S8781S,Pharmacy,M.Sc,7.08,4,Unplaced
+2020A8782A,Electrical and Electronics Engineering,B.E,8.68,4,Panasonic
+2020A8783A,Chemical Engineering,B.E,8.63,4,Unplaced
+2020P8787P,Chemical Engineering,B.Pharm,7.59,4,INEOS
+2020H8789H,Electrical and Electronics Engineering,M.E,6.69,4,STMicroelectronics
+2020H8796H,Humanities and Social Sciences,M.E,5.83,4,Wipro
+2020H8801H,Chemisty,M.E,6.86,4,Biocon Biologics
+2020A8802A,Mechanical Engineering,B.E,6.98,4,ANAND
+2020H8803H,Mechanical Engineering,M.E,8.02,4,Unplaced
+2020P8808P,Pharmacy,B.Pharm,7.38,4,ADITYA BIRLA
+2020A8809A,Chemisty,B.E,6.23,4,Cipla
+2020A8813A,Humanities and Social Sciences,B.E,9.88,4,Genpact
+2020S8814S,Physics,M.Sc,7.18,4,Intel
+2020A8817A,Economics and Finanace,B.E,7.49,4,Unplaced
+2020A8825A,Economics and Finanace,B.E,9.87,4,Unplaced
+2020H8827H,Mathematics,M.E,6.78,4,Piramal
+2020A8828A,Mechanical Engineering,B.E,8.16,4,Caterpillar Inc.
+2020A8829A,Electrical and Electronics Engineering,B.E,8.58,4,Fujitsu
+2020P8830P,Civil Engineering,B.Pharm,6.79,4,The Walsh Group
+2020A8831A,Electrical and Electronics Engineering,B.E,5.09,4,NEC Corporation
+2020A8841A,Pharmacy,B.E,6.22,4,Natco Pharma
+2020P8842P,Mechanical Engineering,B.Pharm,6.65,4,Ford Motor Company
+2020A8852A,Chemisty,B.E,9.26,4,Unplaced
+2020H8854H,Mechanical Engineering,M.E,6.37,4,3SC
+2020A8863A,Chemisty,B.E,6.41,4,Chevron
+2020H8864H,Mechanical Engineering,M.E,8.7,4,JK Fenner
+2020A8867A,Pharmacy,B.E,9.71,4,Unplaced
+2020A8869A,Chemisty,B.E,8.08,4,Unplaced
+2020P8870P,Chemical Engineering,B.Pharm,6.56,4,Unplaced
+2020H8874H,Civil Engineering,M.E,6.32,4,Unplaced
+2020A8875A,Chemical Engineering,B.E,5.34,4,ExxonMobil
+2020A8876A,Mathematics,B.E,7.48,4,Unplaced
+2020A8877A,Chemisty,B.E,7.61,4,Unplaced
+2020A8881A,Humanities and Social Sciences,B.E,5.43,4,Accenture
+2020A8886A,Civil Engineering,B.E,7.1,4,Force
+2020A8891A,Biological Sciences,B.E,7.9,4,Unplaced
+2020H8892H,Humanities and Social Sciences,M.E,8.62,4,Unplaced
+2020S8893S,Humanities and Social Sciences,M.Sc,9.7,4,HDFC Bank
+2020D8894D,Humanities and Social Sciences,Ph.D,6.2,4,Unplaced
+2020P8895P,Economics and Finanace,B.Pharm,8.83,4,Credit Suisse
+2020H8910H,Humanities and Social Sciences,M.E,5.11,4,Accenture
+2020A8912A,Electrical and Electronics Engineering,B.E,5.07,4,Infineon
+2020A8915A,Computer Science and Information Systems,B.E,9.07,4,VISA
+2020A8916A,Electrical and Electronics Engineering,B.E,5.79,4,Micron
+2020A8919A,Humanities and Social Sciences,B.E,8.49,4,Reliance Industries
+2020A8925A,Mathematics,B.E,8.1,4,BLEND360
+2020A8932A,Economics and Finanace,B.E,9.18,4,Capital IQ
+2020A8938A,Physics,B.E,7.63,4,proteanTecs
+2020P8941P,Mechanical Engineering,B.Pharm,7.35,4,SEDEMAC
+2020S8949S,Pharmacy,M.Sc,5.38,4,Unplaced
+2020A8950A,Physics,B.E,5.16,4,IBM
+2020A8951A,Civil Engineering,B.E,6.35,4,Obayashi Corporation
+2020A8955A,Pharmacy,B.E,8.73,4,Aizant
+2020S8959S,Chemisty,M.Sc,8.8,4,КАВІ
+2020A8962A,Electrical and Electronics Engineering,B.E,9.54,4,Fujitsu
+2020H8964H,Economics and Finanace,M.E,6.79,4,S&P Global
+2020H8968H,Biological Sciences,M.E,7.83,4,Unplaced
+2020A8979A,Pharmacy,B.E,8.55,4,Elucidata
+2020H8980H,Physics,M.E,9.46,4,Intel
+2020A8982A,Mathematics,B.E,7.41,4,AMD
+2020A8983A,Physics,B.E,5.99,4,Dolcera
+2020A8993A,Mechanical Engineering,B.E,9.13,4,ANAND
+2020A8997A,Chemisty,B.E,5.96,4,Cipla
+2020A8998A,Civil Engineering,B.E,6.74,4,Unplaced
+2020A9000A,Humanities and Social Sciences,B.E,7.27,4,HCL Technologies
+2020P9007P,Humanities and Social Sciences,B.Pharm,6.52,4,Accenture
+2020A9014A,Mathematics,B.E,8.33,4,Cisco
+2020D9019D,Civil Engineering,Ph.D,8.19,4,Hill International
+2020A9020A,Electrical and Electronics Engineering,B.E,6.97,4,Unplaced
+2020A9023A,Pharmacy,B.E,6.23,4,Novartis
+2020P9028P,Biological Sciences,B.Pharm,9.16,4,Ipca Laboratories
+2020A9032A,Chemisty,B.E,9.23,4,Unplaced
+2020S9033S,Physics,M.Sc,6.65,4,AMDET
+2020A9036A,Biological Sciences,B.E,6.85,4,Pfizer
+2020H9038H,Chemisty,M.E,8.51,4,Biocon Biologics
+2020P9044P,Economics and Finanace,B.Pharm,5.6,4,Unplaced
+2020H9046H,Mechanical Engineering,M.E,5.45,4,SpaceX
+2020H9050H,Chemisty,M.E,8.52,4,FRESENIUS
+2020A9056A,Physics,B.E,9.29,4,SEDEMAC
+2020H9057H,Humanities and Social Sciences,M.E,9.17,4,Bain & Company
+2020A9059A,Mathematics,B.E,7.68,4,Flipkart
+2020H9064H,Physics,M.E,7.0,4,Unplaced
+2020S9067S,Mechanical Engineering,M.Sc,8.78,4,DOVER
+2020A9069A,Chemical Engineering,B.E,5.77,4,Unplaced
+2020A9072A,Electrical and Electronics Engineering,B.E,5.17,4,AMDET
+2020A9073A,Mathematics,B.E,5.21,4,Unplaced
+2020P9077P,Chemical Engineering,B.Pharm,5.79,4,Merck
+2020A9078A,Electrical and Electronics Engineering,B.E,9.26,4,Unplaced
+2020A9082A,Electrical and Electronics Engineering,B.E,6.81,4,MEDIATEK
+2020H9087H,Mechanical Engineering,M.E,7.04,4,Honda
+2020A9088A,Biological Sciences,B.E,6.59,4,Granules India
+2020A9092A,Computer Science and Information Systems,B.E,9.94,4,Unplaced
+2020A9094A,Economics and Finanace,B.E,7.59,4,Thomson Reuters
+2020A9098A,Electrical and Electronics Engineering,B.E,9.2,4,Unplaced
+2020A9099A,Chemisty,B.E,6.58,4,Elucidata
+2020A9108A,Pharmacy,B.E,6.55,4,Natco Pharma
+2020P9109P,Computer Science and Information Systems,B.Pharm,6.22,4,VMware
+2020A9126A,Civil Engineering,B.E,7.79,4,ARCADIS
+2020A9127A,Pharmacy,B.E,7.09,4,Alembic Pharmaceuticals
+2020A9132A,Biological Sciences,B.E,8.24,4,Ipca Laboratories
+2020D9137D,Pharmacy,Ph.D,8.12,4,Abbott Laboratories
+2020A9138A,Physics,B.E,5.04,4,Unplaced
+2020A9143A,Chemical Engineering,B.E,9.06,4,Solvay
+2020S9144S,Biological Sciences,M.Sc,6.71,4,Abbott Laboratories
+2020H9145H,Electrical and Electronics Engineering,M.E,9.21,4,Analog Devices
+2020A9148A,Chemisty,B.E,7.65,4,Unplaced
+2020A9152A,Civil Engineering,B.E,7.09,4,Leighton Holdings
+2020S9153S,Humanities and Social Sciences,M.Sc,7.44,4,ITC Limited
+2020H9155H,Computer Science and Information Systems,M.E,8.8,4,Micron
+2020H9156H,Pharmacy,M.E,9.64,4,Unplaced
+2020A9157A,Economics and Finanace,B.E,6.71,4,Morningstar
+2020A9158A,Chemical Engineering,B.E,5.95,4,GSK
+2020P9159P,Computer Science and Information Systems,B.Pharm,7.88,4,Tenstorrent
+2020A9165A,Economics and Finanace,B.E,5.7,4,Citi
+2020H9169H,Chemical Engineering,M.E,6.57,4,"KBR, Inc."
+2020P9174P,Pharmacy,B.Pharm,6.84,4,Unplaced
+2020A9191A,Pharmacy,B.E,7.63,4,Novartis
+2020H9192H,Chemisty,M.E,8.58,4,Unplaced
+2020H9197H,Pharmacy,M.E,9.97,4,Zydus
+2020A9212A,Chemisty,B.E,7.53,4,Honeywell UOP
+2020H9214H,Mechanical Engineering,M.E,5.05,4,Cummins Inc.
+2020H9215H,Mechanical Engineering,M.E,9.07,4,Unplaced
+2020H9216H,Economics and Finanace,M.E,7.22,4,Nomura
+2020S9217S,Mathematics,M.Sc,7.92,4,Unplaced
+2020H9229H,Electrical and Electronics Engineering,M.E,6.05,4,Panasonic
+2020P9231P,Electrical and Electronics Engineering,B.Pharm,5.21,4,Xilinx
+2020D9234D,Civil Engineering,Ph.D,8.5,4,Parsons Corporation
+2020A9241A,Electrical and Electronics Engineering,B.E,7.06,4,STMicroelectronics
+2020A9245A,Mathematics,B.E,8.18,4,Mediatek
+2020A9246A,Mechanical Engineering,B.E,9.57,4,JK Fenner
+2020D9251D,Electrical and Electronics Engineering,Ph.D,8.66,4,Unplaced
+2020S9260S,Electrical and Electronics Engineering,M.Sc,6.94,4,SynOPSYS
+2020A9263A,Chemisty,B.E,9.55,4,DataZymes
+2020S9269S,Pharmacy,M.Sc,9.63,4,GSK Pharmaceuticals
+2020H9285H,Chemisty,M.E,5.55,4,Aragen
+2020A9287A,Chemisty,B.E,7.09,4,Unplaced
+2020A9289A,Economics and Finanace,B.E,8.8,4,Unplaced
+2020H9295H,Humanities and Social Sciences,M.E,6.25,4,EY (Ernst & Young)
+2020H9304H,Chemical Engineering,M.E,6.44,4,Bayer
+2020P9308P,Computer Science and Information Systems,B.Pharm,9.69,4,GE HealthCare
+2020A9318A,Physics,B.E,6.28,4,SAMSUNG
+2020H9320H,Mathematics,M.E,6.98,4,Flipkart
+2020D9322D,Mechanical Engineering,Ph.D,6.89,4,Unplaced
+2020P9325P,Computer Science and Information Systems,B.Pharm,9.26,4,Intel
+2020S9335S,Chemisty,M.Sc,8.45,4,DuPont
+2020H9338H,Electrical and Electronics Engineering,M.E,5.98,4,MEDIATEK
+2020H9341H,Civil Engineering,M.E,6.69,4,Gammon Construction
+2020A9347A,Physics,B.E,8.49,4,SILICON LABS
+2020H9349H,Civil Engineering,M.E,5.9,4,Assystem Stup
+2020H9351H,Chemical Engineering,M.E,5.42,4,Wood Group
+2020D9354D,Pharmacy,Ph.D,9.35,4,Unplaced
+2020A9356A,Mechanical Engineering,B.E,9.91,4,ExxonMobil
+2020A9358A,Economics and Finanace,B.E,9.11,4,Citi
+2020A9359A,Economics and Finanace,B.E,7.87,4,Unplaced
+2020P9365P,Computer Science and Information Systems,B.Pharm,9.05,4,Unplaced
+2020A9368A,Chemical Engineering,B.E,9.49,4,ExxonMobil
+2020A9371A,Electrical and Electronics Engineering,B.E,6.6,4,Unplaced
+2020P9375P,Humanities and Social Sciences,B.Pharm,9.98,4,HDFC Bank
+2020H9377H,Chemisty,M.E,6.93,4,BASF
+2020A9387A,Civil Engineering,B.E,7.28,4,ARUP
+2020H9389H,Economics and Finanace,M.E,7.83,4,Genpact
+2020S9397S,Chemical Engineering,M.Sc,5.25,4,Johnson Matthey
+2020A9399A,Humanities and Social Sciences,B.E,8.84,4,ICICI Bank
+2020A9404A,Computer Science and Information Systems,B.E,9.97,4,GE HealthCare
+2020A9406A,Economics and Finanace,B.E,5.57,4,Morningstar
+2020H9407H,Physics,M.E,5.97,4,INSTRUMENTS
+2020A9410A,Mathematics,B.E,9.51,4,Trilogy
+2020P9416P,Electrical and Electronics Engineering,B.Pharm,8.47,4,SynOPSYS
+2020H9424H,Chemical Engineering,M.E,7.05,4,Unplaced
+2020A9428A,Humanities and Social Sciences,B.E,7.88,4,McKinsey & Company
+2020A9432A,Chemisty,B.E,10.0,4,Procter & Gamble
+2020A9435A,Humanities and Social Sciences,B.E,9.54,4,Cognizant
+2020A9441A,Electrical and Electronics Engineering,B.E,6.36,4,STMicroelectronics
+2020A9443A,Computer Science and Information Systems,B.E,6.92,4,Pharmo Solutions
+2020A9450A,Computer Science and Information Systems,B.E,5.15,4,PEGA
+2020A9453A,Physics,B.E,7.16,4,Unplaced
+2020S9465S,Chemical Engineering,M.Sc,6.12,4,Eastman Chemical Company
+2020A9475A,Economics and Finanace,B.E,9.64,4,Goldman Sachs
+2020A9478A,Electrical and Electronics Engineering,B.E,6.23,4,Unplaced
+2020A9481A,Economics and Finanace,B.E,5.44,4,American Express
+2020A9488A,Pharmacy,B.E,5.33,4,DataZymes
+2020A9490A,Civil Engineering,B.E,9.69,4,Unplaced
+2020A9491A,Chemical Engineering,B.E,6.98,4,INEOS
+2020H9492H,Chemical Engineering,M.E,6.6,4,Chevron
+2020D9497D,Chemisty,Ph.D,7.91,4,Honeywell UOP
+2020S9512S,Economics and Finanace,M.Sc,9.79,4,Goldman Sachs
+2020A9515A,Chemical Engineering,B.E,7.05,4,INEOS
+2020A9519A,Electrical and Electronics Engineering,B.E,9.81,4,Renesas Electronics
+2020A9533A,Electrical and Electronics Engineering,B.E,6.95,4,CISCO
+2020A9536A,Biological Sciences,B.E,6.52,4,Natco Pharma
+2020A9537A,Computer Science and Information Systems,B.E,8.25,4,CONCR
+2020A9538A,Computer Science and Information Systems,B.E,6.76,4,Qualcomm
+2020H9552H,Chemisty,M.E,8.38,4,Sun Pharmaceutical Industries
+2020H9554H,Mechanical Engineering,M.E,5.86,4,Unplaced
+2020A9555A,Mechanical Engineering,B.E,6.92,4,Siemens
+2020A9557A,Pharmacy,B.E,9.58,4,Emcure Pharmaceuticals
+2020A9558A,Chemisty,B.E,9.76,4,Shell
+2020A9564A,Economics and Finanace,B.E,8.17,4,Citi
+2020S9567S,Mathematics,M.Sc,5.09,4,Mediatek
+2020S9577S,Mathematics,M.Sc,7.16,4,Amazon
+2020A9579A,Electrical and Electronics Engineering,B.E,7.11,4,Infineon
+2020A9584A,Mathematics,B.E,6.25,4,Unplaced
+2020A9586A,Chemical Engineering,B.E,8.21,4,Unplaced
+2020A9599A,Mathematics,B.E,6.15,4,Unplaced
+2020S9600S,Physics,M.Sc,8.83,4,Unplaced
+2020H9611H,Computer Science and Information Systems,M.E,7.04,4,Pharmo Solutions
+2020S9612S,Physics,M.Sc,8.33,4,INSTRUMENTS
+2020A9613A,Mechanical Engineering,B.E,9.75,4,SpaceX
+2020A9614A,Physics,B.E,9.94,4,SAMSUNG
+2020S9616S,Mathematics,M.Sc,9.97,4,IBM
+2020A9624A,Chemical Engineering,B.E,8.09,4,SABIC
+2020A9625A,Civil Engineering,B.E,7.47,4,Unplaced
+2020A9628A,Computer Science and Information Systems,B.E,8.83,4,Unplaced
+2020H9633H,Physics,M.E,6.28,4,SEDEMAC
+2020S9638S,Mechanical Engineering,M.Sc,8.5,4,Shell
+2020H9645H,Physics,M.E,8.46,4,Tenstorrent
+2020D9649D,Chemical Engineering,Ph.D,7.28,4,Chevron
+2020A9653A,Economics and Finanace,B.E,6.16,4,Fidelity International
+2020A9654A,Humanities and Social Sciences,B.E,6.87,4,Amazon
+2020A9655A,Pharmacy,B.E,7.42,4,Zydus
+2020D9660D,Biological Sciences,Ph.D,6.5,4,Natco Pharma
+2020P9664P,Biological Sciences,B.Pharm,9.78,4,Cipla
+2020D9666D,Humanities and Social Sciences,Ph.D,9.21,4,Axis Bank
+2020S9667S,Electrical and Electronics Engineering,M.Sc,9.44,4,Fujitsu
+2020A9676A,Economics and Finanace,B.E,7.66,4,Standard Chartered
+2020H9679H,Physics,M.E,5.28,4,Panasonic
+2020A9681A,Pharmacy,B.E,7.98,4,Wockhardt
+2020P9682P,Electrical and Electronics Engineering,B.Pharm,6.34,4,Microsemi
+2020A9687A,Chemical Engineering,B.E,8.85,4,Bayer
+2020A9688A,Chemisty,B.E,9.3,4,Honeywell UOP
+2020D9692D,Electrical and Electronics Engineering,Ph.D,9.44,4,Texas Instruments
+2020A9694A,Pharmacy,B.E,6.97,4,Unplaced
+2020H9697H,Electrical and Electronics Engineering,M.E,6.29,4,Unplaced
+2020A9701A,Civil Engineering,B.E,9.37,4,"Skidmore, Owings & Merrill (SOM)"
+2020A9705A,Mechanical Engineering,B.E,6.58,4,ABB
+2020S9709S,Physics,M.Sc,7.94,4,Unplaced
+2020P9714P,Civil Engineering,B.Pharm,9.9,4,ARUP
+2020A9715A,Mathematics,B.E,7.86,4,Dell
+2020A9718A,Chemical Engineering,B.E,6.8,4,Unplaced
+2020A9722A,Electrical and Electronics Engineering,B.E,8.76,4,Unplaced
+2020A9731A,Economics and Finanace,B.E,9.75,4,Unplaced
+2020H9734H,Economics and Finanace,M.E,9.01,4,Moodys Analytics
+2020P9742P,Biological Sciences,B.Pharm,9.67,4,GSK Pharmaceuticals
+2020D9747D,Biological Sciences,Ph.D,7.81,4,Aurobindo Pharma
+2020H9750H,Mechanical Engineering,M.E,6.06,4,Micron
+2020A9751A,Electrical and Electronics Engineering,B.E,5.97,4,Unplaced
+2020P9754P,Computer Science and Information Systems,B.Pharm,9.09,4,PEGA
+2020H9755H,Computer Science and Information Systems,M.E,8.72,4,AMD
+2020A9756A,Civil Engineering,B.E,5.99,4,Kiewit Corporation
+2020A9758A,Chemisty,B.E,8.97,4,Aragen
+2020A9761A,Humanities and Social Sciences,B.E,6.45,4,WNS Global Services
+2020H9766H,Computer Science and Information Systems,M.E,7.37,4,CONCR
+2020A9767A,Biological Sciences,B.E,8.12,4,Unplaced
+2020P9769P,Economics and Finanace,B.Pharm,9.75,4,Boston Consulting Group (BCG)
+2020A9770A,Humanities and Social Sciences,B.E,6.18,4,Flipkart
+2020A9773A,Humanities and Social Sciences,B.E,8.76,4,ICICI Bank
+2020A9774A,Physics,B.E,6.16,4,Unplaced
+2020S9775S,Economics and Finanace,M.Sc,6.02,4,Boston Consulting Group (BCG)
+2020P9779P,Pharmacy,B.Pharm,9.36,4,Unplaced
+2020A9781A,Computer Science and Information Systems,B.E,6.32,4,CONCR
+2020A9784A,Humanities and Social Sciences,B.E,6.25,4,Cognizant
+2020D9785D,Humanities and Social Sciences,Ph.D,6.39,4,Unplaced
+2020A9787A,Civil Engineering,B.E,7.54,4,Assystem Stup
+2020P9789P,Mechanical Engineering,B.Pharm,5.41,4,Ford Motor Company
+2020H9800H,Pharmacy,M.E,8.7,4,ADITYA BIRLA
+2020S9805S,Physics,M.Sc,6.84,4,NXP Semiconductors
+2020H9813H,Humanities and Social Sciences,M.E,9.26,4,Wipro
+2020P9814P,Civil Engineering,B.Pharm,5.24,4,ARUP
+2020A9816A,Electrical and Electronics Engineering,B.E,9.23,4,Hitachi
+2020A9817A,Biological Sciences,B.E,7.85,4,DataZymes
+2020S9821S,Humanities and Social Sciences,M.Sc,8.52,4,HCL Technologies
+2020A9823A,Pharmacy,B.E,5.41,4,Natco Pharma
+2020H9825H,Physics,M.E,9.75,4,Dolcera
+2020D9832D,Mechanical Engineering,Ph.D,7.76,4,General Electric (GE)
+2020A9834A,Mathematics,B.E,5.45,4,Amazon
+2020P9838P,Economics and Finanace,B.Pharm,5.98,4,Capital IQ
+2020S9839S,Economics and Finanace,M.Sc,8.09,4,Moodys Analytics
+2020A9844A,Biological Sciences,B.E,7.04,4,Dr. Reddys Laboratories
+2020A9846A,Mathematics,B.E,5.53,4,Mediatek
+2020A9847A,Mathematics,B.E,6.21,4,BLEND360
+2020A9852A,Computer Science and Information Systems,B.E,5.42,4,Amazon
+2020A9861A,Pharmacy,B.E,7.07,4,Pfizer
+2020A9866A,Economics and Finanace,B.E,9.72,4,Standard Chartered
+2020H9878H,Mechanical Engineering,M.E,6.22,4,Unplaced
+2020A9882A,Pharmacy,B.E,6.91,4,Zydus
+2020H9884H,Biological Sciences,M.E,8.52,4,Cipla
+2020A9892A,Mechanical Engineering,B.E,6.21,4,Unplaced
+2020A9894A,Pharmacy,B.E,6.13,4,КАВІ
+2020A9895A,Civil Engineering,B.E,7.81,4,Balfour Beatty
+2020A9901A,Computer Science and Information Systems,B.E,8.23,4,VMware
+2020A9905A,Computer Science and Information Systems,B.E,8.51,4,PEGA
+2020S9907S,Chemical Engineering,M.Sc,6.51,4,Mitsubishi Chemical Corporation
+2020A9909A,Mechanical Engineering,B.E,7.9,4,JK Fenner
+2020A9914A,Pharmacy,B.E,7.73,4,Dr. Reddys Laboratories
+2020A9918A,Computer Science and Information Systems,B.E,9.64,4,Pharmo Solutions
+2020D9922D,Humanities and Social Sciences,Ph.D,7.01,4,McKinsey & Company
+2020H9924H,Mechanical Engineering,M.E,6.77,4,JK Fenner
+2020A9927A,Mathematics,B.E,5.3,4,Flipkart
+2020H9930H,Humanities and Social Sciences,M.E,5.47,4,Genpact
+2020A9934A,Humanities and Social Sciences,B.E,5.44,4,Unplaced
+2020S9939S,Mechanical Engineering,M.Sc,9.51,4,Lockheed Martin
+2020A9942A,Civil Engineering,B.E,9.66,4,Kiewit Corporation
+2020A9943A,Mathematics,B.E,5.22,4,Microsoft
+2020A9945A,Mathematics,B.E,9.04,4,Unplaced
+2020A9952A,Biological Sciences,B.E,8.98,4,SII
+2020S9956S,Mathematics,M.Sc,5.99,4,Cisco
+2020P9965P,Biological Sciences,B.Pharm,7.19,4,Emcure Pharmaceuticals
+2020A9968A,Pharmacy,B.E,8.09,4,DataZymes
+2020A9972A,Electrical and Electronics Engineering,B.E,5.63,4,Texas Instruments
+2020H9977H,Electrical and Electronics Engineering,M.E,7.69,4,SynOPSYS
+2020A9981A,Chemical Engineering,B.E,6.01,4,Solvay
+2020A9982A,Economics and Finanace,B.E,8.19,4,Accenture
+2020A9983A,Chemisty,B.E,9.94,4,КАВІ
+2020A9985A,Pharmacy,B.E,6.65,4,Novartis
+2020H9986H,Pharmacy,M.E,7.11,4,Emcure Pharmaceuticals
+2020D9988D,Biological Sciences,Ph.D,5.96,4,Emcure Pharmaceuticals
+2020A9995A,Mathematics,B.E,5.08,4,Qualcomm
+2020H10005H,Biological Sciences,M.E,8.37,4,Novartis
+2020A10010A,Chemisty,B.E,6.55,4,BASF
+2020H10015H,Civil Engineering,M.E,6.69,4,LISEN A TOLERO
+2020A10017A,Biological Sciences,B.E,5.39,4,SII
+2020D10018D,Mechanical Engineering,Ph.D,9.45,4,Johnson Controls
+2020P10021P,Biological Sciences,B.Pharm,7.82,4,Divis Laboratories
+2020A10022A,Pharmacy,B.E,6.77,4,Zydus Cadila
+2020A10025A,Electrical and Electronics Engineering,B.E,7.76,4,Texas Instruments
+2020A10027A,Chemical Engineering,B.E,6.45,4,Solvay
+2020H10029H,Biological Sciences,M.E,7.63,4,Cadila Healthcare
+2020H10035H,Electrical and Electronics Engineering,M.E,8.98,4,Unplaced
+2020H10039H,Chemical Engineering,M.E,6.16,4,PPG Industries
+2020A10042A,Chemisty,B.E,5.68,4,Biocon Biologics
+2020A10050A,Economics and Finanace,B.E,8.0,4,Capital IQ
+2020D10051D,Mathematics,Ph.D,5.26,4,Pharmo Solutions
+2020D10053D,Physics,Ph.D,9.91,4,INSTRUMENTS
+2020A10058A,Mathematics,B.E,6.22,4,Amazon
+2020A10059A,Economics and Finanace,B.E,5.19,4,Unplaced
+2020H10067H,Pharmacy,M.E,7.1,4,Emcure Pharmaceuticals
+2020A10075A,Chemisty,B.E,8.8,4,Biocon Biologics
+2020A10076A,Civil Engineering,B.E,6.16,4,ARUP
+2020A10079A,Humanities and Social Sciences,B.E,5.43,4,Accenture
+2020A10087A,Pharmacy,B.E,6.79,4,Novartis
+2020P10089P,Chemical Engineering,B.Pharm,7.36,4,Syngenta
+2020A10092A,Chemisty,B.E,8.52,4,Dow
+2020A10094A,Electrical and Electronics Engineering,B.E,7.07,4,Unplaced
+2020A10096A,Civil Engineering,B.E,6.83,4,Unplaced
+2020P10099P,Economics and Finanace,B.Pharm,7.35,4,Thomson Reuters
+2020H10101H,Physics,M.E,7.48,4,Infineon
+2020A10111A,Economics and Finanace,B.E,9.43,4,Genpact
+2020A10113A,Humanities and Social Sciences,B.E,5.37,4,Flipkart
+2020H10128H,Economics and Finanace,M.E,7.35,4,Genpact
+2020D10129D,Economics and Finanace,Ph.D,9.78,4,Morningstar
+2020S10132S,Computer Science and Information Systems,M.Sc,9.28,4,Texas Instruments
+2020H10133H,Physics,M.E,5.29,4,Unplaced
+2020A10135A,Computer Science and Information Systems,B.E,5.38,4,Rizzle
+2020H10138H,Chemical Engineering,M.E,6.27,4,"KBR, Inc."
+2020A10139A,Economics and Finanace,B.E,9.39,4,Citi
+2020A10149A,Chemisty,B.E,5.32,4,Unplaced
+2020A10162A,Pharmacy,B.E,7.42,4,Novartis
+2020D10170D,Physics,Ph.D,6.11,4,SAMSUNG
+2020A10171A,Civil Engineering,B.E,7.16,4,"Daelim Industrial Co., Ltd."
+2020A10172A,Biological Sciences,B.E,5.47,4,КАВІ
+2020A10175A,Pharmacy,B.E,9.04,4,Unplaced
+2020H10179H,Mathematics,M.E,6.64,4,Flipkart
+2020H10180H,Mathematics,M.E,7.86,4,Piramal
+2020A10184A,Biological Sciences,B.E,7.99,4,Torrent Pharmaceuticals
+2020A10191A,Biological Sciences,B.E,9.06,4,Unplaced
+2020H10196H,Pharmacy,M.E,9.11,4,Aurobindo Pharma
+2020H10200H,Chemisty,M.E,6.65,4,Cipla
+2020A10203A,Mathematics,B.E,9.26,4,Pharmo Solutions
+2020A10204A,Chemical Engineering,B.E,7.12,4,Unplaced
+2020A10207A,Humanities and Social Sciences,B.E,8.26,4,Flipkart
+2020A10209A,Pharmacy,B.E,7.46,4,Strand
+2020S10220S,Mechanical Engineering,M.Sc,6.82,4,Unplaced
+2020A10232A,Chemisty,B.E,9.34,4,FRESENIUS
+2020P10238P,Economics and Finanace,B.Pharm,9.43,4,Fidelity International
+2020S10249S,Mechanical Engineering,M.Sc,6.16,4,Unplaced
+2020S10251S,Mathematics,M.Sc,5.02,4,IBM
+2020H10252H,Pharmacy,M.E,6.39,4,Unplaced
+2020A10258A,Computer Science and Information Systems,B.E,5.16,4,AMD
+2020H10272H,Civil Engineering,M.E,8.72,4,Acciona
+2020A10273A,Biological Sciences,B.E,6.91,4,Unplaced
+2020A10275A,Pharmacy,B.E,9.45,4,Glenmark Pharmaceuticals
+2020P10283P,Pharmacy,B.Pharm,5.29,4,Novartis
+2020P10284P,Humanities and Social Sciences,B.Pharm,8.11,4,McKinsey & Company
+2020H10295H,Economics and Finanace,M.E,5.3,4,Unplaced
+2020P10298P,Electrical and Electronics Engineering,B.Pharm,9.04,4,Siemens
+2020H10305H,Mechanical Engineering,M.E,8.02,4,Toyota
+2020H10313H,Physics,M.E,8.33,4,SAMSUNG
+2020H10316H,Biological Sciences,M.E,5.59,4,Zydus Cadila
+2020H10328H,Biological Sciences,M.E,5.11,4,Torrent Pharmaceuticals
+2020H10331H,Computer Science and Information Systems,M.E,8.66,4,Unplaced
+2020A10332A,Economics and Finanace,B.E,5.85,4,Barclays
+2020A10345A,Humanities and Social Sciences,B.E,6.28,4,Bain & Company
+2020A10346A,Pharmacy,B.E,6.37,4,Aurobindo Pharma
+2020P10350P,Mechanical Engineering,B.Pharm,7.29,4,ANAND
+2020A10353A,Computer Science and Information Systems,B.E,6.39,4,Western Digital
+2020P10360P,Pharmacy,B.Pharm,8.4,4,Wockhardt
+2020A10368A,Pharmacy,B.E,8.74,4,AstraZeneca
+2020S10369S,Mathematics,M.Sc,5.09,4,Piramal
+2020A10370A,Civil Engineering,B.E,7.39,4,LISEN A TOLERO
+2020D10371D,Electrical and Electronics Engineering,Ph.D,9.01,4,Micron
+2020S10375S,Mathematics,M.Sc,7.27,4,Unplaced
+2020A10376A,Chemisty,B.E,9.23,4,КАВІ
+2020S10377S,Computer Science and Information Systems,M.Sc,7.21,4,CONFLUENT
+2020P10378P,Electrical and Electronics Engineering,B.Pharm,7.13,4,AMDET
+2020A10383A,Chemical Engineering,B.E,7.24,4,PPG Industries
+2020A10385A,Electrical and Electronics Engineering,B.E,8.76,4,ON Semiconductor
+2020H10387H,Pharmacy,M.E,6.87,4,Elucidata
+2020A10388A,Physics,B.E,8.93,4,Unplaced
+2020A10390A,Computer Science and Information Systems,B.E,8.93,4,GE HealthCare
+2020A10392A,Computer Science and Information Systems,B.E,5.17,4,Unplaced
+2020P10402P,Economics and Finanace,B.Pharm,8.66,4,JP Morgan
+2020A10403A,Electrical and Electronics Engineering,B.E,9.71,4,Infineon
+2020A10408A,Civil Engineering,B.E,8.9,4,Greenko Jacobs
+2020A10409A,Chemisty,B.E,7.35,4,Biocon Biologics
+2020A10412A,Pharmacy,B.E,7.54,4,Unplaced
+2020D10414D,Chemisty,Ph.D,8.68,4,Linde
+2020A10415A,Electrical and Electronics Engineering,B.E,5.11,4,Fujitsu
+2020A10417A,Pharmacy,B.E,5.94,4,Novartis
+2020A10421A,Biological Sciences,B.E,9.8,4,PEISION MEDICINE SOLUTIONS
+2020A10423A,Humanities and Social Sciences,B.E,7.48,4,Procter & Gamble
+2020A10425A,Computer Science and Information Systems,B.E,7.45,4,VMware
+2020A10429A,Biological Sciences,B.E,9.27,4,PEISION MEDICINE SOLUTIONS
+2020A10431A,Economics and Finanace,B.E,5.18,4,Fidelity International
+2020S10432S,Mechanical Engineering,M.Sc,5.37,4,Unplaced
+2020S10439S,Civil Engineering,M.Sc,9.73,4,ATKINS
+2020A10440A,Computer Science and Information Systems,B.E,6.16,4,Texas Instruments
+2020A10443A,Mathematics,B.E,5.02,4,Dell
+2020A10449A,Mathematics,B.E,5.78,4,Microsoft
+2020A10455A,Economics and Finanace,B.E,8.01,4,Morgan Stanley
+2020A10461A,Electrical and Electronics Engineering,B.E,6.21,4,MEDIATEK
+2020A10464A,Physics,B.E,5.9,4,Unplaced
+2020H10472H,Physics,M.E,7.33,4,CISCO
+2020A10473A,Mathematics,B.E,8.59,4,Microsoft
+2020H10476H,Mathematics,M.E,9.84,4,Intel
+2020A10477A,Chemisty,B.E,7.53,4,Cipla
+2020A10478A,Computer Science and Information Systems,B.E,7.49,4,Unplaced
+2020S10481S,Mechanical Engineering,M.Sc,6.89,4,General Electric (GE)
+2020H10483H,Chemical Engineering,M.E,8.72,4,Unplaced
+2020A10498A,Chemical Engineering,B.E,9.06,4,Eastman Chemical Company
+2020H10501H,Mechanical Engineering,M.E,5.95,4,CYNLR
+2020A10504A,Chemisty,B.E,9.72,4,Aizant
+2020D10512D,Biological Sciences,Ph.D,9.91,4,Alembic Pharmaceuticals
+2020A10513A,Chemical Engineering,B.E,6.04,4,Occidental Petroleum Corporation (OxyChem)
+2020D10514D,Economics and Finanace,Ph.D,6.35,4,Moodys Analytics
+2020H10524H,Mechanical Engineering,M.E,9.84,4,Unplaced
+2020A10527A,Physics,B.E,9.31,4,SAMSUNG
+2020S10528S,Humanities and Social Sciences,M.Sc,8.03,4,KPMG
+2020H10531H,Electrical and Electronics Engineering,M.E,5.75,4,LG Electronics
+2020A10533A,Chemisty,B.E,5.9,4,Chevron
+2020A10534A,Computer Science and Information Systems,B.E,8.79,4,Unplaced
+2020H10535H,Mechanical Engineering,M.E,9.38,4,ARUP
+2020H10536H,Chemical Engineering,M.E,8.9,4,Honeywell UOP
+2020H10538H,Physics,M.E,7.59,4,AMDET
+2020H10544H,Mathematics,M.E,5.85,4,Mediatek
+2020P10549P,Chemisty,B.Pharm,8.74,4,Aizant
+2020S10553S,Civil Engineering,M.Sc,7.19,4,"Skidmore, Owings & Merrill (SOM)"
+2020H10555H,Mechanical Engineering,M.E,9.74,4,Unplaced
+2020H10562H,Civil Engineering,M.E,7.13,4,Gammon Construction
+2020S10564S,Mechanical Engineering,M.Sc,8.74,4,Ford Motor Company
+2020A10568A,Economics and Finanace,B.E,5.19,4,Accenture
+2020A10569A,Electrical and Electronics Engineering,B.E,5.07,4,Micron
+2020A10572A,Biological Sciences,B.E,9.5,4,Granules India
+2020A10574A,Economics and Finanace,B.E,6.81,4,Unplaced
+2020A10575A,Chemical Engineering,B.E,7.65,4,Unplaced
+2020S10582S,Chemical Engineering,M.Sc,6.81,4,Merck
+2020A10583A,Chemisty,B.E,8.73,4,DuPont
+2020H10584H,Mathematics,M.E,6.11,4,Unplaced
+2020A10589A,Computer Science and Information Systems,B.E,8.44,4,Rizzle
+2020A10593A,Biological Sciences,B.E,7.66,4,Unplaced
+2020A10597A,Physics,B.E,5.24,4,Dolcera
+2020H10601H,Economics and Finanace,M.E,5.62,4,Genpact
+2020S10602S,Electrical and Electronics Engineering,M.Sc,8.77,4,SILICON LABS
+2020A10603A,Physics,B.E,7.07,4,Infineon
+2020H10604H,Economics and Finanace,M.E,7.71,4,Credit Suisse
+2020H10612H,Mechanical Engineering,M.E,7.2,4,Unplaced
+2020D10613D,Civil Engineering,Ph.D,9.11,4,The Walsh Group
+2020A10623A,Physics,B.E,7.67,4,Qualcomm
+2020A10631A,Chemisty,B.E,9.24,4,Unplaced
+2020A10636A,Humanities and Social Sciences,B.E,6.64,4,HCL Technologies
+2020D10638D,Mathematics,Ph.D,6.41,4,Pharmo Solutions
+2020A10647A,Chemical Engineering,B.E,9.0,4,PPG Industries
+2020A10661A,Humanities and Social Sciences,B.E,6.13,4,Unplaced
+2020A10665A,Economics and Finanace,B.E,7.06,4,Accenture

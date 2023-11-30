@@ -1,0 +1,549 @@
+Student ID,Course,Degree,CGPA,Year,Placement
+2008P0001P,Mechanical Engineering,B.Pharm,8.19,4,Lime
+2008A0006A,Mathematics,B.E,9.07,4,BLEND360
+2008A0011A,Economics and Finanace,B.E,9.8,4,UBS
+2008A0015A,Chemical Engineering,B.E,7.03,4,PPG Industries
+2008A0017A,Physics,B.E,5.86,4,Unplaced
+2008A0021A,Civil Engineering,B.E,9.51,4,WSP Global
+2008A0028A,Mechanical Engineering,B.E,9.17,4,Infineon
+2008A0033A,Chemical Engineering,B.E,6.7,4,Praxair
+2008A0036A,Mathematics,B.E,9.71,4,Trilogy
+2008A0037A,Chemisty,B.E,8.4,4,Procter & Gamble
+2008S0045S,Electrical and Electronics Engineering,M.Sc,7.24,4,Microsemi
+2008P0048P,Electrical and Electronics Engineering,B.Pharm,5.06,4,MICROCHIP
+2008H0050H,Mechanical Engineering,M.E,7.61,4,Bosch
+2008H0053H,Chemisty,M.E,7.17,4,Unplaced
+2008A0062A,Humanities and Social Sciences,B.E,6.57,4,Tata Consultancy Services (TCS)
+2008H0063H,Economics and Finanace,M.E,6.46,4,Deutsche Bank
+2008P0065P,Electrical and Electronics Engineering,B.Pharm,6.4,4,Unplaced
+2008H0073H,Pharmacy,M.E,5.77,4,Unplaced
+2008H0074H,Electrical and Electronics Engineering,M.E,5.37,4,Honeywell
+2008P0075P,Mechanical Engineering,B.Pharm,7.0,4,Mercedes Benz
+2008S0080S,Mechanical Engineering,M.Sc,9.92,4,Caterpillar Inc.
+2008D0081D,Economics and Finanace,Ph.D,9.83,4,Fitch Ratings
+2008H0084H,Humanities and Social Sciences,M.E,6.87,4,Unplaced
+2008A0086A,Economics and Finanace,B.E,9.99,4,IHS Markit
+2008A0089A,Economics and Finanace,B.E,6.56,4,American Express
+2008A0091A,Humanities and Social Sciences,B.E,5.49,4,Google
+2008S0096S,Mathematics,M.Sc,5.8,4,Unplaced
+2008A0097A,Humanities and Social Sciences,B.E,6.16,4,Unplaced
+2008H0098H,Pharmacy,M.E,5.92,4,Elucidata
+2008A0100A,Humanities and Social Sciences,B.E,7.96,4,Microsoft
+2008H0104H,Economics and Finanace,M.E,6.63,4,KPMG
+2008A0105A,Chemical Engineering,B.E,6.31,4,SABIC
+2008A0107A,Mechanical Engineering,B.E,6.94,4,ANAND
+2008H0117H,Chemisty,M.E,5.94,4,SABIC
+2008A0120A,Electrical and Electronics Engineering,B.E,9.82,4,SynOPSYS
+2008A0121A,Electrical and Electronics Engineering,B.E,8.42,4,MathWorks
+2008S0122S,Physics,M.Sc,9.2,4,Unplaced
+2008A0126A,Humanities and Social Sciences,B.E,7.83,4,Unplaced
+2008A0136A,Physics,B.E,8.05,4,MEDIATEK
+2008D0142D,Chemisty,Ph.D,9.81,4,SABIC
+2008A0145A,Civil Engineering,B.E,8.81,4,Acciona
+2008A0147A,Pharmacy,B.E,7.07,4,Ipca Laboratories
+2008A0154A,Chemical Engineering,B.E,8.98,4,PPG Industries
+2008P0160P,Chemical Engineering,B.Pharm,8.13,4,Occidental Petroleum Corporation (OxyChem)
+2008S0162S,Humanities and Social Sciences,M.Sc,7.28,4,Unplaced
+2008D0171D,Chemisty,Ph.D,7.97,4,Unplaced
+2008A0173A,Chemical Engineering,B.E,9.94,4,Covestro
+2008A0180A,Mechanical Engineering,B.E,8.25,4,Honda
+2008H0182H,Electrical and Electronics Engineering,M.E,8.08,4,NEC Corporation
+2008H0184H,Chemisty,M.E,8.76,4,Unplaced
+2008A0195A,Electrical and Electronics Engineering,B.E,9.3,4,Unplaced
+2008D0200D,Electrical and Electronics Engineering,Ph.D,7.53,4,MEDIATEK
+2008A0207A,Biological Sciences,B.E,6.22,4,Alkem Laboratories
+2008P0225P,Biological Sciences,B.Pharm,7.76,4,Glenmark Pharmaceuticals
+2008A0226A,Civil Engineering,B.E,6.61,4,Unplaced
+2008A0230A,Electrical and Electronics Engineering,B.E,5.34,4,Hitachi
+2008S0232S,Economics and Finanace,M.Sc,5.43,4,KPMG
+2008A0235A,Humanities and Social Sciences,B.E,6.84,4,Infosys
+2008A0237A,Chemisty,B.E,5.03,4,Unplaced
+2008D0240D,Economics and Finanace,Ph.D,5.01,4,IHS Markit
+2008A0245A,Biological Sciences,B.E,9.61,4,Emcure Pharmaceuticals
+2008A0246A,Physics,B.E,9.48,4,Tenstorrent
+2008A0248A,Mathematics,B.E,5.67,4,Microsoft
+2008A0258A,Civil Engineering,B.E,7.26,4,Mott MacDonald
+2008A0265A,Biological Sciences,B.E,9.76,4,Unplaced
+2008A0269A,Chemisty,B.E,5.99,4,Chevron
+2008P0275P,Chemical Engineering,B.Pharm,5.21,4,Honeywell UOP
+2008A0276A,Biological Sciences,B.E,5.84,4,КАВІ
+2008P0277P,Electrical and Electronics Engineering,B.Pharm,7.48,4,Unplaced
+2008A0282A,Pharmacy,B.E,6.48,4,Unplaced
+2008H0284H,Computer Science and Information Systems,M.E,6.92,4,Secureworks
+2008A0288A,Humanities and Social Sciences,B.E,7.72,4,Flipkart
+2008A0292A,Computer Science and Information Systems,B.E,5.29,4,Secureworks
+2008P0296P,Civil Engineering,B.Pharm,7.88,4,RAMBOLL
+2008S0301S,Mechanical Engineering,M.Sc,9.74,4,JK Fenner
+2008A0302A,Mathematics,B.E,6.55,4,Amazon
+2008A0304A,Mechanical Engineering,B.E,6.09,4,ARUP
+2008H0310H,Chemical Engineering,M.E,6.87,4,Praxair
+2008A0313A,Physics,B.E,9.74,4,proteanTecs
+2008A0318A,Physics,B.E,9.74,4,Unplaced
+2008A0328A,Biological Sciences,B.E,6.93,4,КАВІ
+2008H0329H,Chemisty,M.E,9.42,4,Aizant
+2008H0330H,Electrical and Electronics Engineering,M.E,6.76,4,Micron
+2008A0337A,Economics and Finanace,B.E,7.97,4,Deloitte
+2008A0343A,Chemical Engineering,B.E,5.25,4,Dow
+2008A0345A,Electrical and Electronics Engineering,B.E,5.44,4,Renesas Electronics
+2008A0350A,Chemical Engineering,B.E,8.21,4,Unplaced
+2008P0351P,Chemisty,B.Pharm,6.86,4,freyr
+2008A0356A,Chemical Engineering,B.E,8.34,4,Bayer
+2008P0358P,Electrical and Electronics Engineering,B.Pharm,9.09,4,Unplaced
+2008A0359A,Mathematics,B.E,8.44,4,Cisco
+2008P0360P,Mechanical Engineering,B.Pharm,9.41,4,Rolls-Royce
+2008A0363A,Chemical Engineering,B.E,9.75,4,Dow
+2008H0366H,Biological Sciences,M.E,7.12,4,PEISION MEDICINE SOLUTIONS
+2008H0369H,Chemical Engineering,M.E,6.94,4,Unplaced
+2008A0372A,Physics,B.E,8.12,4,MathWorks
+2008A0377A,Electrical and Electronics Engineering,B.E,6.32,4,STMicroelectronics
+2008D0380D,Mechanical Engineering,Ph.D,8.04,4,ARUP
+2008H0382H,Physics,M.E,6.19,4,Unplaced
+2008P0385P,Computer Science and Information Systems,B.Pharm,6.4,4,CONFLUENT
+2008H0387H,Chemisty,M.E,6.5,4,Eastman Chemical Company
+2008A0388A,Economics and Finanace,B.E,6.35,4,Unplaced
+2008A0390A,Humanities and Social Sciences,B.E,6.06,4,Flipkart
+2008A0393A,Chemical Engineering,B.E,6.56,4,Unplaced
+2008H0396H,Biological Sciences,M.E,6.25,4,Sun Pharmaceutical Industries
+2008H0398H,Computer Science and Information Systems,M.E,6.84,4,Google
+2008H0414H,Humanities and Social Sciences,M.E,6.26,4,Microsoft
+2008P0415P,Computer Science and Information Systems,B.Pharm,8.39,4,Teradata
+2008A0418A,Computer Science and Information Systems,B.E,8.42,4,Mediatek
+2008A0423A,Biological Sciences,B.E,9.03,4,Unplaced
+2008A0425A,Physics,B.E,5.13,4,SynOPSYS
+2008A0426A,Computer Science and Information Systems,B.E,6.3,4,MathWorks
+2008A0430A,Pharmacy,B.E,7.67,4,Unplaced
+2008A0439A,Humanities and Social Sciences,B.E,9.26,4,American Express
+2008A0445A,Electrical and Electronics Engineering,B.E,9.94,4,STMicroelectronics
+2008A0450A,Mechanical Engineering,B.E,8.82,4,FORVIA
+2008H0451H,Chemical Engineering,M.E,5.65,4,Lanxess
+2008A0452A,Pharmacy,B.E,7.15,4,Emcure Pharmaceuticals
+2008A0458A,Computer Science and Information Systems,B.E,5.64,4,Infineon
+2008P0463P,Economics and Finanace,B.Pharm,9.98,4,Moodys Investors Service
+2008S0472S,Biological Sciences,M.Sc,8.45,4,Strand
+2008A0484A,Chemisty,B.E,5.2,4,Chevron
+2008H0485H,Civil Engineering,M.E,8.44,4,Unplaced
+2008H0500H,Chemisty,M.E,5.57,4,FRESENIUS
+2008S0501S,Humanities and Social Sciences,M.Sc,6.36,4,Tata Consultancy Services (TCS)
+2008H0502H,Physics,M.E,9.25,4,Unplaced
+2008S0505S,Chemisty,M.Sc,5.52,4,Unplaced
+2008A0515A,Humanities and Social Sciences,B.E,6.73,4,Tata Consultancy Services (TCS)
+2008A0518A,Mathematics,B.E,9.24,4,Mediatek
+2008A0519A,Chemisty,B.E,5.37,4,DuPont
+2008H0521H,Biological Sciences,M.E,7.53,4,Sun Pharmaceutical Industries
+2008P0523P,Humanities and Social Sciences,B.Pharm,7.22,4,Tata Steel
+2008H0524H,Chemical Engineering,M.E,9.28,4,Syngenta
+2008A0525A,Economics and Finanace,B.E,5.59,4,American Express
+2008A0529A,Mathematics,B.E,7.81,4,Flipkart
+2008S0532S,Mathematics,M.Sc,8.84,4,Unplaced
+2008A0533A,Physics,B.E,8.29,4,MathWorks
+2008D0537D,Biological Sciences,Ph.D,9.48,4,Biocon
+2008A0538A,Chemisty,B.E,9.11,4,Linde
+2008A0540A,Civil Engineering,B.E,5.6,4,IcoNS
+2008A0542A,Physics,B.E,6.69,4,MICROCHIP
+2008A0546A,Mathematics,B.E,9.68,4,Cisco
+2008A0550A,Mathematics,B.E,9.41,4,Unplaced
+2008P0561P,Chemical Engineering,B.Pharm,8.8,4,Dow
+2008S0562S,Mechanical Engineering,M.Sc,7.85,4,Unplaced
+2008P0574P,Pharmacy,B.Pharm,5.23,4,Glenmark Pharmaceuticals
+2008H0577H,Civil Engineering,M.E,8.1,4,Unplaced
+2008P0593P,Electrical and Electronics Engineering,B.Pharm,7.72,4,Microsemi
+2008D0596D,Computer Science and Information Systems,Ph.D,6.09,4,Microsoft
+2008P0598P,Chemical Engineering,B.Pharm,8.34,4,Unplaced
+2008A0604A,Mathematics,B.E,9.01,4,Mediatek
+2008A0610A,Civil Engineering,B.E,7.69,4,Unplaced
+2008P0612P,Pharmacy,B.Pharm,5.77,4,GSK Pharmaceuticals
+2008A0616A,Computer Science and Information Systems,B.E,7.04,4,Secureworks
+2008H0623H,Mechanical Engineering,M.E,5.43,4,JK Fenner
+2008P0629P,Chemical Engineering,B.Pharm,5.21,4,LyondellBasell
+2008H0637H,Chemical Engineering,M.E,5.99,4,Baker Hughes
+2008A0640A,Civil Engineering,B.E,6.59,4,Jacobs Engineering Group
+2008A0645A,Physics,B.E,8.7,4,Unplaced
+2008P0647P,Pharmacy,B.Pharm,8.66,4,Unplaced
+2008D0654D,Mathematics,Ph.D,8.16,4,Unplaced
+2008A0656A,Mathematics,B.E,6.3,4,BLEND360
+2008P0665P,Biological Sciences,B.Pharm,6.09,4,Lupin Limited
+2008A0669A,Electrical and Electronics Engineering,B.E,7.35,4,SynOPSYS
+2008H0678H,Mathematics,M.E,9.41,4,Flipkart
+2008A0683A,Physics,B.E,5.57,4,MathWorks
+2008D0689D,Computer Science and Information Systems,Ph.D,9.61,4,Pharmo Solutions
+2008D0692D,Chemical Engineering,Ph.D,6.08,4,Unplaced
+2008A0693A,Humanities and Social Sciences,B.E,5.85,4,McKinsey & Company
+2008A0699A,Chemical Engineering,B.E,5.08,4,LyondellBasell
+2008H0705H,Pharmacy,M.E,8.25,4,Aragen
+2008A0706A,Economics and Finanace,B.E,9.37,4,Unplaced
+2008H0707H,Civil Engineering,M.E,9.69,4,RAMBOLL
+2008A0709A,Electrical and Electronics Engineering,B.E,5.67,4,Unplaced
+2008A0711A,Computer Science and Information Systems,B.E,7.99,4,Dell
+2008A0717A,Computer Science and Information Systems,B.E,9.27,4,Wabtec
+2008P0720P,Electrical and Electronics Engineering,B.Pharm,7.76,4,AMDET
+2008A0721A,Chemisty,B.E,6.85,4,BASF
+2008A0726A,Chemical Engineering,B.E,6.07,4,3M
+2008D0729D,Chemical Engineering,Ph.D,9.12,4,Baker Hughes
+2008S0732S,Mechanical Engineering,M.Sc,5.19,4,JK Fenner
+2008A0735A,Chemisty,B.E,8.2,4,DataZymes
+2008D0741D,Electrical and Electronics Engineering,Ph.D,6.77,4,Unplaced
+2008A0752A,Physics,B.E,7.21,4,MICROCHIP
+2008P0754P,Economics and Finanace,B.Pharm,9.81,4,Deloitte
+2008A0769A,Chemical Engineering,B.E,9.6,4,Bayer
+2008A0775A,Biological Sciences,B.E,7.63,4,Aurobindo Pharma
+2008A0778A,Humanities and Social Sciences,B.E,9.88,4,Aditya Birla Group
+2008P0784P,Economics and Finanace,B.Pharm,5.92,4,Unplaced
+2008H0790H,Mathematics,M.E,7.16,4,Flipkart
+2008P0803P,Computer Science and Information Systems,B.Pharm,6.78,4,Unplaced
+2008A0805A,Electrical and Electronics Engineering,B.E,8.07,4,Hitachi
+2008A0808A,Electrical and Electronics Engineering,B.E,8.16,4,Unplaced
+2008S0811S,Physics,M.Sc,6.34,4,IBM
+2008A0813A,Physics,B.E,7.93,4,Texas Instruments
+2008A0818A,Chemical Engineering,B.E,5.32,4,Occidental Petroleum Corporation (OxyChem)
+2008A0819A,Mathematics,B.E,5.27,4,Flipkart
+2008H0822H,Chemical Engineering,M.E,8.27,4,Evonik Industries
+2008A0826A,Economics and Finanace,B.E,9.32,4,Wells Fargo
+2008A0827A,Mathematics,B.E,9.67,4,Unplaced
+2008A0829A,Mechanical Engineering,B.E,7.99,4,Micron
+2008P0836P,Humanities and Social Sciences,B.Pharm,9.73,4,Google
+2008A0837A,Computer Science and Information Systems,B.E,5.05,4,Commvault
+2008D0839D,Mathematics,Ph.D,6.87,4,Unplaced
+2008A0841A,Chemisty,B.E,8.57,4,Honeywell UOP
+2008A0847A,Pharmacy,B.E,7.28,4,Ipca Laboratories
+2008A0848A,Computer Science and Information Systems,B.E,8.5,4,Mashreq
+2008H0852H,Computer Science and Information Systems,M.E,5.63,4,VISA
+2008H0855H,Electrical and Electronics Engineering,M.E,6.56,4,MathWorks
+2008S0858S,Biological Sciences,M.Sc,6.33,4,Biocon
+2008H0862H,Physics,M.E,6.24,4,SynOPSYS
+2008A0875A,Biological Sciences,B.E,9.84,4,DataZymes
+2008D0877D,Chemical Engineering,Ph.D,6.24,4,Unplaced
+2008H0885H,Computer Science and Information Systems,M.E,9.49,4,Commvault
+2008H0891H,Chemical Engineering,M.E,7.66,4,Lanxess
+2008S0893S,Humanities and Social Sciences,M.Sc,5.0,4,Unplaced
+2008A0896A,Economics and Finanace,B.E,8.61,4,Wells Fargo
+2008D0897D,Civil Engineering,Ph.D,7.62,4,"Daelim Industrial Co., Ltd."
+2008H0904H,Biological Sciences,M.E,7.86,4,Pfizer
+2008A0910A,Economics and Finanace,B.E,7.79,4,Boston Consulting Group (BCG)
+2008H0915H,Chemical Engineering,M.E,8.63,4,Bayer
+2008H0918H,Mathematics,M.E,8.75,4,Unplaced
+2008A0920A,Pharmacy,B.E,7.29,4,Biocon
+2008A0923A,Pharmacy,B.E,5.79,4,Unplaced
+2008S0925S,Economics and Finanace,M.Sc,7.06,4,JP Morgan
+2008A0927A,Mechanical Engineering,B.E,7.73,4,Unplaced
+2008A0929A,Economics and Finanace,B.E,9.81,4,Standard Chartered
+2008P0938P,Computer Science and Information Systems,B.Pharm,5.46,4,Secureworks
+2008A0940A,Physics,B.E,6.62,4,Unplaced
+2008A0943A,Physics,B.E,9.04,4,MathWorks
+2008P0945P,Economics and Finanace,B.Pharm,9.4,4,Unplaced
+2008P0948P,Pharmacy,B.Pharm,8.89,4,Dr. Reddys Laboratories
+2008H0952H,Chemisty,M.E,5.25,4,Honeywell UOP
+2008S0954S,Civil Engineering,M.Sc,7.16,4,Leighton Holdings
+2008H0962H,Civil Engineering,M.E,5.36,4,RAMBOLL
+2008H0964H,Chemical Engineering,M.E,8.36,4,Procter & Gamble
+2008A0968A,Mechanical Engineering,B.E,9.11,4,Unplaced
+2008S0986S,Chemical Engineering,M.Sc,5.1,4,ADM (Archer Daniels Midland)
+2008A0989A,Chemisty,B.E,5.99,4,Eastman Chemical Company
+2008A0995A,Pharmacy,B.E,6.29,4,Unplaced
+2008A0997A,Civil Engineering,B.E,5.76,4,LISEN A TOLERO
+2008A0998A,Pharmacy,B.E,5.69,4,КАВІ
+2008A1016A,Economics and Finanace,B.E,5.4,4,Barclays
+2008A1017A,Chemisty,B.E,7.51,4,Cipla
+2008A1024A,Civil Engineering,B.E,5.33,4,Bechtel Corporation
+2008A1026A,Humanities and Social Sciences,B.E,9.44,4,American Express
+2008D1027D,Electrical and Electronics Engineering,Ph.D,8.88,4,Xilinx
+2008H1029H,Mathematics,M.E,5.55,4,Cisco
+2008A1033A,Civil Engineering,B.E,6.46,4,Dragados
+2008S1037S,Humanities and Social Sciences,M.Sc,9.15,4,Reliance Industries
+2008A1040A,Electrical and Electronics Engineering,B.E,7.07,4,Texas Instruments
+2008A1046A,Chemical Engineering,B.E,7.62,4,AkzoNobel
+2008A1052A,Computer Science and Information Systems,B.E,8.65,4,Mashreq
+2008H1056H,Humanities and Social Sciences,M.E,7.49,4,Procter & Gamble
+2008H1057H,Mathematics,M.E,9.04,4,Unplaced
+2008A1058A,Civil Engineering,B.E,6.08,4,Dragados
+2008A1070A,Economics and Finanace,B.E,6.84,4,Moodys Investors Service
+2008A1080A,Chemisty,B.E,8.07,4,Unplaced
+2008H1081H,Mathematics,M.E,8.65,4,Unplaced
+2008H1084H,Biological Sciences,M.E,5.59,4,Zydus Cadila
+2008A1086A,Mechanical Engineering,B.E,9.99,4,Micron
+2008H1094H,Pharmacy,M.E,7.4,4,DataZymes
+2008A1095A,Biological Sciences,B.E,8.23,4,Zydus Cadila
+2008P1097P,Humanities and Social Sciences,B.Pharm,8.92,4,Reliance Industries
+2008D1103D,Biological Sciences,Ph.D,6.7,4,FRESENIUS
+2008A1108A,Computer Science and Information Systems,B.E,7.07,4,Unplaced
+2008H1112H,Civil Engineering,M.E,9.57,4,IcoNS
+2008S1113S,Mathematics,M.Sc,5.12,4,Unplaced
+2008H1118H,Civil Engineering,M.E,8.62,4,Unplaced
+2008H1127H,Mathematics,M.E,6.6,4,Flipkart
+2008P1138P,Electrical and Electronics Engineering,B.Pharm,6.96,4,Altera
+2008D1142D,Physics,Ph.D,7.34,4,A Lam
+2008A1143A,Computer Science and Information Systems,B.E,8.42,4,Axtria
+2008A1153A,Computer Science and Information Systems,B.E,7.66,4,Qualcomm
+2008S1155S,Mathematics,M.Sc,5.8,4,IBM
+2008S1157S,Physics,M.Sc,7.95,4,MEDIATEK
+2008H1160H,Physics,M.E,9.65,4,SAMSUNG
+2008A1161A,Chemical Engineering,B.E,7.96,4,Air Liquide
+2008A1162A,Economics and Finanace,B.E,7.78,4,American Express
+2008H1163H,Chemisty,M.E,6.54,4,freyr
+2008A1164A,Chemical Engineering,B.E,7.99,4,AkzoNobel
+2008A1168A,Chemisty,B.E,8.3,4,DuPont
+2008H1169H,Mathematics,M.E,6.46,4,AMD
+2008A1173A,Chemical Engineering,B.E,7.91,4,SABIC
+2008H1178H,Civil Engineering,M.E,7.16,4,IcoNS
+2008A1179A,Pharmacy,B.E,6.59,4,Cadila Healthcare
+2008A1185A,Chemisty,B.E,8.61,4,Eastman Chemical Company
+2008A1187A,Chemical Engineering,B.E,5.69,4,AkzoNobel
+2008H1188H,Humanities and Social Sciences,M.E,9.47,4,Unplaced
+2008A1189A,Mechanical Engineering,B.E,5.9,4,Boeing
+2008A1190A,Mathematics,B.E,9.1,4,Microsoft
+2008H1191H,Economics and Finanace,M.E,6.13,4,Accenture
+2008A1192A,Mechanical Engineering,B.E,5.04,4,Unplaced
+2008A1195A,Biological Sciences,B.E,9.89,4,КАВІ
+2008H1196H,Physics,M.E,6.84,4,Texas Instruments
+2008H1202H,Mathematics,M.E,8.89,4,Unplaced
+2008A1203A,Humanities and Social Sciences,B.E,7.56,4,Microsoft
+2008A1204A,Mechanical Engineering,B.E,8.67,4,Procter & Gamble
+2008P1207P,Mechanical Engineering,B.Pharm,6.3,4,Lime
+2008H1215H,Mechanical Engineering,M.E,8.69,4,Rolls-Royce
+2008D1220D,Humanities and Social Sciences,Ph.D,8.76,4,Bain & Company
+2008H1221H,Electrical and Electronics Engineering,M.E,6.19,4,Intel
+2008H1225H,Biological Sciences,M.E,5.84,4,DataZymes
+2008S1227S,Electrical and Electronics Engineering,M.Sc,8.42,4,Xilinx
+2008A1228A,Humanities and Social Sciences,B.E,6.31,4,American Express
+2008P1229P,Biological Sciences,B.Pharm,6.44,4,Alkem Laboratories
+2008A1234A,Computer Science and Information Systems,B.E,8.27,4,MathWorks
+2008H1240H,Mathematics,M.E,5.52,4,Qualcomm
+2008P1252P,Computer Science and Information Systems,B.Pharm,8.89,4,Flipkart
+2008A1255A,Chemisty,B.E,7.2,4,КАВІ
+2008A1259A,Mechanical Engineering,B.E,8.22,4,Lime
+2008H1262H,Humanities and Social Sciences,M.E,5.09,4,WNS Global Services
+2008H1265H,Chemisty,M.E,8.5,4,freyr
+2008A1266A,Mechanical Engineering,B.E,5.02,4,Shell
+2008A1268A,Mathematics,B.E,6.13,4,Flipkart
+2008A1269A,Physics,B.E,9.09,4,Panasonic
+2008A1271A,Economics and Finanace,B.E,8.41,4,Unplaced
+2008A1278A,Pharmacy,B.E,8.44,4,Aizant
+2008H1279H,Chemical Engineering,M.E,9.43,4,"KBR, Inc."
+2008A1283A,Humanities and Social Sciences,B.E,7.67,4,Unplaced
+2008A1286A,Electrical and Electronics Engineering,B.E,5.59,4,SILICON LABS
+2008P1289P,Biological Sciences,B.Pharm,8.68,4,Unplaced
+2008A1296A,Chemical Engineering,B.E,9.02,4,Wood Group
+2008H1297H,Economics and Finanace,M.E,9.06,4,Fitch Ratings
+2008A1304A,Chemisty,B.E,5.5,4,Cipla
+2008A1305A,Chemisty,B.E,5.08,4,DuPont
+2008A1308A,Electrical and Electronics Engineering,B.E,8.47,4,SynOPSYS
+2008A1310A,Pharmacy,B.E,6.35,4,Alembic Pharmaceuticals
+2008S1320S,Chemisty,M.Sc,8.43,4,Aizant
+2008H1324H,Mechanical Engineering,M.E,9.03,4,Infineon
+2008A1331A,Civil Engineering,B.E,5.49,4,IcoNS
+2008A1333A,Chemical Engineering,B.E,7.35,4,Covestro
+2008P1335P,Civil Engineering,B.Pharm,9.64,4,LISEN A TOLERO
+2008A1340A,Computer Science and Information Systems,B.E,5.68,4,Teradata
+2008P1345P,Chemical Engineering,B.Pharm,7.06,4,Unplaced
+2008A1346A,Civil Engineering,B.E,7.96,4,AECOM
+2008A1347A,Computer Science and Information Systems,B.E,5.07,4,Unplaced
+2008P1353P,Electrical and Electronics Engineering,B.Pharm,7.66,4,Ricoh
+2008S1354S,Physics,M.Sc,9.11,4,Unplaced
+2008A1365A,Mathematics,B.E,5.16,4,Unplaced
+2008A1374A,Mathematics,B.E,5.57,4,Unplaced
+2008A1377A,Economics and Finanace,B.E,9.49,4,CRISIL
+2008H1382H,Civil Engineering,M.E,9.46,4,Unplaced
+2008A1389A,Humanities and Social Sciences,B.E,6.73,4,Axis Bank
+2008S1392S,Mathematics,M.Sc,8.22,4,Dell
+2008A1394A,Humanities and Social Sciences,B.E,7.97,4,Amazon
+2008S1403S,Economics and Finanace,M.Sc,7.87,4,Unplaced
+2008A1406A,Economics and Finanace,B.E,5.74,4,Fitch Ratings
+2008S1408S,Chemical Engineering,M.Sc,9.6,4,Dow
+2008S1409S,Humanities and Social Sciences,M.Sc,8.84,4,Reliance Industries
+2008S1411S,Pharmacy,M.Sc,8.53,4,Biocon Biologics
+2008A1413A,Mechanical Engineering,B.E,8.64,4,Honda
+2008A1414A,Economics and Finanace,B.E,8.45,4,Unplaced
+2008A1420A,Civil Engineering,B.E,5.11,4,Unplaced
+2008A1422A,Mathematics,B.E,6.97,4,Trilogy
+2008H1427H,Economics and Finanace,M.E,6.76,4,Moodys Investors Service
+2008S1428S,Mathematics,M.Sc,5.44,4,Trilogy
+2008S1429S,Physics,M.Sc,9.96,4,onsemi
+2008A1430A,Computer Science and Information Systems,B.E,5.82,4,Mashreq
+2008P1434P,Chemical Engineering,B.Pharm,9.67,4,Praxair
+2008A1436A,Electrical and Electronics Engineering,B.E,5.87,4,Unplaced
+2008H1438H,Civil Engineering,M.E,5.93,4,AECOM
+2008H1441H,Humanities and Social Sciences,M.E,7.8,4,HDFC Bank
+2008D1443D,Chemisty,Ph.D,6.31,4,Unplaced
+2008A1448A,Mechanical Engineering,B.E,8.73,4,Unplaced
+2008D1464D,Economics and Finanace,Ph.D,8.89,4,HSBC
+2008H1478H,Chemical Engineering,M.E,5.09,4,AkzoNobel
+2008A1494A,Mathematics,B.E,9.26,4,AMD
+2008P1497P,Chemisty,B.Pharm,9.17,4,Eastman Chemical Company
+2008P1502P,Biological Sciences,B.Pharm,5.41,4,GSK Pharmaceuticals
+2008P1503P,Chemical Engineering,B.Pharm,6.92,4,3M
+2008A1504A,Mechanical Engineering,B.E,8.68,4,ARUP
+2008A1508A,Chemisty,B.E,5.06,4,Aizant
+2008A1509A,Pharmacy,B.E,5.53,4,AstraZeneca
+2008A1511A,Chemical Engineering,B.E,5.72,4,"KBR, Inc."
+2008H1515H,Economics and Finanace,M.E,6.0,4,Unplaced
+2008P1516P,Chemical Engineering,B.Pharm,6.16,4,Unplaced
+2008A1519A,Humanities and Social Sciences,B.E,8.33,4,Microsoft
+2008A1527A,Chemical Engineering,B.E,8.31,4,ADM (Archer Daniels Midland)
+2008A1528A,Humanities and Social Sciences,B.E,6.01,4,Tata Steel
+2008A1532A,Electrical and Electronics Engineering,B.E,7.25,4,Unplaced
+2008A1535A,Physics,B.E,5.82,4,MICROCHIP
+2008P1536P,Chemisty,B.Pharm,6.56,4,DataZymes
+2008D1537D,Humanities and Social Sciences,Ph.D,8.82,4,Reliance Industries
+2008H1538H,Pharmacy,M.E,7.77,4,Zydus Cadila
+2008A1541A,Humanities and Social Sciences,B.E,7.96,4,Capgemini
+2008A1552A,Mathematics,B.E,6.63,4,Flipkart
+2008P1553P,Pharmacy,B.Pharm,9.32,4,AstraZeneca
+2008A1554A,Computer Science and Information Systems,B.E,5.1,4,Google
+2008P1557P,Mechanical Engineering,B.Pharm,5.49,4,Unplaced
+2008A1563A,Biological Sciences,B.E,6.49,4,КАВІ
+2008A1567A,Mechanical Engineering,B.E,9.01,4,ExxonMobil
+2008H1574H,Mechanical Engineering,M.E,7.5,4,Lockheed Martin
+2008A1575A,Computer Science and Information Systems,B.E,9.69,4,Piramal
+2008A1577A,Mathematics,B.E,6.0,4,Flipkart
+2008S1580S,Pharmacy,M.Sc,6.02,4,Alkem Laboratories
+2008A1585A,Humanities and Social Sciences,B.E,7.43,4,Unplaced
+2008A1599A,Economics and Finanace,B.E,9.16,4,Fidelity International
+2008D1614D,Humanities and Social Sciences,Ph.D,6.94,4,ITC Limited
+2008H1617H,Humanities and Social Sciences,M.E,8.16,4,Deloitte
+2008A1619A,Humanities and Social Sciences,B.E,7.36,4,Infosys
+2008S1624S,Pharmacy,M.Sc,8.21,4,Zydus Cadila
+2008A1625A,Pharmacy,B.E,5.68,4,Lupin Limited
+2008A1632A,Computer Science and Information Systems,B.E,5.99,4,Qualcomm
+2008A1633A,Economics and Finanace,B.E,5.91,4,BNP Paribas
+2008A1638A,Biological Sciences,B.E,7.01,4,Unplaced
+2008S1641S,Biological Sciences,M.Sc,8.59,4,Unplaced
+2008A1642A,Humanities and Social Sciences,B.E,9.14,4,Unplaced
+2008A1645A,Computer Science and Information Systems,B.E,8.73,4,CONFLUENT
+2008A1648A,Physics,B.E,8.39,4,Panasonic
+2008P1652P,Economics and Finanace,B.Pharm,7.91,4,Capital IQ
+2008H1654H,Economics and Finanace,M.E,9.87,4,Moodys Analytics
+2008A1655A,Pharmacy,B.E,6.06,4,Lupin Limited
+2008H1660H,Biological Sciences,M.E,6.27,4,SII
+2008A1669A,Physics,B.E,6.8,4,SILICON LABS
+2008A1673A,Economics and Finanace,B.E,8.68,4,Fidelity International
+2008A1674A,Chemisty,B.E,7.78,4,Elucidata
+2008P1676P,Civil Engineering,B.Pharm,5.92,4,Kiewit Corporation
+2008A1677A,Computer Science and Information Systems,B.E,5.82,4,AMD
+2008A1678A,Electrical and Electronics Engineering,B.E,5.58,4,SynOPSYS
+2008A1679A,Biological Sciences,B.E,7.21,4,Unplaced
+2008H1691H,Humanities and Social Sciences,M.E,9.15,4,Procter & Gamble
+2008A1694A,Biological Sciences,B.E,8.28,4,Wockhardt
+2008S1698S,Mathematics,M.Sc,9.76,4,Mediatek
+2008A1700A,Civil Engineering,B.E,9.83,4,Unplaced
+2008A1702A,Chemisty,B.E,6.94,4,Unplaced
+2008P1704P,Chemical Engineering,B.Pharm,6.49,4,Praxair
+2008A1708A,Mathematics,B.E,6.0,4,Cisco
+2008A1709A,Electrical and Electronics Engineering,B.E,7.38,4,AMDET
+2008A1711A,Mechanical Engineering,B.E,5.93,4,Infineon
+2008A1723A,Mathematics,B.E,5.08,4,AMD
+2008A1724A,Chemisty,B.E,8.93,4,Honeywell UOP
+2008H1726H,Economics and Finanace,M.E,7.94,4,Accenture
+2008A1732A,Chemisty,B.E,8.28,4,SABIC
+2008A1733A,Physics,B.E,7.03,4,proteanTecs
+2008A1735A,Physics,B.E,8.37,4,MathWorks
+2008A1741A,Chemical Engineering,B.E,6.5,4,Occidental Petroleum Corporation (OxyChem)
+2008H1744H,Physics,M.E,8.51,4,CISCO
+2008A1745A,Humanities and Social Sciences,B.E,5.1,4,Procter & Gamble
+2008A1747A,Mechanical Engineering,B.E,9.15,4,ANAND
+2008H1749H,Pharmacy,M.E,9.24,4,ADITYA BIRLA
+2008A1751A,Biological Sciences,B.E,7.44,4,Ipca Laboratories
+2008P1752P,Mechanical Engineering,B.Pharm,8.62,4,SONA COMSTAR
+2008S1755S,Computer Science and Information Systems,M.Sc,9.46,4,Unplaced
+2008H1761H,Mechanical Engineering,M.E,9.27,4,Lockheed Martin
+2008A1762A,Chemisty,B.E,9.42,4,Cipla
+2008D1767D,Civil Engineering,Ph.D,5.78,4,Bechtel Corporation
+2008A1768A,Chemical Engineering,B.E,8.97,4,AkzoNobel
+2008A1774A,Chemical Engineering,B.E,7.81,4,INEOS
+2008P1778P,Biological Sciences,B.Pharm,9.63,4,Emcure Pharmaceuticals
+2008P1784P,Humanities and Social Sciences,B.Pharm,8.81,4,Axis Bank
+2008A1787A,Chemical Engineering,B.E,9.24,4,INEOS
+2008S1789S,Civil Engineering,M.Sc,9.17,4,Dragados
+2008D1791D,Chemical Engineering,Ph.D,6.33,4,Unplaced
+2008D1793D,Chemisty,Ph.D,8.77,4,DataZymes
+2008A1794A,Civil Engineering,B.E,5.69,4,Thornton Tomasetti
+2008H1795H,Electrical and Electronics Engineering,M.E,9.59,4,Ricoh
+2008A1799A,Chemical Engineering,B.E,6.69,4,Linde
+2008D1800D,Chemisty,Ph.D,7.17,4,КАВІ
+2008A1807A,Mathematics,B.E,8.12,4,BLEND360
+2008A1808A,Physics,B.E,6.73,4,AMDET
+2008P1810P,Biological Sciences,B.Pharm,7.69,4,Zydus
+2008A1830A,Economics and Finanace,B.E,8.38,4,Unplaced
+2008H1831H,Mechanical Engineering,M.E,7.79,4,Unplaced
+2008A1832A,Computer Science and Information Systems,B.E,7.92,4,Rizzle
+2008A1833A,Humanities and Social Sciences,B.E,8.45,4,HDFC Bank
+2008P1835P,Chemisty,B.Pharm,7.42,4,Unplaced
+2008H1837H,Physics,M.E,6.06,4,Micron
+2008H1839H,Chemical Engineering,M.E,8.01,4,Baker Hughes
+2008D1844D,Chemisty,Ph.D,5.71,4,Shell
+2008H1846H,Computer Science and Information Systems,M.E,6.08,4,Unplaced
+2008A1848A,Chemical Engineering,B.E,9.35,4,3M
+2008A1849A,Humanities and Social Sciences,B.E,7.87,4,Tata Steel
+2008A1850A,Economics and Finanace,B.E,8.91,4,HSBC
+2008A1852A,Chemisty,B.E,7.52,4,SABIC
+2008A1854A,Physics,B.E,6.63,4,Dolcera
+2008P1855P,Electrical and Electronics Engineering,B.Pharm,6.16,4,LG Electronics
+2008H1856H,Economics and Finanace,M.E,7.7,4,Wells Fargo
+2008S1861S,Mechanical Engineering,M.Sc,7.61,4,Unplaced
+2008P1865P,Civil Engineering,B.Pharm,9.15,4,Unplaced
+2008A1867A,Electrical and Electronics Engineering,B.E,7.94,4,Intel
+2008S1873S,Chemisty,M.Sc,6.53,4,Unplaced
+2008A1880A,Humanities and Social Sciences,B.E,7.54,4,Wipro
+2008A1886A,Computer Science and Information Systems,B.E,7.84,4,IBM
+2008H1889H,Civil Engineering,M.E,7.69,4,Kiewit Corporation
+2008P1890P,Humanities and Social Sciences,B.Pharm,5.21,4,Genpact
+2008A1892A,Biological Sciences,B.E,5.3,4,Alkem Laboratories
+2008A1893A,Computer Science and Information Systems,B.E,7.99,4,Piramal
+2008P1905P,Pharmacy,B.Pharm,9.61,4,Aragen
+2008A1907A,Electrical and Electronics Engineering,B.E,7.78,4,STMicroelectronics
+2008H1909H,Mathematics,M.E,5.15,4,Amazon
+2008A1910A,Pharmacy,B.E,5.62,4,Unplaced
+2008A1917A,Physics,B.E,6.11,4,MICROCHIP
+2008A1918A,Economics and Finanace,B.E,5.18,4,Standard Chartered
+2008H1920H,Biological Sciences,M.E,5.98,4,Novartis
+2008A1921A,Chemical Engineering,B.E,9.35,4,Evonik Industries
+2008H1928H,Pharmacy,M.E,7.8,4,Natco Pharma
+2008A1930A,Economics and Finanace,B.E,7.16,4,Fitch Ratings
+2008H1931H,Computer Science and Information Systems,M.E,5.61,4,Western Digital
+2008A1937A,Physics,B.E,6.13,4,INSTRUMENTS
+2008A1943A,Computer Science and Information Systems,B.E,6.24,4,Piramal
+2008A1946A,Chemical Engineering,B.E,8.88,4,Mitsubishi Chemical Corporation
+2008P1950P,Chemisty,B.Pharm,5.31,4,SABIC
+2008A1951A,Biological Sciences,B.E,6.51,4,AstraZeneca
+2008D1953D,Mathematics,Ph.D,5.26,4,IBM
+2008A1954A,Electrical and Electronics Engineering,B.E,5.48,4,SynOPSYS
+2008H1956H,Humanities and Social Sciences,M.E,6.92,4,Infosys
+2008A1963A,Economics and Finanace,B.E,7.11,4,KPMG
+2008H1965H,Biological Sciences,M.E,5.64,4,Glenmark Pharmaceuticals
+2008D1974D,Economics and Finanace,Ph.D,5.95,4,Unplaced
+2008A1975A,Physics,B.E,8.46,4,proteanTecs
+2008A1983A,Physics,B.E,6.88,4,CISCO
+2008S1997S,Pharmacy,M.Sc,5.86,4,DataZymes
+2008A2005A,Chemisty,B.E,9.26,4,FRESENIUS
+2008P2006P,Civil Engineering,B.Pharm,8.64,4,Acciona
+2008H2010H,Economics and Finanace,M.E,8.56,4,IHS Markit
+2008D2011D,Physics,Ph.D,9.78,4,Unplaced
+2008A2014A,Humanities and Social Sciences,B.E,9.32,4,Unplaced
+2008A2015A,Civil Engineering,B.E,6.53,4,Unplaced
+2008A2019A,Civil Engineering,B.E,7.92,4,Balfour Beatty
+2008A2020A,Mathematics,B.E,8.11,4,BLEND360
+2008H2021H,Humanities and Social Sciences,M.E,7.34,4,Hindustan Unilever Limited (HUL)
+2008A2035A,Economics and Finanace,B.E,8.92,4,Unplaced
+2008A2039A,Humanities and Social Sciences,B.E,6.17,4,Unplaced
+2008P2042P,Electrical and Electronics Engineering,B.Pharm,8.85,4,proteanTecs
+2008P2047P,Economics and Finanace,B.Pharm,6.13,4,Fidelity International
+2008A2051A,Mechanical Engineering,B.E,8.15,4,Unplaced
+2008H2052H,Electrical and Electronics Engineering,M.E,6.02,4,Cypress Semiconductor
+2008D2054D,Humanities and Social Sciences,Ph.D,5.54,4,Capgemini
+2008P2057P,Biological Sciences,B.Pharm,9.13,4,Aragen
+2008A2062A,Chemisty,B.E,6.63,4,Elucidata
+2008S2064S,Chemisty,M.Sc,7.68,4,DuPont
+2008A2067A,Electrical and Electronics Engineering,B.E,9.09,4,MathWorks
+2008A2069A,Mechanical Engineering,B.E,6.01,4,Lockheed Martin
+2008A2071A,Humanities and Social Sciences,B.E,5.32,4,Genpact
+2008H2073H,Mechanical Engineering,M.E,9.4,4,Lockheed Martin
+2008A2075A,Computer Science and Information Systems,B.E,8.23,4,Unplaced
+2008H2078H,Electrical and Electronics Engineering,M.E,6.25,4,Texas Instruments
+2008A2080A,Physics,B.E,7.84,4,Dolcera
+2008A2088A,Civil Engineering,B.E,7.53,4,Bechtel Corporation
+2008H2089H,Biological Sciences,M.E,5.37,4,Novartis
+2008A2090A,Electrical and Electronics Engineering,B.E,6.72,4,Microsemi
+2008A2093A,Economics and Finanace,B.E,8.35,4,Fidelity International
+2008P2095P,Pharmacy,B.Pharm,6.21,4,Aragen
+2008A2099A,Chemical Engineering,B.E,7.67,4,Honeywell UOP
+2008A2101A,Pharmacy,B.E,6.37,4,AstraZeneca
+2008P2103P,Pharmacy,B.Pharm,7.66,4,Unplaced
+2008S2105S,Electrical and Electronics Engineering,M.Sc,8.45,4,Hitachi

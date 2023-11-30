@@ -1,0 +1,2982 @@
+Student ID,Course,Degree,CGPA,Year,Placement
+2022S0003S,Mathematics,M.Sc,6.87,4,Dell
+2022A0004A,Pharmacy,B.E,5.85,4,Alembic Pharmaceuticals
+2022S0005S,Chemisty,M.Sc,7.42,4,FRESENIUS
+2022S0009S,Pharmacy,M.Sc,5.98,4,ADITYA BIRLA
+2022H0018H,Civil Engineering,M.E,8.45,4,AMARARALA
+2022A0023A,Civil Engineering,B.E,6.14,4,Gammon Construction
+2022D0026D,Civil Engineering,Ph.D,7.39,4,"Daelim Industrial Co., Ltd."
+2022A0028A,Mathematics,B.E,7.95,4,Piramal
+2022H0029H,Computer Science and Information Systems,M.E,7.85,4,Tenstorrent
+2022A0030A,Chemical Engineering,B.E,8.6,4,Occidental Petroleum Corporation (OxyChem)
+2022D0031D,Pharmacy,Ph.D,5.97,4,Unplaced
+2022D0032D,Biological Sciences,Ph.D,6.26,4,Aurobindo Pharma
+2022A0038A,Humanities and Social Sciences,B.E,5.03,4,Accenture
+2022A0044A,Economics and Finanace,B.E,8.83,4,Barclays
+2022H0047H,Chemisty,M.E,5.96,4,Honeywell UOP
+2022P0049P,Economics and Finanace,B.Pharm,9.78,4,American Express
+2022H0050H,Pharmacy,M.E,7.98,4,Dr. Reddys Laboratories
+2022A0055A,Humanities and Social Sciences,B.E,6.54,4,Amazon
+2022H0056H,Electrical and Electronics Engineering,M.E,5.03,4,SynOPSYS
+2022H0058H,Pharmacy,M.E,9.03,4,КАВІ
+2022P0062P,Economics and Finanace,B.Pharm,7.14,4,JP Morgan
+2022D0064D,Civil Engineering,Ph.D,8.09,4,Acciona
+2022S0066S,Chemisty,M.Sc,6.63,4,Linde
+2022A0068A,Pharmacy,B.E,6.95,4,Zydus
+2022A0069A,Civil Engineering,B.E,6.4,4,Gammon Construction
+2022A0071A,Computer Science and Information Systems,B.E,7.69,4,MathWorks
+2022H0073H,Physics,M.E,5.37,4,NXP Semiconductors
+2022D0080D,Economics and Finanace,Ph.D,9.53,4,Goldman Sachs
+2022P0081P,Civil Engineering,B.Pharm,5.92,4,Force
+2022S0085S,Chemisty,M.Sc,5.6,4,Unplaced
+2022A0086A,Electrical and Electronics Engineering,B.E,6.98,4,Fujitsu
+2022A0088A,Mathematics,B.E,6.87,4,Teradata
+2022A0095A,Chemical Engineering,B.E,8.84,4,Solvay
+2022H0098H,Pharmacy,M.E,7.88,4,Unplaced
+2022A0099A,Mathematics,B.E,8.91,4,IBM
+2022A0101A,Biological Sciences,B.E,8.12,4,Biocon
+2022S0115S,Economics and Finanace,M.Sc,5.14,4,McKinsey & Company
+2022A0116A,Chemical Engineering,B.E,9.17,4,Unplaced
+2022A0118A,Electrical and Electronics Engineering,B.E,5.25,4,Unplaced
+2022A0119A,Electrical and Electronics Engineering,B.E,5.99,4,Unplaced
+2022H0124H,Physics,M.E,9.98,4,SynOPSYS
+2022A0127A,Mathematics,B.E,5.56,4,Intel
+2022A0128A,Biological Sciences,B.E,5.04,4,Dr. Reddys Laboratories
+2022H0133H,Pharmacy,M.E,8.22,4,ADITYA BIRLA
+2022H0138H,Mathematics,M.E,5.78,4,AMD
+2022A0148A,Biological Sciences,B.E,6.66,4,Divis Laboratories
+2022A0150A,Electrical and Electronics Engineering,B.E,5.23,4,Altera
+2022H0154H,Chemical Engineering,M.E,9.84,4,BASF
+2022A0155A,Electrical and Electronics Engineering,B.E,9.28,4,Fujitsu
+2022A0163A,Physics,B.E,5.47,4,Dolcera
+2022A0170A,Physics,B.E,9.53,4,Unplaced
+2022S0174S,Biological Sciences,M.Sc,7.86,4,DataZymes
+2022A0175A,Economics and Finanace,B.E,5.94,4,CRISIL
+2022A0176A,Humanities and Social Sciences,B.E,9.96,4,Aditya Birla Group
+2022A0177A,Mechanical Engineering,B.E,6.31,4,ExxonMobil
+2022D0180D,Computer Science and Information Systems,Ph.D,6.7,4,Google
+2022A0183A,Chemical Engineering,B.E,8.91,4,GSK
+2022H0185H,Chemical Engineering,M.E,6.14,4,BASF
+2022S0197S,Physics,M.Sc,5.76,4,Unplaced
+2022H0198H,Civil Engineering,M.E,6.39,4,Unplaced
+2022A0199A,Computer Science and Information Systems,B.E,6.95,4,Tenstorrent
+2022H0217H,Mathematics,M.E,8.71,4,Cisco
+2022H0221H,Chemical Engineering,M.E,8.13,4,Unplaced
+2022H0222H,Mechanical Engineering,M.E,5.84,4,Faurecia
+2022S0225S,Civil Engineering,M.Sc,9.35,4,Unplaced
+2022A0226A,Physics,B.E,9.82,4,Dolcera
+2022H0229H,Pharmacy,M.E,7.54,4,kmk
+2022S0231S,Chemical Engineering,M.Sc,5.06,4,Unplaced
+2022P0234P,Chemical Engineering,B.Pharm,9.99,4,Praxair
+2022A0235A,Mathematics,B.E,8.03,4,BLEND360
+2022S0236S,Mechanical Engineering,M.Sc,7.59,4,Mercedes Benz
+2022S0239S,Economics and Finanace,M.Sc,7.9,4,Morningstar
+2022A0241A,Economics and Finanace,B.E,8.24,4,S&P Global
+2022A0243A,Electrical and Electronics Engineering,B.E,9.07,4,CISCO
+2022A0246A,Chemical Engineering,B.E,6.46,4,3M
+2022A0257A,Physics,B.E,5.45,4,Tenstorrent
+2022A0259A,Electrical and Electronics Engineering,B.E,6.01,4,Intel
+2022A0260A,Economics and Finanace,B.E,6.69,4,American Express
+2022A0264A,Mathematics,B.E,7.69,4,Intel
+2022H0266H,Chemical Engineering,M.E,5.45,4,Unplaced
+2022S0271S,Economics and Finanace,M.Sc,10.0,4,Standard Chartered
+2022A0275A,Civil Engineering,B.E,9.38,4,Unplaced
+2022A0278A,Mechanical Engineering,B.E,7.42,4,Faurecia
+2022P0280P,Electrical and Electronics Engineering,B.Pharm,5.93,4,Honeywell
+2022P0281P,Pharmacy,B.Pharm,7.88,4,Cipla
+2022P0287P,Mechanical Engineering,B.Pharm,5.64,4,Mercedes Benz
+2022P0291P,Humanities and Social Sciences,B.Pharm,8.09,4,Unplaced
+2022A0297A,Physics,B.E,7.99,4,MEDIATEK
+2022A0299A,Electrical and Electronics Engineering,B.E,6.08,4,Unplaced
+2022D0301D,Economics and Finanace,Ph.D,6.16,4,Barclays
+2022S0305S,Chemical Engineering,M.Sc,8.07,4,Monsanto
+2022A0308A,Chemisty,B.E,5.15,4,Honeywell UOP
+2022A0310A,Chemical Engineering,B.E,9.73,4,GSK
+2022P0311P,Electrical and Electronics Engineering,B.Pharm,6.91,4,STMicroelectronics
+2022A0330A,Mathematics,B.E,5.74,4,Intel
+2022A0335A,Mechanical Engineering,B.E,9.6,4,Ford Motor Company
+2022A0336A,Pharmacy,B.E,7.74,4,Zydus Cadila
+2022S0339S,Civil Engineering,M.Sc,9.8,4,RAMBOLL
+2022H0341H,Economics and Finanace,M.E,5.29,4,Standard Chartered
+2022S0344S,Mathematics,M.Sc,7.81,4,Cisco
+2022P0347P,Computer Science and Information Systems,B.Pharm,9.72,4,Infineon
+2022H0350H,Economics and Finanace,M.E,7.81,4,Thomson Reuters
+2022A0368A,Economics and Finanace,B.E,9.59,4,Moodys Investors Service
+2022H0370H,Mechanical Engineering,M.E,8.34,4,Faurecia
+2022A0373A,Electrical and Electronics Engineering,B.E,8.45,4,IBM
+2022S0382S,Pharmacy,M.Sc,8.58,4,Unplaced
+2022A0386A,Chemical Engineering,B.E,7.77,4,Johnson Matthey
+2022H0389H,Civil Engineering,M.E,5.19,4,Kiewit Corporation
+2022H0392H,Humanities and Social Sciences,M.E,8.69,4,American Express
+2022S0398S,Pharmacy,M.Sc,5.28,4,Unplaced
+2022A0401A,Economics and Finanace,B.E,8.29,4,Unplaced
+2022S0409S,Pharmacy,M.Sc,6.17,4,Biocon
+2022H0410H,Biological Sciences,M.E,7.81,4,Wockhardt
+2022S0413S,Biological Sciences,M.Sc,8.24,4,Unplaced
+2022A0415A,Pharmacy,B.E,8.08,4,freyr
+2022A0416A,Physics,B.E,6.19,4,NXP Semiconductors
+2022S0417S,Mechanical Engineering,M.Sc,6.25,4,Faurecia
+2022P0422P,Economics and Finanace,B.Pharm,8.7,4,Barclays
+2022H0423H,Computer Science and Information Systems,M.E,5.72,4,Intel
+2022S0426S,Civil Engineering,M.Sc,9.71,4,AMARARALA
+2022H0427H,Electrical and Electronics Engineering,M.E,7.3,4,Xilinx
+2022A0428A,Humanities and Social Sciences,B.E,9.76,4,Bain & Company
+2022D0429D,Economics and Finanace,Ph.D,6.69,4,JP Morgan
+2022A0433A,Humanities and Social Sciences,B.E,7.74,4,Cognizant
+2022D0439D,Pharmacy,Ph.D,6.92,4,Biocon
+2022A0444A,Chemisty,B.E,7.06,4,DuPont
+2022A0453A,Mechanical Engineering,B.E,9.52,4,Lockheed Martin
+2022A0457A,Mathematics,B.E,9.55,4,Mediatek
+2022P0458P,Chemisty,B.Pharm,7.81,4,FRESENIUS
+2022D0462D,Chemisty,Ph.D,9.4,4,Unplaced
+2022A0466A,Humanities and Social Sciences,B.E,9.47,4,Procter & Gamble
+2022A0473A,Economics and Finanace,B.E,8.01,4,HSBC
+2022A0474A,Biological Sciences,B.E,8.11,4,Aragen
+2022A0479A,Computer Science and Information Systems,B.E,7.24,4,VMware
+2022H0480H,Economics and Finanace,M.E,5.2,4,FactSet
+2022A0484A,Electrical and Electronics Engineering,B.E,6.0,4,Unplaced
+2022A0487A,Mathematics,B.E,9.27,4,Microsoft
+2022A0498A,Mechanical Engineering,B.E,5.35,4,Ford Motor Company
+2022P0506P,Humanities and Social Sciences,B.Pharm,9.09,4,Unplaced
+2022S0507S,Mechanical Engineering,M.Sc,8.53,4,Cummins Inc.
+2022D0521D,Physics,Ph.D,5.3,4,SILICON LABS
+2022A0522A,Chemical Engineering,B.E,8.37,4,Unplaced
+2022D0527D,Humanities and Social Sciences,Ph.D,6.79,4,IBM
+2022H0528H,Economics and Finanace,M.E,7.5,4,Unplaced
+2022P0531P,Economics and Finanace,B.Pharm,7.05,4,S&P Global
+2022A0532A,Economics and Finanace,B.E,9.62,4,Moodys Investors Service
+2022A0533A,Humanities and Social Sciences,B.E,9.34,4,Tata Consultancy Services (TCS)
+2022A0534A,Humanities and Social Sciences,B.E,5.76,4,EY (Ernst & Young)
+2022D0537D,Electrical and Electronics Engineering,Ph.D,6.83,4,MICROCHIP
+2022A0540A,Chemical Engineering,B.E,5.08,4,Solvay
+2022S0544S,Civil Engineering,M.Sc,5.95,4,Balfour Beatty
+2022D0549D,Chemisty,Ph.D,6.18,4,SABIC
+2022H0552H,Pharmacy,M.E,6.55,4,Ipca Laboratories
+2022A0557A,Biological Sciences,B.E,7.24,4,Alembic Pharmaceuticals
+2022S0560S,Pharmacy,M.Sc,9.58,4,Pfizer
+2022A0565A,Civil Engineering,B.E,7.44,4,LISEN A TOLERO
+2022A0568A,Chemical Engineering,B.E,7.65,4,SABIC
+2022A0575A,Computer Science and Information Systems,B.E,9.78,4,CONCR
+2022A0580A,Civil Engineering,B.E,8.95,4,AMARARALA
+2022D0583D,Computer Science and Information Systems,Ph.D,5.13,4,VMware
+2022S0587S,Chemical Engineering,M.Sc,9.68,4,Unplaced
+2022P0588P,Computer Science and Information Systems,B.Pharm,5.99,4,Dell
+2022A0591A,Biological Sciences,B.E,9.34,4,Alembic Pharmaceuticals
+2022D0592D,Economics and Finanace,Ph.D,5.71,4,Unplaced
+2022S0593S,Mathematics,M.Sc,5.13,4,Intel
+2022A0601A,Economics and Finanace,B.E,6.69,4,Unplaced
+2022H0602H,Economics and Finanace,M.E,8.75,4,Bain & Company
+2022A0603A,Electrical and Electronics Engineering,B.E,7.73,4,Altera
+2022A0611A,Mathematics,B.E,6.6,4,Microsoft
+2022A0613A,Mathematics,B.E,8.83,4,Cisco
+2022H0614H,Biological Sciences,M.E,8.35,4,Unplaced
+2022A0622A,Computer Science and Information Systems,B.E,7.78,4,VMware
+2022A0626A,Humanities and Social Sciences,B.E,5.14,4,ITC Limited
+2022H0635H,Economics and Finanace,M.E,6.03,4,Unplaced
+2022A0636A,Physics,B.E,6.64,4,MEDIATEK
+2022H0637H,Mechanical Engineering,M.E,8.77,4,SONA COMSTAR
+2022A0645A,Pharmacy,B.E,5.95,4,Ipca Laboratories
+2022H0649H,Computer Science and Information Systems,M.E,5.71,4,Teradata
+2022S0652S,Chemical Engineering,M.Sc,8.62,4,Unplaced
+2022H0654H,Computer Science and Information Systems,M.E,5.11,4,PayU
+2022A0656A,Civil Engineering,B.E,5.33,4,Assystem Stup
+2022A0657A,Biological Sciences,B.E,5.19,4,Unplaced
+2022D0660D,Computer Science and Information Systems,Ph.D,8.55,4,GE HealthCare
+2022A0664A,Pharmacy,B.E,5.22,4,freyr
+2022A0665A,Mathematics,B.E,9.76,4,Flipkart
+2022A0672A,Electrical and Electronics Engineering,B.E,5.87,4,MathWorks
+2022H0674H,Computer Science and Information Systems,M.E,5.74,4,Microsoft
+2022A0682A,Physics,B.E,6.98,4,STMicroelectronics
+2022A0688A,Mathematics,B.E,9.68,4,Unplaced
+2022A0689A,Civil Engineering,B.E,7.89,4,LISEN A TOLERO
+2022H0691H,Civil Engineering,M.E,8.2,4,Force
+2022H0701H,Electrical and Electronics Engineering,M.E,9.72,4,Texas Instruments
+2022P0704P,Computer Science and Information Systems,B.Pharm,7.14,4,Amazon
+2022H0708H,Computer Science and Information Systems,M.E,8.5,4,Micron
+2022H0709H,Mathematics,M.E,8.85,4,Dell
+2022P0712P,Electrical and Electronics Engineering,B.Pharm,5.19,4,onsemi
+2022P0716P,Civil Engineering,B.Pharm,8.02,4,Obayashi Corporation
+2022A0717A,Biological Sciences,B.E,6.61,4,SII
+2022A0721A,Humanities and Social Sciences,B.E,6.37,4,Bain & Company
+2022H0723H,Computer Science and Information Systems,M.E,7.93,4,VISA
+2022D0727D,Chemical Engineering,Ph.D,6.0,4,Occidental Petroleum Corporation (OxyChem)
+2022A0730A,Civil Engineering,B.E,6.7,4,IcoNS
+2022A0734A,Humanities and Social Sciences,B.E,7.48,4,Genpact
+2022A0736A,Pharmacy,B.E,7.72,4,Ipca Laboratories
+2022A0737A,Humanities and Social Sciences,B.E,5.17,4,Unplaced
+2022A0745A,Pharmacy,B.E,5.93,4,Glenmark Pharmaceuticals
+2022H0754H,Pharmacy,M.E,7.37,4,Elucidata
+2022H0755H,Civil Engineering,M.E,5.5,4,Unplaced
+2022A0759A,Mechanical Engineering,B.E,5.82,4,Shell
+2022H0761H,Computer Science and Information Systems,M.E,7.03,4,CONFLUENT
+2022A0762A,Biological Sciences,B.E,9.35,4,Cipla
+2022A0765A,Physics,B.E,9.54,4,INSTRUMENTS
+2022H0766H,Mechanical Engineering,M.E,9.75,4,3SC
+2022A0769A,Humanities and Social Sciences,B.E,8.87,4,Bain & Company
+2022D0775D,Computer Science and Information Systems,Ph.D,9.28,4,GE HealthCare
+2022A0777A,Humanities and Social Sciences,B.E,6.69,4,Cognizant
+2022H0792H,Chemisty,M.E,9.44,4,DataZymes
+2022A0793A,Economics and Finanace,B.E,6.23,4,McKinsey & Company
+2022A0794A,Physics,B.E,6.35,4,SILICON LABS
+2022S0797S,Electrical and Electronics Engineering,M.Sc,9.07,4,Texas Instruments
+2022A0801A,Computer Science and Information Systems,B.E,5.25,4,Amazon
+2022P0808P,Chemisty,B.Pharm,8.92,4,FRESENIUS
+2022S0815S,Civil Engineering,M.Sc,5.86,4,Unplaced
+2022A0819A,Electrical and Electronics Engineering,B.E,6.1,4,Honeywell
+2022A0822A,Civil Engineering,B.E,8.36,4,WSP Global
+2022S0823S,Mechanical Engineering,M.Sc,9.3,4,3SC
+2022S0825S,Chemical Engineering,M.Sc,7.04,4,Unplaced
+2022A0826A,Humanities and Social Sciences,B.E,5.75,4,Infosys
+2022H0830H,Economics and Finanace,M.E,5.1,4,UBS
+2022D0832D,Chemisty,Ph.D,8.52,4,Unplaced
+2022A0834A,Civil Engineering,B.E,6.57,4,Parsons Corporation
+2022A0836A,Civil Engineering,B.E,6.9,4,Assystem Stup
+2022A0838A,Pharmacy,B.E,8.49,4,Unplaced
+2022H0839H,Physics,M.E,9.0,4,Unplaced
+2022A0840A,Mechanical Engineering,B.E,6.73,4,Micron
+2022S0841S,Biological Sciences,M.Sc,7.45,4,Alkem Laboratories
+2022S0855S,Computer Science and Information Systems,M.Sc,7.74,4,Unplaced
+2022A0867A,Mechanical Engineering,B.E,8.92,4,Mercedes Benz
+2022A0871A,Biological Sciences,B.E,6.44,4,Aurobindo Pharma
+2022A0872A,Pharmacy,B.E,8.77,4,Elucidata
+2022A0874A,Mechanical Engineering,B.E,7.89,4,Unplaced
+2022A0875A,Computer Science and Information Systems,B.E,7.62,4,VISA
+2022D0876D,Chemisty,Ph.D,7.52,4,Unplaced
+2022A0879A,Computer Science and Information Systems,B.E,5.58,4,Google
+2022P0884P,Pharmacy,B.Pharm,8.97,4,GSK Pharmaceuticals
+2022P0886P,Humanities and Social Sciences,B.Pharm,6.26,4,ITC Limited
+2022S0888S,Civil Engineering,M.Sc,7.32,4,Gammon Construction
+2022A0891A,Economics and Finanace,B.E,5.27,4,Bain & Company
+2022S0892S,Electrical and Electronics Engineering,M.Sc,9.44,4,MICROCHIP
+2022H0901H,Humanities and Social Sciences,M.E,7.02,4,Procter & Gamble
+2022D0904D,Humanities and Social Sciences,Ph.D,8.79,4,Microsoft
+2022A0906A,Chemisty,B.E,9.66,4,ADITYA BIRLA
+2022P0907P,Economics and Finanace,B.Pharm,8.3,4,Accenture
+2022A0928A,Civil Engineering,B.E,9.07,4,AMARARALA
+2022A0930A,Humanities and Social Sciences,B.E,9.86,4,HCL Technologies
+2022H0936H,Electrical and Electronics Engineering,M.E,8.71,4,Unplaced
+2022S0938S,Civil Engineering,M.Sc,5.81,4,Assystem Stup
+2022A0940A,Biological Sciences,B.E,7.18,4,Unplaced
+2022P0943P,Computer Science and Information Systems,B.Pharm,6.18,4,Unplaced
+2022A0944A,Electrical and Electronics Engineering,B.E,7.94,4,NXP Semiconductors
+2022H0950H,Chemisty,M.E,7.7,4,FRESENIUS
+2022A0959A,Chemisty,B.E,9.49,4,Cipla
+2022A0967A,Pharmacy,B.E,5.81,4,freyr
+2022A0969A,Computer Science and Information Systems,B.E,8.27,4,Teradata
+2022H0974H,Chemisty,M.E,5.54,4,КАВІ
+2022S0977S,Mechanical Engineering,M.Sc,6.2,4,Boeing
+2022H0979H,Physics,M.E,6.05,4,STMicroelectronics
+2022H0983H,Electrical and Electronics Engineering,M.E,5.93,4,MathWorks
+2022D0984D,Humanities and Social Sciences,Ph.D,8.29,4,Genpact
+2022H0985H,Physics,M.E,9.31,4,SEDEMAC
+2022A0986A,Chemisty,B.E,9.08,4,Eastman Chemical Company
+2022H0989H,Computer Science and Information Systems,M.E,7.08,4,VISA
+2022S0991S,Civil Engineering,M.Sc,7.56,4,WSP Global
+2022A1001A,Mathematics,B.E,9.98,4,BLEND360
+2022H1004H,Humanities and Social Sciences,M.E,9.15,4,Reliance Industries
+2022H1010H,Biological Sciences,M.E,6.11,4,Divis Laboratories
+2022A1011A,Civil Engineering,B.E,6.98,4,Assystem Stup
+2022H1014H,Mechanical Engineering,M.E,8.32,4,TATA
+2022A1016A,Chemical Engineering,B.E,9.28,4,Praxair
+2022A1020A,Pharmacy,B.E,6.23,4,kmk
+2022P1023P,Electrical and Electronics Engineering,B.Pharm,5.81,4,AMDET
+2022A1030A,Humanities and Social Sciences,B.E,6.69,4,Infosys
+2022P1039P,Biological Sciences,B.Pharm,6.7,4,Granules India
+2022A1040A,Electrical and Electronics Engineering,B.E,5.52,4,CISCO
+2022P1041P,Civil Engineering,B.Pharm,5.84,4,LISEN A TOLERO
+2022A1043A,Physics,B.E,6.13,4,Tenstorrent
+2022H1044H,Mathematics,M.E,8.85,4,Cisco
+2022H1052H,Mechanical Engineering,M.E,5.68,4,Shell
+2022H1059H,Physics,M.E,6.29,4,MICROCHIP
+2022A1060A,Chemisty,B.E,6.4,4,Procter & Gamble
+2022A1074A,Computer Science and Information Systems,B.E,9.59,4,Micron
+2022A1079A,Humanities and Social Sciences,B.E,9.05,4,Accenture
+2022A1084A,Pharmacy,B.E,9.06,4,Unplaced
+2022A1090A,Electrical and Electronics Engineering,B.E,6.06,4,Xilinx
+2022P1092P,Economics and Finanace,B.Pharm,5.68,4,Credit Suisse
+2022A1095A,Physics,B.E,7.1,4,Unplaced
+2022H1096H,Biological Sciences,M.E,9.89,4,Unplaced
+2022A1108A,Economics and Finanace,B.E,6.63,4,Unplaced
+2022H1119H,Electrical and Electronics Engineering,M.E,8.85,4,Unplaced
+2022A1120A,Mathematics,B.E,5.33,4,Qualcomm
+2022D1124D,Chemisty,Ph.D,7.4,4,DuPont
+2022A1137A,Physics,B.E,8.85,4,SAMSUNG
+2022A1138A,Mechanical Engineering,B.E,6.71,4,SEDEMAC
+2022A1151A,Chemical Engineering,B.E,8.4,4,Unplaced
+2022D1154D,Computer Science and Information Systems,Ph.D,5.06,4,PayU
+2022A1155A,Chemical Engineering,B.E,9.96,4,Air Liquide
+2022D1164D,Mechanical Engineering,Ph.D,6.39,4,Ford Motor Company
+2022H1171H,Civil Engineering,M.E,5.66,4,Gammon Construction
+2022P1179P,Pharmacy,B.Pharm,9.21,4,Unplaced
+2022A1181A,Civil Engineering,B.E,5.37,4,Unplaced
+2022D1185D,Humanities and Social Sciences,Ph.D,7.12,4,American Express
+2022H1188H,Civil Engineering,M.E,7.03,4,Force
+2022H1199H,Chemisty,M.E,5.22,4,freyr
+2022A1202A,Mechanical Engineering,B.E,7.21,4,TATA
+2022A1204A,Physics,B.E,8.8,4,CISCO
+2022A1210A,Chemical Engineering,B.E,8.44,4,Linde
+2022A1217A,Mechanical Engineering,B.E,8.34,4,Boeing
+2022A1227A,Mathematics,B.E,5.75,4,Unplaced
+2022P1228P,Mechanical Engineering,B.Pharm,5.61,4,DOVER
+2022A1234A,Electrical and Electronics Engineering,B.E,6.04,4,INSTRUMENTS
+2022A1235A,Mechanical Engineering,B.E,9.28,4,Shell
+2022H1239H,Biological Sciences,M.E,9.64,4,Ipca Laboratories
+2022A1243A,Pharmacy,B.E,5.89,4,Unplaced
+2022A1246A,Mathematics,B.E,8.24,4,Flipkart
+2022H1252H,Economics and Finanace,M.E,8.61,4,S&P Global
+2022P1255P,Electrical and Electronics Engineering,B.Pharm,6.46,4,Unplaced
+2022A1262A,Pharmacy,B.E,5.42,4,PEISION MEDICINE SOLUTIONS
+2022D1276D,Chemical Engineering,Ph.D,5.45,4,Merck
+2022A1280A,Humanities and Social Sciences,B.E,6.08,4,Bain & Company
+2022H1284H,Mechanical Engineering,M.E,8.81,4,Boeing
+2022D1286D,Humanities and Social Sciences,Ph.D,9.8,4,Procter & Gamble
+2022D1290D,Mechanical Engineering,Ph.D,5.53,4,Unplaced
+2022A1293A,Humanities and Social Sciences,B.E,8.18,4,Google
+2022S1296S,Mechanical Engineering,M.Sc,8.4,4,Faurecia
+2022A1302A,Civil Engineering,B.E,6.99,4,Unplaced
+2022A1310A,Chemisty,B.E,7.6,4,Elucidata
+2022H1313H,Civil Engineering,M.E,7.46,4,Unplaced
+2022A1320A,Biological Sciences,B.E,6.93,4,Novartis
+2022A1325A,Electrical and Electronics Engineering,B.E,7.86,4,onsemi
+2022S1326S,Pharmacy,M.Sc,9.24,4,ADITYA BIRLA
+2022A1332A,Economics and Finanace,B.E,6.49,4,IHS Markit
+2022A1341A,Biological Sciences,B.E,8.57,4,Pfizer
+2022A1343A,Electrical and Electronics Engineering,B.E,8.78,4,LG Electronics
+2022A1344A,Mechanical Engineering,B.E,7.86,4,Oeing Lie
+2022S1345S,Pharmacy,M.Sc,6.48,4,Elucidata
+2022A1354A,Computer Science and Information Systems,B.E,8.9,4,CONCR
+2022H1357H,Mathematics,M.E,7.36,4,Dell
+2022D1358D,Pharmacy,Ph.D,5.59,4,Sun Pharmaceutical Industries
+2022A1367A,Chemisty,B.E,9.51,4,BASF
+2022A1370A,Mathematics,B.E,8.38,4,Flipkart
+2022P1371P,Pharmacy,B.Pharm,6.33,4,Unplaced
+2022H1372H,Mechanical Engineering,M.E,6.89,4,SONA COMSTAR
+2022A1374A,Biological Sciences,B.E,7.81,4,Abbott Laboratories
+2022H1384H,Biological Sciences,M.E,8.34,4,Dr. Reddys Laboratories
+2022A1385A,Mechanical Engineering,B.E,6.95,4,Oeing Lie
+2022A1392A,Physics,B.E,6.61,4,Tenstorrent
+2022A1394A,Mechanical Engineering,B.E,9.75,4,Unplaced
+2022A1397A,Biological Sciences,B.E,9.48,4,GSK Pharmaceuticals
+2022H1398H,Humanities and Social Sciences,M.E,7.99,4,Infosys
+2022A1399A,Chemisty,B.E,5.29,4,Dow
+2022S1400S,Chemisty,M.Sc,8.63,4,Cipla
+2022S1403S,Physics,M.Sc,9.36,4,STMicroelectronics
+2022D1411D,Civil Engineering,Ph.D,6.72,4,Unplaced
+2022S1422S,Biological Sciences,M.Sc,5.7,4,Alkem Laboratories
+2022D1427D,Chemisty,Ph.D,9.53,4,Aragen
+2022A1430A,Pharmacy,B.E,5.46,4,Lupin Limited
+2022H1433H,Mathematics,M.E,9.65,4,Pharmo Solutions
+2022S1435S,Physics,M.Sc,9.15,4,Infineon
+2022A1441A,Humanities and Social Sciences,B.E,8.93,4,Cognizant
+2022H1444H,Electrical and Electronics Engineering,M.E,9.3,4,STMicroelectronics
+2022D1450D,Pharmacy,Ph.D,5.8,4,Glenmark Pharmaceuticals
+2022A1452A,Biological Sciences,B.E,8.89,4,Granules India
+2022A1453A,Chemical Engineering,B.E,8.43,4,Dow
+2022H1457H,Economics and Finanace,M.E,7.84,4,KPMG
+2022H1463H,Pharmacy,M.E,9.21,4,Aizant
+2022A1469A,Humanities and Social Sciences,B.E,8.13,4,HCL Technologies
+2022A1470A,Biological Sciences,B.E,8.48,4,Alembic Pharmaceuticals
+2022D1472D,Civil Engineering,Ph.D,9.48,4,Stantec
+2022H1475H,Biological Sciences,M.E,9.67,4,Natco Pharma
+2022H1477H,Mechanical Engineering,M.E,5.32,4,SpaceX
+2022S1478S,Humanities and Social Sciences,M.Sc,8.05,4,KPMG
+2022A1479A,Electrical and Electronics Engineering,B.E,7.71,4,CISCO
+2022H1492H,Computer Science and Information Systems,M.E,6.26,4,CONCR
+2022A1508A,Economics and Finanace,B.E,5.13,4,JP Morgan
+2022A1509A,Mathematics,B.E,6.31,4,Cisco
+2022A1515A,Chemical Engineering,B.E,9.57,4,Solvay
+2022H1524H,Civil Engineering,M.E,8.99,4,Gammon Construction
+2022S1530S,Physics,M.Sc,7.96,4,Unplaced
+2022A1535A,Economics and Finanace,B.E,7.79,4,S&P Global
+2022A1537A,Mechanical Engineering,B.E,7.53,4,ExxonMobil
+2022A1541A,Mathematics,B.E,8.16,4,Microsoft
+2022H1557H,Computer Science and Information Systems,M.E,9.26,4,Axtria
+2022A1558A,Electrical and Electronics Engineering,B.E,7.93,4,Texas Instruments
+2022A1560A,Electrical and Electronics Engineering,B.E,7.25,4,Unplaced
+2022D1561D,Physics,Ph.D,9.75,4,SEDEMAC
+2022S1570S,Mechanical Engineering,M.Sc,5.46,4,Micron
+2022H1573H,Humanities and Social Sciences,M.E,5.8,4,American Express
+2022A1579A,Mathematics,B.E,8.14,4,Dell
+2022A1582A,Mathematics,B.E,9.08,4,Qualcomm
+2022A1585A,Mathematics,B.E,9.35,4,Qualcomm
+2022H1600H,Computer Science and Information Systems,M.E,7.09,4,Unplaced
+2022S1601S,Physics,M.Sc,8.22,4,SEDEMAC
+2022P1602P,Civil Engineering,B.Pharm,5.81,4,Mott MacDonald
+2022A1605A,Mechanical Engineering,B.E,9.05,4,Honda
+2022P1607P,Chemisty,B.Pharm,9.47,4,Honeywell UOP
+2022H1610H,Economics and Finanace,M.E,6.23,4,Credit Suisse
+2022A1615A,Chemisty,B.E,8.97,4,kmk
+2022A1618A,Biological Sciences,B.E,6.33,4,PEISION MEDICINE SOLUTIONS
+2022P1619P,Mechanical Engineering,B.Pharm,9.05,4,Unplaced
+2022A1620A,Mathematics,B.E,7.52,4,Teradata
+2022A1623A,Civil Engineering,B.E,8.19,4,ATKINS
+2022S1635S,Biological Sciences,M.Sc,7.88,4,AstraZeneca
+2022A1636A,Chemical Engineering,B.E,6.05,4,Praxair
+2022S1640S,Chemisty,M.Sc,5.59,4,SABIC
+2022A1643A,Chemical Engineering,B.E,5.56,4,3M
+2022A1647A,Pharmacy,B.E,8.71,4,ADITYA BIRLA
+2022H1655H,Biological Sciences,M.E,8.95,4,Pfizer
+2022A1664A,Chemisty,B.E,8.9,4,Cipla
+2022A1672A,Biological Sciences,B.E,5.7,4,Glenmark Pharmaceuticals
+2022A1685A,Biological Sciences,B.E,8.08,4,Unplaced
+2022H1686H,Humanities and Social Sciences,M.E,7.82,4,KPMG
+2022H1688H,Mechanical Engineering,M.E,5.32,4,Unplaced
+2022A1696A,Biological Sciences,B.E,9.03,4,Zydus
+2022P1697P,Civil Engineering,B.Pharm,5.5,4,Gammon Construction
+2022D1701D,Physics,Ph.D,8.35,4,STMicroelectronics
+2022H1705H,Civil Engineering,M.E,7.54,4,LISEN A TOLERO
+2022P1710P,Humanities and Social Sciences,B.Pharm,6.5,4,Bain & Company
+2022A1712A,Biological Sciences,B.E,5.09,4,Divis Laboratories
+2022H1714H,Humanities and Social Sciences,M.E,7.13,4,Unplaced
+2022A1718A,Mechanical Engineering,B.E,7.01,4,Johnson Controls
+2022A1719A,Computer Science and Information Systems,B.E,9.19,4,VMware
+2022H1722H,Chemisty,M.E,8.5,4,Aragen
+2022H1727H,Humanities and Social Sciences,M.E,7.94,4,IBM
+2022A1736A,Mechanical Engineering,B.E,6.49,4,Rolls-Royce
+2022A1737A,Electrical and Electronics Engineering,B.E,8.92,4,Unplaced
+2022H1739H,Civil Engineering,M.E,7.32,4,ATKINS
+2022P1740P,Pharmacy,B.Pharm,5.6,4,Ipca Laboratories
+2022H1742H,Chemical Engineering,M.E,7.05,4,Unplaced
+2022A1743A,Chemical Engineering,B.E,5.74,4,Occidental Petroleum Corporation (OxyChem)
+2022A1744A,Computer Science and Information Systems,B.E,9.76,4,Piramal
+2022H1758H,Civil Engineering,M.E,6.85,4,Thornton Tomasetti
+2022A1769A,Mathematics,B.E,5.23,4,Cisco
+2022A1771A,Chemisty,B.E,9.21,4,DataZymes
+2022A1772A,Mechanical Engineering,B.E,5.43,4,Rolls-Royce
+2022A1774A,Chemisty,B.E,7.55,4,Linde
+2022A1776A,Chemisty,B.E,8.0,4,Honeywell UOP
+2022A1778A,Humanities and Social Sciences,B.E,8.63,4,Boston Consulting Group (BCG)
+2022A1779A,Mechanical Engineering,B.E,9.72,4,Wabtec
+2022A1787A,Chemical Engineering,B.E,8.9,4,Syngenta
+2022S1788S,Mechanical Engineering,M.Sc,8.99,4,Unplaced
+2022A1792A,Physics,B.E,6.32,4,onsemi
+2022A1797A,Mechanical Engineering,B.E,8.8,4,Lockheed Martin
+2022P1801P,Mechanical Engineering,B.Pharm,5.21,4,Mercedes Benz
+2022D1802D,Chemisty,Ph.D,9.93,4,Procter & Gamble
+2022S1803S,Humanities and Social Sciences,M.Sc,5.76,4,Accenture
+2022H1804H,Mechanical Engineering,M.E,7.88,4,Ford Motor Company
+2022H1810H,Civil Engineering,M.E,6.07,4,COWI
+2022A1813A,Mathematics,B.E,7.56,4,Unplaced
+2022A1817A,Chemical Engineering,B.E,8.08,4,Evonik Industries
+2022A1821A,Humanities and Social Sciences,B.E,8.78,4,Infosys
+2022A1826A,Chemical Engineering,B.E,6.36,4,Unplaced
+2022S1831S,Physics,M.Sc,9.88,4,AMDET
+2022D1832D,Physics,Ph.D,8.09,4,AMDET
+2022H1833H,Computer Science and Information Systems,M.E,9.65,4,IBM
+2022A1839A,Biological Sciences,B.E,9.22,4,Unplaced
+2022A1840A,Economics and Finanace,B.E,6.23,4,Moodys Analytics
+2022A1842A,Chemical Engineering,B.E,7.37,4,Bayer
+2022A1844A,Mechanical Engineering,B.E,7.69,4,Johnson Controls
+2022A1852A,Chemisty,B.E,5.23,4,freyr
+2022A1854A,Physics,B.E,9.31,4,NXP Semiconductors
+2022S1860S,Mathematics,M.Sc,9.46,4,Cisco
+2022H1864H,Computer Science and Information Systems,M.E,8.99,4,Dell
+2022H1869H,Biological Sciences,M.E,5.05,4,SII
+2022H1872H,Humanities and Social Sciences,M.E,7.14,4,Cognizant
+2022P1873P,Pharmacy,B.Pharm,7.37,4,Zydus
+2022H1878H,Mathematics,M.E,8.98,4,Teradata
+2022A1880A,Chemical Engineering,B.E,7.37,4,Unplaced
+2022D1885D,Computer Science and Information Systems,Ph.D,7.23,4,Unplaced
+2022A1886A,Computer Science and Information Systems,B.E,9.26,4,VISA
+2022A1889A,Civil Engineering,B.E,8.68,4,Mott MacDonald
+2022A1891A,Physics,B.E,7.94,4,INSTRUMENTS
+2022A1898A,Biological Sciences,B.E,5.16,4,Emcure Pharmaceuticals
+2022S1903S,Chemisty,M.Sc,9.67,4,FRESENIUS
+2022H1904H,Computer Science and Information Systems,M.E,8.85,4,VMware
+2022H1906H,Humanities and Social Sciences,M.E,7.19,4,Unplaced
+2022A1913A,Chemical Engineering,B.E,8.03,4,Pfizer
+2022A1921A,Mathematics,B.E,5.35,4,Dell
+2022A1923A,Mathematics,B.E,9.53,4,Qualcomm
+2022H1933H,Mathematics,M.E,8.68,4,Teradata
+2022H1937H,Humanities and Social Sciences,M.E,5.52,4,Bain & Company
+2022H1938H,Pharmacy,M.E,5.69,4,Unplaced
+2022P1940P,Mechanical Engineering,B.Pharm,7.7,4,Unplaced
+2022S1945S,Chemisty,M.Sc,9.88,4,Procter & Gamble
+2022S1953S,Chemical Engineering,M.Sc,8.46,4,Johnson Matthey
+2022H1955H,Biological Sciences,M.E,9.55,4,SII
+2022A1964A,Civil Engineering,B.E,6.57,4,Orascom Construction
+2022A1967A,Humanities and Social Sciences,B.E,9.18,4,KPMG
+2022D1969D,Economics and Finanace,Ph.D,9.76,4,Unplaced
+2022A1972A,Electrical and Electronics Engineering,B.E,7.16,4,ON Semiconductor
+2022S1974S,Biological Sciences,M.Sc,9.52,4,Emcure Pharmaceuticals
+2022H1977H,Computer Science and Information Systems,M.E,5.01,4,Teradata
+2022A1978A,Mathematics,B.E,6.62,4,Intel
+2022A1983A,Computer Science and Information Systems,B.E,7.77,4,Texas Instruments
+2022P1984P,Mechanical Engineering,B.Pharm,7.82,4,Rolls-Royce
+2022D1985D,Chemisty,Ph.D,6.94,4,DuPont
+2022S1986S,Biological Sciences,M.Sc,7.64,4,Unplaced
+2022H1988H,Humanities and Social Sciences,M.E,7.65,4,Reliance Industries
+2022H1990H,Economics and Finanace,M.E,9.01,4,Unplaced
+2022S1992S,Mechanical Engineering,M.Sc,7.27,4,Oeing Lie
+2022S1999S,Chemisty,M.Sc,9.7,4,FRESENIUS
+2022A2001A,Chemical Engineering,B.E,7.3,4,Air Liquide
+2022A2005A,Computer Science and Information Systems,B.E,5.46,4,Teradata
+2022A2007A,Chemisty,B.E,5.7,4,Procter & Gamble
+2022A2012A,Pharmacy,B.E,6.47,4,Alkem Laboratories
+2022A2017A,Physics,B.E,5.25,4,INSTRUMENTS
+2022A2021A,Computer Science and Information Systems,B.E,9.24,4,Amazon
+2022D2024D,Biological Sciences,Ph.D,5.29,4,Granules India
+2022H2026H,Chemisty,M.E,8.44,4,ExxonMobil
+2022A2027A,Civil Engineering,B.E,5.45,4,AMARARALA
+2022H2032H,Biological Sciences,M.E,8.05,4,Unplaced
+2022A2036A,Civil Engineering,B.E,9.74,4,WSP Global
+2022A2038A,Civil Engineering,B.E,5.22,4,Acciona
+2022D2040D,Pharmacy,Ph.D,5.07,4,Zydus Cadila
+2022A2045A,Mechanical Engineering,B.E,7.61,4,Caterpillar Inc.
+2022A2054A,Chemisty,B.E,6.76,4,ADITYA BIRLA
+2022A2060A,Electrical and Electronics Engineering,B.E,7.65,4,Unplaced
+2022A2061A,Computer Science and Information Systems,B.E,9.9,4,Unplaced
+2022P2062P,Biological Sciences,B.Pharm,8.73,4,Alkem Laboratories
+2022D2069D,Economics and Finanace,Ph.D,6.67,4,Credit Suisse
+2022A2072A,Economics and Finanace,B.E,5.4,4,Standard Chartered
+2022A2075A,Economics and Finanace,B.E,5.54,4,FactSet
+2022A2079A,Chemical Engineering,B.E,7.31,4,Pfizer
+2022H2082H,Physics,M.E,9.71,4,SynOPSYS
+2022H2084H,Chemisty,M.E,8.17,4,Honeywell UOP
+2022A2091A,Biological Sciences,B.E,5.79,4,Alembic Pharmaceuticals
+2022A2098A,Humanities and Social Sciences,B.E,5.5,4,Cognizant
+2022P2099P,Civil Engineering,B.Pharm,9.22,4,Assystem Stup
+2022A2104A,Biological Sciences,B.E,5.05,4,Unplaced
+2022A2109A,Biological Sciences,B.E,9.39,4,Emcure Pharmaceuticals
+2022H2117H,Chemisty,M.E,5.23,4,kmk
+2022A2118A,Chemical Engineering,B.E,5.17,4,Baker Hughes
+2022A2120A,Pharmacy,B.E,5.1,4,Biocon
+2022A2121A,Mathematics,B.E,5.29,4,Trilogy
+2022A2128A,Civil Engineering,B.E,5.1,4,"Daelim Industrial Co., Ltd."
+2022D2132D,Chemical Engineering,Ph.D,7.47,4,Praxair
+2022A2133A,Economics and Finanace,B.E,6.28,4,HSBC
+2022D2134D,Chemisty,Ph.D,6.43,4,BASF
+2022D2140D,Mechanical Engineering,Ph.D,5.2,4,Oeing Lie
+2022A2142A,Biological Sciences,B.E,8.19,4,Biocon
+2022S2145S,Chemical Engineering,M.Sc,6.92,4,Unplaced
+2022A2148A,Humanities and Social Sciences,B.E,6.67,4,Tata Steel
+2022A2150A,Chemical Engineering,B.E,5.85,4,Unplaced
+2022A2156A,Chemical Engineering,B.E,6.28,4,BASF
+2022S2164S,Mathematics,M.Sc,7.86,4,BLEND360
+2022H2170H,Mechanical Engineering,M.E,8.75,4,Unplaced
+2022A2175A,Chemical Engineering,B.E,7.74,4,Dow
+2022A2176A,Mechanical Engineering,B.E,9.71,4,ARUP
+2022D2180D,Chemisty,Ph.D,8.61,4,Procter & Gamble
+2022A2201A,Biological Sciences,B.E,7.04,4,Unplaced
+2022H2213H,Chemical Engineering,M.E,8.1,4,Bayer
+2022S2215S,Civil Engineering,M.Sc,9.69,4,IcoNS
+2022A2218A,Electrical and Electronics Engineering,B.E,9.21,4,Unplaced
+2022A2220A,Electrical and Electronics Engineering,B.E,6.17,4,ON Semiconductor
+2022A2221A,Chemisty,B.E,5.42,4,КАВІ
+2022H2224H,Computer Science and Information Systems,M.E,8.28,4,Qualcomm
+2022A2227A,Physics,B.E,6.12,4,SEDEMAC
+2022A2228A,Economics and Finanace,B.E,5.04,4,S&P Global
+2022A2230A,Chemisty,B.E,6.93,4,Dow
+2022A2232A,Computer Science and Information Systems,B.E,6.08,4,Qualcomm
+2022A2238A,Physics,B.E,8.11,4,STMicroelectronics
+2022P2240P,Chemical Engineering,B.Pharm,8.29,4,Solvay
+2022H2248H,Physics,M.E,9.17,4,Infineon
+2022A2250A,Economics and Finanace,B.E,9.32,4,Unplaced
+2022D2252D,Humanities and Social Sciences,Ph.D,6.65,4,Capgemini
+2022A2256A,Electrical and Electronics Engineering,B.E,6.85,4,Qualcomm
+2022A2257A,Computer Science and Information Systems,B.E,6.97,4,Unplaced
+2022A2275A,Physics,B.E,9.05,4,onsemi
+2022A2276A,Mechanical Engineering,B.E,7.06,4,Boeing
+2022A2281A,Chemical Engineering,B.E,6.84,4,Bayer
+2022A2285A,Electrical and Electronics Engineering,B.E,9.45,4,SynOPSYS
+2022A2286A,Computer Science and Information Systems,B.E,6.34,4,Mashreq
+2022P2290P,Chemisty,B.Pharm,6.11,4,SABIC
+2022P2291P,Humanities and Social Sciences,B.Pharm,7.26,4,Unplaced
+2022A2292A,Electrical and Electronics Engineering,B.E,8.41,4,ON Semiconductor
+2022S2307S,Civil Engineering,M.Sc,5.61,4,Unplaced
+2022A2311A,Mechanical Engineering,B.E,8.63,4,Unplaced
+2022H2315H,Pharmacy,M.E,8.47,4,Unplaced
+2022H2318H,Biological Sciences,M.E,6.44,4,Emcure Pharmaceuticals
+2022A2323A,Biological Sciences,B.E,7.76,4,Torrent Pharmaceuticals
+2022A2324A,Biological Sciences,B.E,7.56,4,Cadila Healthcare
+2022A2328A,Humanities and Social Sciences,B.E,5.62,4,Infosys
+2022S2331S,Physics,M.Sc,5.45,4,Qualcomm
+2022A2332A,Pharmacy,B.E,8.97,4,Unplaced
+2022P2347P,Electrical and Electronics Engineering,B.Pharm,6.21,4,MEDIATEK
+2022A2349A,Mathematics,B.E,5.28,4,AMD
+2022P2358P,Pharmacy,B.Pharm,7.0,4,Elucidata
+2022H2360H,Economics and Finanace,M.E,8.65,4,BlackRock
+2022A2369A,Mechanical Engineering,B.E,6.61,4,Unplaced
+2022H2372H,Biological Sciences,M.E,6.27,4,Dr. Reddys Laboratories
+2022A2374A,Mechanical Engineering,B.E,9.33,4,Micron
+2022D2377D,Mechanical Engineering,Ph.D,6.22,4,SEDEMAC
+2022D2378D,Mechanical Engineering,Ph.D,7.02,4,Unplaced
+2022D2379D,Electrical and Electronics Engineering,Ph.D,5.18,4,Unplaced
+2022D2380D,Civil Engineering,Ph.D,5.37,4,ATKINS
+2022H2383H,Chemisty,M.E,7.19,4,Aragen
+2022A2384A,Pharmacy,B.E,8.82,4,Cipla
+2022D2385D,Economics and Finanace,Ph.D,8.48,4,Deutsche Bank
+2022A2396A,Computer Science and Information Systems,B.E,7.82,4,Mashreq
+2022A2398A,Biological Sciences,B.E,5.7,4,Zydus Cadila
+2022A2399A,Electrical and Electronics Engineering,B.E,6.53,4,CISCO
+2022D2400D,Humanities and Social Sciences,Ph.D,7.0,4,Infosys
+2022H2403H,Electrical and Electronics Engineering,M.E,9.45,4,Unplaced
+2022H2405H,Economics and Finanace,M.E,5.17,4,Deutsche Bank
+2022A2407A,Humanities and Social Sciences,B.E,6.0,4,Unplaced
+2022P2411P,Chemisty,B.Pharm,7.85,4,Aizant
+2022D2413D,Physics,Ph.D,6.85,4,SynOPSYS
+2022A2424A,Computer Science and Information Systems,B.E,8.06,4,Unplaced
+2022D2431D,Mathematics,Ph.D,7.1,4,Dell
+2022D2434D,Biological Sciences,Ph.D,9.99,4,GSK Pharmaceuticals
+2022A2438A,Civil Engineering,B.E,6.44,4,Unplaced
+2022D2441D,Biological Sciences,Ph.D,6.51,4,Aragen
+2022A2447A,Civil Engineering,B.E,8.67,4,Acciona
+2022S2449S,Mathematics,M.Sc,8.53,4,IBM
+2022A2451A,Pharmacy,B.E,8.39,4,Biocon
+2022H2452H,Biological Sciences,M.E,7.78,4,Unplaced
+2022A2456A,Physics,B.E,6.64,4,SEDEMAC
+2022A2464A,Biological Sciences,B.E,6.51,4,Emcure Pharmaceuticals
+2022D2465D,Physics,Ph.D,7.9,4,proteanTecs
+2022A2469A,Mechanical Engineering,B.E,9.3,4,3SC
+2022P2471P,Pharmacy,B.Pharm,5.45,4,Novartis
+2022A2485A,Computer Science and Information Systems,B.E,7.04,4,Qualcomm
+2022A2487A,Pharmacy,B.E,9.5,4,AstraZeneca
+2022P2502P,Biological Sciences,B.Pharm,7.2,4,Zydus Cadila
+2022H2503H,Computer Science and Information Systems,M.E,8.3,4,VISA
+2022P2504P,Chemical Engineering,B.Pharm,9.16,4,Praxair
+2022P2505P,Pharmacy,B.Pharm,8.18,4,Biocon
+2022A2506A,Economics and Finanace,B.E,9.12,4,American Express
+2022A2509A,Pharmacy,B.E,7.71,4,FRESENIUS
+2022A2510A,Chemisty,B.E,8.94,4,Aizant
+2022H2521H,Civil Engineering,M.E,8.48,4,Acciona
+2022D2523D,Humanities and Social Sciences,Ph.D,9.28,4,HCL Technologies
+2022A2530A,Chemisty,B.E,9.53,4,Honeywell UOP
+2022A2534A,Chemisty,B.E,5.72,4,Honeywell UOP
+2022S2536S,Pharmacy,M.Sc,9.05,4,Ipca Laboratories
+2022S2541S,Computer Science and Information Systems,M.Sc,7.51,4,Samsung
+2022A2547A,Civil Engineering,B.E,8.94,4,TATA
+2022S2552S,Humanities and Social Sciences,M.Sc,9.61,4,Infosys
+2022H2555H,Electrical and Electronics Engineering,M.E,5.4,4,onsemi
+2022A2560A,Chemical Engineering,B.E,6.61,4,Merck
+2022D2562D,Economics and Finanace,Ph.D,8.79,4,HSBC
+2022D2563D,Civil Engineering,Ph.D,7.18,4,Gammon Construction
+2022A2579A,Electrical and Electronics Engineering,B.E,7.72,4,proteanTecs
+2022P2586P,Mechanical Engineering,B.Pharm,9.64,4,Boeing
+2022A2587A,Humanities and Social Sciences,B.E,8.19,4,Google
+2022A2589A,Physics,B.E,9.8,4,SynOPSYS
+2022D2590D,Computer Science and Information Systems,Ph.D,9.73,4,MathWorks
+2022P2594P,Chemical Engineering,B.Pharm,8.05,4,Praxair
+2022A2600A,Chemical Engineering,B.E,7.36,4,Unplaced
+2022A2601A,Chemisty,B.E,9.13,4,Procter & Gamble
+2022D2606D,Biological Sciences,Ph.D,6.1,4,Unplaced
+2022A2615A,Mathematics,B.E,8.45,4,Unplaced
+2022D2617D,Biological Sciences,Ph.D,7.26,4,Pfizer
+2022A2618A,Chemisty,B.E,9.11,4,Procter & Gamble
+2022A2621A,Mathematics,B.E,8.05,4,Dell
+2022A2623A,Civil Engineering,B.E,9.07,4,Assystem Stup
+2022H2625H,Pharmacy,M.E,5.57,4,AstraZeneca
+2022D2632D,Economics and Finanace,Ph.D,9.49,4,Unplaced
+2022H2635H,Electrical and Electronics Engineering,M.E,9.76,4,MathWorks
+2022A2640A,Chemical Engineering,B.E,8.11,4,DuPont
+2022A2641A,Mechanical Engineering,B.E,7.22,4,Honda
+2022D2643D,Economics and Finanace,Ph.D,9.85,4,S&P Global
+2022A2649A,Physics,B.E,9.77,4,Infineon
+2022D2658D,Humanities and Social Sciences,Ph.D,6.34,4,Unplaced
+2022D2659D,Chemisty,Ph.D,8.82,4,FRESENIUS
+2022A2661A,Chemical Engineering,B.E,8.82,4,PPG Industries
+2022H2663H,Mathematics,M.E,8.91,4,Flipkart
+2022A2664A,Computer Science and Information Systems,B.E,8.43,4,Wabtec
+2022A2673A,Mechanical Engineering,B.E,5.83,4,Mercedes Benz
+2022H2676H,Chemisty,M.E,6.99,4,Unplaced
+2022H2685H,Mechanical Engineering,M.E,7.98,4,SONA COMSTAR
+2022H2688H,Biological Sciences,M.E,5.75,4,Biocon
+2022D2691D,Physics,Ph.D,6.95,4,Infineon
+2022A2695A,Mechanical Engineering,B.E,5.96,4,Mercedes Benz
+2022H2699H,Pharmacy,M.E,5.59,4,Cadila Healthcare
+2022H2707H,Electrical and Electronics Engineering,M.E,7.79,4,proteanTecs
+2022A2711A,Mechanical Engineering,B.E,7.99,4,Oeing Lie
+2022S2712S,Chemisty,M.Sc,6.58,4,DataZymes
+2022A2717A,Humanities and Social Sciences,B.E,6.54,4,Boston Consulting Group (BCG)
+2022P2719P,Economics and Finanace,B.Pharm,7.99,4,Morningstar
+2022A2725A,Biological Sciences,B.E,8.71,4,Unplaced
+2022H2727H,Chemical Engineering,M.E,9.65,4,GSK
+2022A2729A,Pharmacy,B.E,9.85,4,Aurobindo Pharma
+2022S2746S,Chemical Engineering,M.Sc,9.17,4,Unplaced
+2022A2748A,Physics,B.E,9.03,4,SAMSUNG
+2022A2750A,Biological Sciences,B.E,6.67,4,Granules India
+2022P2755P,Electrical and Electronics Engineering,B.Pharm,9.68,4,NXP Semiconductors
+2022A2759A,Biological Sciences,B.E,6.43,4,КАВІ
+2022S2761S,Economics and Finanace,M.Sc,5.91,4,Unplaced
+2022H2766H,Economics and Finanace,M.E,7.12,4,Moodys Investors Service
+2022H2767H,Civil Engineering,M.E,6.46,4,Balfour Beatty
+2022P2768P,Humanities and Social Sciences,B.Pharm,5.44,4,Unplaced
+2022A2771A,Computer Science and Information Systems,B.E,6.12,4,Unplaced
+2022D2773D,Electrical and Electronics Engineering,Ph.D,8.15,4,Fujitsu
+2022P2777P,Mechanical Engineering,B.Pharm,7.77,4,Unplaced
+2022H2780H,Chemical Engineering,M.E,8.52,4,Unplaced
+2022A2782A,Chemisty,B.E,8.25,4,Shell
+2022P2784P,Mechanical Engineering,B.Pharm,8.76,4,Unplaced
+2022P2786P,Economics and Finanace,B.Pharm,9.12,4,Barclays
+2022H2790H,Chemical Engineering,M.E,7.21,4,Unplaced
+2022A2793A,Pharmacy,B.E,8.04,4,Unplaced
+2022A2802A,Chemical Engineering,B.E,7.89,4,Johnson Matthey
+2022A2807A,Economics and Finanace,B.E,6.58,4,McKinsey & Company
+2022H2818H,Economics and Finanace,M.E,5.61,4,Unplaced
+2022H2822H,Chemisty,M.E,6.5,4,Honeywell UOP
+2022A2824A,Physics,B.E,8.98,4,SynOPSYS
+2022S2825S,Civil Engineering,M.Sc,6.9,4,Stantec
+2022S2827S,Civil Engineering,M.Sc,8.45,4,Bechtel Corporation
+2022A2831A,Mathematics,B.E,6.61,4,Dell
+2022H2834H,Pharmacy,M.E,6.67,4,DataZymes
+2022H2835H,Electrical and Electronics Engineering,M.E,6.2,4,Texas Instruments
+2022A2840A,Humanities and Social Sciences,B.E,7.43,4,EY (Ernst & Young)
+2022P2841P,Biological Sciences,B.Pharm,9.28,4,Abbott Laboratories
+2022H2844H,Chemisty,M.E,7.61,4,freyr
+2022H2845H,Computer Science and Information Systems,M.E,6.28,4,Unplaced
+2022A2847A,Mechanical Engineering,B.E,10.0,4,Micron
+2022H2854H,Biological Sciences,M.E,6.32,4,Biocon
+2022H2867H,Economics and Finanace,M.E,7.69,4,S&P Global
+2022S2870S,Biological Sciences,M.Sc,8.21,4,Divis Laboratories
+2022S2876S,Mathematics,M.Sc,7.47,4,Teradata
+2022H2879H,Civil Engineering,M.E,7.02,4,Parsons Corporation
+2022A2883A,Economics and Finanace,B.E,5.97,4,HSBC
+2022P2889P,Pharmacy,B.Pharm,6.78,4,Pfizer
+2022A2891A,Chemical Engineering,B.E,5.1,4,Eastman Chemical Company
+2022A2898A,Chemisty,B.E,8.75,4,Dow
+2022A2899A,Biological Sciences,B.E,7.94,4,Unplaced
+2022A2902A,Chemisty,B.E,6.87,4,КАВІ
+2022H2907H,Biological Sciences,M.E,5.96,4,Emcure Pharmaceuticals
+2022A2908A,Mathematics,B.E,7.16,4,Cisco
+2022H2910H,Chemisty,M.E,7.73,4,Aizant
+2022A2914A,Electrical and Electronics Engineering,B.E,9.47,4,ON Semiconductor
+2022P2917P,Biological Sciences,B.Pharm,6.69,4,PEISION MEDICINE SOLUTIONS
+2022H2933H,Humanities and Social Sciences,M.E,9.17,4,Procter & Gamble
+2022A2934A,Computer Science and Information Systems,B.E,6.53,4,Qualcomm
+2022H2942H,Mechanical Engineering,M.E,6.36,4,Honda
+2022A2943A,Humanities and Social Sciences,B.E,9.42,4,Infosys
+2022A2947A,Humanities and Social Sciences,B.E,7.04,4,ITC Limited
+2022P2954P,Chemisty,B.Pharm,9.03,4,Aragen
+2022A2955A,Physics,B.E,6.43,4,AMDET
+2022S2956S,Computer Science and Information Systems,M.Sc,7.39,4,Texas Instruments
+2022A2961A,Mathematics,B.E,8.75,4,Google
+2022S2969S,Computer Science and Information Systems,M.Sc,7.7,4,Rizzle
+2022D2972D,Mechanical Engineering,Ph.D,9.83,4,SpaceX
+2022A2976A,Civil Engineering,B.E,8.72,4,WSP Global
+2022P2982P,Computer Science and Information Systems,B.Pharm,8.72,4,Unplaced
+2022A2985A,Chemical Engineering,B.E,6.26,4,Bayer
+2022A2988A,Civil Engineering,B.E,5.69,4,WSP Global
+2022A2989A,Civil Engineering,B.E,9.67,4,Unplaced
+2022A2996A,Pharmacy,B.E,6.1,4,freyr
+2022P3006P,Civil Engineering,B.Pharm,6.39,4,Acciona
+2022H3007H,Biological Sciences,M.E,7.23,4,Emcure Pharmaceuticals
+2022S3015S,Pharmacy,M.Sc,6.11,4,Unplaced
+2022A3017A,Biological Sciences,B.E,5.75,4,Pfizer
+2022H3019H,Mathematics,M.E,9.44,4,Flipkart
+2022H3022H,Pharmacy,M.E,9.85,4,Elucidata
+2022A3031A,Pharmacy,B.E,9.33,4,ADITYA BIRLA
+2022A3034A,Biological Sciences,B.E,6.32,4,Pfizer
+2022H3040H,Mechanical Engineering,M.E,8.68,4,SONA COMSTAR
+2022H3044H,Humanities and Social Sciences,M.E,8.68,4,Infosys
+2022A3051A,Civil Engineering,B.E,5.03,4,Unplaced
+2022D3054D,Computer Science and Information Systems,Ph.D,6.17,4,VISA
+2022A3055A,Chemical Engineering,B.E,7.46,4,Occidental Petroleum Corporation (OxyChem)
+2022A3060A,Mathematics,B.E,6.96,4,Cisco
+2022A3064A,Mechanical Engineering,B.E,9.4,4,ExxonMobil
+2022P3066P,Mechanical Engineering,B.Pharm,6.47,4,Johnson Controls
+2022H3070H,Mathematics,M.E,6.52,4,Qualcomm
+2022P3074P,Electrical and Electronics Engineering,B.Pharm,9.39,4,Honeywell
+2022S3076S,Chemisty,M.Sc,5.43,4,Dow
+2022A3081A,Chemical Engineering,B.E,5.51,4,Eastman Chemical Company
+2022H3084H,Biological Sciences,M.E,9.29,4,Torrent Pharmaceuticals
+2022H3097H,Mechanical Engineering,M.E,8.72,4,Unplaced
+2022S3099S,Humanities and Social Sciences,M.Sc,5.71,4,Unplaced
+2022A3105A,Computer Science and Information Systems,B.E,9.59,4,CONFLUENT
+2022A3106A,Chemical Engineering,B.E,6.2,4,Covestro
+2022A3107A,Physics,B.E,5.49,4,NXP Semiconductors
+2022D3109D,Physics,Ph.D,5.52,4,Qualcomm
+2022A3113A,Mechanical Engineering,B.E,8.24,4,Unplaced
+2022H3118H,Physics,M.E,5.6,4,onsemi
+2022A3119A,Chemisty,B.E,7.79,4,Unplaced
+2022A3120A,Mathematics,B.E,8.72,4,Flipkart
+2022A3126A,Chemisty,B.E,9.47,4,BASF
+2022D3129D,Civil Engineering,Ph.D,5.2,4,ATKINS
+2022A3136A,Chemisty,B.E,6.07,4,FRESENIUS
+2022A3138A,Electrical and Electronics Engineering,B.E,7.93,4,Renesas Electronics
+2022A3139A,Mechanical Engineering,B.E,8.34,4,SONA COMSTAR
+2022H3140H,Mathematics,M.E,6.76,4,Qualcomm
+2022H3141H,Computer Science and Information Systems,M.E,6.99,4,Piramal
+2022D3142D,Biological Sciences,Ph.D,6.94,4,Dr. Reddys Laboratories
+2022S3149S,Electrical and Electronics Engineering,M.Sc,5.36,4,Unplaced
+2022S3162S,Physics,M.Sc,7.75,4,Dolcera
+2022A3169A,Humanities and Social Sciences,B.E,7.53,4,Capgemini
+2022H3178H,Pharmacy,M.E,9.06,4,Unplaced
+2022A3179A,Chemisty,B.E,6.14,4,Honeywell UOP
+2022S3182S,Computer Science and Information Systems,M.Sc,7.11,4,CONFLUENT
+2022A3185A,Humanities and Social Sciences,B.E,6.02,4,Aditya Birla Group
+2022P3193P,Humanities and Social Sciences,B.Pharm,8.36,4,Boston Consulting Group (BCG)
+2022A3195A,Economics and Finanace,B.E,6.3,4,Wells Fargo
+2022P3198P,Biological Sciences,B.Pharm,7.24,4,Unplaced
+2022S3199S,Computer Science and Information Systems,M.Sc,5.68,4,CONFLUENT
+2022A3203A,Civil Engineering,B.E,8.63,4,Gammon Construction
+2022H3206H,Mathematics,M.E,7.16,4,BLEND360
+2022H3208H,Computer Science and Information Systems,M.E,7.59,4,MathWorks
+2022A3213A,Humanities and Social Sciences,B.E,6.0,4,Deloitte
+2022A3215A,Mechanical Engineering,B.E,9.27,4,Unplaced
+2022A3218A,Electrical and Electronics Engineering,B.E,7.25,4,Unplaced
+2022A3219A,Mathematics,B.E,7.98,4,Piramal
+2022S3224S,Chemisty,M.Sc,9.23,4,Linde
+2022A3229A,Chemical Engineering,B.E,8.81,4,Procter & Gamble
+2022D3230D,Economics and Finanace,Ph.D,8.26,4,Accenture
+2022D3231D,Electrical and Electronics Engineering,Ph.D,8.03,4,Fujitsu
+2022H3234H,Chemical Engineering,M.E,6.44,4,Covestro
+2022A3247A,Electrical and Electronics Engineering,B.E,9.62,4,onsemi
+2022P3250P,Civil Engineering,B.Pharm,5.92,4,Unplaced
+2022P3256P,Mechanical Engineering,B.Pharm,5.16,4,Shell
+2022A3261A,Humanities and Social Sciences,B.E,8.5,4,Unplaced
+2022A3265A,Computer Science and Information Systems,B.E,9.87,4,Texas Instruments
+2022A3266A,Biological Sciences,B.E,5.63,4,Cipla
+2022A3267A,Physics,B.E,7.1,4,SynOPSYS
+2022S3270S,Economics and Finanace,M.Sc,9.89,4,BNP Paribas
+2022A3273A,Mathematics,B.E,9.3,4,Qualcomm
+2022A3274A,Computer Science and Information Systems,B.E,9.08,4,Teradata
+2022A3295A,Computer Science and Information Systems,B.E,9.25,4,Qualcomm
+2022A3301A,Humanities and Social Sciences,B.E,8.9,4,Bain & Company
+2022H3310H,Mechanical Engineering,M.E,5.66,4,Honda
+2022A3313A,Physics,B.E,7.0,4,Tenstorrent
+2022A3315A,Pharmacy,B.E,9.27,4,Cipla
+2022H3317H,Physics,M.E,5.13,4,NXP Semiconductors
+2022P3328P,Humanities and Social Sciences,B.Pharm,7.43,4,Infosys
+2022A3329A,Pharmacy,B.E,5.7,4,Biocon
+2022A3336A,Computer Science and Information Systems,B.E,8.86,4,PayU
+2022S3337S,Humanities and Social Sciences,M.Sc,5.21,4,Unplaced
+2022A3340A,Mechanical Engineering,B.E,7.95,4,SONA COMSTAR
+2022H3347H,Physics,M.E,7.19,4,Unplaced
+2022D3353D,Chemical Engineering,Ph.D,8.93,4,Praxair
+2022A3357A,Physics,B.E,8.98,4,Panasonic
+2022A3359A,Humanities and Social Sciences,B.E,5.86,4,Unplaced
+2022A3365A,Mechanical Engineering,B.E,8.51,4,SONA COMSTAR
+2022A3366A,Electrical and Electronics Engineering,B.E,5.85,4,LG Electronics
+2022A3367A,Biological Sciences,B.E,5.67,4,Biocon
+2022H3376H,Chemisty,M.E,5.8,4,Unplaced
+2022H3381H,Economics and Finanace,M.E,7.0,4,Capital IQ
+2022S3382S,Chemical Engineering,M.Sc,9.62,4,Praxair
+2022A3383A,Biological Sciences,B.E,7.37,4,Unplaced
+2022A3388A,Computer Science and Information Systems,B.E,7.12,4,Google
+2022S3392S,Computer Science and Information Systems,M.Sc,8.56,4,VMware
+2022P3397P,Humanities and Social Sciences,B.Pharm,5.89,4,Unplaced
+2022P3403P,Electrical and Electronics Engineering,B.Pharm,9.04,4,Qualcomm
+2022A3406A,Chemical Engineering,B.E,9.18,4,Unplaced
+2022A3414A,Civil Engineering,B.E,7.5,4,"Daelim Industrial Co., Ltd."
+2022A3424A,Pharmacy,B.E,9.43,4,Unplaced
+2022A3431A,Humanities and Social Sciences,B.E,9.23,4,Reliance Industries
+2022S3437S,Electrical and Electronics Engineering,M.Sc,6.28,4,AMDET
+2022A3438A,Humanities and Social Sciences,B.E,5.66,4,Procter & Gamble
+2022H3442H,Biological Sciences,M.E,5.75,4,Aurobindo Pharma
+2022A3445A,Economics and Finanace,B.E,5.21,4,S&P Global
+2022H3446H,Pharmacy,M.E,9.21,4,Unplaced
+2022A3448A,Economics and Finanace,B.E,7.06,4,Wells Fargo
+2022S3450S,Civil Engineering,M.Sc,8.53,4,Unplaced
+2022H3452H,Civil Engineering,M.E,5.14,4,"Daelim Industrial Co., Ltd."
+2022D3454D,Biological Sciences,Ph.D,9.09,4,Biocon
+2022H3456H,Chemisty,M.E,8.67,4,Aizant
+2022A3457A,Electrical and Electronics Engineering,B.E,9.44,4,AMDET
+2022A3459A,Mechanical Engineering,B.E,5.08,4,Wabtec
+2022A3460A,Mathematics,B.E,8.24,4,Teradata
+2022S3465S,Pharmacy,M.Sc,9.07,4,Zydus
+2022A3469A,Chemisty,B.E,9.14,4,Cipla
+2022H3470H,Biological Sciences,M.E,6.31,4,Pfizer
+2022A3471A,Physics,B.E,8.82,4,AMDET
+2022S3474S,Biological Sciences,M.Sc,8.81,4,Dr. Reddys Laboratories
+2022A3481A,Civil Engineering,B.E,7.32,4,Force
+2022A3483A,Mechanical Engineering,B.E,6.31,4,Rolls-Royce
+2022D3488D,Chemical Engineering,Ph.D,6.41,4,Dow
+2022D3489D,Humanities and Social Sciences,Ph.D,5.13,4,Amazon
+2022A3504A,Biological Sciences,B.E,6.0,4,Dr. Reddys Laboratories
+2022P3506P,Mechanical Engineering,B.Pharm,9.89,4,Faurecia
+2022P3507P,Pharmacy,B.Pharm,6.49,4,Unplaced
+2022A3511A,Mathematics,B.E,5.83,4,Microsoft
+2022H3516H,Mechanical Engineering,M.E,5.92,4,Unplaced
+2022A3518A,Electrical and Electronics Engineering,B.E,7.7,4,AMDET
+2022A3519A,Mechanical Engineering,B.E,8.43,4,Unplaced
+2022A3520A,Chemical Engineering,B.E,5.86,4,Johnson Matthey
+2022A3528A,Pharmacy,B.E,6.27,4,ADITYA BIRLA
+2022H3537H,Civil Engineering,M.E,8.05,4,IcoNS
+2022S3541S,Civil Engineering,M.Sc,8.49,4,Stantec
+2022A3543A,Physics,B.E,7.66,4,proteanTecs
+2022A3548A,Economics and Finanace,B.E,9.37,4,Unplaced
+2022A3550A,Computer Science and Information Systems,B.E,9.7,4,VISA
+2022H3553H,Electrical and Electronics Engineering,M.E,7.02,4,SynOPSYS
+2022P3554P,Mechanical Engineering,B.Pharm,8.88,4,Unplaced
+2022H3556H,Economics and Finanace,M.E,7.91,4,American Express
+2022A3559A,Chemisty,B.E,8.02,4,ADITYA BIRLA
+2022D3560D,Chemisty,Ph.D,5.83,4,FRESENIUS
+2022A3563A,Humanities and Social Sciences,B.E,9.74,4,Accenture
+2022A3567A,Civil Engineering,B.E,6.6,4,"Daelim Industrial Co., Ltd."
+2022A3568A,Electrical and Electronics Engineering,B.E,7.78,4,Unplaced
+2022H3570H,Economics and Finanace,M.E,9.58,4,FactSet
+2022P3578P,Pharmacy,B.Pharm,9.89,4,Alkem Laboratories
+2022A3583A,Civil Engineering,B.E,7.58,4,AMARARALA
+2022H3584H,Economics and Finanace,M.E,5.76,4,Unplaced
+2022D3585D,Chemisty,Ph.D,5.17,4,SABIC
+2022S3586S,Pharmacy,M.Sc,6.64,4,Strand
+2022A3592A,Mechanical Engineering,B.E,9.66,4,Faurecia
+2022A3594A,Mechanical Engineering,B.E,9.72,4,Lockheed Martin
+2022H3600H,Humanities and Social Sciences,M.E,8.08,4,Bain & Company
+2022A3601A,Chemical Engineering,B.E,9.68,4,Covestro
+2022H3602H,Mechanical Engineering,M.E,6.67,4,ExxonMobil
+2022A3610A,Pharmacy,B.E,5.85,4,Wockhardt
+2022S3611S,Economics and Finanace,M.Sc,5.31,4,HSBC
+2022A3615A,Mechanical Engineering,B.E,5.99,4,ARUP
+2022P3621P,Humanities and Social Sciences,B.Pharm,7.16,4,Reliance Industries
+2022A3622A,Physics,B.E,9.79,4,SILICON LABS
+2022S3625S,Physics,M.Sc,9.18,4,AMDET
+2022P3630P,Chemical Engineering,B.Pharm,6.34,4,Procter & Gamble
+2022P3635P,Economics and Finanace,B.Pharm,9.48,4,Standard Chartered
+2022P3636P,Computer Science and Information Systems,B.Pharm,6.36,4,Infineon
+2022A3638A,Electrical and Electronics Engineering,B.E,5.23,4,ON Semiconductor
+2022A3645A,Pharmacy,B.E,6.05,4,Aurobindo Pharma
+2022A3647A,Civil Engineering,B.E,7.57,4,Greenko Jacobs
+2022A3652A,Electrical and Electronics Engineering,B.E,6.41,4,SILICON LABS
+2022H3654H,Physics,M.E,6.18,4,SAMSUNG
+2022A3658A,Electrical and Electronics Engineering,B.E,7.44,4,INSTRUMENTS
+2022A3668A,Chemical Engineering,B.E,7.97,4,Johnson Matthey
+2022H3669H,Biological Sciences,M.E,6.48,4,Granules India
+2022A3681A,Electrical and Electronics Engineering,B.E,9.38,4,Unplaced
+2022A3688A,Humanities and Social Sciences,B.E,9.06,4,Unplaced
+2022A3689A,Biological Sciences,B.E,6.08,4,Sun Pharmaceutical Industries
+2022H3692H,Electrical and Electronics Engineering,M.E,6.98,4,IBM
+2022A3703A,Humanities and Social Sciences,B.E,8.78,4,Unplaced
+2022D3706D,Electrical and Electronics Engineering,Ph.D,5.21,4,SynOPSYS
+2022A3707A,Biological Sciences,B.E,5.67,4,Novartis
+2022A3708A,Economics and Finanace,B.E,9.59,4,Unplaced
+2022A3715A,Physics,B.E,7.74,4,SILICON LABS
+2022P3718P,Economics and Finanace,B.Pharm,6.99,4,IHS Markit
+2022D3720D,Chemisty,Ph.D,5.62,4,Elucidata
+2022A3721A,Biological Sciences,B.E,6.57,4,Novartis
+2022P3722P,Electrical and Electronics Engineering,B.Pharm,5.06,4,IBM
+2022A3725A,Humanities and Social Sciences,B.E,5.05,4,Unplaced
+2022P3726P,Pharmacy,B.Pharm,5.77,4,Unplaced
+2022A3731A,Pharmacy,B.E,5.02,4,Alkem Laboratories
+2022H3738H,Mechanical Engineering,M.E,6.63,4,Johnson Controls
+2022H3739H,Mechanical Engineering,M.E,6.33,4,DOVER
+2022A3742A,Physics,B.E,9.69,4,NXP Semiconductors
+2022A3743A,Mechanical Engineering,B.E,5.27,4,Rolls-Royce
+2022A3745A,Pharmacy,B.E,9.66,4,Lupin Limited
+2022P3747P,Electrical and Electronics Engineering,B.Pharm,7.9,4,LG Electronics
+2022A3751A,Pharmacy,B.E,8.35,4,Elucidata
+2022H3754H,Chemisty,M.E,9.85,4,Honeywell UOP
+2022A3761A,Physics,B.E,8.53,4,Dolcera
+2022P3763P,Civil Engineering,B.Pharm,7.83,4,COWI
+2022S3766S,Civil Engineering,M.Sc,8.82,4,Unplaced
+2022A3768A,Computer Science and Information Systems,B.E,5.83,4,Samsung
+2022A3777A,Civil Engineering,B.E,9.81,4,Parsons Corporation
+2022P3779P,Mechanical Engineering,B.Pharm,5.05,4,Ford Motor Company
+2022A3785A,Chemical Engineering,B.E,5.15,4,Covestro
+2022H3787H,Pharmacy,M.E,5.77,4,ADITYA BIRLA
+2022H3789H,Chemisty,M.E,7.46,4,Eastman Chemical Company
+2022S3793S,Physics,M.Sc,7.39,4,Qualcomm
+2022A3799A,Physics,B.E,9.12,4,STMicroelectronics
+2022A3802A,Biological Sciences,B.E,8.38,4,Pfizer
+2022A3804A,Mathematics,B.E,5.84,4,BLEND360
+2022A3807A,Biological Sciences,B.E,6.23,4,Aurobindo Pharma
+2022A3809A,Pharmacy,B.E,9.23,4,Dr. Reddys Laboratories
+2022P3814P,Mechanical Engineering,B.Pharm,8.49,4,Mercedes Benz
+2022A3817A,Mechanical Engineering,B.E,9.57,4,TATA
+2022A3821A,Chemisty,B.E,9.12,4,Elucidata
+2022A3829A,Physics,B.E,5.37,4,Dolcera
+2022H3833H,Economics and Finanace,M.E,6.99,4,Standard Chartered
+2022S3834S,Physics,M.Sc,7.52,4,STMicroelectronics
+2022D3836D,Chemisty,Ph.D,6.03,4,КАВІ
+2022A3843A,Mathematics,B.E,7.14,4,Unplaced
+2022H3844H,Mechanical Engineering,M.E,6.35,4,Mercedes Benz
+2022A3846A,Biological Sciences,B.E,9.28,4,AstraZeneca
+2022A3849A,Mechanical Engineering,B.E,9.4,4,TATA
+2022A3852A,Economics and Finanace,B.E,9.5,4,Moodys Analytics
+2022S3854S,Economics and Finanace,M.Sc,7.5,4,Genpact
+2022A3858A,Biological Sciences,B.E,5.03,4,Unplaced
+2022D3859D,Mathematics,Ph.D,7.23,4,Intel
+2022S3861S,Economics and Finanace,M.Sc,5.36,4,Moodys Analytics
+2022A3864A,Computer Science and Information Systems,B.E,6.3,4,Piramal
+2022D3866D,Civil Engineering,Ph.D,7.65,4,LISEN A TOLERO
+2022S3872S,Chemisty,M.Sc,9.58,4,Procter & Gamble
+2022D3877D,Pharmacy,Ph.D,7.89,4,ADITYA BIRLA
+2022A3878A,Pharmacy,B.E,5.33,4,Unplaced
+2022A3879A,Mechanical Engineering,B.E,7.42,4,Boeing
+2022A3884A,Humanities and Social Sciences,B.E,6.02,4,HCL Technologies
+2022A3889A,Chemisty,B.E,8.29,4,FRESENIUS
+2022H3897H,Mechanical Engineering,M.E,8.72,4,Micron
+2022A3898A,Humanities and Social Sciences,B.E,6.43,4,Unplaced
+2022P3904P,Mechanical Engineering,B.Pharm,6.6,4,ANAND
+2022A3908A,Chemisty,B.E,9.86,4,Dow
+2022P3911P,Chemisty,B.Pharm,7.3,4,BASF
+2022A3913A,Chemical Engineering,B.E,9.25,4,SABIC
+2022P3914P,Civil Engineering,B.Pharm,8.5,4,Acciona
+2022S3919S,Computer Science and Information Systems,M.Sc,8.89,4,VMware
+2022S3928S,Biological Sciences,M.Sc,8.54,4,Novartis
+2022A3929A,Economics and Finanace,B.E,9.12,4,Unplaced
+2022A3932A,Physics,B.E,6.3,4,Unplaced
+2022S3936S,Humanities and Social Sciences,M.Sc,8.74,4,HCL Technologies
+2022H3940H,Mathematics,M.E,9.94,4,Mediatek
+2022P3942P,Computer Science and Information Systems,B.Pharm,7.75,4,Rizzle
+2022A3944A,Chemisty,B.E,9.8,4,Aizant
+2022P3950P,Chemisty,B.Pharm,9.64,4,Unplaced
+2022P3957P,Mechanical Engineering,B.Pharm,7.77,4,DOVER
+2022H3959H,Civil Engineering,M.E,6.37,4,Unplaced
+2022P3960P,Pharmacy,B.Pharm,6.52,4,Pfizer
+2022D3963D,Humanities and Social Sciences,Ph.D,7.56,4,Tata Consultancy Services (TCS)
+2022H3965H,Civil Engineering,M.E,6.69,4,IcoNS
+2022D3966D,Biological Sciences,Ph.D,9.0,4,Unplaced
+2022P3980P,Biological Sciences,B.Pharm,5.99,4,Alkem Laboratories
+2022A3981A,Chemical Engineering,B.E,6.62,4,BASF
+2022A3983A,Mechanical Engineering,B.E,8.19,4,ExxonMobil
+2022A3986A,Pharmacy,B.E,6.34,4,Unplaced
+2022A3987A,Mathematics,B.E,6.46,4,AMD
+2022A3990A,Electrical and Electronics Engineering,B.E,8.63,4,Qualcomm
+2022H3995H,Chemical Engineering,M.E,6.78,4,GSK
+2022S4006S,Mathematics,M.Sc,6.24,4,Flipkart
+2022A4007A,Electrical and Electronics Engineering,B.E,5.12,4,Altera
+2022P4008P,Civil Engineering,B.Pharm,6.5,4,Unplaced
+2022P4009P,Humanities and Social Sciences,B.Pharm,8.55,4,Procter & Gamble
+2022A4020A,Computer Science and Information Systems,B.E,8.34,4,Unplaced
+2022S4022S,Mathematics,M.Sc,6.02,4,Trilogy
+2022A4028A,Physics,B.E,5.15,4,onsemi
+2022A4030A,Electrical and Electronics Engineering,B.E,6.89,4,Fujitsu
+2022A4031A,Chemical Engineering,B.E,8.0,4,Lanxess
+2022A4040A,Physics,B.E,7.19,4,SEDEMAC
+2022A4041A,Mathematics,B.E,6.1,4,Flipkart
+2022P4043P,Chemical Engineering,B.Pharm,7.37,4,Air Liquide
+2022P4045P,Pharmacy,B.Pharm,6.52,4,freyr
+2022A4049A,Electrical and Electronics Engineering,B.E,9.54,4,IBM
+2022A4050A,Computer Science and Information Systems,B.E,5.7,4,Commvault
+2022P4051P,Biological Sciences,B.Pharm,5.55,4,SII
+2022A4054A,Physics,B.E,9.52,4,NXP Semiconductors
+2022A4057A,Humanities and Social Sciences,B.E,8.43,4,Infosys
+2022A4066A,Mechanical Engineering,B.E,5.0,4,SONA COMSTAR
+2022A4073A,Physics,B.E,8.91,4,SILICON LABS
+2022A4077A,Computer Science and Information Systems,B.E,6.22,4,Unplaced
+2022H4081H,Physics,M.E,8.48,4,SEDEMAC
+2022H4084H,Chemical Engineering,M.E,6.25,4,LyondellBasell
+2022D4091D,Humanities and Social Sciences,Ph.D,9.19,4,Unplaced
+2022S4098S,Civil Engineering,M.Sc,5.27,4,Unplaced
+2022H4103H,Biological Sciences,M.E,7.02,4,Emcure Pharmaceuticals
+2022S4106S,Biological Sciences,M.Sc,5.48,4,Emcure Pharmaceuticals
+2022A4121A,Economics and Finanace,B.E,9.16,4,Barclays
+2022A4123A,Civil Engineering,B.E,6.52,4,IcoNS
+2022D4126D,Chemisty,Ph.D,6.32,4,Unplaced
+2022A4129A,Civil Engineering,B.E,7.19,4,AMARARALA
+2022A4134A,Economics and Finanace,B.E,8.44,4,IHS Markit
+2022P4137P,Humanities and Social Sciences,B.Pharm,8.82,4,Unplaced
+2022H4139H,Pharmacy,M.E,7.55,4,Ipca Laboratories
+2022H4143H,Chemisty,M.E,6.44,4,ExxonMobil
+2022P4144P,Computer Science and Information Systems,B.Pharm,9.62,4,Qualcomm
+2022A4146A,Economics and Finanace,B.E,6.04,4,IHS Markit
+2022P4149P,Civil Engineering,B.Pharm,9.39,4,"Daelim Industrial Co., Ltd."
+2022A4151A,Computer Science and Information Systems,B.E,5.52,4,VMware
+2022A4152A,Chemical Engineering,B.E,5.78,4,DuPont
+2022H4153H,Pharmacy,M.E,8.49,4,Wockhardt
+2022P4156P,Electrical and Electronics Engineering,B.Pharm,7.74,4,Altera
+2022A4158A,Electrical and Electronics Engineering,B.E,8.92,4,Unplaced
+2022A4169A,Chemical Engineering,B.E,6.37,4,Unplaced
+2022H4173H,Chemical Engineering,M.E,9.9,4,LyondellBasell
+2022A4180A,Civil Engineering,B.E,7.99,4,ARUP
+2022H4184H,Pharmacy,M.E,5.55,4,Zydus
+2022A4186A,Mechanical Engineering,B.E,7.3,4,Unplaced
+2022A4190A,Biological Sciences,B.E,5.52,4,Unplaced
+2022H4196H,Humanities and Social Sciences,M.E,9.59,4,ITC Limited
+2022H4203H,Mathematics,M.E,5.46,4,Unplaced
+2022A4207A,Biological Sciences,B.E,5.75,4,SII
+2022H4208H,Electrical and Electronics Engineering,M.E,9.63,4,Qualcomm
+2022P4215P,Chemical Engineering,B.Pharm,7.13,4,Bayer
+2022A4218A,Civil Engineering,B.E,9.6,4,Unplaced
+2022A4219A,Biological Sciences,B.E,5.4,4,Unplaced
+2022H4228H,Economics and Finanace,M.E,5.68,4,Morningstar
+2022P4231P,Humanities and Social Sciences,B.Pharm,6.9,4,Bain & Company
+2022A4234A,Biological Sciences,B.E,9.59,4,Abbott Laboratories
+2022A4242A,Electrical and Electronics Engineering,B.E,7.98,4,Infineon
+2022A4246A,Chemisty,B.E,8.79,4,Aragen
+2022P4256P,Electrical and Electronics Engineering,B.Pharm,7.26,4,Infineon
+2022A4260A,Humanities and Social Sciences,B.E,5.78,4,Reliance Industries
+2022D4263D,Electrical and Electronics Engineering,Ph.D,9.37,4,Texas Instruments
+2022A4267A,Electrical and Electronics Engineering,B.E,7.55,4,onsemi
+2022H4268H,Chemisty,M.E,6.3,4,Unplaced
+2022A4270A,Pharmacy,B.E,9.9,4,ADITYA BIRLA
+2022A4288A,Civil Engineering,B.E,6.59,4,AMARARALA
+2022H4290H,Biological Sciences,M.E,8.96,4,Emcure Pharmaceuticals
+2022H4299H,Pharmacy,M.E,6.31,4,Dr. Reddys Laboratories
+2022A4306A,Pharmacy,B.E,9.98,4,Cipla
+2022P4309P,Pharmacy,B.Pharm,8.1,4,Biocon
+2022A4317A,Electrical and Electronics Engineering,B.E,8.01,4,Siemens
+2022A4319A,Economics and Finanace,B.E,9.47,4,Goldman Sachs
+2022H4321H,Electrical and Electronics Engineering,M.E,6.66,4,SynOPSYS
+2022A4329A,Mathematics,B.E,6.4,4,Teradata
+2022A4331A,Pharmacy,B.E,8.06,4,Unplaced
+2022A4332A,Computer Science and Information Systems,B.E,6.35,4,Teradata
+2022A4338A,Biological Sciences,B.E,6.37,4,Aragen
+2022A4343A,Mechanical Engineering,B.E,9.64,4,Caterpillar Inc.
+2022H4344H,Chemisty,M.E,9.17,4,Unplaced
+2022P4354P,Mechanical Engineering,B.Pharm,8.0,4,Honda
+2022A4357A,Biological Sciences,B.E,6.51,4,Unplaced
+2022S4360S,Mechanical Engineering,M.Sc,5.88,4,Ford Motor Company
+2022P4361P,Electrical and Electronics Engineering,B.Pharm,8.02,4,Unplaced
+2022A4374A,Chemisty,B.E,9.21,4,Procter & Gamble
+2022D4381D,Chemical Engineering,Ph.D,9.81,4,LyondellBasell
+2022H4388H,Chemical Engineering,M.E,8.35,4,BASF
+2022A4389A,Electrical and Electronics Engineering,B.E,9.85,4,IBM
+2022S4391S,Pharmacy,M.Sc,7.35,4,Lupin Limited
+2022P4394P,Humanities and Social Sciences,B.Pharm,7.74,4,Google
+2022S4397S,Pharmacy,M.Sc,5.57,4,Zydus
+2022A4398A,Pharmacy,B.E,7.74,4,Alembic Pharmaceuticals
+2022A4399A,Biological Sciences,B.E,6.93,4,Divis Laboratories
+2022A4405A,Pharmacy,B.E,7.56,4,Unplaced
+2022S4413S,Civil Engineering,M.Sc,5.72,4,Unplaced
+2022H4414H,Economics and Finanace,M.E,8.0,4,Boston Consulting Group (BCG)
+2022S4422S,Pharmacy,M.Sc,9.35,4,Aurobindo Pharma
+2022A4423A,Economics and Finanace,B.E,5.82,4,FactSet
+2022A4424A,Electrical and Electronics Engineering,B.E,6.46,4,CISCO
+2022A4430A,Pharmacy,B.E,6.96,4,freyr
+2022A4431A,Mechanical Engineering,B.E,7.35,4,Unplaced
+2022A4437A,Economics and Finanace,B.E,5.03,4,Unplaced
+2022A4438A,Mechanical Engineering,B.E,5.65,4,Faurecia
+2022A4441A,Electrical and Electronics Engineering,B.E,8.83,4,Unplaced
+2022A4444A,Physics,B.E,5.11,4,IBM
+2022D4450D,Computer Science and Information Systems,Ph.D,9.46,4,PayU
+2022A4452A,Computer Science and Information Systems,B.E,9.55,4,Unplaced
+2022A4455A,Physics,B.E,8.28,4,SAMSUNG
+2022A4460A,Economics and Finanace,B.E,5.32,4,Barclays
+2022H4461H,Humanities and Social Sciences,M.E,7.0,4,Genpact
+2022H4462H,Biological Sciences,M.E,6.98,4,Granules India
+2022A4471A,Electrical and Electronics Engineering,B.E,9.25,4,Unplaced
+2022A4473A,Physics,B.E,7.7,4,AMDET
+2022A4477A,Mechanical Engineering,B.E,9.59,4,Cummins Inc.
+2022S4485S,Computer Science and Information Systems,M.Sc,6.96,4,Unplaced
+2022A4491A,Civil Engineering,B.E,5.32,4,Gammon Construction
+2022A4501A,Humanities and Social Sciences,B.E,9.2,4,Unplaced
+2022A4505A,Humanities and Social Sciences,B.E,8.51,4,Cognizant
+2022A4506A,Chemical Engineering,B.E,5.53,4,BASF
+2022A4507A,Electrical and Electronics Engineering,B.E,9.9,4,SynOPSYS
+2022A4508A,Chemical Engineering,B.E,5.43,4,AkzoNobel
+2022H4510H,Pharmacy,M.E,6.0,4,Elucidata
+2022H4519H,Computer Science and Information Systems,M.E,5.8,4,Amazon
+2022A4520A,Pharmacy,B.E,5.71,4,Aragen
+2022A4523A,Electrical and Electronics Engineering,B.E,7.14,4,LG Electronics
+2022A4526A,Civil Engineering,B.E,5.79,4,LISEN A TOLERO
+2022A4527A,Chemisty,B.E,7.39,4,Aragen
+2022P4533P,Biological Sciences,B.Pharm,9.02,4,Unplaced
+2022H4535H,Mathematics,M.E,9.58,4,Dell
+2022P4538P,Chemisty,B.Pharm,9.75,4,Shell
+2022H4541H,Chemisty,M.E,6.6,4,Unplaced
+2022H4542H,Pharmacy,M.E,7.52,4,Alkem Laboratories
+2022S4549S,Physics,M.Sc,8.29,4,Unplaced
+2022S4550S,Humanities and Social Sciences,M.Sc,5.47,4,Procter & Gamble
+2022H4551H,Chemical Engineering,M.E,8.39,4,Procter & Gamble
+2022A4552A,Chemical Engineering,B.E,6.88,4,BASF
+2022P4553P,Economics and Finanace,B.Pharm,8.86,4,HSBC
+2022A4555A,Mechanical Engineering,B.E,8.05,4,Honda
+2022A4560A,Chemisty,B.E,9.93,4,ExxonMobil
+2022H4566H,Humanities and Social Sciences,M.E,8.36,4,Cognizant
+2022A4574A,Pharmacy,B.E,6.31,4,freyr
+2022H4580H,Computer Science and Information Systems,M.E,6.92,4,Mediatek
+2022H4584H,Humanities and Social Sciences,M.E,8.46,4,Microsoft
+2022A4592A,Chemical Engineering,B.E,6.52,4,BASF
+2022A4595A,Civil Engineering,B.E,9.12,4,ATKINS
+2022A4598A,Civil Engineering,B.E,6.6,4,Thornton Tomasetti
+2022A4599A,Pharmacy,B.E,9.55,4,Dr. Reddys Laboratories
+2022A4612A,Pharmacy,B.E,7.22,4,Lupin Limited
+2022A4613A,Chemical Engineering,B.E,6.21,4,Dow
+2022A4616A,Chemisty,B.E,9.93,4,Unplaced
+2022A4623A,Biological Sciences,B.E,9.31,4,Emcure Pharmaceuticals
+2022A4624A,Humanities and Social Sciences,B.E,9.65,4,Unplaced
+2022A4627A,Physics,B.E,6.54,4,SILICON LABS
+2022A4628A,Mechanical Engineering,B.E,6.16,4,Unplaced
+2022A4630A,Electrical and Electronics Engineering,B.E,9.06,4,NXP Semiconductors
+2022A4632A,Mathematics,B.E,7.48,4,Qualcomm
+2022S4634S,Electrical and Electronics Engineering,M.Sc,9.63,4,proteanTecs
+2022D4636D,Biological Sciences,Ph.D,5.44,4,Unplaced
+2022P4637P,Pharmacy,B.Pharm,5.81,4,Pfizer
+2022D4639D,Electrical and Electronics Engineering,Ph.D,7.16,4,Intel
+2022D4647D,Chemisty,Ph.D,6.62,4,Aragen
+2022A4648A,Humanities and Social Sciences,B.E,7.32,4,Infosys
+2022S4649S,Economics and Finanace,M.Sc,9.87,4,HSBC
+2022P4653P,Computer Science and Information Systems,B.Pharm,5.62,4,Axtria
+2022P4654P,Chemical Engineering,B.Pharm,9.46,4,Unplaced
+2022A4664A,Mathematics,B.E,9.74,4,AMD
+2022A4674A,Civil Engineering,B.E,9.25,4,Greenko Jacobs
+2022H4676H,Pharmacy,M.E,7.8,4,Elucidata
+2022H4680H,Electrical and Electronics Engineering,M.E,8.26,4,IBM
+2022A4681A,Chemisty,B.E,6.3,4,Unplaced
+2022A4687A,Electrical and Electronics Engineering,B.E,8.39,4,Altera
+2022A4688A,Computer Science and Information Systems,B.E,5.25,4,Texas Instruments
+2022A4692A,Physics,B.E,5.33,4,Unplaced
+2022A4693A,Pharmacy,B.E,7.15,4,КАВІ
+2022S4699S,Pharmacy,M.Sc,7.74,4,Unplaced
+2022S4700S,Pharmacy,M.Sc,5.8,4,Lupin Limited
+2022D4701D,Humanities and Social Sciences,Ph.D,6.08,4,Infosys
+2022H4703H,Chemisty,M.E,5.15,4,КАВІ
+2022S4704S,Humanities and Social Sciences,M.Sc,6.82,4,Procter & Gamble
+2022A4706A,Civil Engineering,B.E,5.8,4,Kiewit Corporation
+2022A4708A,Computer Science and Information Systems,B.E,6.22,4,Teradata
+2022A4713A,Mathematics,B.E,6.35,4,Unplaced
+2022H4717H,Mechanical Engineering,M.E,5.23,4,Lime
+2022A4718A,Humanities and Social Sciences,B.E,6.14,4,Bain & Company
+2022A4729A,Chemical Engineering,B.E,5.7,4,BASF
+2022A4735A,Electrical and Electronics Engineering,B.E,6.79,4,Siemens
+2022A4736A,Computer Science and Information Systems,B.E,5.74,4,Unplaced
+2022A4742A,Computer Science and Information Systems,B.E,8.16,4,MathWorks
+2022A4747A,Pharmacy,B.E,6.1,4,Lupin Limited
+2022A4748A,Physics,B.E,5.16,4,Tenstorrent
+2022A4753A,Humanities and Social Sciences,B.E,6.87,4,Amazon
+2022D4758D,Mathematics,Ph.D,9.88,4,Cisco
+2022P4767P,Chemisty,B.Pharm,9.57,4,Aizant
+2022D4778D,Economics and Finanace,Ph.D,7.21,4,IHS Markit
+2022A4784A,Pharmacy,B.E,6.5,4,ADITYA BIRLA
+2022A4787A,Pharmacy,B.E,9.91,4,Elucidata
+2022A4790A,Pharmacy,B.E,7.92,4,Zydus Cadila
+2022D4793D,Chemisty,Ph.D,7.55,4,Honeywell UOP
+2022H4795H,Physics,M.E,5.27,4,Dolcera
+2022P4799P,Economics and Finanace,B.Pharm,7.21,4,JP Morgan
+2022A4801A,Biological Sciences,B.E,6.79,4,Granules India
+2022H4807H,Biological Sciences,M.E,5.65,4,PEISION MEDICINE SOLUTIONS
+2022A4812A,Chemisty,B.E,7.97,4,Honeywell UOP
+2022D4816D,Computer Science and Information Systems,Ph.D,7.04,4,Samsung
+2022A4821A,Mathematics,B.E,8.33,4,Qualcomm
+2022A4829A,Pharmacy,B.E,8.66,4,Unplaced
+2022H4830H,Mathematics,M.E,5.61,4,Unplaced
+2022A4833A,Pharmacy,B.E,9.69,4,ADITYA BIRLA
+2022A4836A,Pharmacy,B.E,7.43,4,Ipca Laboratories
+2022A4840A,Humanities and Social Sciences,B.E,9.57,4,Amazon
+2022H4844H,Chemical Engineering,M.E,5.9,4,Unplaced
+2022P4854P,Pharmacy,B.Pharm,7.51,4,Strand
+2022H4857H,Chemisty,M.E,8.71,4,DuPont
+2022A4860A,Humanities and Social Sciences,B.E,5.49,4,Procter & Gamble
+2022A4865A,Computer Science and Information Systems,B.E,6.49,4,Qualcomm
+2022H4866H,Electrical and Electronics Engineering,M.E,5.88,4,Unplaced
+2022H4869H,Chemical Engineering,M.E,9.03,4,Johnson Matthey
+2022A4873A,Chemical Engineering,B.E,8.0,4,Unplaced
+2022D4874D,Civil Engineering,Ph.D,9.44,4,Mott MacDonald
+2022A4876A,Electrical and Electronics Engineering,B.E,6.57,4,Altera
+2022A4877A,Mechanical Engineering,B.E,7.55,4,Rolls-Royce
+2022A4884A,Pharmacy,B.E,8.22,4,Unplaced
+2022A4888A,Mechanical Engineering,B.E,5.47,4,Ford Motor Company
+2022A4892A,Humanities and Social Sciences,B.E,8.48,4,Unplaced
+2022A4893A,Pharmacy,B.E,5.27,4,kmk
+2022A4899A,Computer Science and Information Systems,B.E,7.73,4,Trilogy
+2022S4902S,Biological Sciences,M.Sc,7.16,4,Emcure Pharmaceuticals
+2022D4908D,Physics,Ph.D,9.33,4,Micron
+2022A4910A,Mechanical Engineering,B.E,7.05,4,ARUP
+2022S4916S,Pharmacy,M.Sc,9.12,4,kmk
+2022A4917A,Chemical Engineering,B.E,7.13,4,Baker Hughes
+2022A4927A,Mathematics,B.E,6.12,4,Teradata
+2022D4939D,Chemical Engineering,Ph.D,8.48,4,Dow
+2022A4945A,Mechanical Engineering,B.E,6.21,4,SONA COMSTAR
+2022A4947A,Mechanical Engineering,B.E,5.23,4,3SC
+2022H4952H,Physics,M.E,5.54,4,Tenstorrent
+2022H4957H,Mechanical Engineering,M.E,7.35,4,SONA COMSTAR
+2022A4966A,Chemisty,B.E,8.67,4,Procter & Gamble
+2022D4975D,Chemical Engineering,Ph.D,8.34,4,3M
+2022A4991A,Civil Engineering,B.E,7.4,4,Assystem Stup
+2022S4992S,Electrical and Electronics Engineering,M.Sc,7.92,4,Fujitsu
+2022A4999A,Computer Science and Information Systems,B.E,5.01,4,Amazon
+2022H5003H,Civil Engineering,M.E,6.29,4,RAMBOLL
+2022A5004A,Economics and Finanace,B.E,5.51,4,Unplaced
+2022H5006H,Physics,M.E,5.19,4,onsemi
+2022A5014A,Mechanical Engineering,B.E,6.36,4,Unplaced
+2022A5016A,Mechanical Engineering,B.E,7.13,4,Honda
+2022A5018A,Mechanical Engineering,B.E,5.48,4,Boeing
+2022A5022A,Computer Science and Information Systems,B.E,5.68,4,GE HealthCare
+2022H5024H,Physics,M.E,8.65,4,Infineon
+2022D5025D,Pharmacy,Ph.D,6.89,4,Aurobindo Pharma
+2022A5032A,Mathematics,B.E,6.3,4,Cisco
+2022A5033A,Chemical Engineering,B.E,6.68,4,Bayer
+2022A5036A,Mathematics,B.E,8.64,4,Unplaced
+2022S5037S,Biological Sciences,M.Sc,8.43,4,Alembic Pharmaceuticals
+2022A5041A,Economics and Finanace,B.E,8.05,4,Moodys Investors Service
+2022A5044A,Pharmacy,B.E,6.68,4,Aizant
+2022P5048P,Chemisty,B.Pharm,8.98,4,Unplaced
+2022H5053H,Mathematics,M.E,6.62,4,Unplaced
+2022A5054A,Electrical and Electronics Engineering,B.E,8.72,4,NXP Semiconductors
+2022D5063D,Humanities and Social Sciences,Ph.D,7.75,4,Google
+2022A5066A,Chemisty,B.E,9.53,4,ADITYA BIRLA
+2022H5067H,Humanities and Social Sciences,M.E,6.75,4,IBM
+2022A5070A,Biological Sciences,B.E,9.73,4,Emcure Pharmaceuticals
+2022A5073A,Electrical and Electronics Engineering,B.E,7.54,4,Fujitsu
+2022A5077A,Civil Engineering,B.E,6.85,4,Unplaced
+2022A5081A,Humanities and Social Sciences,B.E,7.31,4,HCL Technologies
+2022P5083P,Electrical and Electronics Engineering,B.Pharm,6.23,4,Unplaced
+2022S5085S,Mathematics,M.Sc,8.07,4,BLEND360
+2022A5086A,Humanities and Social Sciences,B.E,6.32,4,Procter & Gamble
+2022P5093P,Humanities and Social Sciences,B.Pharm,6.95,4,Procter & Gamble
+2022A5097A,Chemical Engineering,B.E,6.54,4,Bayer
+2022A5099A,Chemical Engineering,B.E,6.59,4,Air Liquide
+2022A5117A,Electrical and Electronics Engineering,B.E,5.39,4,NXP Semiconductors
+2022P5120P,Civil Engineering,B.Pharm,8.74,4,Unplaced
+2022A5122A,Computer Science and Information Systems,B.E,8.65,4,Unplaced
+2022A5124A,Mathematics,B.E,8.21,4,Dell
+2022P5126P,Computer Science and Information Systems,B.Pharm,8.6,4,Amazon
+2022S5127S,Electrical and Electronics Engineering,M.Sc,8.36,4,INSTRUMENTS
+2022A5134A,Mechanical Engineering,B.E,8.52,4,Johnson Controls
+2022D5136D,Economics and Finanace,Ph.D,6.39,4,American Express
+2022A5137A,Pharmacy,B.E,6.21,4,Zydus Cadila
+2022A5140A,Civil Engineering,B.E,9.38,4,Mott MacDonald
+2022A5141A,Electrical and Electronics Engineering,B.E,5.16,4,NXP Semiconductors
+2022A5149A,Physics,B.E,6.13,4,Unplaced
+2022H5151H,Chemical Engineering,M.E,7.69,4,Monsanto
+2022H5152H,Electrical and Electronics Engineering,M.E,6.55,4,MathWorks
+2022P5157P,Civil Engineering,B.Pharm,6.34,4,LISEN A TOLERO
+2022A5164A,Chemisty,B.E,9.86,4,Elucidata
+2022P5171P,Chemical Engineering,B.Pharm,9.1,4,Pfizer
+2022A5185A,Computer Science and Information Systems,B.E,6.48,4,Google
+2022D5187D,Biological Sciences,Ph.D,8.08,4,Unplaced
+2022A5190A,Humanities and Social Sciences,B.E,7.03,4,IBM
+2022H5196H,Economics and Finanace,M.E,5.76,4,Deutsche Bank
+2022A5199A,Physics,B.E,8.74,4,Tenstorrent
+2022A5205A,Chemisty,B.E,8.44,4,Cipla
+2022H5206H,Economics and Finanace,M.E,9.64,4,Morningstar
+2022P5207P,Chemisty,B.Pharm,8.25,4,Unplaced
+2022H5208H,Mechanical Engineering,M.E,7.84,4,Rolls-Royce
+2022A5216A,Biological Sciences,B.E,5.23,4,Wockhardt
+2022A5217A,Computer Science and Information Systems,B.E,7.79,4,VISA
+2022P5223P,Chemisty,B.Pharm,9.57,4,Aizant
+2022A5226A,Chemisty,B.E,6.31,4,Unplaced
+2022A5227A,Economics and Finanace,B.E,9.24,4,HSBC
+2022S5228S,Computer Science and Information Systems,M.Sc,7.26,4,Unplaced
+2022A5233A,Civil Engineering,B.E,5.18,4,Unplaced
+2022A5236A,Mathematics,B.E,7.79,4,Cisco
+2022A5254A,Economics and Finanace,B.E,6.17,4,UBS
+2022P5256P,Chemical Engineering,B.Pharm,9.79,4,Pfizer
+2022S5259S,Chemisty,M.Sc,8.29,4,kmk
+2022A5261A,Mathematics,B.E,8.8,4,BLEND360
+2022P5262P,Pharmacy,B.Pharm,7.64,4,Strand
+2022H5272H,Pharmacy,M.E,9.71,4,Cadila Healthcare
+2022A5273A,Humanities and Social Sciences,B.E,9.53,4,Unplaced
+2022A5274A,Mathematics,B.E,5.09,4,Flipkart
+2022A5277A,Mechanical Engineering,B.E,6.63,4,Lockheed Martin
+2022A5282A,Mechanical Engineering,B.E,8.14,4,3SC
+2022S5283S,Computer Science and Information Systems,M.Sc,7.69,4,Dell
+2022H5285H,Physics,M.E,8.18,4,Intel
+2022A5288A,Physics,B.E,8.26,4,Micron
+2022A5293A,Mechanical Engineering,B.E,7.02,4,Wabtec
+2022D5297D,Biological Sciences,Ph.D,9.18,4,Abbott Laboratories
+2022A5299A,Physics,B.E,6.64,4,STMicroelectronics
+2022P5312P,Economics and Finanace,B.Pharm,8.97,4,American Express
+2022A5313A,Electrical and Electronics Engineering,B.E,9.93,4,SILICON LABS
+2022A5317A,Electrical and Electronics Engineering,B.E,5.2,4,Renesas Electronics
+2022A5318A,Humanities and Social Sciences,B.E,9.28,4,Unplaced
+2022H5319H,Pharmacy,M.E,8.5,4,Alkem Laboratories
+2022A5331A,Chemisty,B.E,6.93,4,SABIC
+2022H5338H,Mechanical Engineering,M.E,7.52,4,Oeing Lie
+2022H5343H,Civil Engineering,M.E,8.36,4,Hill International
+2022A5354A,Electrical and Electronics Engineering,B.E,7.69,4,Ricoh
+2022A5355A,Chemical Engineering,B.E,6.68,4,Unplaced
+2022A5361A,Civil Engineering,B.E,6.8,4,Dragados
+2022A5364A,Economics and Finanace,B.E,8.22,4,Genpact
+2022H5371H,Economics and Finanace,M.E,6.35,4,American Express
+2022A5386A,Humanities and Social Sciences,B.E,5.51,4,Bain & Company
+2022A5387A,Mechanical Engineering,B.E,9.99,4,Unplaced
+2022A5389A,Physics,B.E,9.9,4,SAMSUNG
+2022H5402H,Mechanical Engineering,M.E,5.17,4,Unplaced
+2022A5404A,Economics and Finanace,B.E,8.4,4,FactSet
+2022A5407A,Pharmacy,B.E,7.75,4,Unplaced
+2022P5409P,Economics and Finanace,B.Pharm,9.99,4,Unplaced
+2022D5411D,Pharmacy,Ph.D,8.98,4,Pfizer
+2022S5412S,Biological Sciences,M.Sc,7.45,4,Torrent Pharmaceuticals
+2022H5417H,Computer Science and Information Systems,M.E,5.95,4,Samsung
+2022A5419A,Mechanical Engineering,B.E,6.13,4,SEDEMAC
+2022P5421P,Humanities and Social Sciences,B.Pharm,8.56,4,Microsoft
+2022H5425H,Pharmacy,M.E,5.26,4,Alembic Pharmaceuticals
+2022A5428A,Mathematics,B.E,9.07,4,Mediatek
+2022A5430A,Chemisty,B.E,9.74,4,КАВІ
+2022A5431A,Civil Engineering,B.E,9.48,4,Balfour Beatty
+2022A5433A,Chemisty,B.E,9.43,4,Aragen
+2022A5438A,Economics and Finanace,B.E,9.33,4,Unplaced
+2022A5439A,Chemical Engineering,B.E,9.62,4,Novozymes
+2022D5448D,Chemical Engineering,Ph.D,6.07,4,Novozymes
+2022S5452S,Physics,M.Sc,7.97,4,onsemi
+2022A5460A,Chemical Engineering,B.E,5.56,4,DuPont
+2022P5461P,Chemisty,B.Pharm,7.71,4,Unplaced
+2022A5462A,Biological Sciences,B.E,5.98,4,Zydus Cadila
+2022A5463A,Electrical and Electronics Engineering,B.E,9.6,4,SILICON LABS
+2022H5465H,Electrical and Electronics Engineering,M.E,8.31,4,onsemi
+2022A5468A,Biological Sciences,B.E,7.42,4,PEISION MEDICINE SOLUTIONS
+2022S5469S,Physics,M.Sc,9.19,4,Unplaced
+2022H5470H,Chemisty,M.E,9.79,4,Unplaced
+2022H5471H,Chemisty,M.E,5.21,4,DataZymes
+2022A5476A,Electrical and Electronics Engineering,B.E,6.28,4,onsemi
+2022H5479H,Mechanical Engineering,M.E,8.41,4,ARUP
+2022H5481H,Mechanical Engineering,M.E,8.6,4,Unplaced
+2022H5484H,Physics,M.E,9.81,4,CISCO
+2022A5491A,Mechanical Engineering,B.E,6.24,4,Unplaced
+2022P5494P,Chemisty,B.Pharm,5.87,4,Eastman Chemical Company
+2022S5496S,Mathematics,M.Sc,8.54,4,BLEND360
+2022A5502A,Biological Sciences,B.E,7.04,4,Alembic Pharmaceuticals
+2022A5511A,Economics and Finanace,B.E,7.57,4,Moodys Analytics
+2022A5513A,Economics and Finanace,B.E,9.04,4,McKinsey & Company
+2022H5514H,Chemical Engineering,M.E,7.46,4,PPG Industries
+2022P5516P,Civil Engineering,B.Pharm,5.16,4,Thornton Tomasetti
+2022A5519A,Computer Science and Information Systems,B.E,9.55,4,Unplaced
+2022A5520A,Biological Sciences,B.E,6.65,4,Unplaced
+2022A5523A,Civil Engineering,B.E,6.2,4,Assystem Stup
+2022A5524A,Mathematics,B.E,6.29,4,BLEND360
+2022P5525P,Electrical and Electronics Engineering,B.Pharm,7.29,4,onsemi
+2022A5527A,Civil Engineering,B.E,6.55,4,IcoNS
+2022H5529H,Chemical Engineering,M.E,8.2,4,BASF
+2022A5531A,Chemisty,B.E,6.32,4,ExxonMobil
+2022H5532H,Physics,M.E,9.14,4,IBM
+2022A5533A,Economics and Finanace,B.E,9.56,4,Standard Chartered
+2022A5537A,Mechanical Engineering,B.E,6.52,4,Unplaced
+2022S5545S,Chemical Engineering,M.Sc,5.54,4,Air Liquide
+2022D5549D,Mathematics,Ph.D,7.83,4,Unplaced
+2022H5555H,Physics,M.E,7.08,4,Intel
+2022A5557A,Pharmacy,B.E,8.59,4,Unplaced
+2022A5559A,Electrical and Electronics Engineering,B.E,8.91,4,Xilinx
+2022A5560A,Biological Sciences,B.E,8.12,4,DataZymes
+2022A5561A,Humanities and Social Sciences,B.E,9.45,4,American Express
+2022S5563S,Pharmacy,M.Sc,6.03,4,Unplaced
+2022A5564A,Chemisty,B.E,6.88,4,SABIC
+2022A5565A,Humanities and Social Sciences,B.E,7.95,4,Deloitte
+2022A5568A,Economics and Finanace,B.E,5.62,4,Moodys Analytics
+2022D5580D,Civil Engineering,Ph.D,6.71,4,Parsons Corporation
+2022D5590D,Economics and Finanace,Ph.D,6.24,4,Moodys Investors Service
+2022A5593A,Humanities and Social Sciences,B.E,7.79,4,Reliance Industries
+2022A5594A,Mathematics,B.E,7.65,4,Pharmo Solutions
+2022A5602A,Mathematics,B.E,9.06,4,BLEND360
+2022P5603P,Chemisty,B.Pharm,9.6,4,Linde
+2022A5606A,Mechanical Engineering,B.E,6.81,4,Lime
+2022A5608A,Humanities and Social Sciences,B.E,9.58,4,ITC Limited
+2022P5609P,Computer Science and Information Systems,B.Pharm,6.5,4,Tenstorrent
+2022A5617A,Chemical Engineering,B.E,8.62,4,PPG Industries
+2022D5619D,Chemical Engineering,Ph.D,6.99,4,ExxonMobil
+2022A5622A,Electrical and Electronics Engineering,B.E,7.08,4,Altera
+2022A5624A,Chemical Engineering,B.E,6.78,4,Novozymes
+2022H5625H,Pharmacy,M.E,8.4,4,Unplaced
+2022D5627D,Civil Engineering,Ph.D,9.34,4,WSP Global
+2022A5636A,Civil Engineering,B.E,5.67,4,Acciona
+2022A5638A,Mathematics,B.E,8.52,4,Cisco
+2022A5640A,Physics,B.E,5.53,4,IBM
+2022A5641A,Humanities and Social Sciences,B.E,8.05,4,Google
+2022A5653A,Electrical and Electronics Engineering,B.E,9.21,4,STMicroelectronics
+2022A5655A,Biological Sciences,B.E,9.52,4,Unplaced
+2022D5656D,Economics and Finanace,Ph.D,9.15,4,CRISIL
+2022A5660A,Mechanical Engineering,B.E,7.06,4,Honda
+2022A5664A,Pharmacy,B.E,7.88,4,Unplaced
+2022S5665S,Physics,M.Sc,7.25,4,Unplaced
+2022S5669S,Computer Science and Information Systems,M.Sc,8.11,4,Infineon
+2022A5670A,Mathematics,B.E,7.48,4,Unplaced
+2022A5677A,Humanities and Social Sciences,B.E,7.91,4,Microsoft
+2022H5680H,Electrical and Electronics Engineering,M.E,8.5,4,IBM
+2022P5682P,Computer Science and Information Systems,B.Pharm,9.39,4,VMware
+2022A5699A,Pharmacy,B.E,8.81,4,Unplaced
+2022A5700A,Pharmacy,B.E,7.08,4,Ipca Laboratories
+2022A5708A,Electrical and Electronics Engineering,B.E,6.5,4,Xilinx
+2022D5710D,Computer Science and Information Systems,Ph.D,5.73,4,Axtria
+2022A5714A,Pharmacy,B.E,6.24,4,Unplaced
+2022P5723P,Economics and Finanace,B.Pharm,5.87,4,Bain & Company
+2022D5726D,Civil Engineering,Ph.D,6.23,4,LISEN A TOLERO
+2022A5731A,Chemisty,B.E,6.47,4,Linde
+2022A5733A,Civil Engineering,B.E,8.57,4,Orascom Construction
+2022H5739H,Economics and Finanace,M.E,6.62,4,Unplaced
+2022A5752A,Chemical Engineering,B.E,8.08,4,Dow
+2022A5753A,Chemical Engineering,B.E,6.67,4,Praxair
+2022A5758A,Electrical and Electronics Engineering,B.E,5.6,4,INSTRUMENTS
+2022A5765A,Biological Sciences,B.E,6.57,4,Granules India
+2022A5766A,Mathematics,B.E,9.04,4,Intel
+2022S5776S,Computer Science and Information Systems,M.Sc,9.0,4,Cisco
+2022P5778P,Chemical Engineering,B.Pharm,7.04,4,Unplaced
+2022P5782P,Economics and Finanace,B.Pharm,8.14,4,American Express
+2022P5790P,Humanities and Social Sciences,B.Pharm,6.05,4,Google
+2022S5793S,Mathematics,M.Sc,6.11,4,Microsoft
+2022A5799A,Mechanical Engineering,B.E,5.18,4,SONA COMSTAR
+2022A5800A,Electrical and Electronics Engineering,B.E,7.63,4,Altera
+2022A5803A,Electrical and Electronics Engineering,B.E,6.52,4,Unplaced
+2022A5807A,Mathematics,B.E,5.24,4,Google
+2022H5812H,Civil Engineering,M.E,8.85,4,Unplaced
+2022A5814A,Pharmacy,B.E,6.0,4,Ipca Laboratories
+2022P5815P,Humanities and Social Sciences,B.Pharm,8.44,4,Unplaced
+2022S5826S,Mechanical Engineering,M.Sc,9.23,4,Unplaced
+2022S5827S,Pharmacy,M.Sc,7.29,4,Aurobindo Pharma
+2022A5836A,Chemical Engineering,B.E,7.19,4,Covestro
+2022H5837H,Economics and Finanace,M.E,9.95,4,FactSet
+2022P5838P,Electrical and Electronics Engineering,B.Pharm,5.76,4,Unplaced
+2022S5840S,Mathematics,M.Sc,8.03,4,Unplaced
+2022S5842S,Humanities and Social Sciences,M.Sc,8.89,4,KPMG
+2022A5845A,Computer Science and Information Systems,B.E,5.19,4,Teradata
+2022P5850P,Biological Sciences,B.Pharm,6.68,4,Unplaced
+2022A5861A,Mathematics,B.E,7.72,4,IBM
+2022A5874A,Physics,B.E,6.58,4,Intel
+2022A5876A,Computer Science and Information Systems,B.E,8.63,4,CONCR
+2022H5890H,Pharmacy,M.E,9.09,4,Strand
+2022H5893H,Electrical and Electronics Engineering,M.E,6.36,4,Micron
+2022D5895D,Humanities and Social Sciences,Ph.D,6.64,4,Unplaced
+2022A5898A,Civil Engineering,B.E,6.07,4,IcoNS
+2022A5899A,Computer Science and Information Systems,B.E,6.29,4,Unplaced
+2022H5903H,Chemical Engineering,M.E,5.93,4,Covestro
+2022H5904H,Computer Science and Information Systems,M.E,5.35,4,Qualcomm
+2022A5905A,Biological Sciences,B.E,6.12,4,Alembic Pharmaceuticals
+2022H5908H,Humanities and Social Sciences,M.E,9.63,4,Infosys
+2022H5910H,Chemical Engineering,M.E,5.13,4,Unplaced
+2022H5911H,Pharmacy,M.E,6.66,4,SII
+2022A5914A,Biological Sciences,B.E,5.31,4,Dr. Reddys Laboratories
+2022P5915P,Computer Science and Information Systems,B.Pharm,9.75,4,Secureworks
+2022D5916D,Humanities and Social Sciences,Ph.D,8.0,4,American Express
+2022A5921A,Biological Sciences,B.E,9.61,4,Alembic Pharmaceuticals
+2022A5928A,Humanities and Social Sciences,B.E,5.53,4,State Bank of India (SBI)
+2022D5932D,Economics and Finanace,Ph.D,6.67,4,Unplaced
+2022A5935A,Pharmacy,B.E,7.82,4,Strand
+2022H5944H,Physics,M.E,8.07,4,INSTRUMENTS
+2022A5945A,Civil Engineering,B.E,5.52,4,"Daelim Industrial Co., Ltd."
+2022S5952S,Humanities and Social Sciences,M.Sc,8.29,4,State Bank of India (SBI)
+2022P5956P,Humanities and Social Sciences,B.Pharm,9.59,4,KPMG
+2022D5957D,Humanities and Social Sciences,Ph.D,9.69,4,Tata Steel
+2022S5963S,Economics and Finanace,M.Sc,8.75,4,Unplaced
+2022H5964H,Computer Science and Information Systems,M.E,7.0,4,Tenstorrent
+2022A5970A,Physics,B.E,7.71,4,onsemi
+2022H5977H,Chemical Engineering,M.E,9.09,4,LyondellBasell
+2022A5978A,Chemical Engineering,B.E,7.08,4,Unplaced
+2022H5985H,Pharmacy,M.E,8.43,4,Aragen
+2022A5988A,Mathematics,B.E,5.62,4,Piramal
+2022A5989A,Pharmacy,B.E,6.23,4,FRESENIUS
+2022S5990S,Economics and Finanace,M.Sc,9.85,4,Credit Suisse
+2022A5994A,Chemical Engineering,B.E,7.63,4,Bayer
+2022A5995A,Computer Science and Information Systems,B.E,5.61,4,Samsung
+2022D5997D,Biological Sciences,Ph.D,5.78,4,Aurobindo Pharma
+2022D5998D,Computer Science and Information Systems,Ph.D,8.82,4,Trilogy
+2022P6001P,Electrical and Electronics Engineering,B.Pharm,9.24,4,LG Electronics
+2022A6007A,Pharmacy,B.E,9.03,4,Elucidata
+2022H6011H,Chemisty,M.E,9.53,4,BASF
+2022A6013A,Civil Engineering,B.E,9.01,4,LISEN A TOLERO
+2022S6014S,Physics,M.Sc,8.65,4,IBM
+2022A6019A,Economics and Finanace,B.E,7.81,4,JP Morgan
+2022S6026S,Electrical and Electronics Engineering,M.Sc,9.77,4,AMDET
+2022A6028A,Physics,B.E,9.83,4,Unplaced
+2022S6033S,Pharmacy,M.Sc,8.1,4,Biocon
+2022A6034A,Humanities and Social Sciences,B.E,8.85,4,Genpact
+2022A6040A,Humanities and Social Sciences,B.E,8.38,4,Hindustan Unilever Limited (HUL)
+2022D6041D,Humanities and Social Sciences,Ph.D,5.06,4,Unplaced
+2022A6042A,Chemisty,B.E,9.81,4,BASF
+2022A6043A,Pharmacy,B.E,7.32,4,Aurobindo Pharma
+2022A6047A,Mathematics,B.E,5.21,4,Pharmo Solutions
+2022H6050H,Pharmacy,M.E,7.79,4,Alkem Laboratories
+2022A6052A,Chemical Engineering,B.E,5.2,4,Lanxess
+2022H6054H,Chemical Engineering,M.E,5.86,4,Johnson Matthey
+2022A6058A,Biological Sciences,B.E,5.32,4,Torrent Pharmaceuticals
+2022A6062A,Humanities and Social Sciences,B.E,8.07,4,Procter & Gamble
+2022A6071A,Civil Engineering,B.E,7.09,4,Stantec
+2022A6076A,Pharmacy,B.E,6.37,4,Ipca Laboratories
+2022A6081A,Chemical Engineering,B.E,7.11,4,BASF
+2022A6082A,Mechanical Engineering,B.E,6.93,4,3SC
+2022P6086P,Chemical Engineering,B.Pharm,9.71,4,Occidental Petroleum Corporation (OxyChem)
+2022A6097A,Pharmacy,B.E,8.05,4,Elucidata
+2022A6098A,Mechanical Engineering,B.E,7.87,4,General Motors
+2022A6119A,Physics,B.E,8.8,4,AMDET
+2022P6120P,Chemical Engineering,B.Pharm,9.18,4,3M
+2022P6129P,Chemical Engineering,B.Pharm,8.4,4,BASF
+2022A6134A,Pharmacy,B.E,5.52,4,Unplaced
+2022A6139A,Civil Engineering,B.E,6.89,4,Unplaced
+2022S6143S,Biological Sciences,M.Sc,8.43,4,Aragen
+2022P6145P,Chemical Engineering,B.Pharm,8.74,4,Unplaced
+2022A6149A,Civil Engineering,B.E,6.06,4,Force
+2022A6151A,Chemisty,B.E,7.57,4,Aragen
+2022H6153H,Civil Engineering,M.E,9.85,4,"Daelim Industrial Co., Ltd."
+2022A6161A,Physics,B.E,7.13,4,Intel
+2022P6168P,Humanities and Social Sciences,B.Pharm,9.06,4,Boston Consulting Group (BCG)
+2022A6171A,Pharmacy,B.E,7.48,4,Aragen
+2022H6177H,Pharmacy,M.E,9.2,4,PEISION MEDICINE SOLUTIONS
+2022A6191A,Chemical Engineering,B.E,6.42,4,Air Liquide
+2022A6194A,Civil Engineering,B.E,6.34,4,LISEN A TOLERO
+2022A6197A,Economics and Finanace,B.E,6.84,4,Thomson Reuters
+2022P6202P,Economics and Finanace,B.Pharm,7.82,4,UBS
+2022H6207H,Electrical and Electronics Engineering,M.E,6.62,4,Toshiba
+2022H6217H,Electrical and Electronics Engineering,M.E,5.03,4,IBM
+2022A6222A,Computer Science and Information Systems,B.E,8.39,4,Teradata
+2022P6228P,Chemisty,B.Pharm,5.31,4,Procter & Gamble
+2022S6231S,Electrical and Electronics Engineering,M.Sc,8.22,4,Renesas Electronics
+2022H6236H,Humanities and Social Sciences,M.E,7.18,4,Google
+2022S6237S,Chemisty,M.Sc,9.56,4,DuPont
+2022A6241A,Physics,B.E,7.98,4,Unplaced
+2022D6247D,Chemisty,Ph.D,7.55,4,Honeywell UOP
+2022P6251P,Humanities and Social Sciences,B.Pharm,8.68,4,State Bank of India (SBI)
+2022A6257A,Computer Science and Information Systems,B.E,6.29,4,Axtria
+2022H6260H,Humanities and Social Sciences,M.E,7.04,4,American Express
+2022S6261S,Physics,M.Sc,9.11,4,Qualcomm
+2022A6263A,Economics and Finanace,B.E,5.88,4,Standard Chartered
+2022S6264S,Civil Engineering,M.Sc,7.27,4,"Daelim Industrial Co., Ltd."
+2022A6265A,Physics,B.E,6.25,4,AMDET
+2022P6268P,Electrical and Electronics Engineering,B.Pharm,6.59,4,LG Electronics
+2022H6270H,Electrical and Electronics Engineering,M.E,5.43,4,Unplaced
+2022A6275A,Physics,B.E,8.22,4,Unplaced
+2022A6277A,Biological Sciences,B.E,6.71,4,Torrent Pharmaceuticals
+2022A6278A,Chemical Engineering,B.E,8.23,4,Johnson Matthey
+2022D6279D,Biological Sciences,Ph.D,6.67,4,Biocon
+2022A6281A,Chemical Engineering,B.E,8.45,4,3M
+2022A6282A,Electrical and Electronics Engineering,B.E,6.53,4,STMicroelectronics
+2022H6293H,Physics,M.E,7.57,4,CISCO
+2022A6295A,Economics and Finanace,B.E,5.85,4,Bain & Company
+2022A6298A,Computer Science and Information Systems,B.E,6.13,4,Mashreq
+2022A6299A,Mathematics,B.E,7.89,4,Trilogy
+2022D6301D,Pharmacy,Ph.D,9.56,4,ADITYA BIRLA
+2022H6308H,Pharmacy,M.E,6.45,4,Lupin Limited
+2022A6312A,Mechanical Engineering,B.E,9.51,4,SEDEMAC
+2022A6313A,Economics and Finanace,B.E,9.52,4,Barclays
+2022A6315A,Pharmacy,B.E,6.15,4,PEISION MEDICINE SOLUTIONS
+2022A6316A,Economics and Finanace,B.E,7.98,4,Credit Suisse
+2022H6325H,Humanities and Social Sciences,M.E,8.95,4,Reliance Industries
+2022D6326D,Physics,Ph.D,7.87,4,INSTRUMENTS
+2022A6327A,Electrical and Electronics Engineering,B.E,7.67,4,NXP Semiconductors
+2022H6331H,Economics and Finanace,M.E,7.6,4,IHS Markit
+2022A6337A,Biological Sciences,B.E,7.82,4,Aurobindo Pharma
+2022P6339P,Civil Engineering,B.Pharm,6.59,4,Unplaced
+2022A6343A,Mathematics,B.E,6.25,4,BLEND360
+2022P6346P,Chemical Engineering,B.Pharm,6.21,4,Unplaced
+2022A6348A,Biological Sciences,B.E,9.09,4,Sun Pharmaceutical Industries
+2022H6353H,Chemisty,M.E,6.73,4,Aragen
+2022A6356A,Mathematics,B.E,9.13,4,Dell
+2022A6363A,Humanities and Social Sciences,B.E,9.79,4,KPMG
+2022D6370D,Electrical and Electronics Engineering,Ph.D,7.23,4,ON Semiconductor
+2022A6371A,Mechanical Engineering,B.E,9.6,4,Unplaced
+2022A6372A,Mechanical Engineering,B.E,9.97,4,Rolls-Royce
+2022A6374A,Economics and Finanace,B.E,7.56,4,Unplaced
+2022H6379H,Physics,M.E,6.64,4,Panasonic
+2022S6388S,Economics and Finanace,M.Sc,7.05,4,FactSet
+2022P6390P,Biological Sciences,B.Pharm,9.83,4,Emcure Pharmaceuticals
+2022A6398A,Pharmacy,B.E,8.58,4,Unplaced
+2022A6414A,Pharmacy,B.E,7.62,4,ADITYA BIRLA
+2022H6421H,Mechanical Engineering,M.E,7.7,4,Unplaced
+2022S6424S,Civil Engineering,M.Sc,9.34,4,WSP Global
+2022S6426S,Chemisty,M.Sc,8.94,4,Dow
+2022A6427A,Mathematics,B.E,6.95,4,BLEND360
+2022A6429A,Chemisty,B.E,7.36,4,Unplaced
+2022A6437A,Pharmacy,B.E,8.52,4,Alembic Pharmaceuticals
+2022S6438S,Civil Engineering,M.Sc,6.71,4,Unplaced
+2022A6442A,Economics and Finanace,B.E,7.65,4,Unplaced
+2022A6445A,Chemisty,B.E,7.75,4,Unplaced
+2022H6450H,Mechanical Engineering,M.E,8.98,4,Mercedes Benz
+2022A6453A,Economics and Finanace,B.E,8.94,4,Unplaced
+2022A6455A,Electrical and Electronics Engineering,B.E,9.35,4,AMDET
+2022S6459S,Physics,M.Sc,8.36,4,INSTRUMENTS
+2022A6463A,Economics and Finanace,B.E,7.67,4,Deutsche Bank
+2022H6464H,Biological Sciences,M.E,5.05,4,AstraZeneca
+2022S6472S,Civil Engineering,M.Sc,8.61,4,LISEN A TOLERO
+2022A6473A,Chemical Engineering,B.E,9.34,4,Pfizer
+2022A6481A,Chemisty,B.E,8.18,4,Honeywell UOP
+2022A6482A,Humanities and Social Sciences,B.E,5.83,4,Unplaced
+2022A6483A,Chemical Engineering,B.E,9.99,4,3M
+2022S6511S,Mechanical Engineering,M.Sc,6.0,4,Unplaced
+2022A6518A,Computer Science and Information Systems,B.E,9.63,4,PayU
+2022S6521S,Chemisty,M.Sc,6.62,4,Shell
+2022A6527A,Mechanical Engineering,B.E,8.84,4,Unplaced
+2022D6528D,Physics,Ph.D,5.88,4,SILICON LABS
+2022S6538S,Mechanical Engineering,M.Sc,6.9,4,SpaceX
+2022P6545P,Civil Engineering,B.Pharm,8.8,4,Unplaced
+2022A6550A,Mathematics,B.E,8.97,4,Flipkart
+2022A6556A,Humanities and Social Sciences,B.E,5.38,4,HCL Technologies
+2022A6557A,Electrical and Electronics Engineering,B.E,6.72,4,onsemi
+2022H6559H,Economics and Finanace,M.E,8.54,4,BNP Paribas
+2022D6560D,Chemisty,Ph.D,6.13,4,SABIC
+2022H6561H,Physics,M.E,6.04,4,Infineon
+2022S6562S,Biological Sciences,M.Sc,9.18,4,Emcure Pharmaceuticals
+2022A6565A,Economics and Finanace,B.E,8.85,4,UBS
+2022A6566A,Biological Sciences,B.E,9.77,4,Novartis
+2022A6567A,Civil Engineering,B.E,5.3,4,Balfour Beatty
+2022S6569S,Mechanical Engineering,M.Sc,8.04,4,Oeing Lie
+2022A6570A,Mechanical Engineering,B.E,9.31,4,Caterpillar Inc.
+2022A6577A,Computer Science and Information Systems,B.E,8.28,4,Samsung
+2022P6580P,Electrical and Electronics Engineering,B.Pharm,6.69,4,LG Electronics
+2022H6598H,Mathematics,M.E,7.15,4,Flipkart
+2022D6599D,Physics,Ph.D,6.33,4,MEDIATEK
+2022A6603A,Chemisty,B.E,7.88,4,kmk
+2022D6611D,Chemical Engineering,Ph.D,7.07,4,Unplaced
+2022S6612S,Chemical Engineering,M.Sc,5.51,4,Unplaced
+2022H6613H,Biological Sciences,M.E,9.3,4,Cadila Healthcare
+2022A6625A,Pharmacy,B.E,7.05,4,Biocon
+2022P6627P,Chemical Engineering,B.Pharm,5.46,4,Unplaced
+2022P6630P,Electrical and Electronics Engineering,B.Pharm,9.0,4,Cypress Semiconductor
+2022P6632P,Pharmacy,B.Pharm,9.29,4,Zydus
+2022D6636D,Mechanical Engineering,Ph.D,6.62,4,Oeing Lie
+2022A6643A,Mathematics,B.E,6.36,4,Dell
+2022A6644A,Humanities and Social Sciences,B.E,5.17,4,Hindustan Unilever Limited (HUL)
+2022D6649D,Computer Science and Information Systems,Ph.D,8.07,4,Wabtec
+2022D6651D,Chemisty,Ph.D,9.18,4,ADITYA BIRLA
+2022D6661D,Chemisty,Ph.D,7.11,4,Linde
+2022A6666A,Pharmacy,B.E,8.28,4,Biocon
+2022H6673H,Humanities and Social Sciences,M.E,5.84,4,Cognizant
+2022A6674A,Physics,B.E,6.8,4,Tenstorrent
+2022A6677A,Electrical and Electronics Engineering,B.E,9.43,4,Altera
+2022D6678D,Computer Science and Information Systems,Ph.D,8.19,4,Unplaced
+2022D6681D,Mathematics,Ph.D,9.33,4,Piramal
+2022D6686D,Chemical Engineering,Ph.D,6.5,4,Unplaced
+2022A6689A,Biological Sciences,B.E,8.79,4,Alkem Laboratories
+2022A6691A,Physics,B.E,8.84,4,NXP Semiconductors
+2022A6693A,Physics,B.E,5.92,4,Unplaced
+2022A6695A,Mathematics,B.E,8.37,4,Trilogy
+2022A6696A,Humanities and Social Sciences,B.E,5.02,4,Unplaced
+2022A6703A,Mechanical Engineering,B.E,7.05,4,3SC
+2022A6710A,Biological Sciences,B.E,5.94,4,Unplaced
+2022A6714A,Mathematics,B.E,8.16,4,Qualcomm
+2022A6715A,Physics,B.E,8.53,4,Panasonic
+2022P6720P,Pharmacy,B.Pharm,8.48,4,Dr. Reddys Laboratories
+2022A6721A,Humanities and Social Sciences,B.E,8.61,4,EY (Ernst & Young)
+2022H6725H,Economics and Finanace,M.E,6.97,4,BNP Paribas
+2022P6726P,Chemisty,B.Pharm,7.14,4,FRESENIUS
+2022D6733D,Chemisty,Ph.D,5.31,4,Dow
+2022S6735S,Biological Sciences,M.Sc,6.08,4,Alkem Laboratories
+2022D6744D,Humanities and Social Sciences,Ph.D,7.0,4,Unplaced
+2022H6748H,Civil Engineering,M.E,7.0,4,Force
+2022S6761S,Biological Sciences,M.Sc,6.02,4,Divis Laboratories
+2022A6765A,Mathematics,B.E,6.4,4,Cisco
+2022H6767H,Chemisty,M.E,6.8,4,BASF
+2022H6769H,Computer Science and Information Systems,M.E,7.32,4,Unplaced
+2022A6771A,Pharmacy,B.E,8.39,4,Unplaced
+2022D6772D,Electrical and Electronics Engineering,Ph.D,7.86,4,Fujitsu
+2022H6773H,Mathematics,M.E,5.08,4,Dell
+2022A6779A,Civil Engineering,B.E,8.57,4,ATKINS
+2022A6780A,Civil Engineering,B.E,8.24,4,IcoNS
+2022A6785A,Civil Engineering,B.E,8.02,4,Assystem Stup
+2022A6789A,Mechanical Engineering,B.E,7.55,4,Johnson Controls
+2022A6792A,Chemisty,B.E,6.66,4,Honeywell UOP
+2022A6793A,Electrical and Electronics Engineering,B.E,7.17,4,Unplaced
+2022A6796A,Computer Science and Information Systems,B.E,7.47,4,Infineon
+2022A6797A,Chemical Engineering,B.E,9.35,4,Praxair
+2022A6801A,Computer Science and Information Systems,B.E,5.73,4,GE HealthCare
+2022D6803D,Economics and Finanace,Ph.D,6.76,4,Bain & Company
+2022D6804D,Civil Engineering,Ph.D,9.54,4,RAMBOLL
+2022P6805P,Computer Science and Information Systems,B.Pharm,6.03,4,Secureworks
+2022D6814D,Biological Sciences,Ph.D,8.31,4,SII
+2022P6815P,Civil Engineering,B.Pharm,6.9,4,Orascom Construction
+2022A6817A,Economics and Finanace,B.E,8.68,4,MSCI
+2022S6820S,Computer Science and Information Systems,M.Sc,9.59,4,Wabtec
+2022P6824P,Mechanical Engineering,B.Pharm,5.05,4,3SC
+2022A6827A,Electrical and Electronics Engineering,B.E,6.55,4,IBM
+2022H6831H,Chemical Engineering,M.E,7.42,4,BASF
+2022A6836A,Biological Sciences,B.E,6.43,4,SII
+2022A6837A,Civil Engineering,B.E,8.58,4,Balfour Beatty
+2022D6844D,Pharmacy,Ph.D,6.66,4,Ipca Laboratories
+2022A6850A,Economics and Finanace,B.E,5.22,4,Thomson Reuters
+2022P6854P,Civil Engineering,B.Pharm,5.23,4,Unplaced
+2022P6857P,Civil Engineering,B.Pharm,6.79,4,TATA
+2022P6863P,Electrical and Electronics Engineering,B.Pharm,8.11,4,Renesas Electronics
+2022D6866D,Humanities and Social Sciences,Ph.D,7.01,4,KPMG
+2022A6871A,Civil Engineering,B.E,8.64,4,IcoNS
+2022A6878A,Mathematics,B.E,7.08,4,Microsoft
+2022S6892S,Mechanical Engineering,M.Sc,7.06,4,Unplaced
+2022A6893A,Chemical Engineering,B.E,7.51,4,"KBR, Inc."
+2022A6907A,Electrical and Electronics Engineering,B.E,5.77,4,Fujitsu
+2022H6908H,Computer Science and Information Systems,M.E,7.7,4,Intel
+2022P6913P,Chemical Engineering,B.Pharm,7.15,4,LyondellBasell
+2022A6921A,Economics and Finanace,B.E,7.92,4,Unplaced
+2022A6925A,Pharmacy,B.E,6.7,4,Aragen
+2022A6927A,Biological Sciences,B.E,9.41,4,AstraZeneca
+2022A6928A,Pharmacy,B.E,5.54,4,Alembic Pharmaceuticals
+2022D6935D,Computer Science and Information Systems,Ph.D,6.28,4,Samsung
+2022A6947A,Mechanical Engineering,B.E,8.27,4,Unplaced
+2022H6950H,Computer Science and Information Systems,M.E,8.1,4,Texas Instruments
+2022A6951A,Pharmacy,B.E,7.22,4,Unplaced
+2022A6954A,Humanities and Social Sciences,B.E,7.03,4,State Bank of India (SBI)
+2022D6956D,Civil Engineering,Ph.D,5.22,4,Hill International
+2022A6957A,Computer Science and Information Systems,B.E,7.48,4,Teradata
+2022D6961D,Pharmacy,Ph.D,6.94,4,FRESENIUS
+2022D6962D,Electrical and Electronics Engineering,Ph.D,5.42,4,LG Electronics
+2022A6963A,Electrical and Electronics Engineering,B.E,5.69,4,onsemi
+2022A6966A,Computer Science and Information Systems,B.E,9.04,4,VMware
+2022P6967P,Mechanical Engineering,B.Pharm,9.59,4,ARUP
+2022A6992A,Computer Science and Information Systems,B.E,9.31,4,Teradata
+2022A6994A,Pharmacy,B.E,9.21,4,Zydus
+2022S6999S,Civil Engineering,M.Sc,5.46,4,"Daelim Industrial Co., Ltd."
+2022H7002H,Biological Sciences,M.E,9.02,4,PEISION MEDICINE SOLUTIONS
+2022A7004A,Electrical and Electronics Engineering,B.E,6.72,4,Unplaced
+2022H7005H,Mathematics,M.E,8.86,4,Trilogy
+2022S7008S,Economics and Finanace,M.Sc,9.33,4,American Express
+2022P7010P,Chemisty,B.Pharm,5.98,4,DataZymes
+2022S7014S,Chemical Engineering,M.Sc,5.34,4,Baker Hughes
+2022A7020A,Biological Sciences,B.E,9.94,4,Divis Laboratories
+2022D7021D,Electrical and Electronics Engineering,Ph.D,7.36,4,IBM
+2022H7023H,Mathematics,M.E,7.73,4,Dell
+2022A7024A,Computer Science and Information Systems,B.E,6.6,4,Dell
+2022A7037A,Chemisty,B.E,7.95,4,Unplaced
+2022D7038D,Computer Science and Information Systems,Ph.D,6.76,4,Unplaced
+2022H7040H,Civil Engineering,M.E,5.35,4,Mott MacDonald
+2022D7043D,Computer Science and Information Systems,Ph.D,8.93,4,Trilogy
+2022A7044A,Chemisty,B.E,8.11,4,Unplaced
+2022A7047A,Civil Engineering,B.E,6.47,4,Unplaced
+2022A7060A,Computer Science and Information Systems,B.E,7.78,4,Unplaced
+2022A7065A,Humanities and Social Sciences,B.E,7.36,4,Tata Consultancy Services (TCS)
+2022A7067A,Civil Engineering,B.E,7.01,4,Parsons Corporation
+2022A7069A,Pharmacy,B.E,9.83,4,Unplaced
+2022H7079H,Physics,M.E,8.9,4,Unplaced
+2022H7081H,Electrical and Electronics Engineering,M.E,7.0,4,Unplaced
+2022A7090A,Electrical and Electronics Engineering,B.E,8.75,4,Unplaced
+2022A7091A,Mathematics,B.E,8.41,4,Trilogy
+2022A7098A,Chemical Engineering,B.E,8.11,4,Pfizer
+2022S7100S,Civil Engineering,M.Sc,8.82,4,ARUP
+2022P7101P,Civil Engineering,B.Pharm,9.55,4,Mott MacDonald
+2022A7103A,Humanities and Social Sciences,B.E,7.0,4,Reliance Industries
+2022D7104D,Mathematics,Ph.D,7.46,4,Unplaced
+2022P7111P,Chemisty,B.Pharm,7.16,4,Honeywell UOP
+2022A7113A,Pharmacy,B.E,9.06,4,Zydus
+2022D7119D,Electrical and Electronics Engineering,Ph.D,9.86,4,Fujitsu
+2022P7122P,Chemical Engineering,B.Pharm,5.01,4,Occidental Petroleum Corporation (OxyChem)
+2022P7123P,Chemical Engineering,B.Pharm,9.0,4,LyondellBasell
+2022A7126A,Economics and Finanace,B.E,9.91,4,Deloitte
+2022A7128A,Electrical and Electronics Engineering,B.E,7.27,4,Fujitsu
+2022H7129H,Humanities and Social Sciences,M.E,8.33,4,Reliance Industries
+2022P7135P,Economics and Finanace,B.Pharm,7.54,4,Moodys Analytics
+2022A7137A,Computer Science and Information Systems,B.E,9.56,4,Unplaced
+2022A7139A,Economics and Finanace,B.E,9.58,4,Unplaced
+2022A7140A,Mechanical Engineering,B.E,5.98,4,Johnson Controls
+2022A7144A,Pharmacy,B.E,9.04,4,Biocon
+2022S7145S,Biological Sciences,M.Sc,9.09,4,Torrent Pharmaceuticals
+2022S7146S,Mathematics,M.Sc,6.7,4,Flipkart
+2022A7149A,Economics and Finanace,B.E,7.5,4,Goldman Sachs
+2022H7151H,Physics,M.E,9.58,4,INSTRUMENTS
+2022H7152H,Computer Science and Information Systems,M.E,6.36,4,Unplaced
+2022P7154P,Chemisty,B.Pharm,7.45,4,Unplaced
+2022A7157A,Physics,B.E,6.67,4,onsemi
+2022S7158S,Pharmacy,M.Sc,8.71,4,Unplaced
+2022S7167S,Pharmacy,M.Sc,9.16,4,Alembic Pharmaceuticals
+2022H7174H,Physics,M.E,7.67,4,SEDEMAC
+2022A7176A,Civil Engineering,B.E,7.04,4,Assystem Stup
+2022H7181H,Chemical Engineering,M.E,6.76,4,DuPont
+2022H7184H,Physics,M.E,9.4,4,Infineon
+2022P7185P,Economics and Finanace,B.Pharm,7.58,4,Wells Fargo
+2022S7187S,Civil Engineering,M.Sc,9.45,4,"Daelim Industrial Co., Ltd."
+2022A7188A,Humanities and Social Sciences,B.E,6.41,4,Flipkart
+2022H7189H,Computer Science and Information Systems,M.E,8.46,4,MathWorks
+2022A7192A,Humanities and Social Sciences,B.E,5.98,4,KPMG
+2022A7196A,Biological Sciences,B.E,5.9,4,Unplaced
+2022A7200A,Mechanical Engineering,B.E,9.41,4,Unplaced
+2022A7206A,Computer Science and Information Systems,B.E,8.53,4,Piramal
+2022H7210H,Electrical and Electronics Engineering,M.E,5.16,4,Xilinx
+2022A7211A,Biological Sciences,B.E,8.63,4,Novartis
+2022H7212H,Economics and Finanace,M.E,7.16,4,HSBC
+2022A7220A,Civil Engineering,B.E,7.49,4,Stantec
+2022A7223A,Pharmacy,B.E,9.01,4,Cadila Healthcare
+2022P7225P,Electrical and Electronics Engineering,B.Pharm,6.34,4,INSTRUMENTS
+2022H7250H,Chemisty,M.E,8.04,4,SABIC
+2022H7253H,Civil Engineering,M.E,6.79,4,Unplaced
+2022H7263H,Physics,M.E,5.19,4,SEDEMAC
+2022H7268H,Computer Science and Information Systems,M.E,7.65,4,Unplaced
+2022S7270S,Humanities and Social Sciences,M.Sc,8.78,4,Unplaced
+2022A7276A,Chemical Engineering,B.E,7.68,4,Dow
+2022S7278S,Mathematics,M.Sc,9.35,4,Trilogy
+2022A7281A,Economics and Finanace,B.E,6.83,4,Boston Consulting Group (BCG)
+2022H7286H,Computer Science and Information Systems,M.E,6.31,4,Google
+2022S7294S,Biological Sciences,M.Sc,7.22,4,Unplaced
+2022S7299S,Pharmacy,M.Sc,5.76,4,AstraZeneca
+2022H7300H,Economics and Finanace,M.E,6.5,4,BNP Paribas
+2022A7301A,Pharmacy,B.E,7.48,4,Aizant
+2022S7304S,Chemisty,M.Sc,6.08,4,freyr
+2022A7309A,Mathematics,B.E,9.16,4,Teradata
+2022S7312S,Pharmacy,M.Sc,7.82,4,Unplaced
+2022H7319H,Chemisty,M.E,7.45,4,Unplaced
+2022H7329H,Civil Engineering,M.E,6.87,4,COWI
+2022A7330A,Physics,B.E,9.85,4,Tenstorrent
+2022H7334H,Computer Science and Information Systems,M.E,6.0,4,Qualcomm
+2022A7337A,Chemisty,B.E,5.47,4,КАВІ
+2022A7338A,Mechanical Engineering,B.E,6.16,4,Unplaced
+2022H7341H,Chemical Engineering,M.E,8.34,4,LyondellBasell
+2022A7350A,Physics,B.E,6.09,4,Qualcomm
+2022D7356D,Mathematics,Ph.D,6.49,4,Cisco
+2022A7357A,Mathematics,B.E,5.5,4,Intel
+2022A7362A,Chemisty,B.E,6.47,4,Elucidata
+2022A7364A,Chemisty,B.E,8.64,4,Elucidata
+2022A7367A,Pharmacy,B.E,8.82,4,Ipca Laboratories
+2022A7368A,Mechanical Engineering,B.E,9.1,4,Ford Motor Company
+2022H7370H,Mathematics,M.E,5.46,4,Trilogy
+2022A7373A,Computer Science and Information Systems,B.E,6.94,4,Wabtec
+2022H7378H,Economics and Finanace,M.E,9.04,4,HSBC
+2022A7382A,Mathematics,B.E,9.69,4,Unplaced
+2022A7383A,Computer Science and Information Systems,B.E,8.83,4,PayU
+2022S7388S,Computer Science and Information Systems,M.Sc,6.92,4,Unplaced
+2022A7393A,Civil Engineering,B.E,7.57,4,Dragados
+2022D7398D,Pharmacy,Ph.D,8.88,4,Lupin Limited
+2022S7403S,Electrical and Electronics Engineering,M.Sc,8.19,4,Unplaced
+2022A7405A,Mechanical Engineering,B.E,6.32,4,TATA
+2022A7410A,Computer Science and Information Systems,B.E,5.75,4,Unplaced
+2022A7420A,Physics,B.E,7.81,4,SEDEMAC
+2022A7424A,Mathematics,B.E,5.48,4,Trilogy
+2022A7430A,Mechanical Engineering,B.E,9.16,4,3SC
+2022H7432H,Economics and Finanace,M.E,9.24,4,McKinsey & Company
+2022D7439D,Chemical Engineering,Ph.D,6.1,4,PPG Industries
+2022H7441H,Chemisty,M.E,5.54,4,Unplaced
+2022A7443A,Humanities and Social Sciences,B.E,5.55,4,EY (Ernst & Young)
+2022A7454A,Economics and Finanace,B.E,5.75,4,Goldman Sachs
+2022D7456D,Electrical and Electronics Engineering,Ph.D,8.15,4,Fujitsu
+2022H7457H,Physics,M.E,5.29,4,Unplaced
+2022H7460H,Physics,M.E,9.23,4,INSTRUMENTS
+2022A7461A,Mathematics,B.E,7.44,4,AMD
+2022A7462A,Mechanical Engineering,B.E,5.01,4,Oeing Lie
+2022A7471A,Chemical Engineering,B.E,9.35,4,Honeywell UOP
+2022A7476A,Electrical and Electronics Engineering,B.E,8.42,4,IBM
+2022H7485H,Physics,M.E,6.24,4,Unplaced
+2022A7488A,Physics,B.E,6.51,4,Unplaced
+2022A7492A,Civil Engineering,B.E,7.25,4,AMARARALA
+2022H7498H,Civil Engineering,M.E,9.6,4,Balfour Beatty
+2022S7500S,Electrical and Electronics Engineering,M.Sc,7.65,4,SILICON LABS
+2022H7507H,Mechanical Engineering,M.E,5.42,4,SEDEMAC
+2022S7510S,Humanities and Social Sciences,M.Sc,7.94,4,Accenture
+2022A7513A,Physics,B.E,6.5,4,SILICON LABS
+2022A7517A,Humanities and Social Sciences,B.E,5.11,4,Cognizant
+2022A7529A,Mathematics,B.E,5.34,4,Flipkart
+2022A7531A,Chemisty,B.E,7.5,4,DataZymes
+2022D7533D,Economics and Finanace,Ph.D,9.65,4,HSBC
+2022A7534A,Humanities and Social Sciences,B.E,9.12,4,Unplaced
+2022H7535H,Biological Sciences,M.E,5.42,4,Aurobindo Pharma
+2022A7538A,Electrical and Electronics Engineering,B.E,8.24,4,Unplaced
+2022H7539H,Computer Science and Information Systems,M.E,7.17,4,Unplaced
+2022A7545A,Physics,B.E,9.17,4,CISCO
+2022A7547A,Economics and Finanace,B.E,5.22,4,FactSet
+2022H7548H,Economics and Finanace,M.E,5.53,4,UBS
+2022A7549A,Physics,B.E,6.33,4,Tenstorrent
+2022H7552H,Physics,M.E,5.57,4,Dolcera
+2022P7557P,Civil Engineering,B.Pharm,6.86,4,ATKINS
+2022A7562A,Chemisty,B.E,6.91,4,Aragen
+2022A7563A,Chemical Engineering,B.E,7.89,4,Baker Hughes
+2022A7568A,Biological Sciences,B.E,6.6,4,Granules India
+2022S7569S,Mathematics,M.Sc,5.66,4,Trilogy
+2022H7575H,Chemisty,M.E,7.79,4,Procter & Gamble
+2022A7580A,Chemical Engineering,B.E,7.2,4,Unplaced
+2022S7583S,Pharmacy,M.Sc,8.61,4,Biocon
+2022A7585A,Economics and Finanace,B.E,6.63,4,JP Morgan
+2022S7586S,Physics,M.Sc,8.3,4,Unplaced
+2022A7592A,Chemical Engineering,B.E,8.45,4,Bayer
+2022H7597H,Humanities and Social Sciences,M.E,8.22,4,KPMG
+2022A7600A,Electrical and Electronics Engineering,B.E,7.68,4,Unplaced
+2022A7606A,Chemisty,B.E,9.29,4,Dow
+2022A7615A,Chemical Engineering,B.E,5.45,4,Baker Hughes
+2022P7618P,Pharmacy,B.Pharm,5.46,4,Natco Pharma
+2022A7628A,Civil Engineering,B.E,6.38,4,IcoNS
+2022A7631A,Physics,B.E,8.31,4,Unplaced
+2022D7644D,Pharmacy,Ph.D,5.99,4,Dr. Reddys Laboratories
+2022A7649A,Pharmacy,B.E,6.87,4,Dr. Reddys Laboratories
+2022A7664A,Physics,B.E,6.54,4,SEDEMAC
+2022A7668A,Civil Engineering,B.E,8.31,4,Orascom Construction
+2022A7680A,Electrical and Electronics Engineering,B.E,5.87,4,Unplaced
+2022A7684A,Chemisty,B.E,6.21,4,Unplaced
+2022A7685A,Humanities and Social Sciences,B.E,9.0,4,Reliance Industries
+2022A7688A,Pharmacy,B.E,9.96,4,Aragen
+2022A7689A,Pharmacy,B.E,8.53,4,Strand
+2022A7690A,Physics,B.E,6.98,4,Qualcomm
+2022A7691A,Computer Science and Information Systems,B.E,5.26,4,Axtria
+2022A7697A,Chemical Engineering,B.E,5.09,4,Bayer
+2022P7698P,Chemisty,B.Pharm,6.42,4,BASF
+2022A7702A,Mechanical Engineering,B.E,5.89,4,SONA COMSTAR
+2022A7708A,Humanities and Social Sciences,B.E,7.75,4,Reliance Industries
+2022H7711H,Economics and Finanace,M.E,9.52,4,IHS Markit
+2022D7716D,Economics and Finanace,Ph.D,6.25,4,Unplaced
+2022A7721A,Mechanical Engineering,B.E,6.41,4,DOVER
+2022H7722H,Civil Engineering,M.E,8.91,4,AMARARALA
+2022P7723P,Electrical and Electronics Engineering,B.Pharm,7.52,4,onsemi
+2022A7736A,Biological Sciences,B.E,7.98,4,Unplaced
+2022S7743S,Electrical and Electronics Engineering,M.Sc,9.33,4,STMicroelectronics
+2022S7744S,Mathematics,M.Sc,8.93,4,BLEND360
+2022A7747A,Chemisty,B.E,7.58,4,Linde
+2022S7752S,Chemical Engineering,M.Sc,9.52,4,DuPont
+2022A7753A,Physics,B.E,6.59,4,CISCO
+2022H7754H,Civil Engineering,M.E,8.79,4,IcoNS
+2022H7758H,Biological Sciences,M.E,9.98,4,Sun Pharmaceutical Industries
+2022A7768A,Biological Sciences,B.E,7.72,4,PEISION MEDICINE SOLUTIONS
+2022P7770P,Electrical and Electronics Engineering,B.Pharm,5.31,4,Honeywell
+2022D7773D,Mechanical Engineering,Ph.D,8.03,4,Lockheed Martin
+2022A7778A,Chemisty,B.E,5.52,4,Dow
+2022A7780A,Biological Sciences,B.E,6.47,4,Torrent Pharmaceuticals
+2022A7783A,Economics and Finanace,B.E,6.83,4,American Express
+2022A7787A,Mechanical Engineering,B.E,9.8,4,Shell
+2022H7790H,Physics,M.E,7.61,4,CISCO
+2022A7791A,Physics,B.E,7.77,4,SILICON LABS
+2022A7792A,Humanities and Social Sciences,B.E,7.12,4,Unplaced
+2022P7798P,Biological Sciences,B.Pharm,6.39,4,Unplaced
+2022A7801A,Economics and Finanace,B.E,8.7,4,Unplaced
+2022A7803A,Pharmacy,B.E,8.68,4,FRESENIUS
+2022D7806D,Humanities and Social Sciences,Ph.D,9.81,4,Accenture
+2022D7818D,Mathematics,Ph.D,6.57,4,Intel
+2022A7826A,Humanities and Social Sciences,B.E,8.79,4,Unplaced
+2022A7835A,Electrical and Electronics Engineering,B.E,5.53,4,Altera
+2022A7838A,Physics,B.E,9.93,4,Unplaced
+2022H7839H,Electrical and Electronics Engineering,M.E,7.42,4,Ricoh
+2022A7842A,Computer Science and Information Systems,B.E,9.12,4,Unplaced
+2022P7843P,Biological Sciences,B.Pharm,8.48,4,Unplaced
+2022D7845D,Chemical Engineering,Ph.D,7.51,4,Bayer
+2022A7851A,Electrical and Electronics Engineering,B.E,8.3,4,SynOPSYS
+2022A7855A,Mathematics,B.E,9.91,4,Trilogy
+2022S7860S,Biological Sciences,M.Sc,5.47,4,Natco Pharma
+2022H7867H,Computer Science and Information Systems,M.E,6.21,4,Unplaced
+2022D7869D,Economics and Finanace,Ph.D,9.44,4,Credit Suisse
+2022S7876S,Pharmacy,M.Sc,5.69,4,Pfizer
+2022H7881H,Computer Science and Information Systems,M.E,5.82,4,PayU
+2022D7888D,Computer Science and Information Systems,Ph.D,8.67,4,Dell
+2022H7890H,Economics and Finanace,M.E,6.57,4,Moodys Investors Service
+2022A7901A,Economics and Finanace,B.E,5.14,4,Morningstar
+2022A7902A,Economics and Finanace,B.E,5.23,4,JP Morgan
+2022H7904H,Mechanical Engineering,M.E,8.43,4,Unplaced
+2022A7907A,Physics,B.E,8.51,4,Unplaced
+2022A7912A,Biological Sciences,B.E,7.17,4,Cipla
+2022A7914A,Electrical and Electronics Engineering,B.E,6.49,4,STMicroelectronics
+2022A7915A,Chemisty,B.E,9.8,4,DataZymes
+2022H7924H,Physics,M.E,5.99,4,Qualcomm
+2022A7925A,Biological Sciences,B.E,5.46,4,SII
+2022H7936H,Computer Science and Information Systems,M.E,9.69,4,Mediatek
+2022H7938H,Pharmacy,M.E,9.62,4,Ipca Laboratories
+2022A7939A,Chemical Engineering,B.E,8.93,4,Unplaced
+2022A7940A,Mechanical Engineering,B.E,9.55,4,Ford Motor Company
+2022D7943D,Physics,Ph.D,8.12,4,STMicroelectronics
+2022A7952A,Humanities and Social Sciences,B.E,6.94,4,Unplaced
+2022A7955A,Biological Sciences,B.E,6.39,4,Unplaced
+2022A7957A,Chemical Engineering,B.E,5.82,4,Baker Hughes
+2022A7965A,Humanities and Social Sciences,B.E,8.9,4,American Express
+2022A7969A,Civil Engineering,B.E,9.1,4,Unplaced
+2022A7975A,Electrical and Electronics Engineering,B.E,5.01,4,Unplaced
+2022A7977A,Pharmacy,B.E,8.13,4,Unplaced
+2022A7978A,Mechanical Engineering,B.E,8.33,4,3SC
+2022P7979P,Economics and Finanace,B.Pharm,6.08,4,BlackRock
+2022H7987H,Chemical Engineering,M.E,9.91,4,Lanxess
+2022A7994A,Biological Sciences,B.E,8.04,4,SII
+2022A7995A,Chemisty,B.E,5.86,4,Unplaced
+2022A8001A,Economics and Finanace,B.E,9.05,4,Unplaced
+2022A8010A,Biological Sciences,B.E,7.22,4,Zydus
+2022A8011A,Humanities and Social Sciences,B.E,8.25,4,Unplaced
+2022H8015H,Mechanical Engineering,M.E,9.14,4,Unplaced
+2022A8016A,Chemisty,B.E,9.51,4,kmk
+2022H8017H,Electrical and Electronics Engineering,M.E,8.11,4,NEC Corporation
+2022S8018S,Chemisty,M.Sc,7.23,4,BASF
+2022S8024S,Electrical and Electronics Engineering,M.Sc,5.73,4,Unplaced
+2022H8028H,Electrical and Electronics Engineering,M.E,8.92,4,SynOPSYS
+2022A8030A,Humanities and Social Sciences,B.E,7.78,4,Bain & Company
+2022A8034A,Biological Sciences,B.E,6.98,4,DataZymes
+2022A8035A,Humanities and Social Sciences,B.E,8.21,4,Flipkart
+2022D8036D,Computer Science and Information Systems,Ph.D,9.75,4,Dell
+2022A8037A,Mechanical Engineering,B.E,6.18,4,Rolls-Royce
+2022A8044A,Computer Science and Information Systems,B.E,9.91,4,Unplaced
+2022D8045D,Mathematics,Ph.D,5.07,4,Flipkart
+2022A8046A,Biological Sciences,B.E,6.46,4,SII
+2022H8047H,Pharmacy,M.E,7.95,4,FRESENIUS
+2022A8048A,Economics and Finanace,B.E,5.34,4,Accenture
+2022D8061D,Economics and Finanace,Ph.D,8.88,4,Nomura
+2022D8071D,Mechanical Engineering,Ph.D,9.45,4,Johnson Controls
+2022A8074A,Electrical and Electronics Engineering,B.E,5.22,4,Unplaced
+2022A8079A,Physics,B.E,9.34,4,Unplaced
+2022A8081A,Civil Engineering,B.E,6.94,4,TATA
+2022P8082P,Chemical Engineering,B.Pharm,8.3,4,Unplaced
+2022A8083A,Civil Engineering,B.E,7.52,4,"Daelim Industrial Co., Ltd."
+2022S8085S,Economics and Finanace,M.Sc,9.46,4,Boston Consulting Group (BCG)
+2022A8087A,Computer Science and Information Systems,B.E,9.86,4,PayU
+2022H8089H,Computer Science and Information Systems,M.E,8.8,4,Secureworks
+2022A8093A,Physics,B.E,8.67,4,Tenstorrent
+2022A8103A,Economics and Finanace,B.E,7.1,4,Unplaced
+2022H8105H,Chemical Engineering,M.E,8.67,4,LyondellBasell
+2022A8106A,Pharmacy,B.E,8.48,4,Biocon
+2022A8107A,Biological Sciences,B.E,6.48,4,Unplaced
+2022H8111H,Economics and Finanace,M.E,7.2,4,Accenture
+2022A8112A,Humanities and Social Sciences,B.E,9.6,4,State Bank of India (SBI)
+2022S8113S,Electrical and Electronics Engineering,M.Sc,9.66,4,Unplaced
+2022H8114H,Physics,M.E,7.17,4,AMDET
+2022A8115A,Computer Science and Information Systems,B.E,7.4,4,Unplaced
+2022H8118H,Pharmacy,M.E,5.7,4,freyr
+2022H8121H,Biological Sciences,M.E,6.44,4,GSK Pharmaceuticals
+2022A8122A,Mathematics,B.E,5.67,4,Microsoft
+2022D8127D,Mechanical Engineering,Ph.D,9.13,4,Honda
+2022H8128H,Pharmacy,M.E,6.16,4,Zydus
+2022P8131P,Computer Science and Information Systems,B.Pharm,7.07,4,PayU
+2022A8143A,Economics and Finanace,B.E,5.77,4,Unplaced
+2022A8145A,Civil Engineering,B.E,7.06,4,TATA
+2022A8147A,Economics and Finanace,B.E,5.36,4,EY (Ernst & Young)
+2022H8151H,Electrical and Electronics Engineering,M.E,9.78,4,ON Semiconductor
+2022A8154A,Physics,B.E,9.43,4,MICROCHIP
+2022A8155A,Pharmacy,B.E,6.25,4,Aurobindo Pharma
+2022H8157H,Economics and Finanace,M.E,9.72,4,Deutsche Bank
+2022A8164A,Chemical Engineering,B.E,7.43,4,PPG Industries
+2022A8167A,Chemisty,B.E,8.27,4,Unplaced
+2022D8171D,Biological Sciences,Ph.D,5.94,4,Unplaced
+2022A8183A,Civil Engineering,B.E,8.66,4,Assystem Stup
+2022D8194D,Mathematics,Ph.D,5.27,4,Unplaced
+2022A8200A,Chemisty,B.E,8.78,4,Unplaced
+2022A8208A,Chemisty,B.E,9.55,4,DataZymes
+2022A8211A,Mechanical Engineering,B.E,6.33,4,SONA COMSTAR
+2022A8228A,Chemisty,B.E,5.17,4,Linde
+2022P8234P,Civil Engineering,B.Pharm,9.12,4,Unplaced
+2022A8238A,Chemisty,B.E,9.6,4,Aragen
+2022D8241D,Pharmacy,Ph.D,7.54,4,Unplaced
+2022H8242H,Mathematics,M.E,6.6,4,Dell
+2022A8248A,Economics and Finanace,B.E,7.57,4,Goldman Sachs
+2022A8249A,Pharmacy,B.E,9.79,4,Unplaced
+2022S8251S,Mathematics,M.Sc,7.07,4,Dell
+2022A8254A,Computer Science and Information Systems,B.E,6.37,4,Tenstorrent
+2022A8256A,Physics,B.E,6.44,4,Tenstorrent
+2022A8257A,Economics and Finanace,B.E,8.24,4,Bain & Company
+2022A8259A,Economics and Finanace,B.E,6.48,4,Deutsche Bank
+2022H8263H,Mathematics,M.E,6.83,4,BLEND360
+2022S8264S,Electrical and Electronics Engineering,M.Sc,7.84,4,Fujitsu
+2022H8266H,Mechanical Engineering,M.E,7.04,4,Boeing
+2022P8269P,Chemisty,B.Pharm,5.91,4,Procter & Gamble
+2022A8276A,Civil Engineering,B.E,7.42,4,Unplaced
+2022A8279A,Civil Engineering,B.E,5.29,4,Unplaced
+2022A8288A,Mathematics,B.E,6.3,4,IBM
+2022D8290D,Civil Engineering,Ph.D,8.02,4,Unplaced
+2022A8293A,Biological Sciences,B.E,9.75,4,Abbott Laboratories
+2022S8295S,Electrical and Electronics Engineering,M.Sc,7.15,4,Honeywell
+2022A8302A,Economics and Finanace,B.E,8.94,4,Bain & Company
+2022A8308A,Physics,B.E,9.14,4,Intel
+2022A8312A,Computer Science and Information Systems,B.E,8.19,4,MathWorks
+2022H8315H,Mechanical Engineering,M.E,8.64,4,Wabtec
+2022A8316A,Chemical Engineering,B.E,7.73,4,Occidental Petroleum Corporation (OxyChem)
+2022A8317A,Mathematics,B.E,6.98,4,Cisco
+2022H8318H,Physics,M.E,8.73,4,Infineon
+2022A8322A,Chemical Engineering,B.E,7.6,4,Occidental Petroleum Corporation (OxyChem)
+2022A8323A,Mechanical Engineering,B.E,8.54,4,Rolls-Royce
+2022P8340P,Civil Engineering,B.Pharm,9.07,4,Unplaced
+2022H8345H,Civil Engineering,M.E,5.61,4,WSP Global
+2022P8348P,Civil Engineering,B.Pharm,5.49,4,Acciona
+2022A8349A,Humanities and Social Sciences,B.E,8.18,4,Aditya Birla Group
+2022A8356A,Computer Science and Information Systems,B.E,9.96,4,Western Digital
+2022A8358A,Economics and Finanace,B.E,6.42,4,BlackRock
+2022A8361A,Physics,B.E,8.45,4,Panasonic
+2022A8373A,Chemisty,B.E,8.56,4,Unplaced
+2022A8378A,Chemisty,B.E,9.45,4,Unplaced
+2022A8381A,Chemical Engineering,B.E,9.02,4,Merck
+2022H8384H,Chemical Engineering,M.E,6.67,4,Pfizer
+2022A8385A,Computer Science and Information Systems,B.E,8.77,4,MathWorks
+2022A8396A,Chemisty,B.E,7.74,4,ADITYA BIRLA
+2022A8398A,Humanities and Social Sciences,B.E,7.52,4,State Bank of India (SBI)
+2022A8401A,Biological Sciences,B.E,8.25,4,Zydus Cadila
+2022H8406H,Humanities and Social Sciences,M.E,5.83,4,State Bank of India (SBI)
+2022A8412A,Civil Engineering,B.E,6.28,4,Stantec
+2022A8419A,Humanities and Social Sciences,B.E,5.25,4,McKinsey & Company
+2022D8420D,Computer Science and Information Systems,Ph.D,7.7,4,Qualcomm
+2022S8421S,Mechanical Engineering,M.Sc,7.18,4,Siemens
+2022H8429H,Economics and Finanace,M.E,8.49,4,JP Morgan
+2022A8430A,Physics,B.E,7.01,4,IBM
+2022A8432A,Chemisty,B.E,6.34,4,Procter & Gamble
+2022H8436H,Chemical Engineering,M.E,9.66,4,Honeywell UOP
+2022A8445A,Mathematics,B.E,6.34,4,Unplaced
+2022A8446A,Civil Engineering,B.E,6.8,4,Parsons Corporation
+2022S8453S,Mechanical Engineering,M.Sc,7.52,4,Faurecia
+2022A8456A,Computer Science and Information Systems,B.E,5.68,4,Unplaced
+2022S8458S,Economics and Finanace,M.Sc,8.61,4,HSBC
+2022A8460A,Mechanical Engineering,B.E,5.39,4,TATA
+2022H8465H,Biological Sciences,M.E,9.26,4,Aurobindo Pharma
+2022S8470S,Chemisty,M.Sc,9.86,4,ADITYA BIRLA
+2022H8471H,Civil Engineering,M.E,7.01,4,Gammon Construction
+2022S8485S,Chemical Engineering,M.Sc,9.89,4,Dow
+2022P8488P,Chemisty,B.Pharm,7.93,4,Unplaced
+2022H8490H,Economics and Finanace,M.E,6.07,4,Morningstar
+2022A8502A,Civil Engineering,B.E,8.71,4,Acciona
+2022H8505H,Pharmacy,M.E,7.08,4,kmk
+2022A8506A,Electrical and Electronics Engineering,B.E,8.68,4,AMDET
+2022A8507A,Chemical Engineering,B.E,8.63,4,Praxair
+2022S8511S,Chemical Engineering,M.Sc,7.59,4,Johnson Matthey
+2022H8513H,Electrical and Electronics Engineering,M.E,6.69,4,SynOPSYS
+2022A8520A,Humanities and Social Sciences,B.E,5.83,4,Google
+2022A8525A,Chemisty,B.E,6.86,4,kmk
+2022H8526H,Mechanical Engineering,M.E,6.98,4,Wabtec
+2022A8527A,Mechanical Engineering,B.E,8.02,4,Micron
+2022A8531A,Computer Science and Information Systems,B.E,6.96,4,Cisco
+2022S8533S,Civil Engineering,M.Sc,8.53,4,Obayashi Corporation
+2022A8537A,Humanities and Social Sciences,B.E,9.88,4,State Bank of India (SBI)
+2022A8538A,Physics,B.E,7.18,4,Panasonic
+2022A8541A,Economics and Finanace,B.E,7.49,4,Credit Suisse
+2022A8549A,Economics and Finanace,B.E,9.87,4,Wells Fargo
+2022H8551H,Mathematics,M.E,6.78,4,Teradata
+2022A8552A,Mechanical Engineering,B.E,8.16,4,Boeing
+2022S8553S,Electrical and Electronics Engineering,M.Sc,8.58,4,AMDET
+2022A8554A,Civil Engineering,B.E,6.79,4,Acciona
+2022A8555A,Electrical and Electronics Engineering,B.E,5.09,4,MathWorks
+2022D8565D,Pharmacy,Ph.D,6.22,4,Cipla
+2022A8567A,Biological Sciences,B.E,9.11,4,Glenmark Pharmaceuticals
+2022A8569A,Humanities and Social Sciences,B.E,9.48,4,Flipkart
+2022A8575A,Chemisty,B.E,9.26,4,Elucidata
+2022A8577A,Mechanical Engineering,B.E,6.37,4,Unplaced
+2022H8589H,Physics,M.E,9.97,4,onsemi
+2022A8591A,Chemisty,B.E,8.08,4,Dow
+2022A8592A,Chemical Engineering,B.E,6.56,4,Covestro
+2022A8596A,Civil Engineering,B.E,6.32,4,ATKINS
+2022D8597D,Chemical Engineering,Ph.D,5.34,4,Unplaced
+2022A8598A,Mathematics,B.E,7.48,4,Cisco
+2022A8599A,Chemisty,B.E,7.61,4,kmk
+2022D8603D,Humanities and Social Sciences,Ph.D,5.43,4,KPMG
+2022H8607H,Civil Engineering,M.E,7.1,4,TATA
+2022D8612D,Biological Sciences,Ph.D,7.9,4,AstraZeneca
+2022A8613A,Humanities and Social Sciences,B.E,8.62,4,State Bank of India (SBI)
+2022A8614A,Humanities and Social Sciences,B.E,9.7,4,Aditya Birla Group
+2022H8615H,Humanities and Social Sciences,M.E,6.2,4,Unplaced
+2022A8616A,Economics and Finanace,B.E,8.83,4,Citi
+2022H8631H,Humanities and Social Sciences,M.E,5.11,4,KPMG
+2022A8633A,Electrical and Electronics Engineering,B.E,5.07,4,MathWorks
+2022A8636A,Computer Science and Information Systems,B.E,9.07,4,Tenstorrent
+2022A8637A,Electrical and Electronics Engineering,B.E,5.79,4,IBM
+2022A8640A,Humanities and Social Sciences,B.E,8.49,4,American Express
+2022S8646S,Mathematics,M.Sc,8.1,4,Unplaced
+2022P8654P,Economics and Finanace,B.Pharm,9.18,4,Genpact
+2022D8660D,Physics,Ph.D,7.63,4,onsemi
+2022H8663H,Mathematics,M.E,7.94,4,Unplaced
+2022H8671H,Pharmacy,M.E,5.38,4,Cadila Healthcare
+2022P8672P,Biological Sciences,B.Pharm,9.14,4,SII
+2022A8673A,Civil Engineering,B.E,6.35,4,Assystem Stup
+2022A8677A,Pharmacy,B.E,8.73,4,Emcure Pharmaceuticals
+2022A8681A,Chemisty,B.E,8.8,4,DataZymes
+2022H8684H,Electrical and Electronics Engineering,M.E,9.54,4,Unplaced
+2022D8686D,Economics and Finanace,Ph.D,6.79,4,CRISIL
+2022A8690A,Biological Sciences,B.E,7.83,4,Emcure Pharmaceuticals
+2022H8701H,Pharmacy,M.E,8.55,4,Glenmark Pharmaceuticals
+2022A8702A,Physics,B.E,9.46,4,Qualcomm
+2022S8704S,Mathematics,M.Sc,7.41,4,Unplaced
+2022A8705A,Physics,B.E,5.99,4,Unplaced
+2022A8715A,Mechanical Engineering,B.E,9.13,4,Shell
+2022A8722A,Pharmacy,B.E,8.68,4,Alembic Pharmaceuticals
+2022H8730H,Physics,M.E,7.22,4,SILICON LABS
+2022H8737H,Mathematics,M.E,8.33,4,BLEND360
+2022A8741A,Mathematics,B.E,8.81,4,Google
+2022A8743A,Civil Engineering,B.E,8.19,4,ARUP
+2022A8744A,Electrical and Electronics Engineering,B.E,6.97,4,Panasonic
+2022P8747P,Pharmacy,B.Pharm,6.23,4,Biocon
+2022A8752A,Biological Sciences,B.E,9.16,4,Torrent Pharmaceuticals
+2022H8756H,Chemisty,M.E,9.23,4,Unplaced
+2022A8757A,Physics,B.E,6.65,4,Texas Instruments
+2022A8760A,Biological Sciences,B.E,6.85,4,Alkem Laboratories
+2022D8762D,Chemisty,Ph.D,8.51,4,КАВІ
+2022A8768A,Economics and Finanace,B.E,5.6,4,CRISIL
+2022A8770A,Mechanical Engineering,B.E,5.45,4,Unplaced
+2022S8774S,Chemisty,M.Sc,8.52,4,Unplaced
+2022H8780H,Physics,M.E,9.29,4,Unplaced
+2022A8781A,Humanities and Social Sciences,B.E,9.17,4,Unplaced
+2022S8783S,Mathematics,M.Sc,7.68,4,IBM
+2022A8787A,Mechanical Engineering,B.E,6.73,4,Micron
+2022H8790H,Mechanical Engineering,M.E,8.78,4,SEDEMAC
+2022A8792A,Chemical Engineering,B.E,5.77,4,Air Liquide
+2022P8794P,Economics and Finanace,B.Pharm,8.36,4,IHS Markit
+2022A8795A,Biological Sciences,B.E,8.53,4,Aurobindo Pharma
+2022S8796S,Mathematics,M.Sc,5.21,4,Unplaced
+2022P8800P,Chemical Engineering,B.Pharm,5.79,4,Johnson Matthey
+2022A8801A,Electrical and Electronics Engineering,B.E,9.26,4,IBM
+2022H8805H,Electrical and Electronics Engineering,M.E,6.81,4,STMicroelectronics
+2022A8810A,Mechanical Engineering,B.E,7.04,4,ANAND
+2022P8811P,Biological Sciences,B.Pharm,6.59,4,Unplaced
+2022A8815A,Computer Science and Information Systems,B.E,9.94,4,Unplaced
+2022A8817A,Economics and Finanace,B.E,7.59,4,FactSet
+2022A8821A,Electrical and Electronics Engineering,B.E,9.2,4,AMDET
+2022A8822A,Chemisty,B.E,6.58,4,Unplaced
+2022H8825H,Chemical Engineering,M.E,8.9,4,Unplaced
+2022P8826P,Chemical Engineering,B.Pharm,9.16,4,AkzoNobel
+2022S8831S,Pharmacy,M.Sc,6.55,4,FRESENIUS
+2022A8832A,Computer Science and Information Systems,B.E,6.22,4,Teradata
+2022A8849A,Civil Engineering,B.E,7.79,4,Orascom Construction
+2022A8850A,Pharmacy,B.E,7.09,4,Biocon
+2022P8855P,Biological Sciences,B.Pharm,8.24,4,Divis Laboratories
+2022D8856D,Mathematics,Ph.D,6.09,4,AMD
+2022A8860A,Pharmacy,B.E,8.12,4,Zydus
+2022P8861P,Biological Sciences,B.Pharm,5.9,4,Unplaced
+2022H8866H,Chemical Engineering,M.E,9.06,4,Johnson Matthey
+2022A8867A,Biological Sciences,B.E,6.71,4,AstraZeneca
+2022A8868A,Electrical and Electronics Engineering,B.E,9.21,4,Unplaced
+2022H8871H,Chemisty,M.E,7.65,4,Unplaced
+2022D8875D,Civil Engineering,Ph.D,7.09,4,IcoNS
+2022A8876A,Humanities and Social Sciences,B.E,7.44,4,Google
+2022H8878H,Computer Science and Information Systems,M.E,8.8,4,Amazon
+2022H8879H,Pharmacy,M.E,9.64,4,kmk
+2022D8880D,Economics and Finanace,Ph.D,6.71,4,Bain & Company
+2022H8881H,Chemical Engineering,M.E,5.95,4,Covestro
+2022A8882A,Computer Science and Information Systems,B.E,7.88,4,Unplaced
+2022A8888A,Economics and Finanace,B.E,5.7,4,IHS Markit
+2022D8892D,Chemical Engineering,Ph.D,6.57,4,DuPont
+2022H8897H,Pharmacy,M.E,6.84,4,Unplaced
+2022A8900A,Mechanical Engineering,B.E,6.12,4,3SC
+2022H8902H,Humanities and Social Sciences,M.E,6.6,4,McKinsey & Company
+2022A8916A,Pharmacy,B.E,7.63,4,Unplaced
+2022A8917A,Chemisty,B.E,8.58,4,SABIC
+2022A8922A,Pharmacy,B.E,9.97,4,ADITYA BIRLA
+2022A8937A,Chemisty,B.E,7.53,4,Unplaced
+2022H8939H,Mechanical Engineering,M.E,5.05,4,Unplaced
+2022H8940H,Mechanical Engineering,M.E,9.07,4,ARUP
+2022S8941S,Economics and Finanace,M.Sc,7.22,4,Goldman Sachs
+2022S8942S,Mathematics,M.Sc,7.92,4,Piramal
+2022D8954D,Electrical and Electronics Engineering,Ph.D,6.05,4,Unplaced
+2022P8956P,Electrical and Electronics Engineering,B.Pharm,5.21,4,AMDET
+2022A8959A,Civil Engineering,B.E,8.5,4,Stantec
+2022P8966P,Electrical and Electronics Engineering,B.Pharm,7.06,4,Ricoh
+2022D8970D,Mathematics,Ph.D,8.18,4,Piramal
+2022S8971S,Mechanical Engineering,M.Sc,9.57,4,Boeing
+2022S8976S,Electrical and Electronics Engineering,M.Sc,8.66,4,Texas Instruments
+2022A8985A,Electrical and Electronics Engineering,B.E,6.94,4,Intel
+2022H8988H,Chemisty,M.E,9.55,4,Dow
+2022H8994H,Pharmacy,M.E,9.63,4,Unplaced
+2022S9010S,Chemisty,M.Sc,5.55,4,Elucidata
+2022A9012A,Chemisty,B.E,7.09,4,SABIC
+2022P9014P,Economics and Finanace,B.Pharm,8.8,4,McKinsey & Company
+2022A9020A,Humanities and Social Sciences,B.E,6.25,4,Unplaced
+2022H9028H,Civil Engineering,M.E,9.93,4,Assystem Stup
+2022H9034H,Pharmacy,M.E,7.56,4,FRESENIUS
+2022A9044A,Physics,B.E,6.28,4,INSTRUMENTS
+2022H9046H,Mathematics,M.E,6.98,4,Unplaced
+2022S9048S,Mechanical Engineering,M.Sc,6.89,4,SEDEMAC
+2022P9051P,Computer Science and Information Systems,B.Pharm,9.26,4,Unplaced
+2022P9061P,Chemisty,B.Pharm,8.45,4,Eastman Chemical Company
+2022D9064D,Electrical and Electronics Engineering,Ph.D,5.98,4,Cypress Semiconductor
+2022H9067H,Civil Engineering,M.E,6.69,4,Unplaced
+2022A9073A,Physics,B.E,8.49,4,Qualcomm
+2022A9075A,Civil Engineering,B.E,5.9,4,Unplaced
+2022A9077A,Chemical Engineering,B.E,5.42,4,Baker Hughes
+2022A9080A,Pharmacy,B.E,9.35,4,Dr. Reddys Laboratories
+2022H9082H,Mechanical Engineering,M.E,9.91,4,Faurecia
+2022D9085D,Mechanical Engineering,Ph.D,7.4,4,Johnson Controls
+2022S9091S,Computer Science and Information Systems,M.Sc,9.05,4,Unplaced
+2022H9094H,Chemical Engineering,M.E,9.49,4,Unplaced
+2022H9097H,Electrical and Electronics Engineering,M.E,6.6,4,Unplaced
+2022A9101A,Humanities and Social Sciences,B.E,9.98,4,Deloitte
+2022A9103A,Chemisty,B.E,6.93,4,Dow
+2022S9113S,Civil Engineering,M.Sc,7.28,4,Balfour Beatty
+2022H9115H,Economics and Finanace,M.E,7.83,4,Unplaced
+2022H9123H,Chemical Engineering,M.E,5.25,4,ExxonMobil
+2022P9125P,Humanities and Social Sciences,B.Pharm,8.84,4,Unplaced
+2022H9130H,Computer Science and Information Systems,M.E,9.97,4,CONCR
+2022A9132A,Economics and Finanace,B.E,5.57,4,Morningstar
+2022P9133P,Civil Engineering,B.Pharm,9.06,4,Parsons Corporation
+2022S9136S,Mathematics,M.Sc,9.51,4,Unplaced
+2022A9142A,Electrical and Electronics Engineering,B.E,8.47,4,Texas Instruments
+2022D9150D,Chemical Engineering,Ph.D,7.05,4,LyondellBasell
+2022A9154A,Humanities and Social Sciences,B.E,7.88,4,Accenture
+2022A9158A,Chemisty,B.E,10.0,4,Unplaced
+2022A9161A,Humanities and Social Sciences,B.E,9.54,4,Unplaced
+2022A9167A,Electrical and Electronics Engineering,B.E,6.36,4,MEDIATEK
+2022A9169A,Computer Science and Information Systems,B.E,6.92,4,PayU
+2022A9176A,Computer Science and Information Systems,B.E,5.15,4,VMware
+2022D9179D,Physics,Ph.D,7.16,4,INSTRUMENTS
+2022S9191S,Chemical Engineering,M.Sc,6.12,4,Bayer
+2022A9192A,Mathematics,B.E,8.79,4,Unplaced
+2022D9199D,Mathematics,Ph.D,6.99,4,Unplaced
+2022A9201A,Civil Engineering,B.E,6.72,4,Orascom Construction
+2022A9204A,Electrical and Electronics Engineering,B.E,6.23,4,LG Electronics
+2022A9207A,Economics and Finanace,B.E,5.44,4,Goldman Sachs
+2022A9214A,Pharmacy,B.E,5.33,4,Strand
+2022H9216H,Civil Engineering,M.E,9.69,4,Gammon Construction
+2022A9217A,Chemical Engineering,B.E,6.98,4,Lanxess
+2022H9218H,Chemical Engineering,M.E,6.6,4,Dow
+2022A9223A,Chemisty,B.E,7.91,4,Unplaced
+2022P9238P,Economics and Finanace,B.Pharm,9.79,4,Accenture
+2022H9241H,Chemical Engineering,M.E,7.05,4,Praxair
+2022P9245P,Electrical and Electronics Engineering,B.Pharm,9.81,4,Renesas Electronics
+2022A9256A,Physics,B.E,9.22,4,SILICON LABS
+2022S9259S,Electrical and Electronics Engineering,M.Sc,6.95,4,Xilinx
+2022A9262A,Biological Sciences,B.E,6.52,4,Torrent Pharmaceuticals
+2022H9263H,Computer Science and Information Systems,M.E,8.25,4,Unplaced
+2022A9264A,Computer Science and Information Systems,B.E,6.76,4,Axtria
+2022D9269D,Physics,Ph.D,9.89,4,MEDIATEK
+2022D9279D,Chemisty,Ph.D,8.38,4,Procter & Gamble
+2022A9281A,Mechanical Engineering,B.E,5.86,4,Faurecia
+2022A9282A,Mechanical Engineering,B.E,6.92,4,Micron
+2022A9284A,Pharmacy,B.E,9.58,4,FRESENIUS
+2022P9285P,Chemisty,B.Pharm,9.76,4,Procter & Gamble
+2022H9291H,Economics and Finanace,M.E,8.17,4,Unplaced
+2022A9294A,Mathematics,B.E,5.09,4,Cisco
+2022H9304H,Mathematics,M.E,7.16,4,Cisco
+2022A9306A,Electrical and Electronics Engineering,B.E,7.11,4,INSTRUMENTS
+2022H9307H,Physics,M.E,6.29,4,SEDEMAC
+2022H9314H,Pharmacy,M.E,7.73,4,ADITYA BIRLA
+2022S9327S,Mathematics,M.Sc,6.15,4,Intel
+2022S9328S,Physics,M.Sc,8.83,4,Unplaced
+2022A9339A,Computer Science and Information Systems,B.E,7.04,4,Unplaced
+2022P9340P,Pharmacy,B.Pharm,8.52,4,Unplaced
+2022H9341H,Mechanical Engineering,M.E,9.75,4,Shell
+2022A9342A,Physics,B.E,9.94,4,SAMSUNG
+2022H9344H,Mathematics,M.E,9.97,4,Pharmo Solutions
+2022A9352A,Humanities and Social Sciences,B.E,6.07,4,Unplaced
+2022S9353S,Mechanical Engineering,M.Sc,7.11,4,Unplaced
+2022A9354A,Pharmacy,B.E,5.98,4,Unplaced
+2022P9355P,Economics and Finanace,B.Pharm,6.46,4,American Express
+2022P9360P,Computer Science and Information Systems,B.Pharm,5.89,4,Mashreq
+2022H9365H,Mechanical Engineering,M.E,8.5,4,ARUP
+2022A9372A,Physics,B.E,8.46,4,Unplaced
+2022D9376D,Chemical Engineering,Ph.D,7.28,4,SABIC
+2022P9380P,Economics and Finanace,B.Pharm,6.16,4,McKinsey & Company
+2022H9381H,Humanities and Social Sciences,M.E,6.87,4,IBM
+2022H9382H,Pharmacy,M.E,7.42,4,Aurobindo Pharma
+2022A9387A,Biological Sciences,B.E,6.5,4,Pfizer
+2022A9391A,Mathematics,B.E,5.15,4,Cisco
+2022S9393S,Humanities and Social Sciences,M.Sc,9.21,4,Unplaced
+2022P9394P,Electrical and Electronics Engineering,B.Pharm,9.44,4,Altera
+2022H9401H,Economics and Finanace,M.E,8.79,4,FactSet
+2022A9403A,Economics and Finanace,B.E,6.63,4,Unplaced
+2022S9404S,Physics,M.Sc,8.68,4,IBM
+2022A9407A,Physics,B.E,5.28,4,Dolcera
+2022A9409A,Pharmacy,B.E,7.98,4,Elucidata
+2022A9410A,Electrical and Electronics Engineering,B.E,6.34,4,Cypress Semiconductor
+2022A9415A,Chemical Engineering,B.E,8.85,4,Praxair
+2022H9416H,Chemisty,M.E,9.3,4,Unplaced
+2022A9420A,Electrical and Electronics Engineering,B.E,9.44,4,Hitachi
+2022A9422A,Pharmacy,B.E,6.97,4,Zydus
+2022H9425H,Electrical and Electronics Engineering,M.E,6.29,4,Unplaced
+2022D9429D,Civil Engineering,Ph.D,9.37,4,Force
+2022A9433A,Mechanical Engineering,B.E,6.58,4,Honda
+2022A9437A,Physics,B.E,7.94,4,Tenstorrent
+2022P9442P,Civil Engineering,B.Pharm,9.9,4,Balfour Beatty
+2022D9443D,Mathematics,Ph.D,7.86,4,Unplaced
+2022H9446H,Chemical Engineering,M.E,6.8,4,Unplaced
+2022D9450D,Electrical and Electronics Engineering,Ph.D,8.76,4,Unplaced
+2022A9459A,Economics and Finanace,B.E,9.75,4,Boston Consulting Group (BCG)
+2022D9462D,Economics and Finanace,Ph.D,9.01,4,S&P Global
+2022A9465A,Physics,B.E,7.49,4,INSTRUMENTS
+2022H9471H,Mathematics,M.E,7.4,4,Cisco
+2022A9476A,Mathematics,B.E,9.52,4,Cisco
+2022P9479P,Mechanical Engineering,B.Pharm,6.06,4,Oeing Lie
+2022A9480A,Electrical and Electronics Engineering,B.E,5.97,4,Intel
+2022A9483A,Computer Science and Information Systems,B.E,9.09,4,Unplaced
+2022P9484P,Computer Science and Information Systems,B.Pharm,8.72,4,GE HealthCare
+2022A9485A,Civil Engineering,B.E,5.99,4,IcoNS
+2022A9487A,Chemisty,B.E,8.97,4,Aragen
+2022S9490S,Humanities and Social Sciences,M.Sc,6.45,4,Flipkart
+2022A9495A,Computer Science and Information Systems,B.E,7.37,4,Tenstorrent
+2022A9496A,Biological Sciences,B.E,8.12,4,Alembic Pharmaceuticals
+2022P9498P,Economics and Finanace,B.Pharm,9.75,4,IHS Markit
+2022A9499A,Humanities and Social Sciences,B.E,6.18,4,HCL Technologies
+2022A9502A,Humanities and Social Sciences,B.E,8.76,4,Flipkart
+2022A9503A,Physics,B.E,6.16,4,SynOPSYS
+2022P9504P,Economics and Finanace,B.Pharm,6.02,4,Accenture
+2022D9508D,Pharmacy,Ph.D,9.36,4,Emcure Pharmaceuticals
+2022A9510A,Computer Science and Information Systems,B.E,6.32,4,Wabtec
+2022A9513A,Humanities and Social Sciences,B.E,6.25,4,IBM
+2022A9514A,Humanities and Social Sciences,B.E,6.39,4,IBM
+2022A9516A,Civil Engineering,B.E,7.54,4,WSP Global
+2022A9518A,Mechanical Engineering,B.E,5.41,4,Unplaced
+2022H9529H,Pharmacy,M.E,8.7,4,Biocon
+2022H9534H,Physics,M.E,6.84,4,INSTRUMENTS
+2022A9542A,Humanities and Social Sciences,B.E,9.26,4,Tata Steel
+2022S9543S,Civil Engineering,M.Sc,5.24,4,LISEN A TOLERO
+2022A9545A,Electrical and Electronics Engineering,B.E,9.23,4,MathWorks
+2022A9546A,Biological Sciences,B.E,7.85,4,Zydus Cadila
+2022H9550H,Humanities and Social Sciences,M.E,8.52,4,Genpact
+2022A9552A,Pharmacy,B.E,5.41,4,Elucidata
+2022D9554D,Physics,Ph.D,9.75,4,Qualcomm
+2022A9561A,Mechanical Engineering,B.E,7.76,4,Unplaced
+2022H9563H,Mathematics,M.E,5.45,4,Cisco
+2022A9567A,Economics and Finanace,B.E,5.98,4,S&P Global
+2022A9568A,Economics and Finanace,B.E,8.09,4,Moodys Investors Service
+2022A9573A,Biological Sciences,B.E,7.04,4,Unplaced
+2022A9575A,Mathematics,B.E,5.53,4,Cisco
+2022A9576A,Mathematics,B.E,6.21,4,BLEND360
+2022A9581A,Computer Science and Information Systems,B.E,5.42,4,Cisco
+2022A9590A,Pharmacy,B.E,7.07,4,Cipla
+2022D9595D,Economics and Finanace,Ph.D,9.72,4,Goldman Sachs
+2022A9607A,Mechanical Engineering,B.E,6.22,4,Rolls-Royce
+2022A9611A,Pharmacy,B.E,6.91,4,Elucidata
+2022H9613H,Biological Sciences,M.E,8.52,4,Biocon
+2022A9621A,Mechanical Engineering,B.E,6.21,4,Oeing Lie
+2022A9623A,Pharmacy,B.E,6.13,4,Unplaced
+2022H9624H,Civil Engineering,M.E,7.81,4,J. Murphy & Sons
+2022A9630A,Computer Science and Information Systems,B.E,8.23,4,Mashreq
+2022H9634H,Computer Science and Information Systems,M.E,8.51,4,AMD
+2022A9636A,Chemical Engineering,B.E,6.51,4,3M
+2022A9638A,Mechanical Engineering,B.E,7.9,4,Unplaced
+2022A9643A,Pharmacy,B.E,7.73,4,Aurobindo Pharma
+2022A9647A,Computer Science and Information Systems,B.E,9.64,4,Mashreq
+2022H9651H,Humanities and Social Sciences,M.E,7.01,4,Infosys
+2022H9653H,Mechanical Engineering,M.E,6.77,4,ANAND
+2022P9656P,Biological Sciences,B.Pharm,8.15,4,SII
+2022A9659A,Humanities and Social Sciences,B.E,5.47,4,Flipkart
+2022D9663D,Humanities and Social Sciences,Ph.D,5.44,4,Unplaced
+2022A9668A,Mechanical Engineering,B.E,9.51,4,Unplaced
+2022H9671H,Civil Engineering,M.E,9.66,4,Unplaced
+2022A9672A,Mathematics,B.E,5.22,4,Teradata
+2022A9674A,Mathematics,B.E,9.04,4,Unplaced
+2022A9681A,Biological Sciences,B.E,8.98,4,КАВІ
+2022A9685A,Mathematics,B.E,5.99,4,Pharmo Solutions
+2022A9695A,Humanities and Social Sciences,B.E,5.36,4,WNS Global Services
+2022H9700H,Electrical and Electronics Engineering,M.E,7.35,4,MathWorks
+2022A9701A,Civil Engineering,B.E,6.22,4,Parsons Corporation
+2022D9702D,Chemisty,Ph.D,7.24,4,Dow
+2022A9706A,Electrical and Electronics Engineering,B.E,7.69,4,Unplaced
+2022S9710S,Chemical Engineering,M.Sc,6.01,4,Unplaced
+2022A9711A,Economics and Finanace,B.E,8.19,4,Bain & Company
+2022S9712S,Chemisty,M.Sc,9.94,4,КАВІ
+2022P9714P,Pharmacy,B.Pharm,6.65,4,Cadila Healthcare
+2022H9715H,Pharmacy,M.E,7.11,4,Zydus Cadila
+2022A9717A,Biological Sciences,B.E,5.96,4,Wockhardt
+2022A9724A,Mathematics,B.E,5.08,4,Flipkart
+2022A9734A,Biological Sciences,B.E,8.37,4,Dr. Reddys Laboratories
+2022A9739A,Chemisty,B.E,6.55,4,Aizant
+2022A9744A,Civil Engineering,B.E,6.69,4,COWI
+2022D9746D,Biological Sciences,Ph.D,5.39,4,Unplaced
+2022H9747H,Mechanical Engineering,M.E,9.45,4,Unplaced
+2022H9750H,Biological Sciences,M.E,7.82,4,Sun Pharmaceutical Industries
+2022A9751A,Pharmacy,B.E,6.77,4,Ipca Laboratories
+2022A9754A,Electrical and Electronics Engineering,B.E,7.76,4,Micron
+2022A9758A,Mathematics,B.E,8.43,4,Cisco
+2022P9764P,Electrical and Electronics Engineering,B.Pharm,8.98,4,onsemi
+2022A9768A,Chemical Engineering,B.E,6.16,4,Unplaced
+2022A9771A,Chemisty,B.E,5.68,4,Procter & Gamble
+2022S9781S,Physics,M.Sc,9.91,4,Unplaced
+2022S9786S,Mathematics,M.Sc,6.22,4,Intel
+2022A9787A,Economics and Finanace,B.E,5.19,4,Standard Chartered
+2022A9795A,Pharmacy,B.E,7.1,4,GSK Pharmaceuticals
+2022A9803A,Chemisty,B.E,8.8,4,Eastman Chemical Company
+2022A9804A,Civil Engineering,B.E,6.16,4,Unplaced
+2022A9807A,Humanities and Social Sciences,B.E,5.43,4,IBM
+2022A9815A,Pharmacy,B.E,6.79,4,Unplaced
+2022S9817S,Chemical Engineering,M.Sc,7.36,4,BASF
+2022A9820A,Chemisty,B.E,8.52,4,BASF
+2022P9822P,Electrical and Electronics Engineering,B.Pharm,7.07,4,onsemi
+2022D9824D,Civil Engineering,Ph.D,6.83,4,Parsons Corporation
+2022A9827A,Economics and Finanace,B.E,7.35,4,Unplaced
+2022P9829P,Humanities and Social Sciences,B.Pharm,9.32,4,American Express
+2022A9839A,Economics and Finanace,B.E,9.43,4,Unplaced
+2022D9841D,Humanities and Social Sciences,Ph.D,5.37,4,Flipkart
+2022A9856A,Economics and Finanace,B.E,7.35,4,JP Morgan
+2022S9857S,Economics and Finanace,M.Sc,9.78,4,Moodys Analytics
+2022A9860A,Computer Science and Information Systems,B.E,9.28,4,CONCR
+2022S9861S,Physics,M.Sc,5.29,4,Unplaced
+2022A9863A,Computer Science and Information Systems,B.E,5.38,4,BLEND360
+2022A9866A,Chemical Engineering,B.E,6.27,4,ExxonMobil
+2022A9867A,Economics and Finanace,B.E,9.39,4,KPMG
+2022P9877P,Chemisty,B.Pharm,5.32,4,DuPont
+2022S9890S,Pharmacy,M.Sc,7.42,4,Unplaced
+2022A9898A,Physics,B.E,6.11,4,INSTRUMENTS
+2022A9899A,Civil Engineering,B.E,7.16,4,Unplaced
+2022H9900H,Biological Sciences,M.E,5.47,4,FRESENIUS
+2022A9903A,Pharmacy,B.E,9.04,4,Glenmark Pharmaceuticals
+2022D9907D,Mathematics,Ph.D,6.64,4,Unplaced
+2022A9908A,Mathematics,B.E,7.86,4,IBM
+2022A9914A,Humanities and Social Sciences,B.E,8.65,4,Cognizant
+2022P9915P,Electrical and Electronics Engineering,B.Pharm,7.53,4,Qualcomm
+2022A9919A,Biological Sciences,B.E,9.06,4,Biocon
+2022P9924P,Pharmacy,B.Pharm,9.11,4,FRESENIUS
+2022A9928A,Chemisty,B.E,6.65,4,SABIC
+2022D9931D,Mathematics,Ph.D,9.26,4,Piramal
+2022A9932A,Chemical Engineering,B.E,7.12,4,Bayer
+2022S9935S,Humanities and Social Sciences,M.Sc,8.26,4,Aditya Birla Group
+2022A9937A,Pharmacy,B.E,7.46,4,Unplaced
+2022S9948S,Mechanical Engineering,M.Sc,6.82,4,Unplaced
+2022A9960A,Chemisty,B.E,9.34,4,kmk
+2022A9966A,Mathematics,B.E,8.76,4,IBM
+2022P9977P,Mechanical Engineering,B.Pharm,6.16,4,Unplaced
+2022A9979A,Mathematics,B.E,5.02,4,Mediatek
+2022H9980H,Pharmacy,M.E,6.39,4,Unplaced
+2022D9986D,Computer Science and Information Systems,Ph.D,5.16,4,Unplaced
+2022H10000H,Civil Engineering,M.E,8.72,4,AMARARALA
+2022A10001A,Biological Sciences,B.E,6.91,4,DataZymes
+2022A10003A,Pharmacy,B.E,9.45,4,Zydus Cadila
+2022D10023D,Economics and Finanace,Ph.D,5.3,4,BlackRock
+2022P10026P,Electrical and Electronics Engineering,B.Pharm,9.04,4,Altera
+2022H10033H,Mechanical Engineering,M.E,8.02,4,ANAND
+2022S10041S,Physics,M.Sc,8.33,4,SILICON LABS
+2022P10044P,Biological Sciences,B.Pharm,5.59,4,Emcure Pharmaceuticals
+2022A10056A,Biological Sciences,B.E,5.11,4,Cadila Healthcare
+2022H10059H,Computer Science and Information Systems,M.E,8.66,4,Unplaced
+2022P10060P,Economics and Finanace,B.Pharm,5.85,4,EY (Ernst & Young)
+2022A10073A,Humanities and Social Sciences,B.E,6.28,4,KPMG
+2022H10074H,Pharmacy,M.E,6.37,4,ADITYA BIRLA
+2022H10078H,Mechanical Engineering,M.E,7.29,4,Oeing Lie
+2022P10081P,Computer Science and Information Systems,B.Pharm,6.39,4,Intel
+2022P10088P,Pharmacy,B.Pharm,8.4,4,Strand
+2022A10096A,Pharmacy,B.E,8.74,4,kmk
+2022A10097A,Mathematics,B.E,5.09,4,Unplaced
+2022A10098A,Civil Engineering,B.E,7.39,4,Balfour Beatty
+2022A10099A,Electrical and Electronics Engineering,B.E,9.01,4,Qualcomm
+2022H10103H,Mathematics,M.E,7.27,4,BLEND360
+2022D10104D,Chemisty,Ph.D,9.23,4,Elucidata
+2022A10105A,Computer Science and Information Systems,B.E,7.21,4,Cisco
+2022H10106H,Electrical and Electronics Engineering,M.E,7.13,4,INSTRUMENTS
+2022P10111P,Chemical Engineering,B.Pharm,7.24,4,BASF
+2022H10113H,Electrical and Electronics Engineering,M.E,8.76,4,Xilinx
+2022A10115A,Pharmacy,B.E,6.87,4,Cadila Healthcare
+2022A10116A,Physics,B.E,8.93,4,Unplaced
+2022D10118D,Computer Science and Information Systems,Ph.D,8.93,4,Wabtec
+2022S10120S,Computer Science and Information Systems,M.Sc,5.17,4,Qualcomm
+2022S10130S,Economics and Finanace,M.Sc,8.66,4,KPMG
+2022A10131A,Electrical and Electronics Engineering,B.E,9.71,4,LG Electronics
+2022A10136A,Civil Engineering,B.E,8.9,4,Unplaced
+2022P10137P,Chemisty,B.Pharm,7.35,4,Unplaced
+2022A10140A,Pharmacy,B.E,7.54,4,Alembic Pharmaceuticals
+2022A10142A,Chemisty,B.E,8.68,4,КАВІ
+2022H10143H,Electrical and Electronics Engineering,M.E,5.11,4,Altera
+2022P10145P,Pharmacy,B.Pharm,5.94,4,Zydus
+2022A10149A,Biological Sciences,B.E,9.8,4,Strand
+2022A10151A,Humanities and Social Sciences,B.E,7.48,4,Aditya Birla Group
+2022A10153A,Computer Science and Information Systems,B.E,7.45,4,Cisco
+2022H10157H,Biological Sciences,M.E,9.27,4,Unplaced
+2022A10159A,Economics and Finanace,B.E,5.18,4,Moodys Analytics
+2022A10160A,Mechanical Engineering,B.E,5.37,4,SONA COMSTAR
+2022A10167A,Civil Engineering,B.E,9.73,4,Assystem Stup
+2022A10168A,Computer Science and Information Systems,B.E,6.16,4,Unplaced
+2022A10171A,Mathematics,B.E,5.02,4,Dell
+2022A10177A,Mathematics,B.E,5.78,4,Teradata
+2022A10183A,Economics and Finanace,B.E,8.01,4,Unplaced
+2022P10189P,Electrical and Electronics Engineering,B.Pharm,6.21,4,ON Semiconductor
+2022P10192P,Chemisty,B.Pharm,9.37,4,ADITYA BIRLA
+2022A10200A,Physics,B.E,7.33,4,Infineon
+2022P10201P,Humanities and Social Sciences,B.Pharm,8.81,4,Bain & Company
+2022A10204A,Mathematics,B.E,9.84,4,Teradata
+2022S10205S,Chemisty,M.Sc,7.53,4,Unplaced
+2022H10206H,Computer Science and Information Systems,M.E,7.49,4,Samsung
+2022A10209A,Mechanical Engineering,B.E,6.89,4,SEDEMAC
+2022A10211A,Chemical Engineering,B.E,8.72,4,Unplaced
+2022A10226A,Chemical Engineering,B.E,9.06,4,Bayer
+2022A10229A,Mechanical Engineering,B.E,5.95,4,Lime
+2022D10232D,Chemisty,Ph.D,9.72,4,Elucidata
+2022H10240H,Biological Sciences,M.E,9.91,4,AstraZeneca
+2022P10241P,Chemical Engineering,B.Pharm,6.04,4,Unplaced
+2022P10242P,Economics and Finanace,B.Pharm,6.35,4,UBS
+2022A10252A,Mechanical Engineering,B.E,9.84,4,Cummins Inc.
+2022A10255A,Physics,B.E,9.31,4,SEDEMAC
+2022A10256A,Humanities and Social Sciences,B.E,8.03,4,Capgemini
+2022H10259H,Electrical and Electronics Engineering,M.E,5.75,4,INSTRUMENTS
+2022D10261D,Chemisty,Ph.D,5.9,4,ADITYA BIRLA
+2022D10262D,Computer Science and Information Systems,Ph.D,8.79,4,Commvault
+2022A10263A,Mechanical Engineering,B.E,9.38,4,TATA
+2022A10264A,Chemical Engineering,B.E,8.9,4,Praxair
+2022A10266A,Physics,B.E,7.59,4,Unplaced
+2022D10272D,Mathematics,Ph.D,5.85,4,Trilogy
+2022D10277D,Chemisty,Ph.D,8.74,4,Dow
+2022S10281S,Civil Engineering,M.Sc,7.19,4,COWI
+2022A10283A,Mechanical Engineering,B.E,9.74,4,Unplaced
+2022S10290S,Civil Engineering,M.Sc,7.13,4,Unplaced
+2022A10292A,Mechanical Engineering,B.E,8.74,4,Unplaced
+2022H10296H,Economics and Finanace,M.E,5.19,4,Wells Fargo
+2022D10297D,Electrical and Electronics Engineering,Ph.D,5.07,4,Unplaced
+2022D10300D,Biological Sciences,Ph.D,9.5,4,Dr. Reddys Laboratories
+2022A10302A,Economics and Finanace,B.E,6.81,4,Unplaced
+2022A10303A,Chemical Engineering,B.E,7.65,4,Johnson Matthey
+2022A10310A,Chemical Engineering,B.E,6.81,4,Unplaced
+2022A10311A,Chemisty,B.E,8.73,4,ADITYA BIRLA
+2022D10312D,Mathematics,Ph.D,6.11,4,Flipkart
+2022A10317A,Computer Science and Information Systems,B.E,8.44,4,ARM
+2022S10321S,Biological Sciences,M.Sc,7.66,4,Pfizer
+2022A10325A,Physics,B.E,5.24,4,Unplaced
+2022S10329S,Economics and Finanace,M.Sc,5.62,4,JP Morgan
+2022D10330D,Electrical and Electronics Engineering,Ph.D,8.77,4,INSTRUMENTS
+2022A10331A,Physics,B.E,7.07,4,Texas Instruments
+2022A10332A,Economics and Finanace,B.E,7.71,4,Unplaced
+2022A10340A,Mechanical Engineering,B.E,7.2,4,Unplaced
+2022H10341H,Civil Engineering,M.E,9.11,4,Thornton Tomasetti
+2022A10351A,Physics,B.E,7.67,4,CISCO
+2022H10359H,Chemisty,M.E,9.24,4,ADITYA BIRLA
+2022A10364A,Humanities and Social Sciences,B.E,6.64,4,Unplaced
+2022H10366H,Mathematics,M.E,6.41,4,IBM
+2022A10375A,Chemical Engineering,B.E,9.0,4,Praxair
+2022D10389D,Humanities and Social Sciences,Ph.D,6.13,4,Procter & Gamble
+2022D10393D,Economics and Finanace,Ph.D,7.06,4,Bain & Company
+2022A10399A,Mechanical Engineering,B.E,6.11,4,3SC
+2022A10401A,Electrical and Electronics Engineering,B.E,6.49,4,MathWorks
+2022S10407S,Chemical Engineering,M.Sc,9.58,4,Occidental Petroleum Corporation (OxyChem)
+2022A10409A,Mathematics,B.E,7.24,4,Intel
+2022A10415A,Chemical Engineering,B.E,8.31,4,Covestro
+2022A10420A,Mathematics,B.E,9.58,4,Amazon
+2022A10421A,Electrical and Electronics Engineering,B.E,7.58,4,Xilinx
+2022H10424H,Humanities and Social Sciences,M.E,6.57,4,Unplaced
+2022A10426A,Economics and Finanace,B.E,6.03,4,Credit Suisse
+2022A10433A,Chemical Engineering,B.E,7.62,4,Unplaced
+2022H10434H,Chemisty,M.E,5.52,4,Dow
+2022A10437A,Electrical and Electronics Engineering,B.E,7.72,4,CISCO
+2022S10438S,Biological Sciences,M.Sc,5.07,4,Emcure Pharmaceuticals
+2022H10447H,Pharmacy,M.E,8.06,4,Unplaced
+2022S10452S,Physics,M.Sc,6.29,4,INSTRUMENTS
+2022H10456H,Mathematics,M.E,6.89,4,BLEND360
+2022S10457S,Physics,M.Sc,8.17,4,STMicroelectronics
+2022H10460H,Electrical and Electronics Engineering,M.E,8.52,4,Xilinx
+2022A10461A,Computer Science and Information Systems,B.E,5.28,4,PayU
+2022A10463A,Pharmacy,B.E,5.12,4,Unplaced
+2022A10467A,Humanities and Social Sciences,B.E,5.53,4,Reliance Industries
+2022A10471A,Civil Engineering,B.E,8.16,4,ATKINS
+2022H10474H,Humanities and Social Sciences,M.E,8.34,4,Microsoft
+2022H10479H,Economics and Finanace,M.E,8.25,4,IHS Markit
+2022A10482A,Humanities and Social Sciences,B.E,7.6,4,Tata Steel
+2022A10486A,Chemical Engineering,B.E,8.0,4,BASF
+2022A10487A,Mathematics,B.E,8.31,4,Flipkart
+2022H10490H,Chemisty,M.E,6.32,4,Aragen
+2022P10492P,Mechanical Engineering,B.Pharm,8.04,4,Unplaced
+2022D10493D,Chemisty,Ph.D,5.68,4,Cipla
+2022A10501A,Mathematics,B.E,8.33,4,Trilogy
+2022H10503H,Electrical and Electronics Engineering,M.E,8.25,4,Unplaced
+2022D10504D,Chemisty,Ph.D,7.81,4,Elucidata
+2022H10511H,Pharmacy,M.E,6.83,4,Pfizer
+2022D10513D,Chemisty,Ph.D,9.11,4,Unplaced
+2022A10523A,Electrical and Electronics Engineering,B.E,5.65,4,AMDET
+2022H10527H,Economics and Finanace,M.E,8.33,4,Moodys Investors Service
+2022S10530S,Chemisty,M.Sc,5.55,4,Dow
+2022P10531P,Economics and Finanace,B.Pharm,9.1,4,IHS Markit
+2022A10533A,Physics,B.E,7.24,4,SILICON LABS
+2022A10534A,Chemical Engineering,B.E,9.32,4,Dow
+2022H10537H,Biological Sciences,M.E,9.75,4,Wockhardt
+2022H10538H,Computer Science and Information Systems,M.E,5.88,4,Teradata
+2022S10544S,Computer Science and Information Systems,M.Sc,7.5,4,Micron
+2022A10548A,Civil Engineering,B.E,8.59,4,ATKINS
+2022A10549A,Economics and Finanace,B.E,6.8,4,HSBC
+2022A10558A,Mechanical Engineering,B.E,9.8,4,Ford Motor Company
+2022P10562P,Pharmacy,B.Pharm,7.28,4,Alkem Laboratories
+2022A10564A,Physics,B.E,5.27,4,Unplaced
+2022A10565A,Humanities and Social Sciences,B.E,5.65,4,EY (Ernst & Young)
+2022S10566S,Physics,M.Sc,6.37,4,MEDIATEK
+2022A10569A,Mechanical Engineering,B.E,8.98,4,TATA
+2022A10571A,Biological Sciences,B.E,5.16,4,Emcure Pharmaceuticals
+2022H10586H,Computer Science and Information Systems,M.E,5.28,4,Wabtec
+2022A10591A,Civil Engineering,B.E,6.61,4,Unplaced
+2022H10593H,Economics and Finanace,M.E,8.1,4,KPMG
+2022P10599P,Economics and Finanace,B.Pharm,6.28,4,Goldman Sachs
+2022A10601A,Humanities and Social Sciences,B.E,8.18,4,Microsoft
+2022P10604P,Pharmacy,B.Pharm,8.61,4,Unplaced
+2022P10608P,Chemisty,B.Pharm,7.14,4,Honeywell UOP
+2022S10609S,Chemisty,M.Sc,5.02,4,КАВІ
+2022A10611A,Physics,B.E,7.46,4,SEDEMAC
+2022A10613A,Humanities and Social Sciences,B.E,8.02,4,Unplaced
+2022A10616A,Mechanical Engineering,B.E,7.94,4,Cummins Inc.
+2022A10620A,Mathematics,B.E,9.57,4,Qualcomm
+2022S10627S,Humanities and Social Sciences,M.Sc,9.26,4,Google
+2022S10630S,Chemical Engineering,M.Sc,9.88,4,Baker Hughes
+2022A10633A,Pharmacy,B.E,6.49,4,FRESENIUS
+2022D10641D,Mathematics,Ph.D,8.35,4,Teradata
+2022H10647H,Economics and Finanace,M.E,9.5,4,Unplaced
+2022A10649A,Chemisty,B.E,8.65,4,kmk
+2022A10651A,Physics,B.E,9.35,4,Intel
+2022A10652A,Computer Science and Information Systems,B.E,8.38,4,Axtria
+2022H10653H,Chemisty,M.E,5.89,4,Elucidata
+2022A10661A,Chemical Engineering,B.E,7.97,4,3M
+2022D10662D,Pharmacy,Ph.D,6.35,4,Alembic Pharmaceuticals
+2022S10672S,Pharmacy,M.Sc,7.66,4,КАВІ
+2022P10673P,Chemisty,B.Pharm,9.99,4,Unplaced
+2022P10677P,Mechanical Engineering,B.Pharm,7.04,4,Ford Motor Company
+2022A10678A,Physics,B.E,7.3,4,onsemi
+2022A10682A,Biological Sciences,B.E,9.94,4,Unplaced
+2022S10683S,Pharmacy,M.Sc,6.86,4,Zydus
+2022A10684A,Electrical and Electronics Engineering,B.E,8.47,4,Siemens
+2022A10685A,Economics and Finanace,B.E,7.1,4,Morningstar
+2022A10687A,Physics,B.E,5.7,4,MICROCHIP
+2022A10689A,Biological Sciences,B.E,6.69,4,Cipla
+2022D10693D,Chemical Engineering,Ph.D,6.55,4,3M
+2022A10694A,Pharmacy,B.E,5.12,4,SII
+2022A10696A,Civil Engineering,B.E,9.25,4,Orascom Construction
+2022A10701A,Pharmacy,B.E,9.45,4,Elucidata
+2022D10703D,Mechanical Engineering,Ph.D,9.02,4,Boeing
+2022A10706A,Electrical and Electronics Engineering,B.E,6.99,4,Unplaced
+2022S10707S,Mechanical Engineering,M.Sc,5.27,4,Wabtec
+2022H10709H,Computer Science and Information Systems,M.E,5.59,4,Unplaced
+2022A10710A,Pharmacy,B.E,9.2,4,FRESENIUS
+2022S10713S,Electrical and Electronics Engineering,M.Sc,7.22,4,INSTRUMENTS
+2022A10714A,Pharmacy,B.E,5.24,4,Lupin Limited
+2022P10717P,Biological Sciences,B.Pharm,7.57,4,Alkem Laboratories
+2022S10718S,Mathematics,M.Sc,7.59,4,Mediatek
+2022S10720S,Computer Science and Information Systems,M.Sc,8.89,4,Unplaced
+2022A10721A,Economics and Finanace,B.E,8.11,4,IHS Markit
+2022P10733P,Chemisty,B.Pharm,9.74,4,FRESENIUS
+2022H10739H,Pharmacy,M.E,5.53,4,Elucidata
+2022A10744A,Biological Sciences,B.E,6.38,4,Pfizer
+2022A10745A,Mechanical Engineering,B.E,5.24,4,SEDEMAC
+2022A10754A,Biological Sciences,B.E,8.12,4,Unplaced
+2022P10755P,Pharmacy,B.Pharm,5.25,4,КАВІ
+2022A10757A,Computer Science and Information Systems,B.E,9.3,4,MathWorks
+2022A10758A,Pharmacy,B.E,7.13,4,Aragen
+2022D10759D,Chemical Engineering,Ph.D,5.51,4,BASF
+2022A10761A,Chemisty,B.E,9.85,4,Unplaced
+2022A10765A,Computer Science and Information Systems,B.E,8.12,4,Unplaced
+2022H10770H,Physics,M.E,8.93,4,SEDEMAC
+2022H10771H,Chemical Engineering,M.E,7.24,4,Johnson Matthey
+2022S10773S,Mechanical Engineering,M.Sc,6.52,4,Ford Motor Company
+2022A10778A,Chemical Engineering,B.E,5.05,4,Dow
+2022A10780A,Chemisty,B.E,7.22,4,Dow
+2022A10800A,Mechanical Engineering,B.E,6.75,4,Micron
+2022H10804H,Economics and Finanace,M.E,5.1,4,Goldman Sachs
+2022A10811A,Physics,B.E,6.74,4,Unplaced
+2022A10815A,Pharmacy,B.E,8.2,4,Unplaced
+2022H10820H,Physics,M.E,8.32,4,SEDEMAC
+2022A10823A,Chemisty,B.E,8.18,4,Elucidata
+2022D10827D,Electrical and Electronics Engineering,Ph.D,9.26,4,proteanTecs
+2022S10829S,Civil Engineering,M.Sc,9.94,4,"Skidmore, Owings & Merrill (SOM)"
+2022H10833H,Pharmacy,M.E,9.34,4,Pfizer
+2022A10835A,Civil Engineering,B.E,8.8,4,Unplaced
+2022S10842S,Mechanical Engineering,M.Sc,7.83,4,Shell
+2022H10844H,Humanities and Social Sciences,M.E,5.38,4,Unplaced
+2022D10845D,Biological Sciences,Ph.D,9.58,4,Pfizer
+2022H10848H,Chemical Engineering,M.E,5.18,4,BASF
+2022H10851H,Chemical Engineering,M.E,6.91,4,Baker Hughes
+2022A10853A,Humanities and Social Sciences,B.E,7.53,4,Accenture
+2022A10857A,Pharmacy,B.E,9.77,4,Zydus
+2022A10862A,Pharmacy,B.E,9.83,4,Unplaced
+2022P10870P,Civil Engineering,B.Pharm,9.01,4,Greenko Jacobs
+2022S10872S,Chemisty,M.Sc,7.16,4,DataZymes
+2022A10878A,Physics,B.E,6.2,4,MICROCHIP
+2022A10883A,Chemical Engineering,B.E,9.05,4,Unplaced
+2022A10886A,Chemical Engineering,B.E,5.62,4,BASF
+2022S10887S,Economics and Finanace,M.Sc,8.1,4,UBS
+2022A10890A,Chemical Engineering,B.E,5.66,4,GSK
+2022A10903A,Economics and Finanace,B.E,5.32,4,Bain & Company
+2022A10909A,Computer Science and Information Systems,B.E,6.94,4,Piramal
+2022A10911A,Electrical and Electronics Engineering,B.E,5.18,4,Unplaced
+2022A10912A,Humanities and Social Sciences,B.E,5.71,4,Procter & Gamble
+2022H10918H,Economics and Finanace,M.E,5.14,4,Goldman Sachs
+2022H10922H,Electrical and Electronics Engineering,M.E,9.69,4,Cypress Semiconductor
+2022A10926A,Biological Sciences,B.E,7.96,4,Granules India
+2022A10928A,Computer Science and Information Systems,B.E,9.88,4,Unplaced
+2022S10930S,Economics and Finanace,M.Sc,7.84,4,Unplaced
+2022S10932S,Mechanical Engineering,M.Sc,5.25,4,Lime
+2022A10938A,Chemical Engineering,B.E,6.96,4,INEOS
+2022A10941A,Pharmacy,B.E,5.61,4,Biocon
+2022A10955A,Electrical and Electronics Engineering,B.E,9.07,4,Unplaced
+2022P10957P,Computer Science and Information Systems,B.Pharm,7.01,4,CONCR
+2022A10960A,Civil Engineering,B.E,8.67,4,Unplaced
+2022A10961A,Economics and Finanace,B.E,7.12,4,BlackRock
+2022A10963A,Computer Science and Information Systems,B.E,9.23,4,Samsung
+2022S10966S,Civil Engineering,M.Sc,6.42,4,Unplaced
+2022A10968A,Chemisty,B.E,8.61,4,Elucidata
+2022H10969H,Chemical Engineering,M.E,8.43,4,Mitsubishi Chemical Corporation
+2022A10978A,Mechanical Engineering,B.E,6.27,4,SEDEMAC
+2022A10985A,Chemical Engineering,B.E,7.46,4,Procter & Gamble
+2022D10989D,Computer Science and Information Systems,Ph.D,8.72,4,GE HealthCare
+2022S10992S,Computer Science and Information Systems,M.Sc,9.63,4,Axtria
+2022H10994H,Chemical Engineering,M.E,6.94,4,Air Liquide
+2022A10998A,Civil Engineering,B.E,8.78,4,Gammon Construction
+2022H11003H,Biological Sciences,M.E,8.91,4,Abbott Laboratories
+2022H11004H,Computer Science and Information Systems,M.E,6.93,4,Infineon
+2022A11005A,Humanities and Social Sciences,B.E,6.88,4,Google
+2022H11006H,Mathematics,M.E,9.08,4,Unplaced
+2022A11018A,Biological Sciences,B.E,6.23,4,Aurobindo Pharma
+2022A11024A,Economics and Finanace,B.E,5.97,4,FactSet
+2022A11028A,Biological Sciences,B.E,5.52,4,Unplaced
+2022H11029H,Pharmacy,M.E,7.37,4,ADITYA BIRLA
+2022P11032P,Biological Sciences,B.Pharm,6.64,4,Emcure Pharmaceuticals
+2022A11034A,Mechanical Engineering,B.E,6.77,4,Unplaced
+2022S11038S,Computer Science and Information Systems,M.Sc,6.24,4,Unplaced
+2022S11041S,Physics,M.Sc,9.0,4,Unplaced
+2022A11044A,Mechanical Engineering,B.E,6.89,4,3SC
+2022A11045A,Civil Engineering,B.E,5.82,4,Unplaced
+2022A11053A,Computer Science and Information Systems,B.E,5.96,4,Western Digital
+2022A11055A,Chemisty,B.E,9.75,4,DataZymes
+2022A11057A,Pharmacy,B.E,8.17,4,Alembic Pharmaceuticals
+2022A11070A,Physics,B.E,9.99,4,SILICON LABS
+2022D11076D,Economics and Finanace,Ph.D,8.97,4,Unplaced
+2022H11078H,Chemical Engineering,M.E,8.26,4,Chevron
+2022D11080D,Electrical and Electronics Engineering,Ph.D,7.01,4,onsemi
+2022S11086S,Electrical and Electronics Engineering,M.Sc,6.87,4,IBM
+2022S11095S,Mathematics,M.Sc,7.29,4,Pharmo Solutions
+2022H11104H,Electrical and Electronics Engineering,M.E,6.43,4,Micron
+2022P11105P,Computer Science and Information Systems,B.Pharm,7.9,4,Dell
+2022H11106H,Civil Engineering,M.E,7.8,4,WSP Global
+2022A11108A,Civil Engineering,B.E,9.63,4,Unplaced
+2022A11118A,Physics,B.E,7.37,4,IBM
+2022H11119H,Electrical and Electronics Engineering,M.E,5.07,4,INSTRUMENTS
+2022D11124D,Mechanical Engineering,Ph.D,5.44,4,3SC
+2022A11138A,Civil Engineering,B.E,9.97,4,Parsons Corporation
+2022H11140H,Pharmacy,M.E,7.88,4,Biocon
+2022H11146H,Electrical and Electronics Engineering,M.E,5.64,4,SynOPSYS
+2022H11147H,Computer Science and Information Systems,M.E,7.52,4,PayU
+2022A11148A,Chemisty,B.E,6.07,4,Honeywell UOP
+2022A11149A,Mathematics,B.E,8.23,4,Pharmo Solutions
+2022H11151H,Chemisty,M.E,8.99,4,Eastman Chemical Company
+2022A11152A,Electrical and Electronics Engineering,B.E,5.13,4,NXP Semiconductors
+2022H11156H,Electrical and Electronics Engineering,M.E,6.8,4,Unplaced
+2022A11157A,Computer Science and Information Systems,B.E,5.37,4,Tenstorrent
+2022A11162A,Economics and Finanace,B.E,6.11,4,Morningstar
+2022A11163A,Humanities and Social Sciences,B.E,7.41,4,Tata Steel
+2022A11169A,Civil Engineering,B.E,8.79,4,Unplaced
+2022H11172H,Economics and Finanace,M.E,9.16,4,Unplaced
+2022S11177S,Civil Engineering,M.Sc,7.19,4,IcoNS
+2022A11181A,Chemical Engineering,B.E,8.13,4,PPG Industries
+2022A11186A,Mechanical Engineering,B.E,9.13,4,Unplaced
+2022A11190A,Biological Sciences,B.E,5.83,4,DataZymes
+2022H11197H,Pharmacy,M.E,9.53,4,Unplaced
+2022A11201A,Chemical Engineering,B.E,5.25,4,Bayer
+2022A11202A,Biological Sciences,B.E,8.89,4,Dr. Reddys Laboratories
+2022D11203D,Electrical and Electronics Engineering,Ph.D,9.14,4,NEC Corporation
+2022A11205A,Civil Engineering,B.E,9.92,4,AMARARALA
+2022A11210A,Civil Engineering,B.E,8.8,4,Thornton Tomasetti
+2022A11217A,Pharmacy,B.E,6.55,4,freyr
+2022A11225A,Economics and Finanace,B.E,5.53,4,S&P Global
+2022A11235A,Electrical and Electronics Engineering,B.E,6.94,4,Unplaced
+2022A11237A,Electrical and Electronics Engineering,B.E,8.2,4,Texas Instruments
+2022P11241P,Computer Science and Information Systems,B.Pharm,5.5,4,Qualcomm
+2022P11242P,Humanities and Social Sciences,B.Pharm,7.28,4,Microsoft
+2022A11245A,Computer Science and Information Systems,B.E,9.35,4,Unplaced
+2022P11253P,Electrical and Electronics Engineering,B.Pharm,9.2,4,Ricoh
+2022D11255D,Civil Engineering,Ph.D,8.38,4,IcoNS
+2022A11256A,Humanities and Social Sciences,B.E,6.35,4,Tata Steel
+2022S11257S,Mathematics,M.Sc,8.02,4,IBM
+2022P11258P,Mechanical Engineering,B.Pharm,9.36,4,Unplaced
+2022S11264S,Chemisty,M.Sc,7.29,4,ADITYA BIRLA
+2022H11266H,Economics and Finanace,M.E,8.63,4,Bain & Company
+2022A11268A,Mechanical Engineering,B.E,6.67,4,Unplaced
+2022A11269A,Pharmacy,B.E,5.82,4,Alembic Pharmaceuticals
+2022P11270P,Computer Science and Information Systems,B.Pharm,9.52,4,Piramal
+2022A11277A,Mathematics,B.E,7.47,4,IBM
+2022H11278H,Biological Sciences,M.E,9.45,4,Wockhardt
+2022H11282H,Electrical and Electronics Engineering,M.E,9.84,4,Unplaced
+2022A11283A,Mechanical Engineering,B.E,9.65,4,Faurecia
+2022A11284A,Physics,B.E,8.86,4,Infineon
+2022H11285H,Civil Engineering,M.E,5.46,4,Balfour Beatty
+2022S11286S,Humanities and Social Sciences,M.Sc,5.34,4,American Express
+2022A11287A,Chemisty,B.E,7.03,4,Unplaced
+2022H11288H,Physics,M.E,8.83,4,Infineon
+2022A11290A,Civil Engineering,B.E,8.83,4,WSP Global
+2022A11293A,Chemisty,B.E,8.72,4,Shell
+2022A11294A,Chemisty,B.E,6.52,4,ADITYA BIRLA
+2022S11308S,Economics and Finanace,M.Sc,6.23,4,Wells Fargo
+2022A11310A,Electrical and Electronics Engineering,B.E,7.62,4,Siemens
+2022H11318H,Humanities and Social Sciences,M.E,7.12,4,HCL Technologies
+2022S11324S,Computer Science and Information Systems,M.Sc,8.98,4,Texas Instruments
+2022A11330A,Mathematics,B.E,6.53,4,Cisco
+2022A11331A,Civil Engineering,B.E,8.34,4,Unplaced
+2022A11333A,Computer Science and Information Systems,B.E,8.17,4,Infineon
+2022H11338H,Physics,M.E,9.89,4,SAMSUNG
+2022H11345H,Chemisty,M.E,6.71,4,FRESENIUS
+2022P11346P,Chemisty,B.Pharm,9.15,4,КАВІ
+2022S11347S,Physics,M.Sc,8.23,4,Unplaced
+2022A11359A,Pharmacy,B.E,8.14,4,Pfizer
+2022D11361D,Mechanical Engineering,Ph.D,7.27,4,Oeing Lie
+2022A11378A,Physics,B.E,6.73,4,Unplaced
+2022A11380A,Mechanical Engineering,B.E,7.49,4,ARUP
+2022A11381A,Economics and Finanace,B.E,8.67,4,Bain & Company
+2022D11392D,Mathematics,Ph.D,8.01,4,AMD
+2022A11397A,Pharmacy,B.E,8.73,4,Glenmark Pharmaceuticals
+2022A11399A,Humanities and Social Sciences,B.E,5.5,4,State Bank of India (SBI)
+2022H11402H,Pharmacy,M.E,5.66,4,Unplaced
+2022A11406A,Mechanical Engineering,B.E,5.1,4,ANAND
+2022H11411H,Computer Science and Information Systems,M.E,5.07,4,Micron
+2022P11412P,Civil Engineering,B.Pharm,8.18,4,Parsons Corporation
+2022A11415A,Civil Engineering,B.E,8.79,4,Hill International
+2022S11419S,Pharmacy,M.Sc,8.88,4,kmk
+2022H11430H,Humanities and Social Sciences,M.E,6.48,4,Unplaced
+2022S11432S,Civil Engineering,M.Sc,9.75,4,Unplaced
+2022H11439H,Electrical and Electronics Engineering,M.E,5.24,4,Unplaced
+2022P11448P,Electrical and Electronics Engineering,B.Pharm,6.36,4,Ricoh
+2022A11450A,Humanities and Social Sciences,B.E,8.78,4,EY (Ernst & Young)
+2022A11452A,Physics,B.E,6.12,4,Unplaced
+2022A11456A,Physics,B.E,9.12,4,onsemi
+2022D11457D,Mathematics,Ph.D,6.41,4,Qualcomm
+2022A11463A,Biological Sciences,B.E,5.12,4,Granules India
+2022A11465A,Humanities and Social Sciences,B.E,6.74,4,ICICI Bank
+2022D11468D,Economics and Finanace,Ph.D,5.4,4,FactSet
+2022A11471A,Mathematics,B.E,5.82,4,Piramal
+2022A11476A,Mathematics,B.E,9.45,4,Trilogy
+2022P11481P,Pharmacy,B.Pharm,9.14,4,kmk
+2022H11483H,Chemisty,M.E,7.23,4,Cipla
+2022P11485P,Pharmacy,B.Pharm,9.36,4,Ipca Laboratories
+2022A11488A,Electrical and Electronics Engineering,B.E,7.42,4,Xilinx
+2022D11489D,Chemical Engineering,Ph.D,5.36,4,"KBR, Inc."
+2022A11490A,Biological Sciences,B.E,9.68,4,Unplaced
+2022H11498H,Humanities and Social Sciences,M.E,7.22,4,ITC Limited
+2022A11499A,Mathematics,B.E,7.91,4,Cisco
+2022A11502A,Chemical Engineering,B.E,6.94,4,LyondellBasell
+2022D11504D,Pharmacy,Ph.D,8.25,4,Biocon
+2022A11510A,Mechanical Engineering,B.E,8.05,4,Johnson Controls
+2022H11514H,Economics and Finanace,M.E,8.59,4,Credit Suisse
+2022A11521A,Economics and Finanace,B.E,8.6,4,Bain & Company
+2022D11528D,Physics,Ph.D,9.98,4,INSTRUMENTS
+2022S11531S,Physics,M.Sc,6.3,4,Tenstorrent
+2022H11537H,Physics,M.E,6.51,4,onsemi
+2022H11542H,Mathematics,M.E,8.95,4,Piramal
+2022H11546H,Pharmacy,M.E,8.84,4,Elucidata
+2022S11550S,Computer Science and Information Systems,M.Sc,9.6,4,VMware
+2022A11552A,Chemisty,B.E,6.52,4,ADITYA BIRLA
+2022A11555A,Humanities and Social Sciences,B.E,6.85,4,Procter & Gamble
+2022A11566A,Chemical Engineering,B.E,5.89,4,GSK
+2022A11571A,Mathematics,B.E,7.68,4,BLEND360
+2022H11573H,Civil Engineering,M.E,6.55,4,ATKINS
+2022A11583A,Pharmacy,B.E,5.5,4,Unplaced
+2022P11584P,Humanities and Social Sciences,B.Pharm,5.37,4,Aditya Birla Group
+2022S11588S,Mechanical Engineering,M.Sc,5.48,4,Johnson Controls
+2022A11594A,Mechanical Engineering,B.E,8.09,4,Ford Motor Company
+2022A11601A,Civil Engineering,B.E,7.75,4,WSP Global
+2022A11602A,Economics and Finanace,B.E,7.1,4,IHS Markit
+2022D11608D,Humanities and Social Sciences,Ph.D,7.69,4,Infosys
+2022A11613A,Mathematics,B.E,5.31,4,Trilogy
+2022A11615A,Civil Engineering,B.E,9.37,4,Unplaced
+2022D11616D,Electrical and Electronics Engineering,Ph.D,9.72,4,Xilinx
+2022A11625A,Computer Science and Information Systems,B.E,7.92,4,Trilogy
+2022H11626H,Civil Engineering,M.E,7.8,4,Unplaced
+2022A11635A,Economics and Finanace,B.E,6.61,4,Credit Suisse
+2022A11650A,Mechanical Engineering,B.E,9.34,4,Unplaced
+2022A11651A,Chemisty,B.E,7.76,4,Unplaced
+2022H11656H,Chemical Engineering,M.E,7.85,4,Air Liquide
+2022P11665P,Chemisty,B.Pharm,8.9,4,DuPont
+2022D11671D,Electrical and Electronics Engineering,Ph.D,9.48,4,Fujitsu
+2022D11675D,Computer Science and Information Systems,Ph.D,7.66,4,VISA
+2022H11680H,Biological Sciences,M.E,8.58,4,Unplaced
+2022A11681A,Civil Engineering,B.E,6.34,4,Unplaced
+2022A11687A,Humanities and Social Sciences,B.E,6.25,4,Tata Steel
+2022A11689A,Mathematics,B.E,9.24,4,Unplaced
+2022A11694A,Biological Sciences,B.E,8.62,4,Divis Laboratories
+2022H11695H,Electrical and Electronics Engineering,M.E,6.34,4,INSTRUMENTS
+2022A11696A,Mathematics,B.E,5.84,4,Mediatek
+2022H11697H,Computer Science and Information Systems,M.E,9.37,4,MathWorks
+2022H11706H,Economics and Finanace,M.E,5.18,4,Goldman Sachs
+2022A11707A,Civil Engineering,B.E,8.83,4,IcoNS

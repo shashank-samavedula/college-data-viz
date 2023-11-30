@@ -1,0 +1,1827 @@
+Student ID,Course,Degree,CGPA,Year,Placement
+2015A0005A,Mathematics,B.E,8.12,4,Cisco
+2015H0006H,Physics,M.E,6.73,4,Unplaced
+2015H0008H,Biological Sciences,M.E,7.69,4,AstraZeneca
+2015A0026A,Physics,B.E,7.13,4,A Lam
+2015A0027A,Chemical Engineering,B.E,5.46,4,Unplaced
+2015A0028A,Chemisty,B.E,7.38,4,Procter & Gamble
+2015H0029H,Chemical Engineering,M.E,6.85,4,Merck
+2015D0030D,Mechanical Engineering,Ph.D,7.79,4,Johnson Controls
+2015P0031P,Computer Science and Information Systems,B.Pharm,7.92,4,Commvault
+2015H0032H,Humanities and Social Sciences,M.E,8.45,4,Bain & Company
+2015P0034P,Chemisty,B.Pharm,7.53,4,Dow
+2015A0036A,Physics,B.E,6.06,4,Texas Instruments
+2015A0038A,Chemical Engineering,B.E,8.01,4,Monsanto
+2015A0043A,Chemisty,B.E,5.71,4,freyr
+2015A0045A,Computer Science and Information Systems,B.E,6.08,4,Micron
+2015A0047A,Chemical Engineering,B.E,9.35,4,PPG Industries
+2015P0048P,Humanities and Social Sciences,B.Pharm,7.87,4,ICICI Bank
+2015A0049A,Economics and Finanace,B.E,8.91,4,Citi
+2015A0051A,Chemisty,B.E,7.52,4,Eastman Chemical Company
+2015A0053A,Physics,B.E,6.63,4,STMicroelectronics
+2015A0054A,Electrical and Electronics Engineering,B.E,6.16,4,Microsemi
+2015H0055H,Economics and Finanace,M.E,7.7,4,MSCI
+2015A0060A,Mechanical Engineering,B.E,7.61,4,Procter & Gamble
+2015H0064H,Civil Engineering,M.E,9.15,4,The Walsh Group
+2015A0066A,Electrical and Electronics Engineering,B.E,7.94,4,onsemi
+2015A0072A,Chemisty,B.E,6.53,4,Shell
+2015A0079A,Humanities and Social Sciences,B.E,7.54,4,Infosys BPM
+2015A0085A,Computer Science and Information Systems,B.E,7.84,4,Secureworks
+2015A0088A,Civil Engineering,B.E,7.69,4,"Skidmore, Owings & Merrill (SOM)"
+2015A0092A,Biological Sciences,B.E,9.67,4,Unplaced
+2015S0093S,Computer Science and Information Systems,M.Sc,7.99,4,BLEND360
+2015A0105A,Pharmacy,B.E,9.61,4,AstraZeneca
+2015S0107S,Electrical and Electronics Engineering,M.Sc,7.78,4,IBM
+2015A0109A,Mathematics,B.E,5.15,4,Intel
+2015H0110H,Pharmacy,M.E,5.62,4,Zydus
+2015H0117H,Physics,M.E,6.11,4,Unplaced
+2015A0118A,Economics and Finanace,B.E,5.18,4,S&P Global
+2015A0120A,Biological Sciences,B.E,5.98,4,Sun Pharmaceutical Industries
+2015H0121H,Chemical Engineering,M.E,9.35,4,Lanxess
+2015A0128A,Pharmacy,B.E,7.8,4,Biocon
+2015H0130H,Economics and Finanace,M.E,7.16,4,BNP Paribas
+2015P0131P,Computer Science and Information Systems,B.Pharm,5.61,4,Mashreq
+2015A0137A,Physics,B.E,6.13,4,IBM
+2015A0143A,Computer Science and Information Systems,B.E,6.24,4,VMware
+2015S0146S,Chemical Engineering,M.Sc,8.88,4,Lanxess
+2015A0150A,Chemisty,B.E,5.31,4,ExxonMobil
+2015A0151A,Biological Sciences,B.E,6.51,4,КАВІ
+2015A0153A,Mathematics,B.E,5.26,4,Cisco
+2015A0154A,Electrical and Electronics Engineering,B.E,5.48,4,onsemi
+2015H0156H,Humanities and Social Sciences,M.E,6.92,4,McKinsey & Company
+2015A0163A,Economics and Finanace,B.E,7.11,4,Unplaced
+2015A0165A,Biological Sciences,B.E,5.64,4,Granules India
+2015A0174A,Economics and Finanace,B.E,5.95,4,HSBC
+2015A0175A,Physics,B.E,8.46,4,SILICON LABS
+2015S0183S,Physics,M.Sc,6.88,4,Unplaced
+2015A0197A,Pharmacy,B.E,5.86,4,Glenmark Pharmaceuticals
+2015A0205A,Chemisty,B.E,9.26,4,ExxonMobil
+2015S0206S,Civil Engineering,M.Sc,8.64,4,ATKINS
+2015A0210A,Economics and Finanace,B.E,8.56,4,Unplaced
+2015P0211P,Humanities and Social Sciences,B.Pharm,7.37,4,ITC Limited
+2015A0214A,Humanities and Social Sciences,B.E,9.32,4,Infosys BPM
+2015H0215H,Civil Engineering,M.E,6.53,4,Unplaced
+2015A0219A,Civil Engineering,B.E,7.92,4,Unplaced
+2015A0220A,Mathematics,B.E,8.11,4,Microsoft
+2015A0221A,Humanities and Social Sciences,B.E,7.34,4,KPMG
+2015A0235A,Economics and Finanace,B.E,8.92,4,Unplaced
+2015H0239H,Humanities and Social Sciences,M.E,6.17,4,ICICI Bank
+2015A0242A,Electrical and Electronics Engineering,B.E,8.85,4,Unplaced
+2015H0247H,Economics and Finanace,M.E,6.13,4,Accenture
+2015A0251A,Mechanical Engineering,B.E,8.15,4,ABB
+2015H0252H,Electrical and Electronics Engineering,M.E,6.02,4,SynOPSYS
+2015D0254D,Humanities and Social Sciences,Ph.D,5.54,4,State Bank of India (SBI)
+2015A0257A,Biological Sciences,B.E,9.13,4,КАВІ
+2015A0262A,Chemisty,B.E,6.63,4,КАВІ
+2015H0264H,Chemisty,M.E,7.68,4,Aragen
+2015A0267A,Electrical and Electronics Engineering,B.E,9.09,4,Xilinx
+2015A0269A,Mechanical Engineering,B.E,6.01,4,Boeing
+2015H0271H,Humanities and Social Sciences,M.E,5.32,4,Infosys BPM
+2015S0273S,Mechanical Engineering,M.Sc,9.4,4,Unplaced
+2015H0275H,Computer Science and Information Systems,M.E,8.23,4,Texas Instruments
+2015A0278A,Electrical and Electronics Engineering,B.E,6.25,4,Unplaced
+2015A0280A,Physics,B.E,7.84,4,Infineon
+2015P0288P,Civil Engineering,B.Pharm,7.53,4,Unplaced
+2015A0289A,Biological Sciences,B.E,5.37,4,Divis Laboratories
+2015A0290A,Electrical and Electronics Engineering,B.E,6.72,4,Infineon
+2015A0293A,Economics and Finanace,B.E,8.35,4,Nomura
+2015S0295S,Mathematics,M.Sc,8.29,4,Qualcomm
+2015A0299A,Chemical Engineering,B.E,7.67,4,INEOS
+2015H0301H,Pharmacy,M.E,6.37,4,Aragen
+2015A0303A,Pharmacy,B.E,7.66,4,Emcure Pharmaceuticals
+2015D0305D,Electrical and Electronics Engineering,Ph.D,8.45,4,Unplaced
+2015A0313A,Physics,B.E,5.84,4,Unplaced
+2015D0316D,Mechanical Engineering,Ph.D,6.04,4,Unplaced
+2015H0320H,Biological Sciences,M.E,6.95,4,Unplaced
+2015A0323A,Chemical Engineering,B.E,9.43,4,Evonik Industries
+2015H0324H,Computer Science and Information Systems,M.E,8.84,4,Teradata
+2015A0330A,Biological Sciences,B.E,8.04,4,SII
+2015A0334A,Computer Science and Information Systems,B.E,6.18,4,Micron
+2015S0338S,Pharmacy,M.Sc,5.19,4,Unplaced
+2015S0341S,Mathematics,M.Sc,8.96,4,Amazon
+2015D0352D,Civil Engineering,Ph.D,7.54,4,ARUP
+2015A0354A,Physics,B.E,5.99,4,SEDEMAC
+2015A0357A,Computer Science and Information Systems,B.E,9.31,4,Texas Instruments
+2015D0359D,Electrical and Electronics Engineering,Ph.D,6.89,4,Cypress Semiconductor
+2015H0360H,Humanities and Social Sciences,M.E,7.11,4,KPMG
+2015A0361A,Chemisty,B.E,9.1,4,Honeywell UOP
+2015A0362A,Biological Sciences,B.E,8.81,4,КАВІ
+2015A0366A,Humanities and Social Sciences,B.E,6.42,4,Wipro
+2015P0367P,Chemical Engineering,B.Pharm,6.67,4,Evonik Industries
+2015H0370H,Humanities and Social Sciences,M.E,7.02,4,Unplaced
+2015P0376P,Economics and Finanace,B.Pharm,7.55,4,Fitch Ratings
+2015A0378A,Pharmacy,B.E,6.93,4,Sun Pharmaceutical Industries
+2015H0379H,Physics,M.E,6.23,4,CISCO
+2015A0386A,Pharmacy,B.E,8.56,4,Cipla
+2015S0388S,Mathematics,M.Sc,9.55,4,Amazon
+2015A0390A,Physics,B.E,6.51,4,onsemi
+2015A0391A,Mechanical Engineering,B.E,6.54,4,ExxonMobil
+2015A0396A,Biological Sciences,B.E,9.94,4,Unplaced
+2015H0397H,Biological Sciences,M.E,5.48,4,КАВІ
+2015A0404A,Civil Engineering,B.E,6.3,4,The Walsh Group
+2015H0417H,Civil Engineering,M.E,9.7,4,IcoNS
+2015D0420D,Humanities and Social Sciences,Ph.D,9.35,4,Genpact
+2015H0424H,Economics and Finanace,M.E,7.26,4,KPMG
+2015A0428A,Physics,B.E,6.63,4,Unplaced
+2015H0429H,Civil Engineering,M.E,8.03,4,Gammon Construction
+2015S0431S,Economics and Finanace,M.Sc,7.14,4,Boston Consulting Group (BCG)
+2015D0436D,Computer Science and Information Systems,Ph.D,9.16,4,Tenstorrent
+2015D0443D,Physics,Ph.D,6.29,4,Unplaced
+2015A0445A,Mathematics,B.E,8.17,4,Unplaced
+2015S0448S,Pharmacy,M.Sc,6.72,4,FRESENIUS
+2015H0449H,Pharmacy,M.E,8.21,4,Unplaced
+2015S0454S,Chemisty,M.Sc,9.27,4,SABIC
+2015P0460P,Chemical Engineering,B.Pharm,6.98,4,Unplaced
+2015A0462A,Civil Engineering,B.E,7.5,4,RAMBOLL
+2015A0466A,Computer Science and Information Systems,B.E,9.98,4,CONCR
+2015H0467H,Pharmacy,M.E,9.14,4,Unplaced
+2015H0468H,Computer Science and Information Systems,M.E,8.52,4,Unplaced
+2015A0482A,Mechanical Engineering,B.E,5.69,4,DOVER
+2015A0488A,Electrical and Electronics Engineering,B.E,9.75,4,MEDIATEK
+2015H0490H,Chemical Engineering,M.E,6.78,4,3M
+2015A0492A,Mathematics,B.E,8.25,4,Intel
+2015S0493S,Chemisty,M.Sc,8.13,4,SABIC
+2015P0497P,Humanities and Social Sciences,B.Pharm,9.32,4,Unplaced
+2015A0498A,Computer Science and Information Systems,B.E,8.16,4,Tenstorrent
+2015P0501P,Biological Sciences,B.Pharm,7.93,4,Zydus Cadila
+2015A0503A,Mechanical Engineering,B.E,5.91,4,Caterpillar Inc.
+2015A0508A,Electrical and Electronics Engineering,B.E,7.78,4,AMDET
+2015H0529H,Mathematics,M.E,6.27,4,Trilogy
+2015A0530A,Pharmacy,B.E,9.52,4,freyr
+2015H0546H,Mechanical Engineering,M.E,9.11,4,ABB
+2015A0549A,Biological Sciences,B.E,5.85,4,Unplaced
+2015A0550A,Chemisty,B.E,6.73,4,Unplaced
+2015S0553S,Pharmacy,M.Sc,5.63,4,Unplaced
+2015H0556H,Physics,M.E,8.89,4,SILICON LABS
+2015A0557A,Physics,B.E,7.29,4,Unplaced
+2015D0565D,Physics,Ph.D,6.43,4,Unplaced
+2015A0566A,Biological Sciences,B.E,9.81,4,Glenmark Pharmaceuticals
+2015H0570H,Physics,M.E,5.04,4,SEDEMAC
+2015S0581S,Computer Science and Information Systems,M.Sc,6.07,4,Amazon
+2015A0583A,Humanities and Social Sciences,B.E,9.46,4,Reliance Industries
+2015P0584P,Biological Sciences,B.Pharm,6.78,4,Lupin Limited
+2015A0590A,Electrical and Electronics Engineering,B.E,5.62,4,MICROCHIP
+2015A0595A,Humanities and Social Sciences,B.E,8.28,4,Infosys BPM
+2015A0596A,Chemisty,B.E,5.7,4,Unplaced
+2015A0602A,Chemical Engineering,B.E,7.11,4,Novozymes
+2015H0604H,Electrical and Electronics Engineering,M.E,7.51,4,Unplaced
+2015H0611H,Humanities and Social Sciences,M.E,5.41,4,HCL Technologies
+2015A0619A,Civil Engineering,B.E,5.6,4,Leighton Holdings
+2015D0622D,Chemical Engineering,Ph.D,9.32,4,Unplaced
+2015A0624A,Civil Engineering,B.E,6.68,4,Leighton Holdings
+2015A0627A,Computer Science and Information Systems,B.E,9.71,4,Unplaced
+2015A0632A,Electrical and Electronics Engineering,B.E,5.92,4,STMicroelectronics
+2015H0648H,Electrical and Electronics Engineering,M.E,5.34,4,Cypress Semiconductor
+2015A0652A,Physics,B.E,5.95,4,onsemi
+2015A0654A,Chemisty,B.E,7.19,4,Chevron
+2015A0673A,Physics,B.E,8.73,4,SynOPSYS
+2015A0676A,Civil Engineering,B.E,7.91,4,Hill International
+2015A0677A,Chemisty,B.E,7.23,4,freyr
+2015D0678D,Economics and Finanace,Ph.D,5.74,4,Morningstar
+2015D0679D,Chemical Engineering,Ph.D,7.48,4,Evonik Industries
+2015A0683A,Chemisty,B.E,9.43,4,Dow
+2015S0686S,Humanities and Social Sciences,M.Sc,9.55,4,Cognizant
+2015H0689H,Mechanical Engineering,M.E,5.5,4,Lime
+2015S0697S,Humanities and Social Sciences,M.Sc,8.8,4,Unplaced
+2015A0698A,Chemisty,B.E,6.54,4,Unplaced
+2015H0702H,Chemical Engineering,M.E,7.56,4,Dow
+2015A0704A,Biological Sciences,B.E,6.13,4,Sun Pharmaceutical Industries
+2015A0706A,Civil Engineering,B.E,9.61,4,ARUP
+2015A0716A,Chemical Engineering,B.E,6.36,4,GSK
+2015A0720A,Economics and Finanace,B.E,5.74,4,Fitch Ratings
+2015H0721H,Physics,M.E,8.98,4,Unplaced
+2015A0722A,Chemical Engineering,B.E,5.57,4,Unplaced
+2015H0725H,Electrical and Electronics Engineering,M.E,6.76,4,Unplaced
+2015P0726P,Electrical and Electronics Engineering,B.Pharm,7.41,4,Sony
+2015H0729H,Electrical and Electronics Engineering,M.E,7.09,4,Infineon
+2015S0731S,Electrical and Electronics Engineering,M.Sc,5.42,4,SynOPSYS
+2015A0738A,Computer Science and Information Systems,B.E,7.3,4,Unplaced
+2015A0741A,Physics,B.E,8.52,4,Unplaced
+2015A0742A,Physics,B.E,5.13,4,SILICON LABS
+2015H0744H,Pharmacy,M.E,7.91,4,Pfizer
+2015A0747A,Civil Engineering,B.E,5.39,4,Stantec
+2015H0748H,Chemisty,M.E,8.83,4,Elucidata
+2015A0754A,Mathematics,B.E,5.8,4,Trilogy
+2015P0755P,Electrical and Electronics Engineering,B.Pharm,8.4,4,Unplaced
+2015A0763A,Pharmacy,B.E,8.21,4,Pfizer
+2015A0773A,Mechanical Engineering,B.E,9.93,4,ANAND
+2015D0781D,Biological Sciences,Ph.D,7.94,4,FRESENIUS
+2015A0783A,Computer Science and Information Systems,B.E,5.81,4,Mediatek
+2015A0789A,Computer Science and Information Systems,B.E,6.8,4,Secureworks
+2015A0790A,Biological Sciences,B.E,9.45,4,Alembic Pharmaceuticals
+2015A0792A,Chemisty,B.E,7.83,4,DataZymes
+2015D0800D,Humanities and Social Sciences,Ph.D,9.89,4,Procter & Gamble
+2015S0805S,Economics and Finanace,M.Sc,5.42,4,Standard Chartered
+2015A0810A,Electrical and Electronics Engineering,B.E,5.79,4,MEDIATEK
+2015A0811A,Chemical Engineering,B.E,6.12,4,GSK
+2015A0812A,Pharmacy,B.E,5.47,4,freyr
+2015A0813A,Humanities and Social Sciences,B.E,8.21,4,Hindustan Unilever Limited (HUL)
+2015A0817A,Economics and Finanace,B.E,9.98,4,MSCI
+2015D0818D,Civil Engineering,Ph.D,8.51,4,IcoNS
+2015H0820H,Mathematics,M.E,5.78,4,Unplaced
+2015A0822A,Mechanical Engineering,B.E,5.16,4,Unplaced
+2015P0829P,Computer Science and Information Systems,B.Pharm,9.37,4,Wabtec
+2015A0833A,Chemisty,B.E,5.99,4,Sun Pharmaceutical Industries
+2015A0835A,Physics,B.E,7.18,4,Intel
+2015H0839H,Biological Sciences,M.E,5.75,4,Sun Pharmaceutical Industries
+2015H0841H,Chemical Engineering,M.E,8.96,4,Pfizer
+2015A0851A,Physics,B.E,7.5,4,MICROCHIP
+2015A0854A,Chemical Engineering,B.E,9.63,4,Eastman Chemical Company
+2015A0857A,Pharmacy,B.E,8.44,4,PEISION MEDICINE SOLUTIONS
+2015H0860H,Chemical Engineering,M.E,8.25,4,Praxair
+2015S0863S,Pharmacy,M.Sc,6.45,4,Granules India
+2015H0864H,Civil Engineering,M.E,6.11,4,RAMBOLL
+2015A0867A,Humanities and Social Sciences,B.E,7.06,4,Procter & Gamble
+2015A0870A,Computer Science and Information Systems,B.E,9.19,4,Micron
+2015P0871P,Pharmacy,B.Pharm,6.21,4,freyr
+2015A0874A,Economics and Finanace,B.E,5.85,4,HSBC
+2015H0875H,Civil Engineering,M.E,7.78,4,Leighton Holdings
+2015A0876A,Civil Engineering,B.E,8.08,4,Unplaced
+2015A0877A,Biological Sciences,B.E,9.01,4,Ipca Laboratories
+2015A0878A,Chemisty,B.E,9.7,4,Aragen
+2015D0882D,Mathematics,Ph.D,5.59,4,Unplaced
+2015A0896A,Chemisty,B.E,5.46,4,freyr
+2015P0900P,Civil Engineering,B.Pharm,8.44,4,Gammon Construction
+2015H0901H,Economics and Finanace,M.E,8.17,4,Unplaced
+2015A0914A,Humanities and Social Sciences,B.E,8.73,4,Hindustan Unilever Limited (HUL)
+2015P0915P,Electrical and Electronics Engineering,B.Pharm,7.56,4,AMDET
+2015D0919D,Chemisty,Ph.D,8.97,4,Unplaced
+2015P0920P,Electrical and Electronics Engineering,B.Pharm,9.41,4,MICROCHIP
+2015D0922D,Mechanical Engineering,Ph.D,5.54,4,Cummins Inc.
+2015H0926H,Mathematics,M.E,6.27,4,Amazon
+2015A0935A,Civil Engineering,B.E,7.81,4,AECOM
+2015A0938A,Mechanical Engineering,B.E,9.46,4,Oeing Lie
+2015H0942H,Electrical and Electronics Engineering,M.E,5.6,4,LG Electronics
+2015H0943H,Chemisty,M.E,8.01,4,Unplaced
+2015A0946A,Humanities and Social Sciences,B.E,6.42,4,Procter & Gamble
+2015P0949P,Humanities and Social Sciences,B.Pharm,5.48,4,IBM
+2015A0952A,Humanities and Social Sciences,B.E,8.06,4,Reliance Industries
+2015A0953A,Computer Science and Information Systems,B.E,8.48,4,Mashreq
+2015A0963A,Chemical Engineering,B.E,6.32,4,Unplaced
+2015P0966P,Economics and Finanace,B.Pharm,9.31,4,Morningstar
+2015A0968A,Mathematics,B.E,7.64,4,Mediatek
+2015A0970A,Economics and Finanace,B.E,8.86,4,Unplaced
+2015A0974A,Physics,B.E,5.39,4,Unplaced
+2015P0981P,Civil Engineering,B.Pharm,9.58,4,AECOM
+2015H0987H,Civil Engineering,M.E,5.08,4,WSP Global
+2015A0988A,Chemisty,B.E,6.33,4,Unplaced
+2015S0994S,Chemical Engineering,M.Sc,5.25,4,Wood Group
+2015H0997H,Mechanical Engineering,M.E,6.38,4,Unplaced
+2015H1003H,Mechanical Engineering,M.E,8.5,4,Caterpillar Inc.
+2015H1009H,Mathematics,M.E,9.54,4,AMD
+2015A1012A,Chemisty,B.E,5.94,4,Honeywell UOP
+2015H1013H,Chemisty,M.E,9.81,4,Honeywell UOP
+2015A1017A,Mechanical Engineering,B.E,6.76,4,Shell
+2015S1025S,Mathematics,M.Sc,6.29,4,Dell
+2015A1028A,Mathematics,B.E,8.87,4,Intel
+2015A1032A,Humanities and Social Sciences,B.E,5.15,4,EY (Ernst & Young)
+2015A1034A,Civil Engineering,B.E,9.6,4,Mott MacDonald
+2015A1036A,Pharmacy,B.E,8.39,4,Biocon
+2015S1038S,Economics and Finanace,M.Sc,6.96,4,Unplaced
+2015S1041S,Mechanical Engineering,M.Sc,5.61,4,Micron
+2015A1056A,Computer Science and Information Systems,B.E,6.09,4,VMware
+2015A1057A,Economics and Finanace,B.E,6.24,4,Accenture
+2015P1064P,Mechanical Engineering,B.Pharm,9.64,4,Micron
+2015D1065D,Mathematics,Ph.D,5.92,4,Amazon
+2015H1066H,Chemical Engineering,M.E,5.69,4,"KBR, Inc."
+2015A1068A,Humanities and Social Sciences,B.E,6.77,4,Wipro
+2015A1069A,Electrical and Electronics Engineering,B.E,9.81,4,Unplaced
+2015P1075P,Biological Sciences,B.Pharm,8.78,4,AstraZeneca
+2015A1077A,Humanities and Social Sciences,B.E,9.04,4,ICICI Bank
+2015P1082P,Civil Engineering,B.Pharm,7.58,4,"Skidmore, Owings & Merrill (SOM)"
+2015D1088D,Civil Engineering,Ph.D,6.02,4,Leighton Holdings
+2015D1089D,Biological Sciences,Ph.D,9.16,4,Divis Laboratories
+2015A1098A,Pharmacy,B.E,5.5,4,Alkem Laboratories
+2015A1099A,Economics and Finanace,B.E,8.34,4,Standard Chartered
+2015A1101A,Humanities and Social Sciences,B.E,7.08,4,Procter & Gamble
+2015P1102P,Chemisty,B.Pharm,5.14,4,Cipla
+2015D1104D,Mechanical Engineering,Ph.D,6.51,4,Unplaced
+2015A1106A,Chemisty,B.E,7.34,4,Unplaced
+2015H1109H,Economics and Finanace,M.E,9.51,4,Unplaced
+2015A1114A,Electrical and Electronics Engineering,B.E,5.34,4,Cypress Semiconductor
+2015A1118A,Mechanical Engineering,B.E,8.09,4,SONA COMSTAR
+2015P1121P,Humanities and Social Sciences,B.Pharm,9.67,4,Infosys
+2015A1124A,Physics,B.E,9.46,4,Tenstorrent
+2015S1128S,Chemisty,M.Sc,6.61,4,DataZymes
+2015D1130D,Civil Engineering,Ph.D,6.26,4,Unplaced
+2015H1135H,Biological Sciences,M.E,6.8,4,SII
+2015A1137A,Economics and Finanace,B.E,5.93,4,Deloitte
+2015H1138H,Civil Engineering,M.E,9.16,4,Dragados
+2015S1140S,Chemical Engineering,M.Sc,7.19,4,Evonik Industries
+2015A1156A,Economics and Finanace,B.E,9.91,4,Fitch Ratings
+2015A1161A,Pharmacy,B.E,6.75,4,КАВІ
+2015P1164P,Civil Engineering,B.Pharm,7.67,4,Gammon Construction
+2015A1166A,Mathematics,B.E,7.41,4,Dell
+2015P1167P,Electrical and Electronics Engineering,B.Pharm,8.48,4,onsemi
+2015D1170D,Economics and Finanace,Ph.D,5.97,4,Accenture
+2015A1172A,Mechanical Engineering,B.E,5.05,4,Lockheed Martin
+2015A1178A,Computer Science and Information Systems,B.E,5.65,4,Unplaced
+2015A1186A,Biological Sciences,B.E,6.73,4,Divis Laboratories
+2015A1187A,Physics,B.E,9.75,4,SILICON LABS
+2015S1191S,Biological Sciences,M.Sc,9.89,4,Unplaced
+2015S1194S,Computer Science and Information Systems,M.Sc,6.39,4,VISA
+2015A1196A,Biological Sciences,B.E,6.4,4,Cadila Healthcare
+2015A1197A,Humanities and Social Sciences,B.E,5.09,4,Google
+2015S1199S,Civil Engineering,M.Sc,6.9,4,Jacobs Engineering Group
+2015A1204A,Biological Sciences,B.E,6.7,4,Cipla
+2015A1208A,Chemisty,B.E,9.8,4,Honeywell UOP
+2015D1217D,Computer Science and Information Systems,Ph.D,9.24,4,Qualcomm
+2015P1224P,Computer Science and Information Systems,B.Pharm,6.3,4,Piramal
+2015H1228H,Chemisty,M.E,8.42,4,Unplaced
+2015A1233A,Economics and Finanace,B.E,5.55,4,Capital IQ
+2015P1236P,Pharmacy,B.Pharm,7.08,4,Unplaced
+2015A1246A,Pharmacy,B.E,8.63,4,КАВІ
+2015A1248A,Civil Engineering,B.E,7.83,4,Unplaced
+2015H1250H,Mechanical Engineering,M.E,7.36,4,Oeing Lie
+2015S1254S,Physics,M.Sc,6.21,4,INSTRUMENTS
+2015A1259A,Mathematics,B.E,6.22,4,Qualcomm
+2015A1267A,Mathematics,B.E,8.56,4,Microsoft
+2015S1270S,Chemical Engineering,M.Sc,5.66,4,INEOS
+2015P1271P,Electrical and Electronics Engineering,B.Pharm,6.77,4,Ricoh
+2015S1276S,Humanities and Social Sciences,M.Sc,9.55,4,Procter & Gamble
+2015S1281S,Pharmacy,M.Sc,8.25,4,PEISION MEDICINE SOLUTIONS
+2015A1283A,Chemical Engineering,B.E,6.16,4,Linde
+2015D1284D,Economics and Finanace,Ph.D,5.24,4,Genpact
+2015H1290H,Chemical Engineering,M.E,6.44,4,Baker Hughes
+2015A1299A,Economics and Finanace,B.E,6.02,4,Citi
+2015P1303P,Humanities and Social Sciences,B.Pharm,9.44,4,WNS Global Services
+2015S1308S,Mathematics,M.Sc,6.68,4,Mediatek
+2015A1315A,Pharmacy,B.E,5.98,4,Divis Laboratories
+2015A1320A,Biological Sciences,B.E,7.17,4,Unplaced
+2015D1326D,Pharmacy,Ph.D,7.43,4,Unplaced
+2015H1327H,Mechanical Engineering,M.E,6.79,4,SpaceX
+2015A1329A,Computer Science and Information Systems,B.E,7.1,4,Google
+2015A1330A,Economics and Finanace,B.E,6.24,4,Moodys Investors Service
+2015H1332H,Pharmacy,M.E,5.57,4,Biocon
+2015A1333A,Physics,B.E,5.64,4,IBM
+2015A1337A,Computer Science and Information Systems,B.E,8.37,4,Samsung
+2015A1338A,Electrical and Electronics Engineering,B.E,9.05,4,Unplaced
+2015A1346A,Physics,B.E,5.11,4,STMicroelectronics
+2015A1355A,Mathematics,B.E,5.51,4,Unplaced
+2015H1361H,Chemical Engineering,M.E,5.37,4,Wood Group
+2015H1363H,Chemical Engineering,M.E,8.68,4,Eastman Chemical Company
+2015A1367A,Chemical Engineering,B.E,6.32,4,Unplaced
+2015A1371A,Electrical and Electronics Engineering,B.E,5.09,4,Analog Devices
+2015H1373H,Mathematics,M.E,8.57,4,Qualcomm
+2015H1375H,Electrical and Electronics Engineering,M.E,8.86,4,onsemi
+2015A1379A,Mathematics,B.E,5.85,4,Unplaced
+2015A1381A,Electrical and Electronics Engineering,B.E,8.08,4,Siemens
+2015A1385A,Chemisty,B.E,5.18,4,Unplaced
+2015A1387A,Mathematics,B.E,8.97,4,Microsoft
+2015A1389A,Economics and Finanace,B.E,7.31,4,Moodys Analytics
+2015A1395A,Biological Sciences,B.E,9.43,4,Emcure Pharmaceuticals
+2015D1396D,Chemisty,Ph.D,8.13,4,Unplaced
+2015A1397A,Chemisty,B.E,8.74,4,Unplaced
+2015H1404H,Mathematics,M.E,8.02,4,Qualcomm
+2015A1407A,Chemisty,B.E,7.62,4,Shell
+2015H1412H,Chemical Engineering,M.E,5.31,4,Monsanto
+2015A1416A,Computer Science and Information Systems,B.E,6.42,4,Amazon
+2015H1422H,Mechanical Engineering,M.E,5.51,4,General Electric (GE)
+2015A1424A,Physics,B.E,9.36,4,Unplaced
+2015A1429A,Chemisty,B.E,7.56,4,Shell
+2015A1432A,Civil Engineering,B.E,7.8,4,The Walsh Group
+2015P1437P,Chemisty,B.Pharm,9.2,4,Elucidata
+2015A1439A,Pharmacy,B.E,5.6,4,PEISION MEDICINE SOLUTIONS
+2015A1448A,Pharmacy,B.E,6.37,4,Alkem Laboratories
+2015A1451A,Physics,B.E,9.64,4,INSTRUMENTS
+2015A1461A,Mathematics,B.E,5.07,4,AMD
+2015P1477P,Chemisty,B.Pharm,6.55,4,DataZymes
+2015A1484A,Economics and Finanace,B.E,8.86,4,Unplaced
+2015A1486A,Biological Sciences,B.E,9.75,4,Ipca Laboratories
+2015H1496H,Biological Sciences,M.E,5.79,4,DataZymes
+2015A1500A,Biological Sciences,B.E,7.2,4,Unplaced
+2015A1501A,Mechanical Engineering,B.E,7.88,4,Unplaced
+2015A1506A,Mathematics,B.E,5.54,4,Unplaced
+2015A1507A,Computer Science and Information Systems,B.E,9.77,4,Commvault
+2015A1520A,Chemical Engineering,B.E,7.35,4,Syngenta
+2015H1521H,Physics,M.E,6.06,4,onsemi
+2015D1522D,Pharmacy,Ph.D,6.88,4,Glenmark Pharmaceuticals
+2015A1526A,Pharmacy,B.E,8.65,4,Aragen
+2015A1531A,Mathematics,B.E,9.12,4,AMD
+2015S1535S,Electrical and Electronics Engineering,M.Sc,8.27,4,NEC Corporation
+2015A1536A,Chemisty,B.E,6.42,4,SABIC
+2015H1538H,Computer Science and Information Systems,M.E,9.79,4,Unplaced
+2015H1541H,Pharmacy,M.E,8.66,4,Zydus
+2015A1543A,Mechanical Engineering,B.E,7.53,4,Lockheed Martin
+2015H1544H,Biological Sciences,M.E,7.43,4,Glenmark Pharmaceuticals
+2015P1547P,Mechanical Engineering,B.Pharm,9.04,4,Unplaced
+2015D1548D,Mathematics,Ph.D,6.86,4,Amazon
+2015S1550S,Chemical Engineering,M.Sc,8.93,4,ADM (Archer Daniels Midland)
+2015P1553P,Civil Engineering,B.Pharm,7.57,4,Unplaced
+2015A1555A,Biological Sciences,B.E,5.61,4,Aurobindo Pharma
+2015A1564A,Chemisty,B.E,8.63,4,Unplaced
+2015D1578D,Mechanical Engineering,Ph.D,7.36,4,Shell
+2015H1583H,Electrical and Electronics Engineering,M.E,6.04,4,Toshiba
+2015A1588A,Mechanical Engineering,B.E,6.44,4,SONA COMSTAR
+2015A1592A,Humanities and Social Sciences,B.E,5.76,4,Unplaced
+2015P1594P,Pharmacy,B.Pharm,6.95,4,Aragen
+2015A1601A,Mechanical Engineering,B.E,6.76,4,DOVER
+2015D1603D,Computer Science and Information Systems,Ph.D,7.78,4,Mashreq
+2015H1608H,Chemisty,M.E,8.83,4,SABIC
+2015D1613D,Mathematics,Ph.D,7.68,4,Qualcomm
+2015A1614A,Civil Engineering,B.E,9.3,4,Kiewit Corporation
+2015H1615H,Humanities and Social Sciences,M.E,6.43,4,ICICI Bank
+2015A1619A,Electrical and Electronics Engineering,B.E,7.9,4,Unplaced
+2015A1622A,Mechanical Engineering,B.E,7.85,4,Caterpillar Inc.
+2015H1624H,Chemisty,M.E,7.85,4,SABIC
+2015A1626A,Biological Sciences,B.E,8.71,4,Alkem Laboratories
+2015A1631A,Biological Sciences,B.E,6.04,4,Cipla
+2015A1632A,Humanities and Social Sciences,B.E,6.23,4,Infosys
+2015H1633H,Civil Engineering,M.E,8.98,4,AECOM
+2015A1636A,Biological Sciences,B.E,8.74,4,Novartis
+2015D1637D,Mathematics,Ph.D,9.98,4,Amazon
+2015H1642H,Economics and Finanace,M.E,7.0,4,Fitch Ratings
+2015A1646A,Chemisty,B.E,9.56,4,ADITYA BIRLA
+2015S1648S,Pharmacy,M.Sc,8.47,4,Zydus Cadila
+2015D1650D,Computer Science and Information Systems,Ph.D,6.71,4,IBM
+2015A1657A,Mechanical Engineering,B.E,8.17,4,Shell
+2015A1660A,Chemisty,B.E,8.04,4,Aragen
+2015A1664A,Physics,B.E,7.54,4,Dolcera
+2015A1667A,Mathematics,B.E,6.87,4,IBM
+2015P1668P,Pharmacy,B.Pharm,5.85,4,Alkem Laboratories
+2015H1669H,Chemisty,M.E,7.42,4,ExxonMobil
+2015A1673A,Pharmacy,B.E,5.98,4,Granules India
+2015H1682H,Civil Engineering,M.E,8.45,4,Mott MacDonald
+2015A1687A,Civil Engineering,B.E,6.22,4,Assystem Stup
+2015A1690A,Civil Engineering,B.E,7.39,4,Jacobs Engineering Group
+2015H1692H,Mathematics,M.E,7.95,4,Piramal
+2015S1693S,Computer Science and Information Systems,M.Sc,7.85,4,Mashreq
+2015A1694A,Chemical Engineering,B.E,8.6,4,Lanxess
+2015P1695P,Pharmacy,B.Pharm,5.97,4,Unplaced
+2015P1696P,Biological Sciences,B.Pharm,6.26,4,Unplaced
+2015A1702A,Humanities and Social Sciences,B.E,5.03,4,Unplaced
+2015H1708H,Economics and Finanace,M.E,8.83,4,Bain & Company
+2015P1711P,Chemisty,B.Pharm,5.96,4,Unplaced
+2015S1713S,Economics and Finanace,M.Sc,9.78,4,Accenture
+2015H1714H,Pharmacy,M.E,7.98,4,Dr. Reddys Laboratories
+2015A1719A,Humanities and Social Sciences,B.E,6.54,4,Procter & Gamble
+2015P1720P,Electrical and Electronics Engineering,B.Pharm,5.03,4,Unplaced
+2015A1722A,Pharmacy,B.E,9.03,4,Unplaced
+2015H1726H,Economics and Finanace,M.E,7.14,4,S&P Global
+2015S1728S,Civil Engineering,M.Sc,8.09,4,LISEN A TOLERO
+2015P1730P,Chemisty,B.Pharm,6.63,4,Unplaced
+2015D1732D,Pharmacy,Ph.D,6.95,4,Aurobindo Pharma
+2015A1733A,Civil Engineering,B.E,6.4,4,Unplaced
+2015A1735A,Computer Science and Information Systems,B.E,7.69,4,VISA
+2015A1737A,Physics,B.E,5.37,4,A Lam
+2015A1744A,Economics and Finanace,B.E,9.53,4,American Express
+2015A1746A,Economics and Finanace,B.E,7.34,4,Unplaced
+2015H1749H,Chemisty,M.E,5.6,4,BASF
+2015H1750H,Electrical and Electronics Engineering,M.E,6.98,4,Unplaced
+2015H1752H,Mathematics,M.E,6.87,4,Amazon
+2015D1759D,Chemical Engineering,Ph.D,8.84,4,Solvay
+2015H1762H,Pharmacy,M.E,7.88,4,Lupin Limited
+2015P1763P,Electrical and Electronics Engineering,B.Pharm,9.45,4,NXP Semiconductors
+2015A1764A,Mechanical Engineering,B.E,6.47,4,Unplaced
+2015H1778H,Economics and Finanace,M.E,5.14,4,Fidelity International
+2015H1779H,Chemical Engineering,M.E,9.17,4,Evonik Industries
+2015A1781A,Electrical and Electronics Engineering,B.E,5.25,4,Unplaced
+2015A1782A,Electrical and Electronics Engineering,B.E,5.99,4,Toshiba
+2015A1787A,Physics,B.E,9.98,4,Texas Instruments
+2015A1790A,Mathematics,B.E,5.56,4,AMD
+2015H1791H,Biological Sciences,M.E,5.04,4,Divis Laboratories
+2015A1796A,Pharmacy,B.E,8.22,4,Granules India
+2015P1801P,Chemisty,B.Pharm,5.7,4,Shell
+2015A1811A,Biological Sciences,B.E,6.66,4,Ipca Laboratories
+2015A1813A,Electrical and Electronics Engineering,B.E,5.23,4,Unplaced
+2015A1817A,Chemical Engineering,B.E,9.84,4,Lanxess
+2015P1818P,Electrical and Electronics Engineering,B.Pharm,9.28,4,Unplaced
+2015S1826S,Physics,M.Sc,5.47,4,SAMSUNG
+2015A1836A,Biological Sciences,B.E,7.86,4,Aurobindo Pharma
+2015A1837A,Economics and Finanace,B.E,5.94,4,Moodys Investors Service
+2015A1838A,Humanities and Social Sciences,B.E,9.96,4,Infosys BPM
+2015A1839A,Mechanical Engineering,B.E,6.31,4,Lime
+2015S1842S,Computer Science and Information Systems,M.Sc,6.7,4,IBM
+2015P1845P,Chemical Engineering,B.Pharm,8.91,4,INEOS
+2015D1847D,Chemical Engineering,Ph.D,6.14,4,Johnson Matthey
+2015H1859H,Physics,M.E,5.76,4,Intel
+2015H1860H,Civil Engineering,M.E,6.39,4,ARUP
+2015H1861H,Computer Science and Information Systems,M.E,6.95,4,Unplaced
+2015A1879A,Mathematics,B.E,8.71,4,Microsoft
+2015H1883H,Chemical Engineering,M.E,8.13,4,Occidental Petroleum Corporation (OxyChem)
+2015H1884H,Mechanical Engineering,M.E,5.84,4,Unplaced
+2015A1887A,Civil Engineering,B.E,9.35,4,Obayashi Corporation
+2015A1888A,Physics,B.E,9.82,4,proteanTecs
+2015A1891A,Pharmacy,B.E,7.54,4,Unplaced
+2015S1893S,Chemical Engineering,M.Sc,5.06,4,GSK
+2015A1896A,Chemical Engineering,B.E,9.99,4,Mitsubishi Chemical Corporation
+2015S1897S,Mathematics,M.Sc,8.03,4,Unplaced
+2015P1898P,Mechanical Engineering,B.Pharm,7.59,4,Caterpillar Inc.
+2015H1901H,Economics and Finanace,M.E,7.9,4,Morgan Stanley
+2015P1903P,Economics and Finanace,B.Pharm,8.24,4,HSBC
+2015A1905A,Electrical and Electronics Engineering,B.E,9.07,4,Unplaced
+2015A1908A,Chemical Engineering,B.E,6.46,4,"KBR, Inc."
+2015A1919A,Physics,B.E,5.45,4,Texas Instruments
+2015H1921H,Electrical and Electronics Engineering,M.E,6.01,4,MICROCHIP
+2015A1922A,Economics and Finanace,B.E,6.69,4,Moodys Analytics
+2015H1926H,Mathematics,M.E,7.69,4,Mediatek
+2015A1928A,Chemical Engineering,B.E,5.45,4,Solvay
+2015A1933A,Economics and Finanace,B.E,10.0,4,Standard Chartered
+2015A1937A,Civil Engineering,B.E,9.38,4,The Walsh Group
+2015A1940A,Mechanical Engineering,B.E,7.42,4,Micron
+2015A1942A,Electrical and Electronics Engineering,B.E,5.93,4,Micron
+2015H1943H,Pharmacy,M.E,7.88,4,Wockhardt
+2015H1954H,Humanities and Social Sciences,M.E,8.09,4,Wipro
+2015S1960S,Physics,M.Sc,5.14,4,SynOPSYS
+2015A1962A,Electrical and Electronics Engineering,B.E,6.08,4,MICROCHIP
+2015S1964S,Economics and Finanace,M.Sc,6.16,4,Moodys Analytics
+2015A1968A,Chemical Engineering,B.E,8.07,4,Linde
+2015S1971S,Chemisty,M.Sc,5.15,4,DataZymes
+2015A1973A,Chemical Engineering,B.E,9.73,4,Unplaced
+2015A1974A,Electrical and Electronics Engineering,B.E,6.91,4,Unplaced
+2015A1993A,Mathematics,B.E,5.74,4,Intel
+2015A1998A,Mechanical Engineering,B.E,9.6,4,Micron
+2015A1999A,Pharmacy,B.E,7.74,4,Divis Laboratories
+2015H2002H,Civil Engineering,M.E,9.8,4,TATA
+2015A2004A,Economics and Finanace,B.E,5.29,4,FactSet
+2015H2007H,Mathematics,M.E,7.81,4,Microsoft
+2015H2010H,Computer Science and Information Systems,M.E,9.72,4,Unplaced
+2015A2013A,Economics and Finanace,B.E,7.81,4,Unplaced
+2015P2031P,Economics and Finanace,B.Pharm,9.59,4,Accenture
+2015A2033A,Mechanical Engineering,B.E,8.34,4,SEDEMAC
+2015A2036A,Electrical and Electronics Engineering,B.E,8.45,4,Unplaced
+2015D2045D,Pharmacy,Ph.D,8.58,4,Unplaced
+2015A2049A,Chemical Engineering,B.E,7.77,4,Unplaced
+2015D2052D,Civil Engineering,Ph.D,5.19,4,ARCADIS
+2015A2055A,Humanities and Social Sciences,B.E,8.69,4,ICICI Bank
+2015A2061A,Pharmacy,B.E,5.28,4,Aizant
+2015S2064S,Economics and Finanace,M.Sc,8.29,4,Unplaced
+2015H2072H,Pharmacy,M.E,6.17,4,КАВІ
+2015A2073A,Biological Sciences,B.E,7.81,4,Unplaced
+2015H2076H,Biological Sciences,M.E,8.24,4,Lupin Limited
+2015P2078P,Pharmacy,B.Pharm,8.08,4,Cipla
+2015A2079A,Physics,B.E,6.19,4,CISCO
+2015A2080A,Mechanical Engineering,B.E,6.25,4,Bosch
+2015A2085A,Economics and Finanace,B.E,8.7,4,Morgan Stanley
+2015S2086S,Computer Science and Information Systems,M.Sc,5.72,4,ARM
+2015H2089H,Civil Engineering,M.E,9.71,4,AECOM
+2015A2090A,Electrical and Electronics Engineering,B.E,7.3,4,Unplaced
+2015H2091H,Humanities and Social Sciences,M.E,9.76,4,Unplaced
+2015S2092S,Economics and Finanace,M.Sc,6.69,4,Unplaced
+2015A2096A,Humanities and Social Sciences,B.E,7.74,4,Unplaced
+2015A2102A,Pharmacy,B.E,6.92,4,Unplaced
+2015A2107A,Chemisty,B.E,7.06,4,freyr
+2015H2116H,Mechanical Engineering,M.E,9.52,4,Johnson Controls
+2015H2120H,Mathematics,M.E,9.55,4,Pharmo Solutions
+2015A2121A,Chemisty,B.E,7.81,4,Unplaced
+2015A2125A,Chemisty,B.E,9.4,4,Dow
+2015D2129D,Humanities and Social Sciences,Ph.D,9.47,4,Unplaced
+2015H2136H,Economics and Finanace,M.E,8.01,4,Morgan Stanley
+2015A2137A,Biological Sciences,B.E,8.11,4,Unplaced
+2015A2142A,Computer Science and Information Systems,B.E,7.24,4,Dell
+2015A2143A,Economics and Finanace,B.E,5.2,4,Moodys Investors Service
+2015A2147A,Electrical and Electronics Engineering,B.E,6.0,4,Microsemi
+2015P2149P,Electrical and Electronics Engineering,B.Pharm,6.68,4,SynOPSYS
+2015A2160A,Mechanical Engineering,B.E,5.35,4,Unplaced
+2015A2168A,Humanities and Social Sciences,B.E,9.09,4,Axis Bank
+2015S2169S,Mechanical Engineering,M.Sc,8.53,4,Unplaced
+2015D2183D,Physics,Ph.D,5.3,4,NXP Semiconductors
+2015A2184A,Chemical Engineering,B.E,8.37,4,Unplaced
+2015A2189A,Humanities and Social Sciences,B.E,6.79,4,Tata Consultancy Services (TCS)
+2015A2190A,Economics and Finanace,B.E,7.5,4,CRISIL
+2015D2193D,Physics,Ph.D,6.76,4,STMicroelectronics
+2015A2194A,Humanities and Social Sciences,B.E,6.62,4,Unplaced
+2015A2195A,Humanities and Social Sciences,B.E,9.34,4,HCL Technologies
+2015A2196A,Humanities and Social Sciences,B.E,5.76,4,American Express
+2015S2199S,Electrical and Electronics Engineering,M.Sc,6.83,4,onsemi
+2015A2202A,Chemical Engineering,B.E,5.08,4,3M
+2015A2206A,Civil Engineering,B.E,5.95,4,ARCADIS
+2015S2211S,Chemisty,M.Sc,6.18,4,Unplaced
+2015A2214A,Pharmacy,B.E,6.55,4,Cipla
+2015A2219A,Biological Sciences,B.E,7.24,4,Strand
+2015A2222A,Pharmacy,B.E,9.58,4,Unplaced
+2015A2227A,Civil Engineering,B.E,7.44,4,ARUP
+2015A2230A,Chemical Engineering,B.E,7.65,4,Unplaced
+2015H2237H,Computer Science and Information Systems,M.E,9.78,4,Mediatek
+2015A2242A,Civil Engineering,B.E,8.95,4,Unplaced
+2015P2245P,Computer Science and Information Systems,B.Pharm,5.13,4,CONFLUENT
+2015A2249A,Chemical Engineering,B.E,9.68,4,Johnson Matthey
+2015A2250A,Computer Science and Information Systems,B.E,5.99,4,PEGA
+2015A2253A,Biological Sciences,B.E,9.34,4,Unplaced
+2015A2254A,Economics and Finanace,B.E,5.71,4,HSBC
+2015S2262S,Economics and Finanace,M.Sc,6.69,4,Moodys Analytics
+2015S2263S,Economics and Finanace,M.Sc,8.75,4,Credit Suisse
+2015A2264A,Electrical and Electronics Engineering,B.E,7.73,4,Unplaced
+2015D2272D,Mathematics,Ph.D,6.6,4,Dell
+2015D2274D,Mathematics,Ph.D,8.83,4,Intel
+2015A2275A,Biological Sciences,B.E,8.35,4,Glenmark Pharmaceuticals
+2015A2283A,Computer Science and Information Systems,B.E,7.78,4,Secureworks
+2015P2287P,Humanities and Social Sciences,B.Pharm,5.14,4,Bain & Company
+2015A2296A,Economics and Finanace,B.E,6.03,4,MSCI
+2015A2297A,Physics,B.E,6.64,4,INSTRUMENTS
+2015A2298A,Mechanical Engineering,B.E,8.77,4,Unplaced
+2015A2306A,Pharmacy,B.E,5.95,4,Zydus Cadila
+2015A2310A,Computer Science and Information Systems,B.E,5.71,4,Pharmo Solutions
+2015H2313H,Chemical Engineering,M.E,8.62,4,Honeywell UOP
+2015A2315A,Computer Science and Information Systems,B.E,5.11,4,AMD
+2015H2317H,Civil Engineering,M.E,5.33,4,Kiewit Corporation
+2015H2318H,Biological Sciences,M.E,5.19,4,Abbott Laboratories
+2015S2321S,Computer Science and Information Systems,M.Sc,8.55,4,IBM
+2015H2325H,Pharmacy,M.E,5.22,4,AstraZeneca
+2015A2326A,Mathematics,B.E,9.76,4,BLEND360
+2015H2333H,Electrical and Electronics Engineering,M.E,5.87,4,NEC Corporation
+2015P2335P,Computer Science and Information Systems,B.Pharm,5.74,4,Unplaced
+2015A2343A,Physics,B.E,6.98,4,SEDEMAC
+2015A2349A,Mathematics,B.E,9.68,4,Intel
+2015A2350A,Civil Engineering,B.E,7.89,4,Unplaced
+2015S2352S,Civil Engineering,M.Sc,8.2,4,Unplaced
+2015P2362P,Electrical and Electronics Engineering,B.Pharm,9.72,4,Cypress Semiconductor
+2015D2365D,Computer Science and Information Systems,Ph.D,7.14,4,Western Digital
+2015A2369A,Computer Science and Information Systems,B.E,8.5,4,Unplaced
+2015D2370D,Mathematics,Ph.D,8.85,4,Mediatek
+2015A2373A,Electrical and Electronics Engineering,B.E,5.19,4,Altera
+2015A2377A,Civil Engineering,B.E,8.02,4,Unplaced
+2015S2378S,Biological Sciences,M.Sc,6.61,4,Unplaced
+2015A2382A,Humanities and Social Sciences,B.E,6.37,4,KPMG
+2015A2384A,Computer Science and Information Systems,B.E,7.93,4,Unplaced
+2015P2388P,Chemical Engineering,B.Pharm,6.0,4,Unplaced
+2015A2391A,Civil Engineering,B.E,6.7,4,Stantec
+2015A2395A,Humanities and Social Sciences,B.E,7.48,4,McKinsey & Company
+2015A2397A,Pharmacy,B.E,7.72,4,КАВІ
+2015A2398A,Humanities and Social Sciences,B.E,5.17,4,Hindustan Unilever Limited (HUL)
+2015H2406H,Pharmacy,M.E,5.93,4,Glenmark Pharmaceuticals
+2015A2415A,Pharmacy,B.E,7.37,4,Alkem Laboratories
+2015H2416H,Civil Engineering,M.E,5.5,4,AECOM
+2015A2420A,Mechanical Engineering,B.E,5.82,4,Caterpillar Inc.
+2015A2422A,Computer Science and Information Systems,B.E,7.03,4,VMware
+2015A2423A,Biological Sciences,B.E,9.35,4,Unplaced
+2015A2426A,Physics,B.E,9.54,4,SynOPSYS
+2015A2427A,Mechanical Engineering,B.E,9.75,4,Bosch
+2015H2430H,Humanities and Social Sciences,M.E,8.87,4,Unplaced
+2015A2436A,Computer Science and Information Systems,B.E,9.28,4,BLEND360
+2015A2438A,Humanities and Social Sciences,B.E,6.69,4,Deloitte
+2015D2453D,Chemisty,Ph.D,9.44,4,Unplaced
+2015H2454H,Economics and Finanace,M.E,6.23,4,Boston Consulting Group (BCG)
+2015A2455A,Physics,B.E,6.35,4,SEDEMAC
+2015H2457H,Computer Science and Information Systems,M.E,5.62,4,Texas Instruments
+2015A2462A,Computer Science and Information Systems,B.E,5.25,4,Tenstorrent
+2015A2469A,Chemisty,B.E,8.92,4,Unplaced
+2015H2476H,Civil Engineering,M.E,5.86,4,RAMBOLL
+2015A2480A,Electrical and Electronics Engineering,B.E,6.1,4,Infineon
+2015H2483H,Civil Engineering,M.E,8.36,4,ATKINS
+2015A2484A,Mechanical Engineering,B.E,9.3,4,General Electric (GE)
+2015A2486A,Chemical Engineering,B.E,7.04,4,Bayer
+2015P2487P,Humanities and Social Sciences,B.Pharm,5.75,4,Hindustan Unilever Limited (HUL)
+2015P2489P,Computer Science and Information Systems,B.Pharm,6.03,4,Unplaced
+2015H2491H,Economics and Finanace,M.E,5.1,4,Morningstar
+2015A2493A,Chemisty,B.E,8.52,4,Dow
+2015A2495A,Civil Engineering,B.E,6.57,4,Unplaced
+2015A2497A,Civil Engineering,B.E,6.9,4,Unplaced
+2015A2499A,Pharmacy,B.E,8.49,4,Aurobindo Pharma
+2015A2500A,Physics,B.E,9.0,4,AMDET
+2015P2501P,Mechanical Engineering,B.Pharm,6.73,4,Shell
+2015P2502P,Biological Sciences,B.Pharm,7.45,4,Strand
+2015A2517A,Computer Science and Information Systems,B.E,7.74,4,Pharmo Solutions
+2015H2521H,Mathematics,M.E,5.62,4,Intel
+2015D2530D,Mechanical Engineering,Ph.D,8.92,4,Oeing Lie
+2015A2534A,Biological Sciences,B.E,6.44,4,Unplaced
+2015A2535A,Pharmacy,B.E,8.77,4,Cadila Healthcare
+2015A2537A,Mechanical Engineering,B.E,7.89,4,Lime
+2015S2538S,Computer Science and Information Systems,M.Sc,7.62,4,Unplaced
+2015A2539A,Chemisty,B.E,7.52,4,Shell
+2015A2542A,Computer Science and Information Systems,B.E,5.58,4,Micron
+2015A2547A,Pharmacy,B.E,8.97,4,Torrent Pharmaceuticals
+2015H2549H,Humanities and Social Sciences,M.E,6.26,4,Axis Bank
+2015A2551A,Civil Engineering,B.E,7.32,4,Force
+2015P2554P,Economics and Finanace,B.Pharm,5.27,4,Fitch Ratings
+2015A2555A,Electrical and Electronics Engineering,B.E,9.44,4,MEDIATEK
+2015H2563H,Humanities and Social Sciences,M.E,7.02,4,KPMG
+2015A2566A,Humanities and Social Sciences,B.E,8.79,4,Procter & Gamble
+2015H2568H,Chemisty,M.E,9.66,4,Aizant
+2015H2569H,Economics and Finanace,M.E,8.3,4,Unplaced
+2015A2590A,Civil Engineering,B.E,9.07,4,The Walsh Group
+2015S2592S,Humanities and Social Sciences,M.Sc,9.86,4,Deloitte
+2015A2598A,Electrical and Electronics Engineering,B.E,8.71,4,MICROCHIP
+2015P2600P,Civil Engineering,B.Pharm,5.81,4,Stantec
+2015D2602D,Biological Sciences,Ph.D,7.18,4,FRESENIUS
+2015A2605A,Computer Science and Information Systems,B.E,6.18,4,Unplaced
+2015H2606H,Electrical and Electronics Engineering,M.E,7.94,4,Unplaced
+2015S2612S,Chemisty,M.Sc,7.7,4,DataZymes
+2015A2621A,Chemisty,B.E,9.49,4,Shell
+2015P2629P,Pharmacy,B.Pharm,5.81,4,Biocon
+2015A2631A,Computer Science and Information Systems,B.E,8.27,4,Western Digital
+2015A2636A,Chemisty,B.E,5.54,4,Unplaced
+2015A2639A,Mechanical Engineering,B.E,6.2,4,Procter & Gamble
+2015A2641A,Physics,B.E,6.05,4,Unplaced
+2015H2645H,Electrical and Electronics Engineering,M.E,5.93,4,MEDIATEK
+2015A2646A,Humanities and Social Sciences,B.E,8.29,4,Unplaced
+2015A2647A,Physics,B.E,9.31,4,Texas Instruments
+2015D2648D,Chemisty,Ph.D,9.08,4,Unplaced
+2015A2651A,Computer Science and Information Systems,B.E,7.08,4,AMD
+2015S2653S,Civil Engineering,M.Sc,7.56,4,ARUP
+2015A2665A,Humanities and Social Sciences,B.E,9.15,4,Wipro
+2015D2671D,Biological Sciences,Ph.D,6.11,4,Cadila Healthcare
+2015P2672P,Civil Engineering,B.Pharm,6.98,4,Unplaced
+2015A2674A,Mathematics,B.E,9.07,4,Microsoft
+2015A2676A,Mechanical Engineering,B.E,8.32,4,Cummins Inc.
+2015A2678A,Chemical Engineering,B.E,9.28,4,AkzoNobel
+2015H2682H,Pharmacy,M.E,6.23,4,freyr
+2015A2685A,Electrical and Electronics Engineering,B.E,5.81,4,NXP Semiconductors
+2015A2692A,Humanities and Social Sciences,B.E,6.69,4,McKinsey & Company
+2015A2701A,Biological Sciences,B.E,6.7,4,DataZymes
+2015S2702S,Electrical and Electronics Engineering,M.Sc,5.52,4,Unplaced
+2015A2703A,Civil Engineering,B.E,5.84,4,Unplaced
+2015P2705P,Civil Engineering,B.Pharm,9.17,4,LISEN A TOLERO
+2015H2706H,Mathematics,M.E,8.85,4,Cisco
+2015D2714D,Mechanical Engineering,Ph.D,5.68,4,Wabtec
+2015A2721A,Physics,B.E,6.29,4,proteanTecs
+2015P2722P,Chemisty,B.Pharm,6.4,4,КАВІ
+2015P2736P,Computer Science and Information Systems,B.Pharm,9.59,4,Commvault
+2015A2741A,Humanities and Social Sciences,B.E,9.05,4,ITC Limited
+2015H2746H,Pharmacy,M.E,9.06,4,Novartis
+2015P2752P,Electrical and Electronics Engineering,B.Pharm,6.06,4,IBM
+2015A2754A,Economics and Finanace,B.E,5.68,4,Citi
+2015A2757A,Physics,B.E,7.1,4,AMDET
+2015A2758A,Biological Sciences,B.E,9.89,4,Granules India
+2015D2770D,Economics and Finanace,Ph.D,6.63,4,Standard Chartered
+2015A2781A,Electrical and Electronics Engineering,B.E,8.85,4,IBM
+2015H2782H,Mathematics,M.E,5.33,4,Qualcomm
+2015A2786A,Chemisty,B.E,7.4,4,Unplaced
+2015S2799S,Physics,M.Sc,8.85,4,Unplaced
+2015A2800A,Mechanical Engineering,B.E,6.71,4,Unplaced
+2015A2813A,Chemical Engineering,B.E,8.4,4,Praxair
+2015H2816H,Computer Science and Information Systems,M.E,5.06,4,Unplaced
+2015S2817S,Chemical Engineering,M.Sc,9.96,4,Unplaced
+2015A2826A,Mechanical Engineering,B.E,6.39,4,ABB
+2015A2833A,Civil Engineering,B.E,5.66,4,"Skidmore, Owings & Merrill (SOM)"
+2015A2841A,Pharmacy,B.E,9.21,4,Zydus Cadila
+2015A2843A,Civil Engineering,B.E,5.37,4,Assystem Stup
+2015P2847P,Humanities and Social Sciences,B.Pharm,7.12,4,KPMG
+2015A2850A,Civil Engineering,B.E,7.03,4,RAMBOLL
+2015D2861D,Chemisty,Ph.D,5.22,4,kmk
+2015D2864D,Mechanical Engineering,Ph.D,7.21,4,Procter & Gamble
+2015S2866S,Physics,M.Sc,8.8,4,SILICON LABS
+2015H2872H,Chemical Engineering,M.E,8.44,4,PPG Industries
+2015H2879H,Mechanical Engineering,M.E,8.34,4,Lockheed Martin
+2015A2889A,Mathematics,B.E,5.75,4,IBM
+2015A2890A,Mechanical Engineering,B.E,5.61,4,Ford Motor Company
+2015H2895H,Mathematics,M.E,8.57,4,Qualcomm
+2015A2897A,Electrical and Electronics Engineering,B.E,8.01,4,STMicroelectronics
+2015S2901S,Biological Sciences,M.Sc,9.64,4,Zydus
+2015H2905H,Pharmacy,M.E,5.89,4,Aizant
+2015A2914A,Economics and Finanace,B.E,8.61,4,Morningstar
+2015H2917H,Electrical and Electronics Engineering,M.E,6.46,4,STMicroelectronics
+2015P2924P,Pharmacy,B.Pharm,5.42,4,Torrent Pharmaceuticals
+2015A2938A,Chemical Engineering,B.E,5.45,4,Shell
+2015A2942A,Humanities and Social Sciences,B.E,6.08,4,Unplaced
+2015A2946A,Mechanical Engineering,B.E,8.81,4,Procter & Gamble
+2015S2948S,Humanities and Social Sciences,M.Sc,9.8,4,Cognizant
+2015S2952S,Mechanical Engineering,M.Sc,5.53,4,Unplaced
+2015S2955S,Humanities and Social Sciences,M.Sc,8.18,4,Boston Consulting Group (BCG)
+2015P2958P,Mechanical Engineering,B.Pharm,8.4,4,DOVER
+2015A2964A,Civil Engineering,B.E,6.99,4,RAMBOLL
+2015P2971P,Computer Science and Information Systems,B.Pharm,5.65,4,Unplaced
+2015D2973D,Economics and Finanace,Ph.D,6.19,4,Moodys Analytics
+2015A2980A,Biological Sciences,B.E,6.93,4,Abbott Laboratories
+2015P2985P,Electrical and Electronics Engineering,B.Pharm,7.86,4,Unplaced
+2015H2986H,Pharmacy,M.E,9.24,4,Cadila Healthcare
+2015H2992H,Economics and Finanace,M.E,6.49,4,Boston Consulting Group (BCG)
+2015H3001H,Biological Sciences,M.E,8.57,4,Zydus
+2015P3003P,Electrical and Electronics Engineering,B.Pharm,8.78,4,Qualcomm
+2015A3004A,Mechanical Engineering,B.E,7.86,4,Lime
+2015A3005A,Pharmacy,B.E,6.48,4,Unplaced
+2015H3014H,Computer Science and Information Systems,M.E,8.9,4,Secureworks
+2015A3017A,Mathematics,B.E,7.36,4,Unplaced
+2015A3018A,Pharmacy,B.E,5.59,4,Cadila Healthcare
+2015A3027A,Chemisty,B.E,9.51,4,Aragen
+2015A3030A,Mathematics,B.E,8.38,4,Dell
+2015A3031A,Pharmacy,B.E,6.33,4,Unplaced
+2015D3032D,Mechanical Engineering,Ph.D,6.89,4,Procter & Gamble
+2015H3034H,Biological Sciences,M.E,7.81,4,КАВІ
+2015S3044S,Biological Sciences,M.Sc,8.34,4,Unplaced
+2015A3045A,Mechanical Engineering,B.E,6.95,4,Procter & Gamble
+2015H3052H,Physics,M.E,6.61,4,onsemi
+2015A3054A,Mechanical Engineering,B.E,9.75,4,ExxonMobil
+2015A3057A,Biological Sciences,B.E,9.48,4,КАВІ
+2015A3058A,Humanities and Social Sciences,B.E,7.99,4,Amazon
+2015A3059A,Chemisty,B.E,5.29,4,freyr
+2015A3060A,Chemisty,B.E,8.63,4,freyr
+2015A3063A,Physics,B.E,9.36,4,Unplaced
+2015S3071S,Civil Engineering,M.Sc,6.72,4,Greenko Jacobs
+2015A3082A,Biological Sciences,B.E,5.7,4,Unplaced
+2015S3087S,Chemisty,M.Sc,9.53,4,freyr
+2015A3090A,Pharmacy,B.E,5.46,4,Alembic Pharmaceuticals
+2015S3094S,Physics,M.Sc,9.15,4,INSTRUMENTS
+2015A3100A,Humanities and Social Sciences,B.E,8.93,4,Hindustan Unilever Limited (HUL)
+2015A3103A,Electrical and Electronics Engineering,B.E,9.3,4,AMDET
+2015A3109A,Pharmacy,B.E,5.8,4,Natco Pharma
+2015A3111A,Biological Sciences,B.E,8.89,4,Granules India
+2015H3112H,Chemical Engineering,M.E,8.43,4,GSK
+2015A3116A,Economics and Finanace,B.E,7.84,4,McKinsey & Company
+2015A3122A,Pharmacy,B.E,9.21,4,Strand
+2015A3127A,Humanities and Social Sciences,B.E,8.13,4,Aditya Birla Group
+2015S3128S,Biological Sciences,M.Sc,8.48,4,Natco Pharma
+2015A3130A,Civil Engineering,B.E,9.48,4,Unplaced
+2015A3133A,Biological Sciences,B.E,9.67,4,Aurobindo Pharma
+2015A3135A,Mechanical Engineering,B.E,5.32,4,SEDEMAC
+2015S3136S,Humanities and Social Sciences,M.Sc,8.05,4,ITC Limited
+2015D3137D,Electrical and Electronics Engineering,Ph.D,7.71,4,AMDET
+2015A3150A,Computer Science and Information Systems,B.E,6.26,4,Commvault
+2015A3160A,Physics,B.E,9.95,4,NXP Semiconductors
+2015P3167P,Economics and Finanace,B.Pharm,5.13,4,Fitch Ratings
+2015D3168D,Mathematics,Ph.D,6.31,4,Flipkart
+2015A3174A,Chemical Engineering,B.E,9.57,4,Lanxess
+2015A3183A,Civil Engineering,B.E,8.99,4,Greenko Jacobs
+2015H3189H,Physics,M.E,7.96,4,SILICON LABS
+2015H3194H,Economics and Finanace,M.E,7.79,4,FactSet
+2015P3196P,Mechanical Engineering,B.Pharm,7.53,4,Unplaced
+2015A3200A,Mathematics,B.E,8.16,4,Dell
+2015S3216S,Computer Science and Information Systems,M.Sc,9.26,4,Unplaced
+2015A3217A,Electrical and Electronics Engineering,B.E,7.93,4,Intel
+2015S3219S,Electrical and Electronics Engineering,M.Sc,7.25,4,Unplaced
+2015A3220A,Physics,B.E,9.75,4,Unplaced
+2015S3229S,Mechanical Engineering,M.Sc,5.46,4,SONA COMSTAR
+2015A3232A,Humanities and Social Sciences,B.E,5.8,4,HCL Technologies
+2015A3238A,Mathematics,B.E,8.14,4,Microsoft
+2015H3241H,Mathematics,M.E,9.08,4,Intel
+2015A3259A,Computer Science and Information Systems,B.E,7.09,4,Wabtec
+2015P3260P,Pharmacy,B.Pharm,7.32,4,Emcure Pharmaceuticals
+2015H3261H,Civil Engineering,M.E,5.81,4,AMARARALA
+2015A3264A,Mechanical Engineering,B.E,9.05,4,Shell
+2015A3266A,Chemisty,B.E,9.47,4,Aizant
+2015A3269A,Economics and Finanace,B.E,6.23,4,Unplaced
+2015A3274A,Chemisty,B.E,8.97,4,Dow
+2015S3277S,Biological Sciences,M.Sc,6.33,4,Emcure Pharmaceuticals
+2015A3278A,Mechanical Engineering,B.E,9.05,4,Lockheed Martin
+2015A3279A,Mathematics,B.E,7.52,4,Pharmo Solutions
+2015H3282H,Civil Engineering,M.E,8.19,4,Greenko Jacobs
+2015D3294D,Biological Sciences,Ph.D,7.88,4,Alembic Pharmaceuticals
+2015A3295A,Chemical Engineering,B.E,6.05,4,Unplaced
+2015P3299P,Chemisty,B.Pharm,5.59,4,Unplaced
+2015H3302H,Chemical Engineering,M.E,5.56,4,Evonik Industries
+2015H3306H,Pharmacy,M.E,8.71,4,Aurobindo Pharma
+2015A3314A,Biological Sciences,B.E,8.95,4,Cadila Healthcare
+2015A3323A,Chemisty,B.E,8.9,4,Aizant
+2015H3331H,Biological Sciences,M.E,5.7,4,Unplaced
+2015P3344P,Biological Sciences,B.Pharm,8.08,4,КАВІ
+2015P3345P,Humanities and Social Sciences,B.Pharm,7.82,4,Capgemini
+2015A3347A,Mechanical Engineering,B.E,5.32,4,Rolls-Royce
+2015H3355H,Biological Sciences,M.E,9.03,4,Zydus Cadila
+2015A3356A,Mathematics,B.E,6.15,4,Unplaced
+2015A3360A,Physics,B.E,8.35,4,SEDEMAC
+2015A3364A,Civil Engineering,B.E,7.54,4,RAMBOLL
+2015A3369A,Humanities and Social Sciences,B.E,6.5,4,Procter & Gamble
+2015D3371D,Biological Sciences,Ph.D,5.09,4,DataZymes
+2015H3373H,Humanities and Social Sciences,M.E,7.13,4,Unplaced
+2015H3377H,Mechanical Engineering,M.E,7.01,4,SEDEMAC
+2015D3378D,Computer Science and Information Systems,Ph.D,9.19,4,Unplaced
+2015A3381A,Chemisty,B.E,8.5,4,Aizant
+2015A3386A,Humanities and Social Sciences,B.E,7.94,4,Genpact
+2015A3395A,Mechanical Engineering,B.E,6.49,4,Unplaced
+2015H3396H,Electrical and Electronics Engineering,M.E,8.92,4,Unplaced
+2015P3398P,Civil Engineering,B.Pharm,7.32,4,WSP Global
+2015A3399A,Pharmacy,B.E,5.6,4,Unplaced
+2015S3401S,Chemical Engineering,M.Sc,7.05,4,Merck
+2015A3402A,Chemical Engineering,B.E,5.74,4,Honeywell UOP
+2015S3403S,Computer Science and Information Systems,M.Sc,9.76,4,ARM
+2015P3417P,Civil Engineering,B.Pharm,6.85,4,Parsons Corporation
+2015A3428A,Mathematics,B.E,5.23,4,Amazon
+2015H3430H,Chemisty,M.E,9.21,4,freyr
+2015H3431H,Mechanical Engineering,M.E,5.43,4,3SC
+2015A3433A,Chemisty,B.E,7.55,4,Honeywell UOP
+2015A3435A,Chemisty,B.E,8.0,4,SABIC
+2015A3437A,Humanities and Social Sciences,B.E,8.63,4,KPMG
+2015P3438P,Mechanical Engineering,B.Pharm,9.72,4,Unplaced
+2015S3446S,Chemical Engineering,M.Sc,8.9,4,Merck
+2015A3447A,Mechanical Engineering,B.E,8.99,4,3SC
+2015P3451P,Computer Science and Information Systems,B.Pharm,9.68,4,Secureworks
+2015S3456S,Mechanical Engineering,M.Sc,8.8,4,Unplaced
+2015A3460A,Mechanical Engineering,B.E,5.21,4,SEDEMAC
+2015A3461A,Chemisty,B.E,9.93,4,Unplaced
+2015A3462A,Humanities and Social Sciences,B.E,5.76,4,Unplaced
+2015A3463A,Mechanical Engineering,B.E,7.88,4,3SC
+2015A3469A,Civil Engineering,B.E,6.07,4,LISEN A TOLERO
+2015S3472S,Mathematics,M.Sc,7.56,4,Teradata
+2015P3476P,Chemical Engineering,B.Pharm,8.08,4,Unplaced
+2015P3478P,Computer Science and Information Systems,B.Pharm,6.37,4,Mediatek
+2015H3479H,Electrical and Electronics Engineering,M.E,9.23,4,Unplaced
+2015H3485H,Chemical Engineering,M.E,6.36,4,Johnson Matthey
+2015A3490A,Physics,B.E,9.88,4,Qualcomm
+2015H3491H,Physics,M.E,8.09,4,NXP Semiconductors
+2015A3492A,Computer Science and Information Systems,B.E,9.65,4,Unplaced
+2015A3498A,Biological Sciences,B.E,9.22,4,Granules India
+2015A3499A,Economics and Finanace,B.E,6.23,4,Boston Consulting Group (BCG)
+2015A3501A,Chemical Engineering,B.E,7.37,4,Merck
+2015A3503A,Mechanical Engineering,B.E,7.69,4,SpaceX
+2015D3511D,Chemisty,Ph.D,5.23,4,DuPont
+2015P3513P,Mechanical Engineering,B.Pharm,7.17,4,Ford Motor Company
+2015P3514P,Electrical and Electronics Engineering,B.Pharm,5.25,4,Unplaced
+2015A3518A,Mathematics,B.E,9.46,4,Piramal
+2015A3522A,Computer Science and Information Systems,B.E,8.99,4,IBM
+2015A3527A,Biological Sciences,B.E,5.05,4,Divis Laboratories
+2015S3530S,Humanities and Social Sciences,M.Sc,7.14,4,Deloitte
+2015A3537A,Mathematics,B.E,8.98,4,Trilogy
+2015H3539H,Chemical Engineering,M.E,7.37,4,Novozymes
+2015A3544A,Computer Science and Information Systems,B.E,7.23,4,VMware
+2015A3545A,Computer Science and Information Systems,B.E,9.26,4,Microsoft
+2015A3548A,Civil Engineering,B.E,8.68,4,Dragados
+2015D3550D,Physics,Ph.D,7.94,4,SAMSUNG
+2015A3556A,Computer Science and Information Systems,B.E,5.24,4,Secureworks
+2015A3561A,Chemisty,B.E,9.67,4,ExxonMobil
+2015A3562A,Computer Science and Information Systems,B.E,8.85,4,Unplaced
+2015D3564D,Humanities and Social Sciences,Ph.D,7.19,4,Wipro
+2015H3571H,Chemical Engineering,M.E,8.03,4,Unplaced
+2015P3579P,Chemical Engineering,B.Pharm,8.58,4,Unplaced
+2015A3581A,Mathematics,B.E,9.53,4,Piramal
+2015H3591H,Mathematics,M.E,8.68,4,IBM
+2015A3595A,Humanities and Social Sciences,B.E,5.52,4,EY (Ernst & Young)
+2015H3596H,Pharmacy,M.E,5.69,4,Divis Laboratories
+2015A3598A,Physics,B.E,9.93,4,NXP Semiconductors
+2015P3603P,Chemisty,B.Pharm,9.88,4,Aragen
+2015A3611A,Chemical Engineering,B.E,8.46,4,Solvay
+2015H3613H,Biological Sciences,M.E,9.55,4,Zydus Cadila
+2015S3622S,Civil Engineering,M.Sc,6.57,4,The Walsh Group
+2015P3625P,Humanities and Social Sciences,B.Pharm,9.18,4,Procter & Gamble
+2015A3627A,Economics and Finanace,B.E,9.76,4,Accenture
+2015H3630H,Electrical and Electronics Engineering,M.E,7.16,4,Xilinx
+2015H3632H,Biological Sciences,M.E,9.52,4,Lupin Limited
+2015H3635H,Computer Science and Information Systems,M.E,5.01,4,ARM
+2015H3636H,Mathematics,M.E,6.62,4,Piramal
+2015A3641A,Computer Science and Information Systems,B.E,7.77,4,Unplaced
+2015D3642D,Mathematics,Ph.D,8.63,4,Unplaced
+2015A3643A,Chemisty,B.E,6.94,4,Aragen
+2015H3644H,Biological Sciences,M.E,7.64,4,КАВІ
+2015A3646A,Humanities and Social Sciences,B.E,7.65,4,Unplaced
+2015D3648D,Economics and Finanace,Ph.D,9.01,4,HSBC
+2015A3650A,Mechanical Engineering,B.E,7.27,4,Lime
+2015A3657A,Chemisty,B.E,9.7,4,Honeywell UOP
+2015A3659A,Chemical Engineering,B.E,7.3,4,DuPont
+2015D3663D,Computer Science and Information Systems,Ph.D,5.46,4,Commvault
+2015P3665P,Chemisty,B.Pharm,5.7,4,freyr
+2015A3670A,Pharmacy,B.E,6.47,4,freyr
+2015P3675P,Biological Sciences,B.Pharm,5.32,4,Sun Pharmaceutical Industries
+2015A3679A,Computer Science and Information Systems,B.E,9.24,4,Qualcomm
+2015A3683A,Chemisty,B.E,8.44,4,Unplaced
+2015P3684P,Civil Engineering,B.Pharm,5.45,4,RAMBOLL
+2015A3689A,Biological Sciences,B.E,8.05,4,Pfizer
+2015H3693H,Civil Engineering,M.E,9.74,4,Unplaced
+2015H3695H,Civil Engineering,M.E,5.22,4,Mott MacDonald
+2015A3697A,Pharmacy,B.E,5.07,4,kmk
+2015S3702S,Mechanical Engineering,M.Sc,7.61,4,FORVIA
+2015A3711A,Chemisty,B.E,6.76,4,Sun Pharmaceutical Industries
+2015A3717A,Electrical and Electronics Engineering,B.E,7.65,4,IBM
+2015A3718A,Computer Science and Information Systems,B.E,9.9,4,Texas Instruments
+2015S3719S,Biological Sciences,M.Sc,8.73,4,КАВІ
+2015A3726A,Economics and Finanace,B.E,6.67,4,Unplaced
+2015D3729D,Economics and Finanace,Ph.D,5.4,4,HSBC
+2015A3736A,Chemical Engineering,B.E,7.31,4,Pfizer
+2015H3739H,Physics,M.E,9.71,4,SILICON LABS
+2015A3741A,Chemisty,B.E,8.17,4,Unplaced
+2015H3748H,Biological Sciences,M.E,5.79,4,Divis Laboratories
+2015A3755A,Humanities and Social Sciences,B.E,5.5,4,Hindustan Unilever Limited (HUL)
+2015A3761A,Biological Sciences,B.E,5.05,4,Granules India
+2015A3766A,Biological Sciences,B.E,9.39,4,Glenmark Pharmaceuticals
+2015A3774A,Chemisty,B.E,5.23,4,Cipla
+2015S3775S,Chemical Engineering,M.Sc,5.17,4,ADM (Archer Daniels Midland)
+2015A3777A,Pharmacy,B.E,5.1,4,Lupin Limited
+2015P3778P,Biological Sciences,B.Pharm,5.37,4,Dr. Reddys Laboratories
+2015H3785H,Civil Engineering,M.E,5.1,4,Force
+2015A3789A,Chemical Engineering,B.E,7.47,4,Bayer
+2015D3790D,Economics and Finanace,Ph.D,6.28,4,FactSet
+2015P3791P,Chemisty,B.Pharm,6.43,4,Eastman Chemical Company
+2015H3797H,Mechanical Engineering,M.E,5.2,4,Unplaced
+2015A3799A,Biological Sciences,B.E,8.19,4,Alkem Laboratories
+2015A3802A,Chemical Engineering,B.E,6.92,4,Bayer
+2015P3805P,Humanities and Social Sciences,B.Pharm,6.67,4,State Bank of India (SBI)
+2015P3807P,Chemical Engineering,B.Pharm,5.85,4,AkzoNobel
+2015S3813S,Chemical Engineering,M.Sc,6.28,4,GSK
+2015A3827A,Mechanical Engineering,B.E,8.75,4,3SC
+2015S3832S,Chemical Engineering,M.Sc,7.74,4,INEOS
+2015P3833P,Mechanical Engineering,B.Pharm,9.71,4,Oeing Lie
+2015A3837A,Chemisty,B.E,8.61,4,Dow
+2015A3858A,Biological Sciences,B.E,7.04,4,AstraZeneca
+2015H3870H,Chemical Engineering,M.E,8.1,4,Mitsubishi Chemical Corporation
+2015A3872A,Civil Engineering,B.E,9.69,4,AMARARALA
+2015A3875A,Electrical and Electronics Engineering,B.E,9.21,4,Xilinx
+2015A3877A,Electrical and Electronics Engineering,B.E,6.17,4,Sony
+2015A3878A,Chemisty,B.E,5.42,4,freyr
+2015A3881A,Computer Science and Information Systems,B.E,8.28,4,VISA
+2015S3884S,Physics,M.Sc,6.12,4,Unplaced
+2015A3885A,Economics and Finanace,B.E,5.04,4,Fitch Ratings
+2015S3887S,Chemisty,M.Sc,6.93,4,Honeywell UOP
+2015S3889S,Computer Science and Information Systems,M.Sc,6.08,4,VISA
+2015A3895A,Physics,B.E,8.11,4,Panasonic
+2015A3897A,Physics,B.E,5.42,4,proteanTecs
+2015A3905A,Physics,B.E,9.17,4,Texas Instruments
+2015A3907A,Economics and Finanace,B.E,9.32,4,CRISIL
+2015H3909H,Humanities and Social Sciences,M.E,6.65,4,ICICI Bank
+2015S3913S,Electrical and Electronics Engineering,M.Sc,6.85,4,Qualcomm
+2015A3914A,Computer Science and Information Systems,B.E,6.97,4,Mashreq
+2015D3932D,Physics,Ph.D,9.05,4,SILICON LABS
+2015A3933A,Mechanical Engineering,B.E,7.06,4,DOVER
+2015P3938P,Chemical Engineering,B.Pharm,6.84,4,Evonik Industries
+2015A3942A,Electrical and Electronics Engineering,B.E,9.45,4,onsemi
+2015P3943P,Computer Science and Information Systems,B.Pharm,6.34,4,ARM
+2015A3950A,Electrical and Electronics Engineering,B.E,5.94,4,Sony
+2015A3964A,Civil Engineering,B.E,5.61,4,RAMBOLL
+2015A3968A,Mechanical Engineering,B.E,8.63,4,Procter & Gamble
+2015H3972H,Pharmacy,M.E,8.47,4,Unplaced
+2015D3975D,Biological Sciences,Ph.D,6.44,4,Lupin Limited
+2015H3980H,Biological Sciences,M.E,7.76,4,Unplaced
+2015A3981A,Biological Sciences,B.E,7.56,4,Lupin Limited
+2015A3985A,Humanities and Social Sciences,B.E,5.62,4,Unplaced
+2015H3988H,Physics,M.E,5.45,4,Panasonic
+2015S3989S,Pharmacy,M.Sc,8.97,4,Unplaced
+2015A4004A,Electrical and Electronics Engineering,B.E,6.21,4,Infineon
+2015A4006A,Mathematics,B.E,5.28,4,Microsoft
+2015S4015S,Pharmacy,M.Sc,7.0,4,PEISION MEDICINE SOLUTIONS
+2015H4017H,Economics and Finanace,M.E,8.65,4,Unplaced
+2015A4026A,Mechanical Engineering,B.E,6.61,4,ABB
+2015S4029S,Biological Sciences,M.Sc,6.27,4,КАВІ
+2015A4031A,Mechanical Engineering,B.E,9.33,4,Bosch
+2015H4034H,Mechanical Engineering,M.E,6.22,4,Unplaced
+2015P4035P,Mechanical Engineering,B.Pharm,7.02,4,Procter & Gamble
+2015H4036H,Electrical and Electronics Engineering,M.E,5.18,4,Cypress Semiconductor
+2015S4037S,Civil Engineering,M.Sc,5.37,4,Stantec
+2015A4040A,Chemisty,B.E,7.19,4,Linde
+2015A4041A,Pharmacy,B.E,8.82,4,Unplaced
+2015A4042A,Economics and Finanace,B.E,8.48,4,HSBC
+2015H4053H,Computer Science and Information Systems,M.E,7.82,4,PEGA
+2015H4055H,Biological Sciences,M.E,5.7,4,Unplaced
+2015S4056S,Electrical and Electronics Engineering,M.Sc,6.53,4,Fujitsu
+2015A4057A,Humanities and Social Sciences,B.E,7.0,4,Google
+2015A4060A,Electrical and Electronics Engineering,B.E,9.45,4,Siemens
+2015A4064A,Humanities and Social Sciences,B.E,6.0,4,Unplaced
+2015A4068A,Chemisty,B.E,7.85,4,Aizant
+2015A4070A,Physics,B.E,6.85,4,Unplaced
+2015S4081S,Computer Science and Information Systems,M.Sc,8.06,4,Secureworks
+2015A4088A,Mathematics,B.E,7.1,4,Unplaced
+2015H4091H,Biological Sciences,M.E,9.99,4,Aragen
+2015A4095A,Civil Engineering,B.E,6.44,4,ARCADIS
+2015S4098S,Biological Sciences,M.Sc,6.51,4,Ipca Laboratories
+2015A4104A,Civil Engineering,B.E,8.67,4,Gammon Construction
+2015D4106D,Mathematics,Ph.D,8.53,4,Qualcomm
+2015A4108A,Pharmacy,B.E,8.39,4,freyr
+2015A4109A,Biological Sciences,B.E,7.78,4,Zydus
+2015A4113A,Physics,B.E,6.64,4,MICROCHIP
+2015S4119S,Civil Engineering,M.Sc,5.97,4,Parsons Corporation
+2015P4120P,Computer Science and Information Systems,B.Pharm,5.92,4,ARM
+2015S4122S,Computer Science and Information Systems,M.Sc,6.16,4,VMware
+2015A4123A,Physics,B.E,7.9,4,CISCO
+2015A4127A,Mechanical Engineering,B.E,9.3,4,Unplaced
+2015A4129A,Pharmacy,B.E,5.45,4,Pfizer
+2015A4143A,Computer Science and Information Systems,B.E,7.04,4,Intel
+2015A4145A,Pharmacy,B.E,9.5,4,Unplaced
+2015D4160D,Biological Sciences,Ph.D,7.2,4,Abbott Laboratories
+2015A4161A,Computer Science and Information Systems,B.E,8.3,4,Pharmo Solutions
+2015A4163A,Humanities and Social Sciences,B.E,8.21,4,Unplaced
+2015A4164A,Economics and Finanace,B.E,9.12,4,Moodys Analytics
+2015A4167A,Pharmacy,B.E,7.71,4,Emcure Pharmaceuticals
+2015D4168D,Chemisty,Ph.D,8.94,4,Cipla
+2015A4179A,Civil Engineering,B.E,8.48,4,Unplaced
+2015A4181A,Humanities and Social Sciences,B.E,9.28,4,Unplaced
+2015D4188D,Chemisty,Ph.D,9.53,4,Aragen
+2015A4192A,Chemisty,B.E,5.72,4,Unplaced
+2015A4194A,Pharmacy,B.E,9.05,4,Aragen
+2015A4199A,Computer Science and Information Systems,B.E,7.51,4,Axtria
+2015A4205A,Civil Engineering,B.E,8.94,4,Unplaced
+2015H4210H,Humanities and Social Sciences,M.E,9.61,4,Unplaced
+2015H4213H,Electrical and Electronics Engineering,M.E,5.4,4,STMicroelectronics
+2015A4218A,Chemical Engineering,B.E,6.61,4,INEOS
+2015S4220S,Economics and Finanace,M.Sc,8.79,4,Morningstar
+2015S4221S,Civil Engineering,M.Sc,7.18,4,Unplaced
+2015P4237P,Electrical and Electronics Engineering,B.Pharm,7.72,4,Unplaced
+2015P4244P,Mechanical Engineering,B.Pharm,9.64,4,Unplaced
+2015A4245A,Humanities and Social Sciences,B.E,8.19,4,Axis Bank
+2015A4251A,Chemical Engineering,B.E,8.05,4,AkzoNobel
+2015A4257A,Chemical Engineering,B.E,7.36,4,Monsanto
+2015S4258S,Chemisty,M.Sc,9.13,4,DataZymes
+2015A4263A,Biological Sciences,B.E,6.1,4,Unplaced
+2015D4267D,Mathematics,Ph.D,6.68,4,Unplaced
+2015H4272H,Mathematics,M.E,8.45,4,Trilogy
+2015P4274P,Biological Sciences,B.Pharm,7.26,4,Divis Laboratories
+2015A4275A,Chemisty,B.E,9.11,4,Aragen
+2015P4277P,Civil Engineering,B.Pharm,9.41,4,Dragados
+2015P4279P,Civil Engineering,B.Pharm,9.07,4,Unplaced
+2015P4281P,Pharmacy,B.Pharm,5.57,4,kmk
+2015A4288A,Economics and Finanace,B.E,9.49,4,S&P Global
+2015H4291H,Electrical and Electronics Engineering,M.E,9.76,4,NEC Corporation
+2015H4296H,Chemical Engineering,M.E,8.11,4,AkzoNobel
+2015A4297A,Mechanical Engineering,B.E,7.22,4,Oeing Lie
+2015A4299A,Economics and Finanace,B.E,9.85,4,Unplaced
+2015A4305A,Physics,B.E,9.77,4,proteanTecs
+2015D4314D,Humanities and Social Sciences,Ph.D,6.34,4,Cognizant
+2015A4315A,Chemisty,B.E,8.82,4,Unplaced
+2015H4317H,Chemical Engineering,M.E,8.82,4,Unplaced
+2015A4319A,Mathematics,B.E,8.91,4,Teradata
+2015S4320S,Computer Science and Information Systems,M.Sc,8.43,4,Unplaced
+2015D4329D,Mechanical Engineering,Ph.D,5.83,4,CYNLR
+2015A4332A,Chemisty,B.E,6.99,4,DataZymes
+2015A4340A,Mechanical Engineering,B.E,7.98,4,Micron
+2015P4343P,Biological Sciences,B.Pharm,5.75,4,Ipca Laboratories
+2015D4346D,Physics,Ph.D,6.95,4,SILICON LABS
+2015S4350S,Mechanical Engineering,M.Sc,5.96,4,SEDEMAC
+2015S4354S,Pharmacy,M.Sc,5.59,4,freyr
+2015D4362D,Electrical and Electronics Engineering,Ph.D,7.79,4,NEC Corporation
+2015H4366H,Mechanical Engineering,M.E,7.99,4,Wabtec
+2015A4367A,Chemisty,B.E,6.58,4,ExxonMobil
+2015H4372H,Humanities and Social Sciences,M.E,6.54,4,EY (Ernst & Young)
+2015S4374S,Economics and Finanace,M.Sc,7.99,4,Goldman Sachs
+2015A4380A,Biological Sciences,B.E,8.71,4,Aurobindo Pharma
+2015A4382A,Chemical Engineering,B.E,9.65,4,Lanxess
+2015S4384S,Pharmacy,M.Sc,9.85,4,Aizant
+2015H4401H,Chemical Engineering,M.E,9.17,4,Occidental Petroleum Corporation (OxyChem)
+2015H4403H,Physics,M.E,9.03,4,SILICON LABS
+2015H4405H,Biological Sciences,M.E,6.67,4,Unplaced
+2015D4410D,Electrical and Electronics Engineering,Ph.D,9.68,4,Unplaced
+2015S4414S,Biological Sciences,M.Sc,6.43,4,Unplaced
+2015A4416A,Economics and Finanace,B.E,5.91,4,American Express
+2015H4421H,Economics and Finanace,M.E,7.12,4,Fitch Ratings
+2015H4422H,Civil Engineering,M.E,6.46,4,Leighton Holdings
+2015H4423H,Humanities and Social Sciences,M.E,5.44,4,Boston Consulting Group (BCG)
+2015A4426A,Computer Science and Information Systems,B.E,6.12,4,PEGA
+2015A4428A,Electrical and Electronics Engineering,B.E,8.15,4,NEC Corporation
+2015A4439A,Mechanical Engineering,B.E,8.76,4,FORVIA
+2015A4445A,Chemical Engineering,B.E,7.21,4,Pfizer
+2015D4448D,Pharmacy,Ph.D,8.04,4,Biocon
+2015D4457D,Chemical Engineering,Ph.D,7.89,4,Praxair
+2015A4462A,Economics and Finanace,B.E,6.58,4,Morningstar
+2015A4473A,Economics and Finanace,B.E,5.61,4,Unplaced
+2015A4477A,Chemisty,B.E,6.5,4,Aizant
+2015A4479A,Physics,B.E,8.98,4,Unplaced
+2015P4480P,Civil Engineering,B.Pharm,6.9,4,ARUP
+2015H4482H,Civil Engineering,M.E,8.45,4,TATA
+2015H4486H,Mathematics,M.E,6.61,4,Unplaced
+2015D4489D,Pharmacy,Ph.D,6.67,4,Cipla
+2015P4490P,Electrical and Electronics Engineering,B.Pharm,6.2,4,INSTRUMENTS
+2015H4495H,Humanities and Social Sciences,M.E,7.43,4,Unplaced
+2015H4496H,Biological Sciences,M.E,9.28,4,Novartis
+2015S4499S,Chemisty,M.Sc,7.61,4,Cipla
+2015A4500A,Computer Science and Information Systems,B.E,6.28,4,Texas Instruments
+2015S4502S,Mechanical Engineering,M.Sc,10.0,4,Procter & Gamble
+2015H4509H,Biological Sciences,M.E,6.32,4,Lupin Limited
+2015A4522A,Economics and Finanace,B.E,7.69,4,S&P Global
+2015P4525P,Biological Sciences,B.Pharm,8.21,4,Dr. Reddys Laboratories
+2015A4531A,Mathematics,B.E,7.47,4,Unplaced
+2015A4534A,Civil Engineering,B.E,7.02,4,Greenko Jacobs
+2015P4538P,Economics and Finanace,B.Pharm,5.97,4,Goldman Sachs
+2015H4544H,Physics,M.E,8.26,4,Infineon
+2015S4553S,Chemisty,M.Sc,8.75,4,freyr
+2015H4554H,Biological Sciences,M.E,7.94,4,Aragen
+2015H4557H,Chemisty,M.E,6.87,4,ExxonMobil
+2015H4562H,Computer Science and Information Systems,M.E,6.91,4,Microsoft
+2015P4568P,Civil Engineering,B.Pharm,6.95,4,AMARARALA
+2015H4571H,Biological Sciences,M.E,6.69,4,Glenmark Pharmaceuticals
+2015A4587A,Humanities and Social Sciences,B.E,9.17,4,KPMG
+2015H4588H,Computer Science and Information Systems,M.E,6.53,4,Rizzle
+2015A4596A,Mechanical Engineering,B.E,6.36,4,FORVIA
+2015A4597A,Humanities and Social Sciences,B.E,9.42,4,Reliance Industries
+2015A4601A,Humanities and Social Sciences,B.E,7.04,4,WNS Global Services
+2015H4608H,Chemisty,M.E,9.03,4,ADITYA BIRLA
+2015A4609A,Physics,B.E,6.43,4,NXP Semiconductors
+2015A4610A,Computer Science and Information Systems,B.E,7.39,4,Unplaced
+2015A4622A,Computer Science and Information Systems,B.E,7.7,4,ARM
+2015S4625S,Mechanical Engineering,M.Sc,9.83,4,Lime
+2015A4629A,Civil Engineering,B.E,8.72,4,Kiewit Corporation
+2015S4635S,Computer Science and Information Systems,M.Sc,8.72,4,CONCR
+2015A4638A,Chemical Engineering,B.E,6.26,4,Pfizer
+2015S4641S,Civil Engineering,M.Sc,5.69,4,ARUP
+2015H4642H,Civil Engineering,M.E,9.67,4,Mott MacDonald
+2015H4649H,Pharmacy,M.E,6.1,4,Emcure Pharmaceuticals
+2015A4659A,Civil Engineering,B.E,6.39,4,Gammon Construction
+2015A4660A,Biological Sciences,B.E,7.23,4,Abbott Laboratories
+2015A4668A,Pharmacy,B.E,6.11,4,AstraZeneca
+2015H4670H,Biological Sciences,M.E,5.75,4,Ipca Laboratories
+2015A4672A,Mathematics,B.E,9.44,4,Teradata
+2015A4675A,Pharmacy,B.E,9.85,4,Torrent Pharmaceuticals
+2015D4681D,Mathematics,Ph.D,5.58,4,AMD
+2015H4684H,Pharmacy,M.E,9.33,4,Cadila Healthcare
+2015A4687A,Biological Sciences,B.E,6.32,4,Strand
+2015H4693H,Mechanical Engineering,M.E,8.68,4,Unplaced
+2015A4697A,Humanities and Social Sciences,B.E,8.68,4,Aditya Birla Group
+2015A4704A,Civil Engineering,B.E,5.03,4,RAMBOLL
+2015A4707A,Computer Science and Information Systems,B.E,6.17,4,Commvault
+2015A4708A,Chemical Engineering,B.E,7.46,4,ADM (Archer Daniels Midland)
+2015P4713P,Electrical and Electronics Engineering,B.Pharm,9.24,4,MICROCHIP
+2015A4714A,Economics and Finanace,B.E,9.66,4,Unplaced
+2015A4716A,Chemical Engineering,B.E,9.78,4,Baker Hughes
+2015A4717A,Electrical and Electronics Engineering,B.E,9.26,4,Unplaced
+2015A4719A,Mechanical Engineering,B.E,6.47,4,Oeing Lie
+2015A4723A,Mathematics,B.E,6.52,4,Pharmo Solutions
+2015H4727H,Physics,M.E,7.1,4,Panasonic
+2015A4729A,Chemical Engineering,B.E,6.68,4,Solvay
+2015H4734H,Chemical Engineering,M.E,5.51,4,INEOS
+2015A4737A,Biological Sciences,B.E,9.29,4,Unplaced
+2015H4749H,Mechanical Engineering,M.E,8.72,4,Cummins Inc.
+2015P4751P,Humanities and Social Sciences,B.Pharm,5.71,4,Unplaced
+2015A4757A,Computer Science and Information Systems,B.E,9.59,4,IBM
+2015S4758S,Chemical Engineering,M.Sc,6.2,4,Unplaced
+2015A4759A,Physics,B.E,5.49,4,Texas Instruments
+2015A4761A,Physics,B.E,5.52,4,IBM
+2015S4765S,Mechanical Engineering,M.Sc,8.24,4,Boeing
+2015A4770A,Physics,B.E,5.6,4,AMDET
+2015A4771A,Chemisty,B.E,7.79,4,Cipla
+2015A4772A,Mathematics,B.E,8.72,4,Dell
+2015H4778H,Chemisty,M.E,9.47,4,Unplaced
+2015A4781A,Civil Engineering,B.E,5.2,4,Thornton Tomasetti
+2015A4788A,Chemisty,B.E,6.07,4,Unplaced
+2015H4790H,Electrical and Electronics Engineering,M.E,7.93,4,MICROCHIP
+2015A4791A,Mechanical Engineering,B.E,8.34,4,ExxonMobil
+2015H4798H,Physics,M.E,5.58,4,Unplaced
+2015A4799A,Computer Science and Information Systems,B.E,9.12,4,Unplaced
+2015A4813A,Physics,B.E,7.75,4,SynOPSYS
+2015A4820A,Humanities and Social Sciences,B.E,7.53,4,ITC Limited
+2015A4829A,Pharmacy,B.E,9.06,4,Zydus
+2015A4830A,Chemisty,B.E,6.14,4,Unplaced
+2015A4833A,Computer Science and Information Systems,B.E,7.11,4,Mashreq
+2015P4836P,Humanities and Social Sciences,B.Pharm,6.02,4,Axis Bank
+2015A4846A,Economics and Finanace,B.E,6.3,4,Boston Consulting Group (BCG)
+2015A4849A,Biological Sciences,B.E,7.24,4,GSK Pharmaceuticals
+2015A4850A,Computer Science and Information Systems,B.E,5.68,4,Qualcomm
+2015A4854A,Civil Engineering,B.E,8.63,4,Unplaced
+2015H4857H,Mathematics,M.E,7.16,4,Intel
+2015H4859H,Computer Science and Information Systems,M.E,7.59,4,Unplaced
+2015A4864A,Humanities and Social Sciences,B.E,6.0,4,IBM
+2015A4866A,Mechanical Engineering,B.E,9.27,4,Unplaced
+2015A4869A,Electrical and Electronics Engineering,B.E,7.25,4,Hitachi
+2015A4870A,Mathematics,B.E,7.98,4,Cisco
+2015A4875A,Chemisty,B.E,9.23,4,Aragen
+2015A4880A,Chemical Engineering,B.E,8.81,4,INEOS
+2015A4881A,Economics and Finanace,B.E,8.26,4,Fitch Ratings
+2015D4882D,Electrical and Electronics Engineering,Ph.D,8.03,4,Infineon
+2015A4885A,Chemical Engineering,B.E,6.44,4,Procter & Gamble
+2015A4898A,Electrical and Electronics Engineering,B.E,9.62,4,Unplaced
+2015S4901S,Civil Engineering,M.Sc,5.92,4,RAMBOLL
+2015A4907A,Mechanical Engineering,B.E,5.16,4,Unplaced
+2015P4911P,Mechanical Engineering,B.Pharm,6.12,4,Lime
+2015A4912A,Physics,B.E,5.79,4,NXP Semiconductors
+2015A4916A,Computer Science and Information Systems,B.E,9.87,4,Tenstorrent
+2015H4917H,Biological Sciences,M.E,5.63,4,Aurobindo Pharma
+2015H4918H,Physics,M.E,7.1,4,Unplaced
+2015H4921H,Economics and Finanace,M.E,9.89,4,Unplaced
+2015S4924S,Mathematics,M.Sc,9.3,4,Qualcomm
+2015A4925A,Computer Science and Information Systems,B.E,9.08,4,Unplaced
+2015A4946A,Computer Science and Information Systems,B.E,9.25,4,Rizzle
+2015A4952A,Humanities and Social Sciences,B.E,8.9,4,Genpact
+2015A4961A,Mechanical Engineering,B.E,5.66,4,ANAND
+2015P4964P,Electrical and Electronics Engineering,B.Pharm,5.64,4,Xilinx
+2015D4966D,Pharmacy,Ph.D,9.27,4,Lupin Limited
+2015A4968A,Physics,B.E,5.13,4,Unplaced
+2015A4979A,Mathematics,B.E,9.26,4,Qualcomm
+2015H4988H,Computer Science and Information Systems,M.E,8.86,4,ARM
+2015A4989A,Humanities and Social Sciences,B.E,5.21,4,ICICI Bank
+2015P4992P,Mechanical Engineering,B.Pharm,7.95,4,Oeing Lie
+2015A4999A,Physics,B.E,7.19,4,Panasonic
+2015H5005H,Chemical Engineering,M.E,8.93,4,Evonik Industries
+2015H5009H,Physics,M.E,8.98,4,CISCO
+2015D5011D,Humanities and Social Sciences,Ph.D,5.86,4,Infosys BPM
+2015A5017A,Mechanical Engineering,B.E,8.51,4,DOVER
+2015A5018A,Electrical and Electronics Engineering,B.E,5.85,4,Siemens
+2015A5019A,Biological Sciences,B.E,5.67,4,Biocon
+2015H5028H,Chemisty,M.E,5.8,4,Biocon Biologics
+2015A5033A,Economics and Finanace,B.E,7.0,4,BNP Paribas
+2015S5034S,Chemical Engineering,M.Sc,9.62,4,Bayer
+2015A5035A,Biological Sciences,B.E,7.37,4,Zydus
+2015H5040H,Computer Science and Information Systems,M.E,7.12,4,Qualcomm
+2015P5044P,Computer Science and Information Systems,B.Pharm,8.56,4,Unplaced
+2015A5049A,Humanities and Social Sciences,B.E,5.89,4,Google
+2015H5055H,Electrical and Electronics Engineering,M.E,9.04,4,Unplaced
+2015H5058H,Chemical Engineering,M.E,9.18,4,Unplaced
+2015A5066A,Civil Engineering,B.E,7.5,4,LISEN A TOLERO
+2015A5076A,Pharmacy,B.E,9.43,4,Unplaced
+2015A5083A,Humanities and Social Sciences,B.E,9.23,4,Hindustan Unilever Limited (HUL)
+2015A5089A,Electrical and Electronics Engineering,B.E,6.28,4,Infineon
+2015H5090H,Humanities and Social Sciences,M.E,5.66,4,Infosys BPM
+2015A5094A,Biological Sciences,B.E,5.75,4,Alkem Laboratories
+2015S5097S,Economics and Finanace,M.Sc,5.21,4,Accenture
+2015S5098S,Pharmacy,M.Sc,9.21,4,Granules India
+2015H5100H,Economics and Finanace,M.E,7.06,4,Genpact
+2015A5102A,Civil Engineering,B.E,8.53,4,ATKINS
+2015S5104S,Civil Engineering,M.Sc,5.14,4,The Walsh Group
+2015A5106A,Biological Sciences,B.E,9.09,4,Unplaced
+2015S5108S,Chemisty,M.Sc,8.67,4,Procter & Gamble
+2015A5109A,Electrical and Electronics Engineering,B.E,9.44,4,Ricoh
+2015A5111A,Mechanical Engineering,B.E,5.08,4,3SC
+2015H5112H,Mathematics,M.E,8.24,4,Mediatek
+2015A5117A,Pharmacy,B.E,9.07,4,Unplaced
+2015A5121A,Chemisty,B.E,9.14,4,SABIC
+2015A5122A,Biological Sciences,B.E,6.31,4,Sun Pharmaceutical Industries
+2015P5123P,Chemical Engineering,B.Pharm,7.73,4,Occidental Petroleum Corporation (OxyChem)
+2015A5126A,Biological Sciences,B.E,8.81,4,Ipca Laboratories
+2015A5133A,Civil Engineering,B.E,7.32,4,Unplaced
+2015A5136A,Mechanical Engineering,B.E,6.31,4,Shell
+2015H5141H,Chemical Engineering,M.E,6.41,4,Evonik Industries
+2015A5142A,Humanities and Social Sciences,B.E,5.13,4,Cognizant
+2015H5157H,Biological Sciences,M.E,6.0,4,Unplaced
+2015A5159A,Mechanical Engineering,B.E,9.89,4,Unplaced
+2015H5160H,Pharmacy,M.E,6.49,4,Novartis
+2015S5164S,Mathematics,M.Sc,5.83,4,Dell
+2015S5169S,Mechanical Engineering,M.Sc,5.92,4,Unplaced
+2015H5171H,Electrical and Electronics Engineering,M.E,7.7,4,Qualcomm
+2015A5172A,Mechanical Engineering,B.E,8.43,4,DOVER
+2015H5173H,Chemical Engineering,M.E,5.86,4,Unplaced
+2015D5181D,Pharmacy,Ph.D,6.27,4,freyr
+2015D5190D,Civil Engineering,Ph.D,8.05,4,Assystem Stup
+2015D5194D,Economics and Finanace,Ph.D,6.11,4,Thomson Reuters
+2015A5196A,Physics,B.E,7.66,4,SEDEMAC
+2015P5201P,Economics and Finanace,B.Pharm,9.37,4,Nomura
+2015A5203A,Computer Science and Information Systems,B.E,9.7,4,Dell
+2015D5206D,Electrical and Electronics Engineering,Ph.D,7.02,4,STMicroelectronics
+2015H5207H,Mechanical Engineering,M.E,8.88,4,SONA COMSTAR
+2015A5209A,Economics and Finanace,B.E,7.91,4,HSBC
+2015A5212A,Chemisty,B.E,8.02,4,Aizant
+2015H5213H,Chemisty,M.E,5.83,4,SABIC
+2015A5216A,Humanities and Social Sciences,B.E,9.74,4,WNS Global Services
+2015A5220A,Civil Engineering,B.E,6.6,4,Gammon Construction
+2015A5221A,Electrical and Electronics Engineering,B.E,7.78,4,Siemens
+2015A5223A,Economics and Finanace,B.E,9.58,4,Standard Chartered
+2015A5232A,Pharmacy,B.E,9.89,4,Unplaced
+2015A5237A,Civil Engineering,B.E,7.58,4,Gammon Construction
+2015D5238D,Economics and Finanace,Ph.D,5.76,4,Wells Fargo
+2015A5239A,Chemisty,B.E,5.17,4,freyr
+2015S5240S,Pharmacy,M.Sc,6.64,4,Biocon
+2015H5246H,Mechanical Engineering,M.E,9.66,4,SpaceX
+2015A5248A,Mechanical Engineering,B.E,9.72,4,ARUP
+2015A5254A,Humanities and Social Sciences,B.E,8.08,4,Reliance Industries
+2015S5255S,Chemical Engineering,M.Sc,9.68,4,3M
+2015H5256H,Mechanical Engineering,M.E,6.67,4,Lime
+2015A5264A,Pharmacy,B.E,5.85,4,Unplaced
+2015D5265D,Economics and Finanace,Ph.D,5.31,4,Unplaced
+2015H5269H,Mechanical Engineering,M.E,5.99,4,Oeing Lie
+2015A5275A,Humanities and Social Sciences,B.E,7.16,4,Amazon
+2015H5276H,Physics,M.E,9.79,4,Unplaced
+2015A5279A,Physics,B.E,9.18,4,Panasonic
+2015A5284A,Chemical Engineering,B.E,6.34,4,Evonik Industries
+2015H5289H,Economics and Finanace,M.E,9.48,4,Moodys Analytics
+2015A5290A,Computer Science and Information Systems,B.E,6.36,4,Piramal
+2015A5292A,Electrical and Electronics Engineering,B.E,5.23,4,Xilinx
+2015A5299A,Pharmacy,B.E,6.05,4,Aurobindo Pharma
+2015H5301H,Civil Engineering,M.E,7.57,4,Unplaced
+2015H5306H,Electrical and Electronics Engineering,M.E,6.41,4,Sony
+2015H5308H,Physics,M.E,6.18,4,INSTRUMENTS
+2015A5312A,Electrical and Electronics Engineering,B.E,7.44,4,Xilinx
+2015A5322A,Chemical Engineering,B.E,7.97,4,Unplaced
+2015A5323A,Biological Sciences,B.E,6.48,4,Unplaced
+2015A5335A,Electrical and Electronics Engineering,B.E,9.38,4,Intel
+2015A5338A,Physics,B.E,8.79,4,Unplaced
+2015A5342A,Chemisty,B.E,6.87,4,Unplaced
+2015A5343A,Biological Sciences,B.E,6.08,4,Novartis
+2015H5346H,Electrical and Electronics Engineering,M.E,6.98,4,Unplaced
+2015A5357A,Humanities and Social Sciences,B.E,8.78,4,Accenture
+2015A5360A,Electrical and Electronics Engineering,B.E,5.21,4,AMDET
+2015S5361S,Biological Sciences,M.Sc,5.67,4,Novartis
+2015A5362A,Economics and Finanace,B.E,9.59,4,Nomura
+2015A5369A,Physics,B.E,7.74,4,Unplaced
+2015A5372A,Economics and Finanace,B.E,6.99,4,BNP Paribas
+2015A5374A,Chemisty,B.E,5.62,4,Sun Pharmaceutical Industries
+2015H5375H,Biological Sciences,M.E,6.57,4,Divis Laboratories
+2015A5376A,Electrical and Electronics Engineering,B.E,5.06,4,Infineon
+2015A5379A,Humanities and Social Sciences,B.E,5.05,4,ICICI Bank
+2015A5380A,Pharmacy,B.E,5.77,4,Zydus
+2015A5385A,Pharmacy,B.E,5.02,4,Natco Pharma
+2015A5392A,Mechanical Engineering,B.E,6.63,4,Shell
+2015S5393S,Mechanical Engineering,M.Sc,6.33,4,Unplaced
+2015A5396A,Physics,B.E,9.69,4,Infineon
+2015A5397A,Mechanical Engineering,B.E,5.27,4,Mercedes Benz
+2015S5399S,Pharmacy,M.Sc,9.66,4,Zydus Cadila
+2015A5405A,Pharmacy,B.E,8.35,4,Zydus
+2015H5408H,Chemisty,M.E,9.85,4,DataZymes
+2015H5415H,Physics,M.E,8.53,4,INSTRUMENTS
+2015P5417P,Civil Engineering,B.Pharm,7.83,4,WSP Global
+2015A5420A,Civil Engineering,B.E,8.82,4,ARUP
+2015S5422S,Computer Science and Information Systems,M.Sc,5.83,4,Unplaced
+2015A5433A,Mechanical Engineering,B.E,5.05,4,SpaceX
+2015H5439H,Chemical Engineering,M.E,5.15,4,Novozymes
+2015A5441A,Pharmacy,B.E,5.77,4,Aragen
+2015A5443A,Chemisty,B.E,7.46,4,Unplaced
+2015A5447A,Physics,B.E,7.39,4,STMicroelectronics
+2015H5453H,Physics,M.E,9.12,4,Texas Instruments
+2015S5456S,Biological Sciences,M.Sc,8.38,4,Alkem Laboratories
+2015H5458H,Mathematics,M.E,5.84,4,Unplaced
+2015S5461S,Biological Sciences,M.Sc,6.23,4,Alembic Pharmaceuticals
+2015P5463P,Pharmacy,B.Pharm,9.23,4,Aurobindo Pharma
+2015D5468D,Mechanical Engineering,Ph.D,8.49,4,Boeing
+2015H5471H,Mechanical Engineering,M.E,9.57,4,Oeing Lie
+2015H5475H,Chemisty,M.E,9.12,4,Dow
+2015H5483H,Physics,M.E,5.37,4,onsemi
+2015D5487D,Economics and Finanace,Ph.D,6.99,4,Unplaced
+2015A5488A,Physics,B.E,7.52,4,SynOPSYS
+2015A5490A,Chemisty,B.E,6.03,4,Sun Pharmaceutical Industries
+2015A5497A,Mathematics,B.E,7.14,4,Cisco
+2015P5498P,Mechanical Engineering,B.Pharm,6.35,4,Wabtec
+2015S5500S,Biological Sciences,M.Sc,9.28,4,Unplaced
+2015P5503P,Mechanical Engineering,B.Pharm,9.4,4,Oeing Lie
+2015A5506A,Economics and Finanace,B.E,9.5,4,Unplaced
+2015H5508H,Economics and Finanace,M.E,7.5,4,Citi
+2015A5512A,Biological Sciences,B.E,5.03,4,Sun Pharmaceutical Industries
+2015S5513S,Mathematics,M.Sc,7.23,4,Piramal
+2015A5519A,Chemical Engineering,B.E,8.85,4,DuPont
+2015A5521A,Civil Engineering,B.E,7.65,4,ATKINS
+2015P5527P,Chemisty,B.Pharm,9.58,4,BASF
+2015P5532P,Pharmacy,B.Pharm,7.89,4,КАВІ
+2015A5533A,Pharmacy,B.E,5.33,4,Wockhardt
+2015S5534S,Mechanical Engineering,M.Sc,7.42,4,Wabtec
+2015A5540A,Electrical and Electronics Engineering,B.E,8.76,4,AMDET
+2015A5545A,Chemisty,B.E,8.29,4,КАВІ
+2015A5553A,Mechanical Engineering,B.E,8.72,4,Unplaced
+2015A5554A,Humanities and Social Sciences,B.E,6.43,4,Unplaced
+2015D5560D,Mechanical Engineering,Ph.D,6.6,4,Caterpillar Inc.
+2015A5564A,Chemisty,B.E,9.86,4,Shell
+2015A5567A,Chemisty,B.E,7.3,4,Sun Pharmaceutical Industries
+2015A5569A,Chemical Engineering,B.E,9.25,4,Solvay
+2015S5570S,Civil Engineering,M.Sc,8.5,4,Mott MacDonald
+2015A5575A,Computer Science and Information Systems,B.E,8.89,4,Flipkart
+2015A5584A,Biological Sciences,B.E,8.54,4,Zydus Cadila
+2015S5585S,Economics and Finanace,M.Sc,9.12,4,FactSet
+2015A5588A,Physics,B.E,6.3,4,onsemi
+2015P5591P,Mechanical Engineering,B.Pharm,8.43,4,Unplaced
+2015H5595H,Economics and Finanace,M.E,7.55,4,Standard Chartered
+2015A5597A,Mathematics,B.E,6.32,4,Unplaced
+2015A5599A,Chemisty,B.E,9.8,4,ExxonMobil
+2015A5605A,Chemisty,B.E,9.64,4,freyr
+2015H5612H,Mechanical Engineering,M.E,7.77,4,FORVIA
+2015A5614A,Civil Engineering,B.E,6.37,4,"Skidmore, Owings & Merrill (SOM)"
+2015H5615H,Pharmacy,M.E,6.52,4,ADITYA BIRLA
+2015H5618H,Humanities and Social Sciences,M.E,7.56,4,State Bank of India (SBI)
+2015A5620A,Civil Engineering,B.E,6.69,4,Unplaced
+2015A5621A,Biological Sciences,B.E,9.0,4,Divis Laboratories
+2015S5635S,Biological Sciences,M.Sc,5.99,4,Alembic Pharmaceuticals
+2015A5636A,Chemical Engineering,B.E,6.62,4,"KBR, Inc."
+2015H5638H,Mechanical Engineering,M.E,8.19,4,ANAND
+2015S5641S,Pharmacy,M.Sc,6.34,4,Unplaced
+2015A5642A,Mathematics,B.E,6.46,4,Intel
+2015A5645A,Electrical and Electronics Engineering,B.E,8.63,4,Fujitsu
+2015S5650S,Chemical Engineering,M.Sc,6.78,4,Unplaced
+2015S5661S,Mathematics,M.Sc,6.24,4,Intel
+2015A5662A,Electrical and Electronics Engineering,B.E,5.12,4,SILICON LABS
+2015P5663P,Civil Engineering,B.Pharm,6.5,4,Dragados
+2015H5664H,Humanities and Social Sciences,M.E,8.55,4,Unplaced
+2015A5675A,Computer Science and Information Systems,B.E,8.34,4,Flipkart
+2015A5677A,Mathematics,B.E,6.02,4,Unplaced
+2015A5683A,Physics,B.E,5.15,4,INSTRUMENTS
+2015A5685A,Mathematics,B.E,9.45,4,Dell
+2015A5687A,Mechanical Engineering,B.E,8.73,4,Oeing Lie
+2015D5696D,Physics,Ph.D,7.19,4,SEDEMAC
+2015A5697A,Mathematics,B.E,6.1,4,Mediatek
+2015D5699D,Chemical Engineering,Ph.D,7.37,4,Lanxess
+2015A5701A,Pharmacy,B.E,6.52,4,Aurobindo Pharma
+2015H5705H,Electrical and Electronics Engineering,M.E,9.54,4,Unplaced
+2015A5706A,Computer Science and Information Systems,B.E,5.7,4,Unplaced
+2015A5707A,Biological Sciences,B.E,5.55,4,Unplaced
+2015A5710A,Physics,B.E,9.52,4,SEDEMAC
+2015P5713P,Humanities and Social Sciences,B.Pharm,8.43,4,Infosys BPM
+2015A5721A,Mechanical Engineering,B.E,5.0,4,SpaceX
+2015H5728H,Physics,M.E,8.91,4,Intel
+2015P5732P,Computer Science and Information Systems,B.Pharm,6.22,4,VISA
+2015H5736H,Physics,M.E,8.48,4,onsemi
+2015S5739S,Chemical Engineering,M.Sc,6.25,4,Air Liquide
+2015P5746P,Humanities and Social Sciences,B.Pharm,9.19,4,Reliance Industries
+2015A5753A,Civil Engineering,B.E,5.27,4,AECOM
+2015S5758S,Biological Sciences,M.Sc,7.02,4,Glenmark Pharmaceuticals
+2015A5761A,Biological Sciences,B.E,5.48,4,Alembic Pharmaceuticals
+2015A5776A,Economics and Finanace,B.E,9.16,4,Morgan Stanley
+2015H5778H,Civil Engineering,M.E,6.52,4,RAMBOLL
+2015A5781A,Chemisty,B.E,6.32,4,Elucidata
+2015H5784H,Civil Engineering,M.E,7.19,4,Gammon Construction
+2015A5789A,Economics and Finanace,B.E,8.44,4,Capital IQ
+2015A5792A,Humanities and Social Sciences,B.E,8.82,4,Unplaced
+2015A5794A,Pharmacy,B.E,7.55,4,Unplaced
+2015S5798S,Chemisty,M.Sc,6.44,4,ExxonMobil
+2015A5799A,Computer Science and Information Systems,B.E,9.62,4,Google
+2015A5801A,Economics and Finanace,B.E,6.04,4,Accenture
+2015D5804D,Civil Engineering,Ph.D,9.39,4,Gammon Construction
+2015A5806A,Computer Science and Information Systems,B.E,5.52,4,Unplaced
+2015A5807A,Chemical Engineering,B.E,5.78,4,Unplaced
+2015P5808P,Pharmacy,B.Pharm,8.49,4,Granules India
+2015H5811H,Electrical and Electronics Engineering,M.E,7.74,4,IBM
+2015A5813A,Electrical and Electronics Engineering,B.E,8.92,4,Sony
+2015H5824H,Chemical Engineering,M.E,6.37,4,Solvay
+2015A5826A,Mathematics,B.E,9.48,4,Microsoft
+2015H5830H,Mechanical Engineering,M.E,8.84,4,Procter & Gamble
+2015A5835A,Civil Engineering,B.E,7.99,4,Gammon Construction
+2015A5839A,Pharmacy,B.E,5.55,4,Torrent Pharmaceuticals
+2015H5841H,Mechanical Engineering,M.E,7.3,4,Cummins Inc.
+2015P5845P,Biological Sciences,B.Pharm,5.52,4,DataZymes
+2015H5851H,Humanities and Social Sciences,M.E,9.59,4,Infosys BPM
+2015D5858D,Mathematics,Ph.D,5.46,4,Mediatek
+2015H5862H,Biological Sciences,M.E,5.75,4,Cadila Healthcare
+2015A5863A,Electrical and Electronics Engineering,B.E,9.63,4,Unplaced
+2015A5870A,Chemical Engineering,B.E,7.13,4,GSK
+2015A5873A,Civil Engineering,B.E,9.6,4,TATA
+2015A5874A,Biological Sciences,B.E,5.4,4,Aragen
+2015A5883A,Economics and Finanace,B.E,5.68,4,Unplaced
+2015A5886A,Humanities and Social Sciences,B.E,6.9,4,Axis Bank
+2015P5889P,Biological Sciences,B.Pharm,9.59,4,Cipla
+2015H5897H,Electrical and Electronics Engineering,M.E,7.98,4,Unplaced
+2015A5901A,Chemisty,B.E,8.79,4,Shell
+2015A5910A,Electrical and Electronics Engineering,B.E,7.26,4,Infineon
+2015A5914A,Humanities and Social Sciences,B.E,5.78,4,Reliance Industries
+2015H5917H,Electrical and Electronics Engineering,M.E,9.37,4,Xilinx
+2015A5921A,Electrical and Electronics Engineering,B.E,7.55,4,Unplaced
+2015A5922A,Chemisty,B.E,6.3,4,ExxonMobil
+2015P5924P,Pharmacy,B.Pharm,9.9,4,Unplaced
+2015A5942A,Civil Engineering,B.E,6.59,4,Force
+2015A5944A,Biological Sciences,B.E,8.96,4,Zydus
+2015S5953S,Pharmacy,M.Sc,6.31,4,Unplaced
+2015A5954A,Mathematics,B.E,7.05,4,Unplaced
+2015A5960A,Pharmacy,B.E,9.98,4,Unplaced
+2015P5963P,Pharmacy,B.Pharm,8.1,4,Aurobindo Pharma
+2015H5971H,Electrical and Electronics Engineering,M.E,8.01,4,Xilinx
+2015D5973D,Economics and Finanace,Ph.D,9.47,4,American Express
+2015D5975D,Electrical and Electronics Engineering,Ph.D,6.66,4,Intel
+2015H5983H,Mathematics,M.E,6.4,4,Unplaced
+2015D5985D,Pharmacy,Ph.D,8.06,4,Biocon
+2015A5986A,Computer Science and Information Systems,B.E,6.35,4,Unplaced
+2015A5992A,Biological Sciences,B.E,6.37,4,DataZymes
+2015A5996A,Mathematics,B.E,6.69,4,Intel
+2015P5998P,Electrical and Electronics Engineering,B.Pharm,5.87,4,Xilinx
+2015A6010A,Humanities and Social Sciences,B.E,5.79,4,WNS Global Services
+2015A6015A,Mechanical Engineering,B.E,5.88,4,Unplaced
+2015A6016A,Electrical and Electronics Engineering,B.E,8.02,4,Ricoh
+2015A6029A,Chemisty,B.E,9.21,4,Dow
+2015A6036A,Chemical Engineering,B.E,9.81,4,AkzoNobel
+2015A6043A,Chemical Engineering,B.E,8.35,4,Evonik Industries
+2015A6044A,Electrical and Electronics Engineering,B.E,9.85,4,Sony
+2015A6046A,Pharmacy,B.E,7.35,4,Novartis
+2015A6049A,Humanities and Social Sciences,B.E,7.74,4,KPMG
+2015A6052A,Pharmacy,B.E,5.57,4,Biocon Biologics
+2015A6053A,Pharmacy,B.E,7.74,4,SII
+2015A6054A,Biological Sciences,B.E,6.93,4,Lupin Limited
+2015A6060A,Pharmacy,B.E,7.56,4,Glenmark Pharmaceuticals
+2015H6068H,Civil Engineering,M.E,5.72,4,Mott MacDonald
+2015P6069P,Economics and Finanace,B.Pharm,8.0,4,Accenture
+2015A6077A,Pharmacy,B.E,9.35,4,Aragen
+2015A6078A,Economics and Finanace,B.E,5.82,4,American Express
+2015A6079A,Electrical and Electronics Engineering,B.E,6.46,4,Unplaced
+2015A6085A,Pharmacy,B.E,6.96,4,Aurobindo Pharma
+2015A6086A,Mechanical Engineering,B.E,7.35,4,Wabtec
+2015A6092A,Economics and Finanace,B.E,5.03,4,Bain & Company
+2015A6093A,Mechanical Engineering,B.E,5.65,4,Procter & Gamble
+2015H6096H,Electrical and Electronics Engineering,M.E,8.83,4,Altera
+2015H6099H,Physics,M.E,5.11,4,Texas Instruments
+2015A6105A,Computer Science and Information Systems,B.E,9.46,4,Unplaced
+2015A6107A,Computer Science and Information Systems,B.E,9.55,4,Commvault
+2015A6115A,Economics and Finanace,B.E,5.32,4,Moodys Investors Service
+2015A6116A,Humanities and Social Sciences,B.E,7.0,4,Deloitte
+2015A6117A,Biological Sciences,B.E,6.98,4,Unplaced
+2015H6126H,Electrical and Electronics Engineering,M.E,9.25,4,Unplaced
+2015S6128S,Physics,M.Sc,7.7,4,NXP Semiconductors
+2015H6132H,Mechanical Engineering,M.E,9.59,4,Unplaced
+2015A6140A,Computer Science and Information Systems,B.E,6.96,4,Tenstorrent
+2015A6146A,Civil Engineering,B.E,5.32,4,RAMBOLL
+2015A6156A,Humanities and Social Sciences,B.E,9.2,4,Aditya Birla Group
+2015A6160A,Humanities and Social Sciences,B.E,8.51,4,Unplaced
+2015S6161S,Chemical Engineering,M.Sc,5.53,4,Honeywell UOP
+2015A6162A,Electrical and Electronics Engineering,B.E,9.9,4,Micron
+2015H6163H,Chemical Engineering,M.E,5.43,4,Shell
+2015P6165P,Pharmacy,B.Pharm,6.0,4,Unplaced
+2015A6174A,Computer Science and Information Systems,B.E,5.8,4,Unplaced
+2015H6175H,Pharmacy,M.E,5.71,4,Zydus Cadila
+2015A6178A,Electrical and Electronics Engineering,B.E,7.14,4,Xilinx
+2015A6181A,Civil Engineering,B.E,5.79,4,ARUP
+2015A6182A,Chemisty,B.E,7.39,4,Unplaced
+2015S6188S,Biological Sciences,M.Sc,9.02,4,Cipla
+2015S6190S,Mathematics,M.Sc,9.58,4,Mediatek
+2015P6193P,Chemisty,B.Pharm,9.75,4,DataZymes
+2015D6196D,Chemisty,Ph.D,6.6,4,Unplaced
+2015S6197S,Pharmacy,M.Sc,7.52,4,ADITYA BIRLA
+2015S6204S,Economics and Finanace,M.Sc,8.69,4,Morgan Stanley
+2015H6205H,Physics,M.E,8.31,4,CISCO
+2015H6206H,Chemical Engineering,M.E,8.79,4,Pfizer
+2015A6207A,Chemical Engineering,B.E,8.39,4,Baker Hughes
+2015A6208A,Chemical Engineering,B.E,6.88,4,GSK
+2015A6209A,Economics and Finanace,B.E,8.86,4,HSBC
+2015A6211A,Mechanical Engineering,B.E,8.05,4,Unplaced
+2015A6216A,Chemisty,B.E,9.93,4,Cipla
+2015A6222A,Humanities and Social Sciences,B.E,8.36,4,Hindustan Unilever Limited (HUL)
+2015A6230A,Pharmacy,B.E,6.31,4,Unplaced
+2015H6236H,Computer Science and Information Systems,M.E,6.92,4,Unplaced
+2015A6240A,Humanities and Social Sciences,B.E,8.46,4,Genpact
+2015P6248P,Chemical Engineering,B.Pharm,6.52,4,Lanxess
+2015A6251A,Humanities and Social Sciences,B.E,9.39,4,ICICI Bank
+2015P6254P,Civil Engineering,B.Pharm,6.6,4,Dragados
+2015A6255A,Pharmacy,B.E,9.55,4,PEISION MEDICINE SOLUTIONS
+2015A6267A,Pharmacy,B.E,7.22,4,DataZymes
+2015A6268A,Chemical Engineering,B.E,6.21,4,INEOS
+2015A6278A,Biological Sciences,B.E,9.31,4,Pfizer
+2015A6279A,Humanities and Social Sciences,B.E,9.65,4,Aditya Birla Group
+2015A6282A,Physics,B.E,6.54,4,onsemi
+2015P6283P,Mechanical Engineering,B.Pharm,6.16,4,Cummins Inc.
+2015D6285D,Physics,Ph.D,5.52,4,INSTRUMENTS
+2015H6287H,Mathematics,M.E,7.48,4,Amazon
+2015S6289S,Electrical and Electronics Engineering,M.Sc,9.63,4,MathWorks
+2015A6291A,Chemical Engineering,B.E,8.64,4,Wood Group
+2015A6292A,Pharmacy,B.E,5.81,4,Emcure Pharmaceuticals
+2015H6294H,Electrical and Electronics Engineering,M.E,7.16,4,Unplaced
+2015S6302S,Chemisty,M.Sc,6.62,4,Eastman Chemical Company
+2015P6303P,Humanities and Social Sciences,B.Pharm,7.32,4,Unplaced
+2015A6304A,Economics and Finanace,B.E,9.87,4,Moodys Analytics
+2015P6320P,Humanities and Social Sciences,B.Pharm,7.81,4,Reliance Industries
+2015S6330S,Civil Engineering,M.Sc,9.25,4,ARUP
+2015A6332A,Pharmacy,B.E,7.8,4,SII
+2015A6336A,Electrical and Electronics Engineering,B.E,8.26,4,Honeywell
+2015A6337A,Chemisty,B.E,6.3,4,Honeywell UOP
+2015S6343S,Electrical and Electronics Engineering,M.Sc,8.39,4,Unplaced
+2015A6344A,Computer Science and Information Systems,B.E,5.25,4,IBM
+2015A6348A,Physics,B.E,5.33,4,SILICON LABS
+2015A6349A,Pharmacy,B.E,7.15,4,ADITYA BIRLA
+2015A6355A,Pharmacy,B.E,7.74,4,Novartis
+2015A6356A,Pharmacy,B.E,5.8,4,Cadila Healthcare
+2015S6357S,Humanities and Social Sciences,M.Sc,6.08,4,Cognizant
+2015H6359H,Chemisty,M.E,5.15,4,Dow
+2015A6360A,Humanities and Social Sciences,B.E,6.82,4,ITC Limited
+2015A6362A,Civil Engineering,B.E,5.8,4,Stantec
+2015A6364A,Computer Science and Information Systems,B.E,6.22,4,Amazon
+2015A6369A,Mathematics,B.E,6.35,4,AMD
+2015D6373D,Mechanical Engineering,Ph.D,5.23,4,Unplaced
+2015D6374D,Humanities and Social Sciences,Ph.D,6.14,4,Aditya Birla Group
+2015A6386A,Chemical Engineering,B.E,5.7,4,GSK
+2015A6392A,Electrical and Electronics Engineering,B.E,6.79,4,MEDIATEK
+2015H6393H,Computer Science and Information Systems,M.E,5.74,4,IBM
+2015A6399A,Computer Science and Information Systems,B.E,8.16,4,IBM
+2015A6404A,Pharmacy,B.E,6.1,4,SII
+2015A6405A,Physics,B.E,5.16,4,Dolcera
+2015H6410H,Humanities and Social Sciences,M.E,6.87,4,Infosys
+2015A6415A,Mathematics,B.E,9.88,4,Qualcomm
+2015H6424H,Chemisty,M.E,9.57,4,Unplaced
+2015A6435A,Economics and Finanace,B.E,7.21,4,S&P Global
+2015A6441A,Pharmacy,B.E,6.5,4,Aragen
+2015A6444A,Pharmacy,B.E,9.91,4,kmk
+2015A6447A,Pharmacy,B.E,7.92,4,Cipla
+2015A6450A,Chemisty,B.E,7.55,4,Unplaced
+2015S6452S,Physics,M.Sc,5.27,4,onsemi
+2015A6456A,Economics and Finanace,B.E,7.21,4,Unplaced
+2015A6458A,Biological Sciences,B.E,6.79,4,Aurobindo Pharma
+2015P6464P,Biological Sciences,B.Pharm,5.65,4,Unplaced
+2015S6468S,Chemisty,M.Sc,7.97,4,Honeywell UOP
+2015H6472H,Computer Science and Information Systems,M.E,7.04,4,Flipkart
+2015H6477H,Mathematics,M.E,8.33,4,Cisco
+2015H6485H,Pharmacy,M.E,8.66,4,DataZymes
+2015S6486S,Mathematics,M.Sc,5.61,4,Mediatek
+2015A6489A,Pharmacy,B.E,9.69,4,Novartis
+2015H6492H,Pharmacy,M.E,7.43,4,Zydus Cadila
+2015A6496A,Humanities and Social Sciences,B.E,9.57,4,Procter & Gamble
+2015P6500P,Chemical Engineering,B.Pharm,5.9,4,PPG Industries
+2015A6510A,Physics,B.E,8.78,4,NXP Semiconductors
+2015D6513D,Chemisty,Ph.D,8.71,4,ExxonMobil
+2015P6516P,Humanities and Social Sciences,B.Pharm,5.49,4,Axis Bank
+2015A6521A,Computer Science and Information Systems,B.E,6.49,4,IBM
+2015A6522A,Electrical and Electronics Engineering,B.E,5.88,4,CISCO
+2015S6525S,Chemical Engineering,M.Sc,9.03,4,Unplaced
+2015P6529P,Chemical Engineering,B.Pharm,8.0,4,Eastman Chemical Company
+2015H6530H,Civil Engineering,M.E,9.44,4,AMARARALA
+2015P6532P,Electrical and Electronics Engineering,B.Pharm,6.57,4,onsemi
+2015A6533A,Mechanical Engineering,B.E,7.55,4,Mercedes Benz
+2015S6540S,Pharmacy,M.Sc,8.22,4,Unplaced
+2015H6544H,Mechanical Engineering,M.E,5.47,4,Procter & Gamble
+2015A6548A,Humanities and Social Sciences,B.E,8.48,4,KPMG
+2015H6549H,Pharmacy,M.E,5.27,4,Biocon
+2015P6555P,Computer Science and Information Systems,B.Pharm,7.73,4,IBM
+2015A6558A,Biological Sciences,B.E,7.16,4,Aurobindo Pharma
+2015A6564A,Physics,B.E,9.33,4,MEDIATEK
+2015H6566H,Mechanical Engineering,M.E,7.05,4,Cummins Inc.
+2015A6572A,Pharmacy,B.E,9.12,4,Cipla
+2015H6573H,Chemical Engineering,M.E,7.13,4,Evonik Industries
+2015A6583A,Mathematics,B.E,6.12,4,Unplaced
+2015A6595A,Chemical Engineering,B.E,8.48,4,ExxonMobil
+2015A6600A,Mechanical Engineering,B.E,6.21,4,SONA COMSTAR
+2015D6602D,Mechanical Engineering,Ph.D,5.23,4,3SC
+2015P6603P,Pharmacy,B.Pharm,6.53,4,Zydus Cadila
+2015D6606D,Physics,Ph.D,5.54,4,MEDIATEK
+2015A6611A,Mechanical Engineering,B.E,7.35,4,JK Fenner
+2015P6620P,Chemisty,B.Pharm,8.67,4,DataZymes
+2015A6629A,Chemical Engineering,B.E,8.34,4,AkzoNobel
+2015A6645A,Civil Engineering,B.E,7.4,4,ARUP
+2015A6646A,Electrical and Electronics Engineering,B.E,7.92,4,Unplaced
+2015H6653H,Computer Science and Information Systems,M.E,5.01,4,Unplaced
+2015H6657H,Civil Engineering,M.E,6.29,4,Hill International
+2015A6658A,Economics and Finanace,B.E,5.51,4,Moodys Analytics
+2015H6660H,Physics,M.E,5.19,4,AMDET
+2015H6668H,Mechanical Engineering,M.E,6.36,4,Rolls-Royce
+2015A6670A,Mechanical Engineering,B.E,7.13,4,DOVER
+2015D6672D,Mechanical Engineering,Ph.D,5.48,4,Unplaced
+2015H6676H,Computer Science and Information Systems,M.E,5.68,4,Western Digital
+2015S6678S,Physics,M.Sc,8.65,4,IBM
+2015P6679P,Pharmacy,B.Pharm,6.89,4,Granules India
+2015A6686A,Mathematics,B.E,6.3,4,Unplaced
+2015A6687A,Chemical Engineering,B.E,6.68,4,Unplaced
+2015A6694A,Economics and Finanace,B.E,8.05,4,JP Morgan
+2015A6697A,Pharmacy,B.E,6.68,4,Unplaced
+2015A6701A,Chemisty,B.E,8.98,4,Honeywell UOP
+2015D6706D,Mathematics,Ph.D,6.62,4,Dell
+2015A6707A,Electrical and Electronics Engineering,B.E,8.72,4,Intel
+2015A6716A,Humanities and Social Sciences,B.E,7.75,4,McKinsey & Company
+2015H6719H,Chemisty,M.E,9.53,4,SABIC
+2015A6720A,Humanities and Social Sciences,B.E,6.75,4,KPMG
+2015A6723A,Biological Sciences,B.E,9.73,4,Novartis
+2015H6726H,Electrical and Electronics Engineering,M.E,7.54,4,Unplaced
+2015A6730A,Civil Engineering,B.E,6.85,4,Gammon Construction
+2015A6734A,Humanities and Social Sciences,B.E,7.31,4,Unplaced
+2015A6736A,Electrical and Electronics Engineering,B.E,6.23,4,INSTRUMENTS
+2015A6738A,Mathematics,B.E,8.07,4,Amazon
+2015P6739P,Humanities and Social Sciences,B.Pharm,6.32,4,EY (Ernst & Young)
+2015A6746A,Humanities and Social Sciences,B.E,6.95,4,Procter & Gamble
+2015A6750A,Chemical Engineering,B.E,6.54,4,AkzoNobel
+2015A6752A,Chemical Engineering,B.E,6.59,4,Evonik Industries
+2015S6770S,Electrical and Electronics Engineering,M.Sc,5.39,4,IBM
+2015A6773A,Mathematics,B.E,6.08,4,Microsoft
+2015D6775D,Computer Science and Information Systems,Ph.D,8.65,4,Unplaced
+2015A6777A,Mathematics,B.E,8.21,4,IBM
+2015A6779A,Computer Science and Information Systems,B.E,8.6,4,Cisco
+2015A6780A,Electrical and Electronics Engineering,B.E,8.36,4,Siemens
+2015D6787D,Mechanical Engineering,Ph.D,8.52,4,Bosch
+2015A6789A,Economics and Finanace,B.E,6.39,4,Fitch Ratings
+2015P6790P,Pharmacy,B.Pharm,6.21,4,Aragen
+2015H6793H,Civil Engineering,M.E,9.38,4,Leighton Holdings
+2015P6794P,Electrical and Electronics Engineering,B.Pharm,5.16,4,CISCO
+2015A6802A,Physics,B.E,6.13,4,SynOPSYS
+2015D6804D,Chemical Engineering,Ph.D,7.69,4,Unplaced
+2015A6805A,Electrical and Electronics Engineering,B.E,6.55,4,Analog Devices
+2015A6810A,Civil Engineering,B.E,6.34,4,Unplaced
+2015A6817A,Chemisty,B.E,9.86,4,Linde
+2015A6839A,Computer Science and Information Systems,B.E,6.48,4,Western Digital
+2015P6841P,Biological Sciences,B.Pharm,8.08,4,Sun Pharmaceutical Industries
+2015D6844D,Humanities and Social Sciences,Ph.D,7.03,4,HDFC Bank
+2015A6850A,Economics and Finanace,B.E,5.76,4,Fitch Ratings
+2015H6853H,Physics,M.E,8.74,4,SEDEMAC
+2015A6859A,Chemisty,B.E,8.44,4,Elucidata
+2015H6860H,Economics and Finanace,M.E,9.64,4,Fitch Ratings
+2015H6861H,Chemisty,M.E,8.25,4,Unplaced
+2015A6862A,Mechanical Engineering,B.E,7.84,4,SEDEMAC
+2015H6871H,Mathematics,M.E,6.7,4,Piramal
+2015S6877S,Physics,M.Sc,9.65,4,Unplaced
+2015A6880A,Chemisty,B.E,6.31,4,Linde
+2015D6881D,Economics and Finanace,Ph.D,9.24,4,Wells Fargo
+2015A6882A,Computer Science and Information Systems,B.E,7.26,4,Microsoft
+2015H6887H,Civil Engineering,M.E,5.18,4,ARUP
+2015A6890A,Mathematics,B.E,7.79,4,Qualcomm
+2015D6906D,Economics and Finanace,Ph.D,6.17,4,S&P Global
+2015A6908A,Chemical Engineering,B.E,9.79,4,Honeywell UOP
+2015A6911A,Chemisty,B.E,8.29,4,Dow
+2015H6913H,Mathematics,M.E,8.8,4,Microsoft
+2015A6914A,Pharmacy,B.E,7.64,4,Unplaced
+2015H6924H,Pharmacy,M.E,9.71,4,SII
+2015A6925A,Humanities and Social Sciences,B.E,9.53,4,KPMG
+2015S6926S,Mathematics,M.Sc,5.09,4,Pharmo Solutions
+2015H6929H,Mechanical Engineering,M.E,6.63,4,SEDEMAC
+2015P6934P,Mechanical Engineering,B.Pharm,8.14,4,Unplaced
+2015S6935S,Computer Science and Information Systems,M.Sc,7.69,4,Google
+2015S6937S,Physics,M.Sc,8.18,4,SILICON LABS
+2015P6940P,Pharmacy,B.Pharm,5.59,4,SII
+2015H6945H,Mechanical Engineering,M.E,7.02,4,Unplaced
+2015A6949A,Biological Sciences,B.E,9.18,4,SII
+2015A6951A,Physics,B.E,6.64,4,Micron
+2015A6964A,Economics and Finanace,B.E,8.97,4,American Express
+2015A6965A,Electrical and Electronics Engineering,B.E,9.93,4,Infineon
+2015H6969H,Electrical and Electronics Engineering,M.E,5.2,4,Unplaced
+2015H6970H,Humanities and Social Sciences,M.E,9.28,4,Unplaced
+2015A6971A,Pharmacy,B.E,8.5,4,Biocon
+2015A6983A,Chemisty,B.E,6.93,4,Shell
+2015A6990A,Mechanical Engineering,B.E,7.52,4,SONA COMSTAR
+2015H6995H,Civil Engineering,M.E,8.36,4,AECOM
+2015P7006P,Electrical and Electronics Engineering,B.Pharm,7.69,4,CISCO
+2015A7007A,Chemical Engineering,B.E,6.68,4,Evonik Industries
+2015A7013A,Civil Engineering,B.E,6.8,4,TATA
+2015D7016D,Economics and Finanace,Ph.D,8.22,4,Boston Consulting Group (BCG)
+2015A7024A,Economics and Finanace,B.E,6.35,4,Morningstar
+2015H7039H,Humanities and Social Sciences,M.E,5.51,4,Amazon
+2015A7040A,Mechanical Engineering,B.E,9.99,4,CYNLR
+2015A7042A,Physics,B.E,9.9,4,SAMSUNG
+2015H7055H,Mechanical Engineering,M.E,5.17,4,Caterpillar Inc.
+2015P7057P,Economics and Finanace,B.Pharm,8.4,4,American Express
+2015A7060A,Pharmacy,B.E,7.75,4,Unplaced
+2015A7062A,Economics and Finanace,B.E,9.99,4,Wells Fargo
+2015A7064A,Pharmacy,B.E,8.98,4,Unplaced
+2015P7065P,Biological Sciences,B.Pharm,7.45,4,Zydus Cadila
+2015H7070H,Computer Science and Information Systems,M.E,5.95,4,ARM
+2015A7072A,Mechanical Engineering,B.E,6.13,4,3SC
+2015P7074P,Humanities and Social Sciences,B.Pharm,8.56,4,ICICI Bank
+2015H7078H,Pharmacy,M.E,5.26,4,AstraZeneca
+2015A7083A,Chemisty,B.E,9.74,4,freyr
+2015H7084H,Civil Engineering,M.E,9.48,4,IcoNS
+2015A7086A,Chemisty,B.E,9.43,4,Unplaced
+2015A7091A,Economics and Finanace,B.E,9.33,4,Bain & Company
+2015A7092A,Chemical Engineering,B.E,9.62,4,ExxonMobil
+2015H7101H,Chemical Engineering,M.E,6.07,4,Unplaced
+2015A7105A,Physics,B.E,7.97,4,CISCO
+2015P7113P,Chemical Engineering,B.Pharm,5.56,4,Pfizer
+2015A7114A,Chemisty,B.E,7.71,4,Unplaced
+2015A7115A,Biological Sciences,B.E,5.98,4,Unplaced
+2015A7116A,Electrical and Electronics Engineering,B.E,9.6,4,IBM
+2015A7118A,Electrical and Electronics Engineering,B.E,8.31,4,STMicroelectronics
+2015H7121H,Biological Sciences,M.E,7.42,4,Unplaced
+2015S7122S,Physics,M.Sc,9.19,4,SEDEMAC
+2015S7123S,Chemisty,M.Sc,9.79,4,Shell
+2015A7124A,Chemisty,B.E,5.21,4,КАВІ
+2015P7129P,Electrical and Electronics Engineering,B.Pharm,6.28,4,Unplaced
+2015A7132A,Mechanical Engineering,B.E,8.41,4,Unplaced
+2015P7134P,Mechanical Engineering,B.Pharm,8.6,4,SONA COMSTAR
+2015A7137A,Physics,B.E,9.81,4,onsemi
+2015P7144P,Mechanical Engineering,B.Pharm,6.24,4,SEDEMAC
+2015A7147A,Chemisty,B.E,5.87,4,Eastman Chemical Company
+2015A7149A,Mathematics,B.E,8.54,4,Intel
+2015A7155A,Biological Sciences,B.E,7.04,4,КАВІ
+2015S7163S,Economics and Finanace,M.Sc,7.57,4,American Express
+2015A7165A,Economics and Finanace,B.E,9.04,4,Fitch Ratings
+2015H7166H,Chemical Engineering,M.E,7.46,4,Syngenta
+2015A7168A,Civil Engineering,B.E,5.16,4,Kiewit Corporation
+2015A7171A,Computer Science and Information Systems,B.E,9.55,4,Piramal
+2015D7172D,Biological Sciences,Ph.D,6.65,4,КАВІ
+2015H7175H,Civil Engineering,M.E,6.2,4,RAMBOLL
+2015D7176D,Mathematics,Ph.D,6.29,4,Amazon
+2015A7177A,Electrical and Electronics Engineering,B.E,7.29,4,Siemens
+2015A7179A,Civil Engineering,B.E,6.55,4,Greenko Jacobs
+2015P7181P,Chemical Engineering,B.Pharm,8.2,4,Evonik Industries
+2015H7183H,Chemisty,M.E,6.32,4,DataZymes
+2015P7184P,Humanities and Social Sciences,B.Pharm,6.67,4,Wipro
+2015A7188A,Mechanical Engineering,B.E,6.52,4,Unplaced

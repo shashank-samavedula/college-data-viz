@@ -1,0 +1,2856 @@
+Student ID,Course,Degree,CGPA,Year,Placement
+2021H0004H,Biological Sciences,M.E,9.43,4,DataZymes
+2021A0005A,Chemisty,B.E,8.13,4,Linde
+2021A0006A,Chemisty,B.E,8.74,4,Aizant
+2021A0013A,Mathematics,B.E,8.02,4,Intel
+2021P0015P,Chemisty,B.Pharm,5.82,4,DataZymes
+2021H0019H,Physics,M.E,5.47,4,Texas Instruments
+2021A0020A,Economics and Finanace,B.E,5.47,4,Credit Suisse
+2021A0024A,Computer Science and Information Systems,B.E,6.42,4,VISA
+2021H0031H,Mathematics,M.E,7.94,4,Flipkart
+2021A0033A,Physics,B.E,9.36,4,SynOPSYS
+2021A0038A,Chemisty,B.E,7.56,4,Biocon Biologics
+2021H0041H,Civil Engineering,M.E,7.8,4,AMARARALA
+2021A0046A,Physics,B.E,5.71,4,STMicroelectronics
+2021S0048S,Pharmacy,M.Sc,5.6,4,Aurobindo Pharma
+2021P0057P,Biological Sciences,B.Pharm,8.24,4,Unplaced
+2021D0060D,Physics,Ph.D,9.64,4,A Lam
+2021A0070A,Mathematics,B.E,5.07,4,Unplaced
+2021H0092H,Computer Science and Information Systems,M.E,6.3,4,Unplaced
+2021A0094A,Mechanical Engineering,B.E,6.82,4,General Electric (GE)
+2021S0096S,Biological Sciences,M.Sc,9.75,4,Emcure Pharmaceuticals
+2021H0106H,Biological Sciences,M.E,5.79,4,Unplaced
+2021P0110P,Biological Sciences,B.Pharm,7.2,4,Aragen
+2021H0111H,Mechanical Engineering,M.E,7.88,4,Mercedes Benz
+2021H0116H,Mathematics,M.E,5.54,4,MathWorks
+2021D0117D,Computer Science and Information Systems,Ph.D,9.77,4,Mediatek
+2021A0130A,Chemical Engineering,B.E,7.35,4,Monsanto
+2021H0131H,Physics,M.E,6.06,4,proteanTecs
+2021H0132H,Pharmacy,M.E,6.88,4,Natco Pharma
+2021A0136A,Pharmacy,B.E,8.65,4,Cadila Healthcare
+2021D0141D,Mathematics,Ph.D,9.12,4,Intel
+2021D0145D,Electrical and Electronics Engineering,Ph.D,8.27,4,Microsemi
+2021D0146D,Chemisty,Ph.D,6.42,4,ExxonMobil
+2021A0148A,Computer Science and Information Systems,B.E,9.79,4,IBM
+2021A0151A,Pharmacy,B.E,8.66,4,Torrent Pharmaceuticals
+2021A0153A,Mechanical Engineering,B.E,7.53,4,Mercedes Benz
+2021P0154P,Biological Sciences,B.Pharm,7.43,4,Unplaced
+2021A0157A,Mechanical Engineering,B.E,9.04,4,Caterpillar Inc.
+2021A0158A,Mathematics,B.E,6.86,4,Dell
+2021H0160H,Chemical Engineering,M.E,8.93,4,ADM (Archer Daniels Midland)
+2021P0163P,Civil Engineering,B.Pharm,7.57,4,Jacobs Engineering Group
+2021A0165A,Biological Sciences,B.E,5.61,4,Alkem Laboratories
+2021H0174H,Chemisty,M.E,8.63,4,Sun Pharmaceutical Industries
+2021A0177A,Physics,B.E,9.1,4,NXP Semiconductors
+2021P0187P,Biological Sciences,B.Pharm,6.87,4,Unplaced
+2021H0188H,Civil Engineering,M.E,8.8,4,Orascom Construction
+2021P0193P,Electrical and Electronics Engineering,B.Pharm,6.04,4,Unplaced
+2021D0198D,Mechanical Engineering,Ph.D,6.44,4,Unplaced
+2021A0202A,Humanities and Social Sciences,B.E,5.76,4,Boston Consulting Group (BCG)
+2021H0204H,Pharmacy,M.E,6.95,4,Divis Laboratories
+2021H0211H,Mechanical Engineering,M.E,6.76,4,SONA COMSTAR
+2021P0213P,Computer Science and Information Systems,B.Pharm,7.78,4,Unplaced
+2021A0218A,Chemisty,B.E,8.83,4,DataZymes
+2021P0223P,Electrical and Electronics Engineering,B.Pharm,6.13,4,MEDIATEK
+2021H0228H,Electrical and Electronics Engineering,M.E,7.9,4,ON Semiconductor
+2021H0231H,Mechanical Engineering,M.E,7.85,4,Caterpillar Inc.
+2021A0233A,Chemisty,B.E,7.85,4,Aizant
+2021A0235A,Biological Sciences,B.E,8.71,4,Pfizer
+2021A0240A,Biological Sciences,B.E,6.04,4,Unplaced
+2021D0241D,Humanities and Social Sciences,Ph.D,6.23,4,Unplaced
+2021P0242P,Civil Engineering,B.Pharm,8.98,4,Assystem Stup
+2021A0245A,Biological Sciences,B.E,8.74,4,Cipla
+2021A0246A,Mathematics,B.E,9.98,4,Teradata
+2021A0251A,Economics and Finanace,B.E,7.0,4,Bain & Company
+2021A0254A,Physics,B.E,5.84,4,Unplaced
+2021S0258S,Humanities and Social Sciences,M.Sc,9.5,4,KPMG
+2021A0266A,Mechanical Engineering,B.E,8.17,4,FORVIA
+2021H0269H,Chemisty,M.E,8.04,4,Honeywell UOP
+2021S0273S,Physics,M.Sc,7.54,4,Unplaced
+2021A0276A,Mathematics,B.E,6.87,4,Flipkart
+2021H0277H,Pharmacy,M.E,5.85,4,Unplaced
+2021S0278S,Chemisty,M.Sc,7.42,4,Procter & Gamble
+2021A0282A,Pharmacy,B.E,5.98,4,Unplaced
+2021A0296A,Civil Engineering,B.E,6.22,4,AECOM
+2021S0299S,Civil Engineering,M.Sc,7.39,4,TATA
+2021P0301P,Mechanical Engineering,B.Pharm,6.07,4,ARUP
+2021P0302P,Computer Science and Information Systems,B.Pharm,7.85,4,Unplaced
+2021H0303H,Chemical Engineering,M.E,8.6,4,Bayer
+2021P0304P,Pharmacy,B.Pharm,5.97,4,Pfizer
+2021D0305D,Biological Sciences,Ph.D,6.26,4,КАВІ
+2021H0311H,Humanities and Social Sciences,M.E,5.03,4,Microsoft
+2021S0317S,Economics and Finanace,M.Sc,8.83,4,Moodys Analytics
+2021A0320A,Chemisty,B.E,5.96,4,SABIC
+2021S0322S,Economics and Finanace,M.Sc,9.78,4,American Express
+2021A0323A,Pharmacy,B.E,7.98,4,Alembic Pharmaceuticals
+2021A0328A,Humanities and Social Sciences,B.E,6.54,4,Infosys BPM
+2021H0329H,Electrical and Electronics Engineering,M.E,5.03,4,Fujitsu
+2021A0331A,Pharmacy,B.E,9.03,4,Cadila Healthcare
+2021A0335A,Economics and Finanace,B.E,7.14,4,FactSet
+2021A0337A,Civil Engineering,B.E,8.09,4,Unplaced
+2021P0339P,Chemisty,B.Pharm,6.63,4,Aizant
+2021A0341A,Pharmacy,B.E,6.95,4,Aizant
+2021A0342A,Civil Engineering,B.E,6.4,4,Unplaced
+2021D0344D,Computer Science and Information Systems,Ph.D,7.69,4,Unplaced
+2021H0346H,Physics,M.E,5.37,4,STMicroelectronics
+2021A0353A,Economics and Finanace,B.E,9.53,4,Credit Suisse
+2021A0355A,Economics and Finanace,B.E,7.34,4,Wells Fargo
+2021D0358D,Chemisty,Ph.D,5.6,4,Honeywell UOP
+2021D0359D,Electrical and Electronics Engineering,Ph.D,6.98,4,onsemi
+2021D0361D,Mathematics,Ph.D,6.87,4,Pharmo Solutions
+2021A0368A,Chemical Engineering,B.E,8.84,4,SABIC
+2021A0371A,Pharmacy,B.E,7.88,4,Unplaced
+2021H0372H,Mathematics,M.E,8.91,4,Qualcomm
+2021A0374A,Biological Sciences,B.E,8.12,4,Alembic Pharmaceuticals
+2021A0388A,Economics and Finanace,B.E,5.14,4,Capital IQ
+2021A0389A,Chemical Engineering,B.E,9.17,4,Monsanto
+2021A0391A,Electrical and Electronics Engineering,B.E,5.25,4,Siemens
+2021H0392H,Electrical and Electronics Engineering,M.E,5.99,4,Micron
+2021H0397H,Physics,M.E,9.98,4,NXP Semiconductors
+2021H0400H,Mathematics,M.E,5.56,4,Dell
+2021H0401H,Biological Sciences,M.E,5.04,4,Dr. Reddys Laboratories
+2021A0406A,Pharmacy,B.E,8.22,4,AstraZeneca
+2021P0413P,Pharmacy,B.Pharm,6.47,4,Aragen
+2021A0420A,Biological Sciences,B.E,6.66,4,Glenmark Pharmaceuticals
+2021S0422S,Electrical and Electronics Engineering,M.Sc,5.23,4,Toshiba
+2021A0426A,Chemical Engineering,B.E,9.84,4,AkzoNobel
+2021H0427H,Electrical and Electronics Engineering,M.E,9.28,4,onsemi
+2021H0435H,Physics,M.E,5.47,4,SAMSUNG
+2021A0442A,Physics,B.E,9.53,4,Unplaced
+2021A0446A,Biological Sciences,B.E,7.86,4,Emcure Pharmaceuticals
+2021A0447A,Economics and Finanace,B.E,5.94,4,Nomura
+2021P0448P,Humanities and Social Sciences,B.Pharm,9.96,4,Tata Consultancy Services (TCS)
+2021A0449A,Mechanical Engineering,B.E,6.31,4,Wabtec
+2021A0452A,Computer Science and Information Systems,B.E,6.7,4,Mashreq
+2021A0455A,Chemical Engineering,B.E,8.91,4,Unplaced
+2021D0457D,Chemical Engineering,Ph.D,6.14,4,Unplaced
+2021A0469A,Physics,B.E,5.76,4,Unplaced
+2021S0470S,Civil Engineering,M.Sc,6.39,4,TATA
+2021A0471A,Computer Science and Information Systems,B.E,6.95,4,ARM
+2021A0489A,Mathematics,B.E,8.71,4,Microsoft
+2021P0493P,Chemical Engineering,B.Pharm,8.13,4,ADM (Archer Daniels Midland)
+2021A0494A,Mechanical Engineering,B.E,5.84,4,Ford Motor Company
+2021D0497D,Civil Engineering,Ph.D,9.35,4,Unplaced
+2021H0498H,Physics,M.E,9.82,4,SAMSUNG
+2021H0504H,Mechanical Engineering,M.E,7.47,4,SONA COMSTAR
+2021A0505A,Pharmacy,B.E,6.33,4,КАВІ
+2021A0506A,Mathematics,B.E,8.03,4,Pharmo Solutions
+2021S0507S,Mechanical Engineering,M.Sc,7.59,4,Procter & Gamble
+2021A0510A,Economics and Finanace,B.E,7.9,4,McKinsey & Company
+2021S0512S,Economics and Finanace,M.Sc,8.24,4,Fidelity International
+2021P0514P,Electrical and Electronics Engineering,B.Pharm,9.07,4,Xilinx
+2021H0517H,Chemical Engineering,M.E,6.46,4,Baker Hughes
+2021H0528H,Physics,M.E,5.45,4,STMicroelectronics
+2021A0530A,Electrical and Electronics Engineering,B.E,6.01,4,Altera
+2021A0531A,Economics and Finanace,B.E,6.69,4,Morgan Stanley
+2021A0536A,Civil Engineering,B.E,5.47,4,Force
+2021P0541P,Economics and Finanace,B.Pharm,10.0,4,Bain & Company
+2021H0545H,Civil Engineering,M.E,9.38,4,Jacobs Engineering Group
+2021A0548A,Mechanical Engineering,B.E,7.42,4,Infineon
+2021A0550A,Electrical and Electronics Engineering,B.E,5.93,4,Unplaced
+2021A0551A,Pharmacy,B.E,7.88,4,AstraZeneca
+2021A0562A,Humanities and Social Sciences,B.E,8.09,4,ITC Limited
+2021H0568H,Physics,M.E,5.14,4,Tenstorrent
+2021A0570A,Electrical and Electronics Engineering,B.E,6.08,4,Xilinx
+2021A0572A,Economics and Finanace,B.E,6.16,4,Boston Consulting Group (BCG)
+2021H0576H,Mechanical Engineering,M.E,5.32,4,ARUP
+2021A0579A,Chemisty,B.E,5.15,4,Chevron
+2021A0581A,Chemical Engineering,B.E,9.73,4,ADM (Archer Daniels Midland)
+2021A0582A,Electrical and Electronics Engineering,B.E,6.91,4,Unplaced
+2021P0585P,Electrical and Electronics Engineering,B.Pharm,9.4,4,Renesas Electronics
+2021A0586A,Chemical Engineering,B.E,5.92,4,AkzoNobel
+2021S0600S,Mathematics,M.Sc,5.74,4,Qualcomm
+2021D0605D,Mechanical Engineering,Ph.D,9.6,4,Unplaced
+2021P0606P,Pharmacy,B.Pharm,7.74,4,Zydus
+2021A0609A,Civil Engineering,B.E,9.8,4,The Walsh Group
+2021A0611A,Economics and Finanace,B.E,5.29,4,Barclays
+2021A0614A,Mathematics,B.E,7.81,4,Unplaced
+2021H0617H,Computer Science and Information Systems,M.E,9.72,4,VISA
+2021A0620A,Economics and Finanace,B.E,7.81,4,MSCI
+2021H0638H,Economics and Finanace,M.E,9.59,4,Nomura
+2021P0640P,Mechanical Engineering,B.Pharm,8.34,4,SEDEMAC
+2021A0643A,Electrical and Electronics Engineering,B.E,8.45,4,Honeywell
+2021H0652H,Pharmacy,M.E,8.58,4,Unplaced
+2021A0656A,Chemical Engineering,B.E,7.77,4,AkzoNobel
+2021A0659A,Civil Engineering,B.E,5.19,4,Balfour Beatty
+2021P0662P,Humanities and Social Sciences,B.Pharm,8.69,4,Reliance Industries
+2021A0668A,Pharmacy,B.E,5.28,4,Alembic Pharmaceuticals
+2021A0671A,Economics and Finanace,B.E,8.29,4,Moodys Analytics
+2021A0679A,Pharmacy,B.E,6.17,4,Biocon
+2021D0680D,Biological Sciences,Ph.D,7.81,4,Unplaced
+2021A0683A,Biological Sciences,B.E,8.24,4,AstraZeneca
+2021A0685A,Pharmacy,B.E,8.08,4,Elucidata
+2021A0686A,Physics,B.E,6.19,4,MICROCHIP
+2021H0687H,Mechanical Engineering,M.E,6.25,4,Unplaced
+2021D0692D,Economics and Finanace,Ph.D,8.7,4,HSBC
+2021D0693D,Computer Science and Information Systems,Ph.D,5.72,4,Unplaced
+2021A0696A,Civil Engineering,B.E,9.71,4,WSP Global
+2021A0697A,Electrical and Electronics Engineering,B.E,7.3,4,Unplaced
+2021P0698P,Humanities and Social Sciences,B.Pharm,9.76,4,Capgemini
+2021A0699A,Economics and Finanace,B.E,6.69,4,Credit Suisse
+2021A0703A,Humanities and Social Sciences,B.E,7.74,4,Boston Consulting Group (BCG)
+2021P0706P,Pharmacy,B.Pharm,7.26,4,Unplaced
+2021A0708A,Mathematics,B.E,9.45,4,Microsoft
+2021A0709A,Mathematics,B.E,7.16,4,Microsoft
+2021S0710S,Biological Sciences,M.Sc,8.47,4,SII
+2021P0714P,Chemisty,B.Pharm,7.06,4,Biocon Biologics
+2021A0723A,Mechanical Engineering,B.E,9.52,4,Wabtec
+2021A0727A,Mathematics,B.E,9.55,4,Teradata
+2021H0728H,Chemisty,M.E,7.81,4,Aizant
+2021H0732H,Chemisty,M.E,9.4,4,Procter & Gamble
+2021A0736A,Humanities and Social Sciences,B.E,9.47,4,Google
+2021P0743P,Economics and Finanace,B.Pharm,8.01,4,Deutsche Bank
+2021P0744P,Biological Sciences,B.Pharm,8.11,4,Strand
+2021A0749A,Computer Science and Information Systems,B.E,7.24,4,BLEND360
+2021H0750H,Economics and Finanace,M.E,5.2,4,Unplaced
+2021A0754A,Electrical and Electronics Engineering,B.E,6.0,4,Unplaced
+2021H0757H,Mathematics,M.E,9.27,4,Unplaced
+2021A0768A,Mechanical Engineering,B.E,5.35,4,Caterpillar Inc.
+2021A0776A,Humanities and Social Sciences,B.E,9.09,4,Axis Bank
+2021H0777H,Mechanical Engineering,M.E,8.53,4,ABB
+2021A0791A,Physics,B.E,5.3,4,AMDET
+2021A0792A,Chemical Engineering,B.E,8.37,4,Mitsubishi Chemical Corporation
+2021P0797P,Humanities and Social Sciences,B.Pharm,6.79,4,Tata Steel
+2021A0798A,Economics and Finanace,B.E,7.5,4,Deutsche Bank
+2021S0801S,Physics,M.Sc,6.76,4,Texas Instruments
+2021H0802H,Humanities and Social Sciences,M.E,6.62,4,Unplaced
+2021S0803S,Humanities and Social Sciences,M.Sc,9.34,4,Microsoft
+2021P0804P,Humanities and Social Sciences,B.Pharm,5.76,4,Axis Bank
+2021A0807A,Electrical and Electronics Engineering,B.E,6.83,4,INSTRUMENTS
+2021A0810A,Chemical Engineering,B.E,5.08,4,Baker Hughes
+2021A0814A,Civil Engineering,B.E,5.95,4,RAMBOLL
+2021P0819P,Chemisty,B.Pharm,6.18,4,Cipla
+2021P0822P,Pharmacy,B.Pharm,6.55,4,DataZymes
+2021A0827A,Biological Sciences,B.E,7.24,4,Pfizer
+2021S0830S,Pharmacy,M.Sc,9.58,4,Unplaced
+2021D0835D,Civil Engineering,Ph.D,7.44,4,Acciona
+2021P0838P,Chemical Engineering,B.Pharm,7.65,4,Air Liquide
+2021A0845A,Computer Science and Information Systems,B.E,9.78,4,Intel
+2021P0849P,Computer Science and Information Systems,B.Pharm,6.24,4,Piramal
+2021P0852P,Computer Science and Information Systems,B.Pharm,5.13,4,Rizzle
+2021A0856A,Chemical Engineering,B.E,9.68,4,Monsanto
+2021A0857A,Computer Science and Information Systems,B.E,5.99,4,VMware
+2021A0860A,Biological Sciences,B.E,9.34,4,Lupin Limited
+2021A0861A,Economics and Finanace,B.E,5.71,4,Standard Chartered
+2021H0862H,Mathematics,M.E,5.13,4,AMD
+2021H0870H,Economics and Finanace,M.E,6.69,4,IHS Markit
+2021H0871H,Economics and Finanace,M.E,8.75,4,Moodys Analytics
+2021P0872P,Electrical and Electronics Engineering,B.Pharm,7.73,4,ON Semiconductor
+2021A0880A,Mathematics,B.E,6.6,4,Google
+2021A0882A,Mathematics,B.E,8.83,4,Cisco
+2021S0883S,Biological Sciences,M.Sc,8.35,4,Aragen
+2021A0891A,Computer Science and Information Systems,B.E,7.78,4,Samsung
+2021H0895H,Humanities and Social Sciences,M.E,5.14,4,Hindustan Unilever Limited (HUL)
+2021A0904A,Economics and Finanace,B.E,6.03,4,HSBC
+2021H0905H,Physics,M.E,6.64,4,MICROCHIP
+2021A0906A,Mechanical Engineering,B.E,8.77,4,Unplaced
+2021A0914A,Pharmacy,B.E,5.95,4,Zydus
+2021A0918A,Computer Science and Information Systems,B.E,5.71,4,Intel
+2021P0921P,Chemical Engineering,B.Pharm,8.62,4,ADM (Archer Daniels Midland)
+2021H0923H,Computer Science and Information Systems,M.E,5.11,4,Rizzle
+2021P0925P,Civil Engineering,B.Pharm,5.33,4,Gammon Construction
+2021D0926D,Biological Sciences,Ph.D,5.19,4,DataZymes
+2021A0929A,Computer Science and Information Systems,B.E,8.55,4,IBM
+2021D0933D,Pharmacy,Ph.D,5.22,4,Alembic Pharmaceuticals
+2021A0934A,Mathematics,B.E,9.76,4,Piramal
+2021A0941A,Electrical and Electronics Engineering,B.E,5.87,4,NXP Semiconductors
+2021A0943A,Computer Science and Information Systems,B.E,5.74,4,BLEND360
+2021H0951H,Physics,M.E,6.98,4,onsemi
+2021P0957P,Electrical and Electronics Engineering,B.Pharm,7.62,4,Intel
+2021P0958P,Civil Engineering,B.Pharm,7.89,4,ARCADIS
+2021A0960A,Civil Engineering,B.E,8.2,4,Balfour Beatty
+2021H0970H,Electrical and Electronics Engineering,M.E,9.72,4,LG Electronics
+2021P0973P,Computer Science and Information Systems,B.Pharm,7.14,4,Trilogy
+2021P0977P,Computer Science and Information Systems,B.Pharm,8.5,4,Unplaced
+2021H0978H,Mathematics,M.E,8.85,4,Unplaced
+2021H0981H,Electrical and Electronics Engineering,M.E,5.19,4,Honeywell
+2021A0985A,Civil Engineering,B.E,8.02,4,Unplaced
+2021A0986A,Biological Sciences,B.E,6.61,4,DataZymes
+2021H0990H,Humanities and Social Sciences,M.E,6.37,4,EY (Ernst & Young)
+2021H0992H,Computer Science and Information Systems,M.E,7.93,4,VMware
+2021D0996D,Chemical Engineering,Ph.D,6.0,4,Procter & Gamble
+2021A0999A,Civil Engineering,B.E,6.7,4,ARUP
+2021A1003A,Humanities and Social Sciences,B.E,7.48,4,Google
+2021A1005A,Pharmacy,B.E,7.72,4,Biocon
+2021P1006P,Humanities and Social Sciences,B.Pharm,5.17,4,ITC Limited
+2021H1014H,Pharmacy,M.E,5.93,4,Divis Laboratories
+2021A1023A,Pharmacy,B.E,7.37,4,Natco Pharma
+2021D1024D,Civil Engineering,Ph.D,5.5,4,Greenko Jacobs
+2021A1028A,Mechanical Engineering,B.E,5.82,4,Wabtec
+2021P1030P,Computer Science and Information Systems,B.Pharm,7.03,4,Unplaced
+2021D1031D,Biological Sciences,Ph.D,9.35,4,Cadila Healthcare
+2021H1034H,Physics,M.E,9.54,4,MEDIATEK
+2021A1035A,Mechanical Engineering,B.E,9.75,4,3SC
+2021P1038P,Humanities and Social Sciences,B.Pharm,8.87,4,Tata Steel
+2021A1044A,Computer Science and Information Systems,B.E,9.28,4,Piramal
+2021H1046H,Humanities and Social Sciences,M.E,6.69,4,Capgemini
+2021H1061H,Chemisty,M.E,9.44,4,Cipla
+2021S1062S,Economics and Finanace,M.Sc,6.23,4,Thomson Reuters
+2021D1063D,Physics,Ph.D,6.35,4,A Lam
+2021A1065A,Computer Science and Information Systems,B.E,5.62,4,Tenstorrent
+2021S1070S,Computer Science and Information Systems,M.Sc,5.25,4,Secureworks
+2021S1077S,Chemisty,M.Sc,8.92,4,Chevron
+2021A1084A,Civil Engineering,B.E,5.86,4,LISEN A TOLERO
+2021A1088A,Electrical and Electronics Engineering,B.E,6.1,4,Unplaced
+2021A1091A,Civil Engineering,B.E,8.36,4,AECOM
+2021A1092A,Mechanical Engineering,B.E,9.3,4,JK Fenner
+2021P1094P,Chemical Engineering,B.Pharm,7.04,4,ADM (Archer Daniels Midland)
+2021A1095A,Humanities and Social Sciences,B.E,5.75,4,Infosys
+2021H1099H,Economics and Finanace,M.E,5.1,4,Moodys Investors Service
+2021H1101H,Chemisty,M.E,8.52,4,ADITYA BIRLA
+2021A1103A,Civil Engineering,B.E,6.57,4,Acciona
+2021P1105P,Civil Engineering,B.Pharm,6.9,4,Force
+2021A1107A,Pharmacy,B.E,8.49,4,Unplaced
+2021A1108A,Physics,B.E,9.0,4,proteanTecs
+2021A1109A,Mechanical Engineering,B.E,6.73,4,Honda
+2021S1110S,Biological Sciences,M.Sc,7.45,4,Cadila Healthcare
+2021D1125D,Computer Science and Information Systems,Ph.D,7.74,4,Unplaced
+2021A1129A,Mathematics,B.E,5.62,4,Pharmo Solutions
+2021A1138A,Mechanical Engineering,B.E,8.92,4,Shell
+2021A1142A,Biological Sciences,B.E,6.44,4,Strand
+2021D1143D,Pharmacy,Ph.D,8.77,4,ADITYA BIRLA
+2021A1145A,Mechanical Engineering,B.E,7.89,4,Honda
+2021A1146A,Computer Science and Information Systems,B.E,7.62,4,VMware
+2021A1147A,Chemisty,B.E,7.52,4,DuPont
+2021D1150D,Computer Science and Information Systems,Ph.D,5.58,4,Rizzle
+2021A1155A,Pharmacy,B.E,8.97,4,Alkem Laboratories
+2021A1157A,Humanities and Social Sciences,B.E,6.26,4,Deloitte
+2021A1159A,Civil Engineering,B.E,7.32,4,The Walsh Group
+2021H1162H,Economics and Finanace,M.E,5.27,4,American Express
+2021A1163A,Electrical and Electronics Engineering,B.E,9.44,4,Siemens
+2021D1172D,Humanities and Social Sciences,Ph.D,7.02,4,Infosys
+2021A1175A,Humanities and Social Sciences,B.E,8.79,4,Unplaced
+2021A1177A,Chemisty,B.E,9.66,4,Shell
+2021H1178H,Economics and Finanace,M.E,8.3,4,Fitch Ratings
+2021A1199A,Civil Engineering,B.E,9.07,4,Unplaced
+2021H1201H,Humanities and Social Sciences,M.E,9.86,4,Unplaced
+2021A1207A,Electrical and Electronics Engineering,B.E,8.71,4,Toshiba
+2021A1209A,Civil Engineering,B.E,5.81,4,Unplaced
+2021D1211D,Biological Sciences,Ph.D,7.18,4,DataZymes
+2021A1214A,Computer Science and Information Systems,B.E,6.18,4,ARM
+2021D1215D,Electrical and Electronics Engineering,Ph.D,7.94,4,MEDIATEK
+2021H1221H,Chemisty,M.E,7.7,4,Sun Pharmaceutical Industries
+2021A1230A,Chemisty,B.E,9.49,4,КАВІ
+2021A1238A,Pharmacy,B.E,5.81,4,AstraZeneca
+2021P1240P,Computer Science and Information Systems,B.Pharm,8.27,4,Infineon
+2021H1245H,Chemisty,M.E,5.54,4,Cipla
+2021H1248H,Mechanical Engineering,M.E,6.2,4,Rolls-Royce
+2021A1250A,Physics,B.E,6.05,4,Texas Instruments
+2021P1254P,Electrical and Electronics Engineering,B.Pharm,5.93,4,Texas Instruments
+2021H1255H,Humanities and Social Sciences,M.E,8.29,4,Infosys
+2021A1256A,Physics,B.E,9.31,4,SEDEMAC
+2021H1257H,Chemisty,M.E,9.08,4,ADITYA BIRLA
+2021A1260A,Computer Science and Information Systems,B.E,7.08,4,Unplaced
+2021A1262A,Civil Engineering,B.E,7.56,4,The Walsh Group
+2021A1272A,Mathematics,B.E,9.98,4,Unplaced
+2021A1275A,Humanities and Social Sciences,B.E,9.15,4,Unplaced
+2021A1281A,Biological Sciences,B.E,6.11,4,Aurobindo Pharma
+2021A1282A,Civil Engineering,B.E,6.98,4,Bechtel Corporation
+2021H1284H,Mathematics,M.E,9.07,4,Microsoft
+2021A1286A,Mechanical Engineering,B.E,8.32,4,Caterpillar Inc.
+2021A1288A,Chemical Engineering,B.E,9.28,4,AkzoNobel
+2021A1292A,Pharmacy,B.E,6.23,4,DataZymes
+2021A1295A,Electrical and Electronics Engineering,B.E,5.81,4,Unplaced
+2021H1302H,Humanities and Social Sciences,M.E,6.69,4,Procter & Gamble
+2021P1311P,Biological Sciences,B.Pharm,6.7,4,Unplaced
+2021A1312A,Electrical and Electronics Engineering,B.E,5.52,4,Altera
+2021A1313A,Civil Engineering,B.E,5.84,4,Unplaced
+2021A1315A,Physics,B.E,6.13,4,Unplaced
+2021H1316H,Mathematics,M.E,8.85,4,Unplaced
+2021A1324A,Mechanical Engineering,B.E,5.68,4,ANAND
+2021A1331A,Physics,B.E,6.29,4,STMicroelectronics
+2021D1332D,Chemisty,Ph.D,6.4,4,Procter & Gamble
+2021A1346A,Computer Science and Information Systems,B.E,9.59,4,ARM
+2021H1351H,Humanities and Social Sciences,M.E,9.05,4,Unplaced
+2021A1356A,Pharmacy,B.E,9.06,4,Unplaced
+2021S1362S,Electrical and Electronics Engineering,M.Sc,6.06,4,Intel
+2021A1364A,Economics and Finanace,B.E,5.68,4,Unplaced
+2021A1367A,Physics,B.E,7.1,4,Intel
+2021H1368H,Biological Sciences,M.E,9.89,4,Strand
+2021A1380A,Economics and Finanace,B.E,6.63,4,McKinsey & Company
+2021A1391A,Electrical and Electronics Engineering,B.E,8.85,4,Renesas Electronics
+2021A1392A,Mathematics,B.E,5.33,4,Cisco
+2021A1396A,Chemisty,B.E,7.4,4,Aragen
+2021H1411H,Physics,M.E,6.53,4,MICROCHIP
+2021A1413A,Mechanical Engineering,B.E,6.0,4,CYNLR
+2021D1423D,Chemical Engineering,Ph.D,8.4,4,Linde
+2021S1426S,Computer Science and Information Systems,M.Sc,5.06,4,VISA
+2021A1427A,Chemical Engineering,B.E,9.96,4,"KBR, Inc."
+2021A1436A,Mechanical Engineering,B.E,6.39,4,Unplaced
+2021A1443A,Civil Engineering,B.E,5.66,4,COWI
+2021H1450H,Pharmacy,M.E,9.21,4,Aurobindo Pharma
+2021H1452H,Civil Engineering,M.E,5.37,4,TATA
+2021A1456A,Humanities and Social Sciences,B.E,7.12,4,HDFC Bank
+2021A1459A,Civil Engineering,B.E,7.03,4,Unplaced
+2021H1470H,Chemisty,M.E,5.22,4,Eastman Chemical Company
+2021H1473H,Mechanical Engineering,M.E,7.21,4,General Electric (GE)
+2021A1475A,Physics,B.E,8.8,4,Panasonic
+2021H1481H,Chemical Engineering,M.E,8.44,4,DuPont
+2021H1488H,Mechanical Engineering,M.E,8.34,4,Unplaced
+2021H1492H,Electrical and Electronics Engineering,M.E,7.34,4,Renesas Electronics
+2021H1497H,Mathematics,M.E,5.75,4,Microsoft
+2021A1498A,Mechanical Engineering,B.E,5.61,4,3SC
+2021A1503A,Mathematics,B.E,8.57,4,Flipkart
+2021A1505A,Electrical and Electronics Engineering,B.E,8.01,4,AMDET
+2021A1509A,Biological Sciences,B.E,9.64,4,Torrent Pharmaceuticals
+2021H1513H,Pharmacy,M.E,5.89,4,ADITYA BIRLA
+2021A1516A,Mathematics,B.E,8.24,4,Dell
+2021D1522D,Economics and Finanace,Ph.D,8.61,4,S&P Global
+2021A1525A,Electrical and Electronics Engineering,B.E,6.46,4,Hitachi
+2021H1532H,Pharmacy,M.E,5.42,4,Cadila Healthcare
+2021A1546A,Chemical Engineering,B.E,5.45,4,Praxair
+2021A1550A,Humanities and Social Sciences,B.E,6.08,4,Capgemini
+2021A1554A,Mechanical Engineering,B.E,8.81,4,Unplaced
+2021A1556A,Humanities and Social Sciences,B.E,9.8,4,Accenture
+2021A1560A,Mechanical Engineering,B.E,5.53,4,General Electric (GE)
+2021A1563A,Humanities and Social Sciences,B.E,8.18,4,ITC Limited
+2021A1566A,Mechanical Engineering,B.E,8.4,4,Siemens
+2021H1572H,Civil Engineering,M.E,6.99,4,Unplaced
+2021A1580A,Chemisty,B.E,7.6,4,Unplaced
+2021H1583H,Civil Engineering,M.E,7.46,4,Stantec
+2021A1590A,Biological Sciences,B.E,6.93,4,Alembic Pharmaceuticals
+2021A1595A,Electrical and Electronics Engineering,B.E,7.86,4,AMDET
+2021A1596A,Pharmacy,B.E,9.24,4,Zydus Cadila
+2021A1602A,Economics and Finanace,B.E,6.49,4,Credit Suisse
+2021P1611P,Biological Sciences,B.Pharm,8.57,4,КАВІ
+2021H1613H,Electrical and Electronics Engineering,M.E,8.78,4,Honeywell
+2021D1614D,Mechanical Engineering,Ph.D,7.86,4,CYNLR
+2021A1615A,Pharmacy,B.E,6.48,4,Alkem Laboratories
+2021A1624A,Computer Science and Information Systems,B.E,8.9,4,Unplaced
+2021H1627H,Mathematics,M.E,7.36,4,Microsoft
+2021S1628S,Pharmacy,M.Sc,5.59,4,Aurobindo Pharma
+2021A1637A,Chemisty,B.E,9.51,4,DataZymes
+2021A1640A,Mathematics,B.E,8.38,4,Google
+2021A1641A,Pharmacy,B.E,6.33,4,Dr. Reddys Laboratories
+2021A1642A,Mechanical Engineering,B.E,6.89,4,ABB
+2021H1644H,Biological Sciences,M.E,7.81,4,Cipla
+2021A1654A,Biological Sciences,B.E,8.34,4,Sun Pharmaceutical Industries
+2021A1655A,Mechanical Engineering,B.E,6.95,4,Shell
+2021H1662H,Physics,M.E,6.61,4,SEDEMAC
+2021A1664A,Mechanical Engineering,B.E,9.75,4,Wabtec
+2021P1667P,Biological Sciences,B.Pharm,9.48,4,Abbott Laboratories
+2021A1668A,Humanities and Social Sciences,B.E,7.99,4,Capgemini
+2021A1669A,Chemisty,B.E,5.29,4,Sun Pharmaceutical Industries
+2021A1670A,Chemisty,B.E,8.63,4,Unplaced
+2021A1673A,Physics,B.E,9.36,4,Panasonic
+2021S1681S,Civil Engineering,M.Sc,6.72,4,Gammon Construction
+2021A1692A,Biological Sciences,B.E,5.7,4,Emcure Pharmaceuticals
+2021A1697A,Chemisty,B.E,9.53,4,Elucidata
+2021D1700D,Pharmacy,Ph.D,5.46,4,Zydus Cadila
+2021A1704A,Physics,B.E,9.15,4,SAMSUNG
+2021P1710P,Humanities and Social Sciences,B.Pharm,8.93,4,Microsoft
+2021A1713A,Electrical and Electronics Engineering,B.E,9.3,4,Honeywell
+2021H1719H,Pharmacy,M.E,5.8,4,ADITYA BIRLA
+2021S1721S,Biological Sciences,M.Sc,8.89,4,GSK Pharmaceuticals
+2021S1722S,Chemical Engineering,M.Sc,8.43,4,AkzoNobel
+2021A1726A,Economics and Finanace,B.E,7.84,4,Moodys Investors Service
+2021H1732H,Pharmacy,M.E,9.21,4,Unplaced
+2021H1737H,Humanities and Social Sciences,M.E,8.13,4,EY (Ernst & Young)
+2021A1738A,Biological Sciences,B.E,8.48,4,Strand
+2021S1740S,Civil Engineering,M.Sc,9.48,4,Stantec
+2021A1743A,Biological Sciences,B.E,9.67,4,SII
+2021A1745A,Mechanical Engineering,B.E,5.32,4,Unplaced
+2021S1746S,Humanities and Social Sciences,M.Sc,8.05,4,Unplaced
+2021A1747A,Electrical and Electronics Engineering,B.E,7.71,4,Ricoh
+2021H1760H,Computer Science and Information Systems,M.E,6.26,4,Amazon
+2021A1770A,Physics,B.E,9.95,4,STMicroelectronics
+2021A1777A,Economics and Finanace,B.E,5.13,4,Fidelity International
+2021A1778A,Mathematics,B.E,6.31,4,Microsoft
+2021A1784A,Chemical Engineering,B.E,9.57,4,Chevron
+2021P1793P,Civil Engineering,B.Pharm,8.99,4,Unplaced
+2021A1804A,Economics and Finanace,B.E,7.79,4,Barclays
+2021A1806A,Mechanical Engineering,B.E,7.53,4,SONA COMSTAR
+2021H1810H,Mathematics,M.E,8.16,4,Flipkart
+2021S1826S,Computer Science and Information Systems,M.Sc,9.26,4,BLEND360
+2021H1827H,Electrical and Electronics Engineering,M.E,7.93,4,SILICON LABS
+2021D1829D,Electrical and Electronics Engineering,Ph.D,7.25,4,Intel
+2021A1830A,Physics,B.E,9.75,4,Micron
+2021P1839P,Mechanical Engineering,B.Pharm,5.46,4,Lockheed Martin
+2021A1842A,Humanities and Social Sciences,B.E,5.8,4,HDFC Bank
+2021H1848H,Mathematics,M.E,8.14,4,Unplaced
+2021P1851P,Pharmacy,B.Pharm,8.71,4,SII
+2021P1854P,Humanities and Social Sciences,B.Pharm,9.8,4,Amazon
+2021P1868P,Computer Science and Information Systems,B.Pharm,7.09,4,Secureworks
+2021A1869A,Physics,B.E,8.22,4,Texas Instruments
+2021A1870A,Civil Engineering,B.E,5.81,4,Jacobs Engineering Group
+2021P1873P,Mechanical Engineering,B.Pharm,9.05,4,Unplaced
+2021A1875A,Chemisty,B.E,9.47,4,Eastman Chemical Company
+2021H1878H,Economics and Finanace,M.E,6.23,4,American Express
+2021A1883A,Chemisty,B.E,8.97,4,Biocon Biologics
+2021A1886A,Mathematics,B.E,7.44,4,Pharmo Solutions
+2021A1887A,Mathematics,B.E,7.52,4,Teradata
+2021P1890P,Civil Engineering,B.Pharm,8.19,4,Kiewit Corporation
+2021S1902S,Biological Sciences,M.Sc,7.88,4,Glenmark Pharmaceuticals
+2021A1903A,Chemical Engineering,B.E,6.05,4,Wood Group
+2021A1907A,Chemisty,B.E,5.59,4,Eastman Chemical Company
+2021A1910A,Chemical Engineering,B.E,5.56,4,LyondellBasell
+2021P1914P,Pharmacy,B.Pharm,8.71,4,Aragen
+2021D1922D,Biological Sciences,Ph.D,8.95,4,Alembic Pharmaceuticals
+2021A1931A,Chemisty,B.E,8.9,4,Unplaced
+2021H1939H,Biological Sciences,M.E,5.7,4,GSK Pharmaceuticals
+2021A1952A,Biological Sciences,B.E,8.08,4,КАВІ
+2021S1953S,Humanities and Social Sciences,M.Sc,7.82,4,Hindustan Unilever Limited (HUL)
+2021A1955A,Mechanical Engineering,B.E,5.32,4,ABB
+2021D1963D,Biological Sciences,Ph.D,9.03,4,Zydus
+2021P1964P,Civil Engineering,B.Pharm,5.5,4,"Skidmore, Owings & Merrill (SOM)"
+2021A1971A,Civil Engineering,B.E,7.54,4,Unplaced
+2021H1976H,Humanities and Social Sciences,M.E,6.5,4,Deloitte
+2021P1978P,Biological Sciences,B.Pharm,5.09,4,Glenmark Pharmaceuticals
+2021A1980A,Humanities and Social Sciences,B.E,7.13,4,Cognizant
+2021A1984A,Mechanical Engineering,B.E,7.01,4,Unplaced
+2021A1985A,Computer Science and Information Systems,B.E,9.19,4,Unplaced
+2021A1988A,Chemisty,B.E,8.5,4,Unplaced
+2021H1993H,Humanities and Social Sciences,M.E,7.94,4,Unplaced
+2021A2002A,Mechanical Engineering,B.E,6.49,4,SONA COMSTAR
+2021A2003A,Electrical and Electronics Engineering,B.E,8.92,4,Unplaced
+2021A2005A,Civil Engineering,B.E,7.32,4,TATA
+2021A2006A,Pharmacy,B.E,5.6,4,Aizant
+2021H2008H,Chemical Engineering,M.E,7.05,4,Baker Hughes
+2021A2009A,Chemical Engineering,B.E,5.74,4,SABIC
+2021S2010S,Computer Science and Information Systems,M.Sc,9.76,4,Piramal
+2021D2024D,Civil Engineering,Ph.D,6.85,4,Unplaced
+2021A2035A,Mathematics,B.E,5.23,4,Cisco
+2021H2037H,Chemisty,M.E,9.21,4,Unplaced
+2021H2038H,Mechanical Engineering,M.E,5.43,4,Unplaced
+2021A2040A,Chemisty,B.E,7.55,4,Cipla
+2021A2042A,Chemisty,B.E,8.0,4,Aragen
+2021A2044A,Humanities and Social Sciences,B.E,8.63,4,KPMG
+2021D2045D,Mechanical Engineering,Ph.D,9.72,4,Unplaced
+2021H2053H,Chemical Engineering,M.E,8.9,4,Unplaced
+2021A2054A,Mechanical Engineering,B.E,8.99,4,Mercedes Benz
+2021A2058A,Physics,B.E,6.32,4,Unplaced
+2021P2063P,Mechanical Engineering,B.Pharm,8.8,4,Micron
+2021H2067H,Mechanical Engineering,M.E,5.21,4,Faurecia
+2021H2068H,Chemisty,M.E,9.93,4,kmk
+2021H2069H,Humanities and Social Sciences,M.E,5.76,4,ITC Limited
+2021A2070A,Mechanical Engineering,B.E,7.88,4,Johnson Controls
+2021A2076A,Civil Engineering,B.E,6.07,4,TATA
+2021A2079A,Mathematics,B.E,7.56,4,Piramal
+2021S2083S,Chemical Engineering,M.Sc,8.08,4,Wood Group
+2021A2087A,Humanities and Social Sciences,B.E,8.78,4,Unplaced
+2021H2092H,Chemical Engineering,M.E,6.36,4,SABIC
+2021H2097H,Physics,M.E,9.88,4,Intel
+2021A2098A,Physics,B.E,8.09,4,Intel
+2021A2099A,Computer Science and Information Systems,B.E,9.65,4,Samsung
+2021A2105A,Biological Sciences,B.E,9.22,4,Unplaced
+2021H2106H,Economics and Finanace,M.E,6.23,4,S&P Global
+2021A2108A,Chemical Engineering,B.E,7.37,4,Unplaced
+2021A2110A,Mechanical Engineering,B.E,7.69,4,Honda
+2021P2118P,Chemisty,B.Pharm,5.23,4,Biocon Biologics
+2021P2120P,Mechanical Engineering,B.Pharm,7.17,4,Rolls-Royce
+2021H2121H,Electrical and Electronics Engineering,M.E,5.25,4,CISCO
+2021A2125A,Mathematics,B.E,9.46,4,Dell
+2021P2129P,Computer Science and Information Systems,B.Pharm,8.99,4,GE HealthCare
+2021A2134A,Biological Sciences,B.E,5.05,4,Torrent Pharmaceuticals
+2021P2137P,Humanities and Social Sciences,B.Pharm,7.14,4,Google
+2021H2143H,Mathematics,M.E,8.98,4,Unplaced
+2021A2145A,Chemical Engineering,B.E,7.37,4,Solvay
+2021P2150P,Computer Science and Information Systems,B.Pharm,7.23,4,Unplaced
+2021A2151A,Computer Science and Information Systems,B.E,9.26,4,Secureworks
+2021D2154D,Civil Engineering,Ph.D,8.68,4,Leighton Holdings
+2021A2156A,Physics,B.E,7.94,4,Unplaced
+2021A2162A,Computer Science and Information Systems,B.E,5.24,4,Mediatek
+2021A2167A,Chemisty,B.E,9.67,4,Sun Pharmaceutical Industries
+2021A2168A,Computer Science and Information Systems,B.E,8.85,4,Samsung
+2021A2170A,Humanities and Social Sciences,B.E,7.19,4,Deloitte
+2021P2177P,Chemical Engineering,B.Pharm,8.03,4,LyondellBasell
+2021A2185A,Mathematics,B.E,5.35,4,Dell
+2021A2187A,Mathematics,B.E,9.53,4,Unplaced
+2021H2197H,Mathematics,M.E,8.68,4,AMD
+2021A2201A,Humanities and Social Sciences,B.E,5.52,4,Unplaced
+2021P2202P,Pharmacy,B.Pharm,5.69,4,Unplaced
+2021A2204A,Physics,B.E,9.93,4,SynOPSYS
+2021P2209P,Chemisty,B.Pharm,9.88,4,Biocon Biologics
+2021A2217A,Chemical Engineering,B.E,8.46,4,Bayer
+2021H2219H,Biological Sciences,M.E,9.55,4,SII
+2021A2221A,Computer Science and Information Systems,B.E,5.95,4,Mediatek
+2021P2226P,Civil Engineering,B.Pharm,6.57,4,Thornton Tomasetti
+2021A2229A,Humanities and Social Sciences,B.E,9.18,4,Tata Consultancy Services (TCS)
+2021H2231H,Economics and Finanace,M.E,9.76,4,S&P Global
+2021P2234P,Electrical and Electronics Engineering,B.Pharm,7.16,4,Hitachi
+2021A2236A,Biological Sciences,B.E,9.52,4,DataZymes
+2021H2239H,Computer Science and Information Systems,M.E,5.01,4,VMware
+2021A2240A,Mathematics,B.E,6.62,4,MathWorks
+2021A2245A,Computer Science and Information Systems,B.E,7.77,4,BLEND360
+2021H2246H,Mathematics,M.E,8.63,4,Unplaced
+2021P2247P,Chemisty,B.Pharm,6.94,4,КАВІ
+2021A2248A,Biological Sciences,B.E,7.64,4,Unplaced
+2021P2249P,Pharmacy,B.Pharm,7.83,4,ADITYA BIRLA
+2021A2250A,Mathematics,B.E,9.98,4,Unplaced
+2021D2252D,Economics and Finanace,Ph.D,9.01,4,JP Morgan
+2021A2254A,Mechanical Engineering,B.E,7.27,4,FORVIA
+2021D2261D,Chemisty,Ph.D,9.7,4,Elucidata
+2021A2263A,Chemical Engineering,B.E,7.3,4,Covestro
+2021H2267H,Computer Science and Information Systems,M.E,5.46,4,Unplaced
+2021H2269H,Chemisty,M.E,5.7,4,Aizant
+2021A2274A,Pharmacy,B.E,6.47,4,SII
+2021D2279D,Physics,Ph.D,5.25,4,Intel
+2021A2283A,Computer Science and Information Systems,B.E,9.24,4,Intel
+2021S2286S,Biological Sciences,M.Sc,5.29,4,Unplaced
+2021A2288A,Chemisty,B.E,8.44,4,BASF
+2021D2289D,Civil Engineering,Ph.D,5.45,4,Assystem Stup
+2021A2294A,Biological Sciences,B.E,8.05,4,Aurobindo Pharma
+2021A2298A,Civil Engineering,B.E,9.74,4,Stantec
+2021S2300S,Civil Engineering,M.Sc,5.22,4,Force
+2021H2302H,Pharmacy,M.E,5.07,4,Unplaced
+2021P2307P,Mechanical Engineering,B.Pharm,7.61,4,Rolls-Royce
+2021D2316D,Chemisty,Ph.D,6.76,4,Chevron
+2021H2321H,Electrical and Electronics Engineering,M.E,7.65,4,Ricoh
+2021A2322A,Computer Science and Information Systems,B.E,9.9,4,PEGA
+2021A2323A,Biological Sciences,B.E,8.73,4,Unplaced
+2021H2330H,Economics and Finanace,M.E,6.67,4,Unplaced
+2021S2333S,Economics and Finanace,M.Sc,5.4,4,Moodys Investors Service
+2021A2340A,Chemical Engineering,B.E,7.31,4,Unplaced
+2021A2343A,Physics,B.E,9.71,4,MEDIATEK
+2021H2345H,Chemisty,M.E,8.17,4,Cipla
+2021H2352H,Biological Sciences,M.E,5.79,4,Unplaced
+2021S2359S,Humanities and Social Sciences,M.Sc,5.5,4,Capgemini
+2021A2365A,Biological Sciences,B.E,5.05,4,Unplaced
+2021A2370A,Biological Sciences,B.E,9.39,4,GSK Pharmaceuticals
+2021S2378S,Chemisty,M.Sc,5.23,4,Sun Pharmaceutical Industries
+2021P2379P,Chemical Engineering,B.Pharm,5.17,4,Wood Group
+2021H2381H,Pharmacy,M.E,5.1,4,DataZymes
+2021A2382A,Mathematics,B.E,5.29,4,Microsoft
+2021S2389S,Civil Engineering,M.Sc,5.1,4,Unplaced
+2021A2393A,Chemical Engineering,B.E,7.47,4,Evonik Industries
+2021H2394H,Economics and Finanace,M.E,6.28,4,Moodys Analytics
+2021H2395H,Chemisty,M.E,6.43,4,Unplaced
+2021S2401S,Mechanical Engineering,M.Sc,5.2,4,FORVIA
+2021P2403P,Biological Sciences,B.Pharm,8.19,4,Unplaced
+2021A2406A,Chemical Engineering,B.E,6.92,4,Unplaced
+2021H2409H,Humanities and Social Sciences,M.E,6.67,4,Unplaced
+2021D2411D,Chemical Engineering,Ph.D,5.85,4,Bayer
+2021D2417D,Chemical Engineering,Ph.D,6.28,4,Air Liquide
+2021A2425A,Mathematics,B.E,7.86,4,Pharmo Solutions
+2021D2431D,Mechanical Engineering,Ph.D,8.75,4,Unplaced
+2021A2436A,Chemical Engineering,B.E,7.74,4,Mitsubishi Chemical Corporation
+2021S2437S,Mechanical Engineering,M.Sc,9.71,4,SONA COMSTAR
+2021S2441S,Chemisty,M.Sc,8.61,4,Chevron
+2021A2462A,Biological Sciences,B.E,7.04,4,Torrent Pharmaceuticals
+2021H2474H,Chemical Engineering,M.E,8.1,4,Procter & Gamble
+2021A2476A,Civil Engineering,B.E,9.69,4,Assystem Stup
+2021H2479H,Electrical and Electronics Engineering,M.E,9.21,4,Hitachi
+2021A2481A,Electrical and Electronics Engineering,B.E,6.17,4,MEDIATEK
+2021A2482A,Chemisty,B.E,5.42,4,kmk
+2021A2485A,Computer Science and Information Systems,B.E,8.28,4,Texas Instruments
+2021H2489H,Biological Sciences,M.E,6.51,4,Sun Pharmaceutical Industries
+2021S2491S,Chemisty,M.Sc,6.93,4,ADITYA BIRLA
+2021P2493P,Computer Science and Information Systems,B.Pharm,6.08,4,Flipkart
+2021H2499H,Physics,M.E,8.11,4,Unplaced
+2021H2501H,Physics,M.E,5.42,4,Unplaced
+2021A2509A,Physics,B.E,9.17,4,A Lam
+2021A2511A,Economics and Finanace,B.E,9.32,4,Unplaced
+2021S2513S,Humanities and Social Sciences,M.Sc,6.65,4,Microsoft
+2021A2517A,Electrical and Electronics Engineering,B.E,6.85,4,Ricoh
+2021P2518P,Computer Science and Information Systems,B.Pharm,6.97,4,Mediatek
+2021A2536A,Physics,B.E,9.05,4,AMDET
+2021A2537A,Mechanical Engineering,B.E,7.06,4,Shell
+2021H2542H,Chemical Engineering,M.E,6.84,4,Unplaced
+2021H2546H,Electrical and Electronics Engineering,M.E,9.45,4,Ricoh
+2021H2547H,Computer Science and Information Systems,M.E,6.34,4,Micron
+2021A2554A,Electrical and Electronics Engineering,B.E,5.94,4,Unplaced
+2021S2568S,Civil Engineering,M.Sc,5.61,4,Gammon Construction
+2021S2572S,Mechanical Engineering,M.Sc,8.63,4,ABB
+2021H2576H,Pharmacy,M.E,8.47,4,Torrent Pharmaceuticals
+2021D2579D,Biological Sciences,Ph.D,6.44,4,SII
+2021A2584A,Biological Sciences,B.E,7.76,4,Unplaced
+2021H2585H,Biological Sciences,M.E,7.56,4,Aurobindo Pharma
+2021A2589A,Humanities and Social Sciences,B.E,5.62,4,Capgemini
+2021A2592A,Physics,B.E,5.45,4,Unplaced
+2021A2593A,Pharmacy,B.E,8.97,4,Natco Pharma
+2021P2608P,Electrical and Electronics Engineering,B.Pharm,6.21,4,Honeywell
+2021H2610H,Mathematics,M.E,5.28,4,Flipkart
+2021A2619A,Pharmacy,B.E,7.0,4,Wockhardt
+2021A2621A,Economics and Finanace,B.E,8.65,4,Boston Consulting Group (BCG)
+2021H2630H,Mechanical Engineering,M.E,6.61,4,Siemens
+2021P2633P,Biological Sciences,B.Pharm,6.27,4,Unplaced
+2021H2635H,Mechanical Engineering,M.E,9.33,4,CYNLR
+2021H2638H,Mechanical Engineering,M.E,6.22,4,Unplaced
+2021P2639P,Mechanical Engineering,B.Pharm,7.02,4,Unplaced
+2021A2640A,Electrical and Electronics Engineering,B.E,5.18,4,Texas Instruments
+2021A2641A,Civil Engineering,B.E,5.37,4,TATA
+2021P2644P,Chemisty,B.Pharm,7.19,4,Aizant
+2021A2645A,Pharmacy,B.E,8.82,4,Unplaced
+2021A2646A,Economics and Finanace,B.E,8.48,4,Unplaced
+2021A2657A,Computer Science and Information Systems,B.E,7.82,4,Google
+2021A2659A,Biological Sciences,B.E,5.7,4,DataZymes
+2021A2660A,Electrical and Electronics Engineering,B.E,6.53,4,Infineon
+2021H2661H,Humanities and Social Sciences,M.E,7.0,4,Accenture
+2021A2664A,Electrical and Electronics Engineering,B.E,9.45,4,SynOPSYS
+2021A2666A,Economics and Finanace,B.E,5.17,4,Barclays
+2021A2668A,Humanities and Social Sciences,B.E,6.0,4,Hindustan Unilever Limited (HUL)
+2021S2672S,Chemisty,M.Sc,7.85,4,Biocon Biologics
+2021S2674S,Physics,M.Sc,6.85,4,AMDET
+2021H2685H,Computer Science and Information Systems,M.E,8.06,4,ARM
+2021H2692H,Mathematics,M.E,7.1,4,Flipkart
+2021A2695A,Biological Sciences,B.E,9.99,4,Alembic Pharmaceuticals
+2021D2699D,Civil Engineering,Ph.D,6.44,4,Balfour Beatty
+2021P2702P,Biological Sciences,B.Pharm,6.51,4,Unplaced
+2021D2708D,Civil Engineering,Ph.D,8.67,4,Stantec
+2021A2710A,Mathematics,B.E,8.53,4,Pharmo Solutions
+2021D2712D,Pharmacy,Ph.D,8.39,4,FRESENIUS
+2021D2713D,Biological Sciences,Ph.D,7.78,4,Unplaced
+2021H2717H,Physics,M.E,6.64,4,onsemi
+2021S2723S,Civil Engineering,M.Sc,5.97,4,Orascom Construction
+2021H2724H,Computer Science and Information Systems,M.E,5.92,4,Intel
+2021A2726A,Computer Science and Information Systems,B.E,6.16,4,Dell
+2021P2727P,Mechanical Engineering,B.Pharm,7.08,4,Wabtec
+2021A2731A,Mechanical Engineering,B.E,9.3,4,Unplaced
+2021A2733A,Pharmacy,B.E,5.45,4,Unplaced
+2021A2747A,Computer Science and Information Systems,B.E,7.04,4,Samsung
+2021H2749H,Pharmacy,M.E,9.5,4,kmk
+2021P2764P,Biological Sciences,B.Pharm,7.2,4,Torrent Pharmaceuticals
+2021A2765A,Computer Science and Information Systems,B.E,8.3,4,Wabtec
+2021A2767A,Humanities and Social Sciences,B.E,8.21,4,Infosys
+2021A2768A,Economics and Finanace,B.E,9.12,4,Deloitte
+2021A2771A,Pharmacy,B.E,7.71,4,Ipca Laboratories
+2021P2772P,Chemisty,B.Pharm,8.94,4,freyr
+2021H2783H,Civil Engineering,M.E,8.48,4,COWI
+2021A2785A,Humanities and Social Sciences,B.E,9.28,4,IBM
+2021A2792A,Chemisty,B.E,9.53,4,kmk
+2021H2796H,Chemisty,M.E,5.72,4,Aizant
+2021A2798A,Pharmacy,B.E,9.05,4,AstraZeneca
+2021A2803A,Computer Science and Information Systems,B.E,7.51,4,Unplaced
+2021P2809P,Civil Engineering,B.Pharm,8.94,4,COWI
+2021H2814H,Humanities and Social Sciences,M.E,9.61,4,American Express
+2021D2817D,Electrical and Electronics Engineering,Ph.D,5.4,4,Cypress Semiconductor
+2021P2822P,Chemical Engineering,B.Pharm,6.61,4,Air Liquide
+2021A2824A,Economics and Finanace,B.E,8.79,4,Standard Chartered
+2021A2825A,Civil Engineering,B.E,7.18,4,Jacobs Engineering Group
+2021H2841H,Electrical and Electronics Engineering,M.E,7.72,4,Renesas Electronics
+2021H2848H,Mechanical Engineering,M.E,9.64,4,Oeing Lie
+2021S2849S,Humanities and Social Sciences,M.Sc,8.19,4,Microsoft
+2021A2851A,Physics,B.E,9.8,4,MICROCHIP
+2021A2852A,Computer Science and Information Systems,B.E,9.73,4,Piramal
+2021A2856A,Chemical Engineering,B.E,8.05,4,Unplaced
+2021A2862A,Chemical Engineering,B.E,7.36,4,Mitsubishi Chemical Corporation
+2021A2863A,Chemisty,B.E,9.13,4,Unplaced
+2021H2868H,Biological Sciences,M.E,6.1,4,Lupin Limited
+2021A2872A,Mathematics,B.E,6.68,4,Unplaced
+2021D2879D,Biological Sciences,Ph.D,7.26,4,Cadila Healthcare
+2021A2880A,Chemisty,B.E,9.11,4,Eastman Chemical Company
+2021A2883A,Mathematics,B.E,8.05,4,Intel
+2021A2885A,Civil Engineering,B.E,9.07,4,Parsons Corporation
+2021H2887H,Pharmacy,M.E,5.57,4,Emcure Pharmaceuticals
+2021A2894A,Economics and Finanace,B.E,9.49,4,IHS Markit
+2021H2897H,Electrical and Electronics Engineering,M.E,9.76,4,Altera
+2021H2902H,Chemical Engineering,M.E,8.11,4,AkzoNobel
+2021A2903A,Mechanical Engineering,B.E,7.22,4,Unplaced
+2021S2905S,Economics and Finanace,M.Sc,9.85,4,McKinsey & Company
+2021A2911A,Physics,B.E,9.77,4,proteanTecs
+2021A2920A,Humanities and Social Sciences,B.E,6.34,4,IBM
+2021S2921S,Chemisty,M.Sc,8.82,4,КАВІ
+2021S2923S,Chemical Engineering,M.Sc,8.82,4,LyondellBasell
+2021H2925H,Mathematics,M.E,8.91,4,Cisco
+2021P2926P,Computer Science and Information Systems,B.Pharm,8.43,4,BLEND360
+2021A2935A,Mechanical Engineering,B.E,5.83,4,Unplaced
+2021A2938A,Chemisty,B.E,6.99,4,SABIC
+2021A2946A,Mechanical Engineering,B.E,7.98,4,Unplaced
+2021P2949P,Biological Sciences,B.Pharm,5.75,4,Alembic Pharmaceuticals
+2021A2952A,Physics,B.E,6.95,4,NXP Semiconductors
+2021H2956H,Mechanical Engineering,M.E,5.96,4,ANAND
+2021P2960P,Pharmacy,B.Pharm,5.59,4,Aragen
+2021H2968H,Electrical and Electronics Engineering,M.E,7.79,4,Unplaced
+2021A2972A,Mechanical Engineering,B.E,7.99,4,Caterpillar Inc.
+2021S2973S,Chemisty,M.Sc,6.58,4,Shell
+2021H2978H,Humanities and Social Sciences,M.E,6.54,4,Tata Consultancy Services (TCS)
+2021H2980H,Economics and Finanace,M.E,7.99,4,American Express
+2021S2986S,Biological Sciences,M.Sc,8.71,4,Cipla
+2021A2988A,Chemical Engineering,B.E,9.65,4,GSK
+2021A2990A,Pharmacy,B.E,9.85,4,Ipca Laboratories
+2021H3007H,Chemical Engineering,M.E,9.17,4,Unplaced
+2021D3009D,Physics,Ph.D,9.03,4,STMicroelectronics
+2021A3011A,Biological Sciences,B.E,6.67,4,Zydus
+2021H3016H,Electrical and Electronics Engineering,M.E,9.68,4,Toshiba
+2021P3020P,Biological Sciences,B.Pharm,6.43,4,КАВІ
+2021H3022H,Economics and Finanace,M.E,5.91,4,CRISIL
+2021A3027A,Economics and Finanace,B.E,7.12,4,Thomson Reuters
+2021A3028A,Civil Engineering,B.E,6.46,4,Balfour Beatty
+2021A3029A,Humanities and Social Sciences,B.E,5.44,4,Tata Consultancy Services (TCS)
+2021H3032H,Computer Science and Information Systems,M.E,6.12,4,Unplaced
+2021A3034A,Electrical and Electronics Engineering,B.E,8.15,4,Ricoh
+2021S3045S,Mechanical Engineering,M.Sc,8.76,4,Wabtec
+2021H3051H,Chemical Engineering,M.E,7.21,4,Mitsubishi Chemical Corporation
+2021A3054A,Pharmacy,B.E,8.04,4,Strand
+2021A3063A,Chemical Engineering,B.E,7.89,4,Air Liquide
+2021A3068A,Economics and Finanace,B.E,6.58,4,Unplaced
+2021A3079A,Economics and Finanace,B.E,5.61,4,Unplaced
+2021A3083A,Chemisty,B.E,6.5,4,Chevron
+2021S3085S,Physics,M.Sc,8.98,4,Unplaced
+2021A3086A,Civil Engineering,B.E,6.9,4,Dragados
+2021A3088A,Civil Engineering,B.E,8.45,4,Orascom Construction
+2021A3092A,Mathematics,B.E,6.61,4,Amazon
+2021P3095P,Pharmacy,B.Pharm,6.67,4,Zydus Cadila
+2021A3096A,Electrical and Electronics Engineering,B.E,6.2,4,SILICON LABS
+2021H3101H,Humanities and Social Sciences,M.E,7.43,4,Reliance Industries
+2021D3102D,Biological Sciences,Ph.D,9.28,4,Strand
+2021H3105H,Chemisty,M.E,7.61,4,DataZymes
+2021A3106A,Computer Science and Information Systems,B.E,6.28,4,Infineon
+2021A3108A,Mechanical Engineering,B.E,10.0,4,Unplaced
+2021P3115P,Biological Sciences,B.Pharm,6.32,4,Emcure Pharmaceuticals
+2021H3128H,Economics and Finanace,M.E,7.69,4,Nomura
+2021A3131A,Biological Sciences,B.E,8.21,4,Zydus Cadila
+2021A3137A,Mathematics,B.E,7.47,4,Unplaced
+2021P3140P,Electrical and Electronics Engineering,B.Pharm,6.42,4,Toshiba
+2021A3144A,Economics and Finanace,B.E,5.97,4,American Express
+2021A3150A,Physics,B.E,8.26,4,Unplaced
+2021H3159H,Chemisty,M.E,8.75,4,Unplaced
+2021S3160S,Biological Sciences,M.Sc,7.94,4,Emcure Pharmaceuticals
+2021A3163A,Chemisty,B.E,6.87,4,Unplaced
+2021A3168A,Biological Sciences,B.E,5.96,4,Unplaced
+2021P3169P,Electrical and Electronics Engineering,B.Pharm,5.5,4,Analog Devices
+2021H3171H,Chemisty,M.E,7.73,4,kmk
+2021A3175A,Electrical and Electronics Engineering,B.E,9.47,4,onsemi
+2021A3178A,Biological Sciences,B.E,6.69,4,Unplaced
+2021A3194A,Humanities and Social Sciences,B.E,9.17,4,IBM
+2021H3195H,Computer Science and Information Systems,M.E,6.53,4,Dell
+2021A3203A,Mechanical Engineering,B.E,6.36,4,SONA COMSTAR
+2021A3204A,Humanities and Social Sciences,B.E,9.42,4,Infosys
+2021A3208A,Humanities and Social Sciences,B.E,7.04,4,Genpact
+2021D3215D,Chemisty,Ph.D,9.03,4,Biocon Biologics
+2021D3216D,Physics,Ph.D,6.43,4,onsemi
+2021A3217A,Computer Science and Information Systems,B.E,7.39,4,Unplaced
+2021A3222A,Mathematics,B.E,8.75,4,Piramal
+2021A3230A,Computer Science and Information Systems,B.E,7.7,4,Mediatek
+2021H3233H,Mechanical Engineering,M.E,9.83,4,Unplaced
+2021A3237A,Civil Engineering,B.E,8.72,4,Assystem Stup
+2021S3243S,Computer Science and Information Systems,M.Sc,8.72,4,Unplaced
+2021S3246S,Chemical Engineering,M.Sc,6.26,4,Mitsubishi Chemical Corporation
+2021P3249P,Civil Engineering,B.Pharm,5.69,4,The Walsh Group
+2021A3250A,Civil Engineering,B.E,9.67,4,IcoNS
+2021A3257A,Pharmacy,B.E,6.1,4,Granules India
+2021A3267A,Civil Engineering,B.E,6.39,4,Obayashi Corporation
+2021P3268P,Biological Sciences,B.Pharm,7.23,4,Cadila Healthcare
+2021S3276S,Pharmacy,M.Sc,6.11,4,Alembic Pharmaceuticals
+2021A3278A,Biological Sciences,B.E,5.75,4,Unplaced
+2021H3280H,Mathematics,M.E,9.44,4,Unplaced
+2021S3283S,Pharmacy,M.Sc,9.85,4,КАВІ
+2021A3289A,Mathematics,B.E,5.58,4,Microsoft
+2021P3292P,Pharmacy,B.Pharm,9.33,4,DataZymes
+2021A3295A,Biological Sciences,B.E,6.32,4,Unplaced
+2021P3300P,Mechanical Engineering,B.Pharm,8.68,4,ANAND
+2021A3304A,Humanities and Social Sciences,B.E,8.68,4,Capgemini
+2021A3311A,Civil Engineering,B.E,5.03,4,Unplaced
+2021H3314H,Computer Science and Information Systems,M.E,6.17,4,Texas Instruments
+2021A3315A,Chemical Engineering,B.E,7.46,4,Lanxess
+2021A3320A,Mathematics,B.E,6.96,4,AMD
+2021A3324A,Mechanical Engineering,B.E,9.4,4,General Motors
+2021A3326A,Mechanical Engineering,B.E,6.47,4,Mercedes Benz
+2021H3330H,Mathematics,M.E,6.52,4,Flipkart
+2021A3334A,Physics,B.E,7.1,4,STMicroelectronics
+2021P3336P,Chemisty,B.Pharm,5.43,4,Unplaced
+2021A3341A,Chemical Engineering,B.E,5.51,4,"KBR, Inc."
+2021P3344P,Biological Sciences,B.Pharm,9.29,4,КАВІ
+2021A3357A,Mechanical Engineering,B.E,8.72,4,Caterpillar Inc.
+2021P3359P,Humanities and Social Sciences,B.Pharm,5.71,4,American Express
+2021P3365P,Computer Science and Information Systems,B.Pharm,9.59,4,Cisco
+2021D3366D,Chemical Engineering,Ph.D,6.2,4,Unplaced
+2021H3367H,Physics,M.E,5.49,4,MEDIATEK
+2021P3369P,Chemical Engineering,B.Pharm,9.42,4,PPG Industries
+2021S3373S,Mechanical Engineering,M.Sc,8.24,4,JK Fenner
+2021H3378H,Physics,M.E,5.6,4,onsemi
+2021H3379H,Chemisty,M.E,7.79,4,Aizant
+2021A3380A,Mathematics,B.E,8.72,4,Pharmo Solutions
+2021A3386A,Chemisty,B.E,9.47,4,Aragen
+2021H3389H,Civil Engineering,M.E,5.2,4,Orascom Construction
+2021A3396A,Chemisty,B.E,6.07,4,Unplaced
+2021A3398A,Electrical and Electronics Engineering,B.E,7.93,4,onsemi
+2021D3399D,Mechanical Engineering,Ph.D,8.34,4,Unplaced
+2021D3400D,Mathematics,Ph.D,6.76,4,Unplaced
+2021H3401H,Computer Science and Information Systems,M.E,6.99,4,Samsung
+2021H3402H,Biological Sciences,M.E,6.94,4,КАВІ
+2021A3409A,Electrical and Electronics Engineering,B.E,5.36,4,Honeywell
+2021H3422H,Physics,M.E,7.75,4,Qualcomm
+2021A3429A,Humanities and Social Sciences,B.E,7.53,4,HCL Technologies
+2021H3438H,Pharmacy,M.E,9.06,4,FRESENIUS
+2021P3439P,Chemisty,B.Pharm,6.14,4,Cipla
+2021D3442D,Computer Science and Information Systems,Ph.D,7.11,4,PEGA
+2021A3445A,Humanities and Social Sciences,B.E,6.02,4,Microsoft
+2021A3455A,Economics and Finanace,B.E,6.3,4,MSCI
+2021A3458A,Biological Sciences,B.E,7.24,4,Cipla
+2021A3459A,Computer Science and Information Systems,B.E,5.68,4,Piramal
+2021A3463A,Civil Engineering,B.E,8.63,4,Mott MacDonald
+2021P3466P,Electrical and Electronics Engineering,B.Pharm,8.61,4,Siemens
+2021H3468H,Computer Science and Information Systems,M.E,7.59,4,VMware
+2021D3473D,Humanities and Social Sciences,Ph.D,6.0,4,Reliance Industries
+2021A3475A,Mechanical Engineering,B.E,9.27,4,Caterpillar Inc.
+2021P3478P,Electrical and Electronics Engineering,B.Pharm,7.25,4,onsemi
+2021A3479A,Mathematics,B.E,7.98,4,Pharmo Solutions
+2021A3484A,Chemisty,B.E,9.23,4,Sun Pharmaceutical Industries
+2021S3489S,Chemical Engineering,M.Sc,8.81,4,Procter & Gamble
+2021A3490A,Economics and Finanace,B.E,8.26,4,BNP Paribas
+2021H3491H,Electrical and Electronics Engineering,M.E,8.03,4,Unplaced
+2021A3494A,Chemical Engineering,B.E,6.44,4,Unplaced
+2021S3507S,Electrical and Electronics Engineering,M.Sc,9.62,4,Renesas Electronics
+2021H3510H,Civil Engineering,M.E,5.92,4,TATA
+2021S3521S,Humanities and Social Sciences,M.Sc,8.5,4,Capgemini
+2021A3525A,Computer Science and Information Systems,B.E,9.87,4,VISA
+2021A3526A,Biological Sciences,B.E,5.63,4,Dr. Reddys Laboratories
+2021D3527D,Physics,Ph.D,7.1,4,Unplaced
+2021P3530P,Economics and Finanace,B.Pharm,9.89,4,Unplaced
+2021A3554A,Computer Science and Information Systems,B.E,9.25,4,Texas Instruments
+2021D3560D,Humanities and Social Sciences,Ph.D,8.9,4,American Express
+2021H3569H,Mechanical Engineering,M.E,5.66,4,Mercedes Benz
+2021A3572A,Physics,B.E,7.0,4,Tenstorrent
+2021D3574D,Pharmacy,Ph.D,9.27,4,Unplaced
+2021S3576S,Physics,M.Sc,5.13,4,STMicroelectronics
+2021A3587A,Mathematics,B.E,9.26,4,MathWorks
+2021A3595A,Computer Science and Information Systems,B.E,8.86,4,CONCR
+2021S3596S,Humanities and Social Sciences,M.Sc,5.21,4,Infosys BPM
+2021A3599A,Mechanical Engineering,B.E,7.95,4,Lockheed Martin
+2021A3605A,Economics and Finanace,B.E,8.5,4,BlackRock
+2021P3611P,Chemical Engineering,B.Pharm,8.93,4,PPG Industries
+2021A3615A,Physics,B.E,8.98,4,Panasonic
+2021A3617A,Humanities and Social Sciences,B.E,5.86,4,Amazon
+2021A3623A,Mechanical Engineering,B.E,8.51,4,TATA
+2021P3624P,Electrical and Electronics Engineering,B.Pharm,5.85,4,LG Electronics
+2021A3625A,Biological Sciences,B.E,5.67,4,Unplaced
+2021P3634P,Chemisty,B.Pharm,5.8,4,Unplaced
+2021D3639D,Economics and Finanace,Ph.D,7.0,4,Moodys Investors Service
+2021A3640A,Chemical Engineering,B.E,9.62,4,DuPont
+2021H3641H,Biological Sciences,M.E,7.37,4,Torrent Pharmaceuticals
+2021A3646A,Computer Science and Information Systems,B.E,7.12,4,Wabtec
+2021H3650H,Computer Science and Information Systems,M.E,8.56,4,CONCR
+2021D3654D,Humanities and Social Sciences,Ph.D,5.89,4,ITC Limited
+2021A3660A,Electrical and Electronics Engineering,B.E,9.04,4,NXP Semiconductors
+2021S3663S,Chemical Engineering,M.Sc,9.18,4,AkzoNobel
+2021H3671H,Civil Engineering,M.E,7.5,4,COWI
+2021A3681A,Pharmacy,B.E,9.43,4,Unplaced
+2021P3682P,Computer Science and Information Systems,B.Pharm,5.87,4,CONFLUENT
+2021A3685A,Mechanical Engineering,B.E,8.91,4,General Motors
+2021H3686H,Mathematics,M.E,5.39,4,IBM
+2021H3687H,Biological Sciences,M.E,6.52,4,Unplaced
+2021H3693H,Electrical and Electronics Engineering,M.E,6.28,4,MathWorks
+2021A3694A,Humanities and Social Sciences,B.E,5.66,4,Unplaced
+2021A3698A,Biological Sciences,B.E,5.75,4,Unplaced
+2021A3701A,Economics and Finanace,B.E,5.21,4,IHS Markit
+2021A3702A,Pharmacy,B.E,9.21,4,kmk
+2021P3704P,Economics and Finanace,B.Pharm,7.06,4,Moodys Analytics
+2021A3706A,Civil Engineering,B.E,8.53,4,Obayashi Corporation
+2021A3708A,Civil Engineering,B.E,5.14,4,TATA
+2021H3710H,Biological Sciences,M.E,9.09,4,Sun Pharmaceutical Industries
+2021H3713H,Physics,M.E,5.92,4,Qualcomm
+2021H3715H,Chemical Engineering,M.E,8.07,4,Solvay
+2021A3716A,Mathematics,B.E,8.24,4,Unplaced
+2021A3721A,Pharmacy,B.E,9.07,4,GSK Pharmaceuticals
+2021A3725A,Chemisty,B.E,9.14,4,Cipla
+2021H3726H,Biological Sciences,M.E,6.31,4,Unplaced
+2021H3727H,Physics,M.E,8.82,4,Intel
+2021S3730S,Biological Sciences,M.Sc,8.81,4,DataZymes
+2021H3737H,Civil Engineering,M.E,7.32,4,Assystem Stup
+2021A3739A,Mechanical Engineering,B.E,6.31,4,Micron
+2021S3744S,Chemical Engineering,M.Sc,6.41,4,DuPont
+2021A3745A,Humanities and Social Sciences,B.E,5.13,4,Amazon
+2021A3760A,Biological Sciences,B.E,6.0,4,КАВІ
+2021D3762D,Mechanical Engineering,Ph.D,9.89,4,TATA
+2021H3763H,Pharmacy,M.E,6.49,4,Unplaced
+2021P3767P,Chemisty,B.Pharm,8.0,4,FRESENIUS
+2021A3772A,Mechanical Engineering,B.E,5.92,4,Mercedes Benz
+2021D3774D,Electrical and Electronics Engineering,Ph.D,7.7,4,Fujitsu
+2021A3775A,Mechanical Engineering,B.E,8.43,4,3SC
+2021H3776H,Chemical Engineering,M.E,5.86,4,Covestro
+2021A3784A,Pharmacy,B.E,6.27,4,Granules India
+2021A3793A,Civil Engineering,B.E,8.05,4,Unplaced
+2021A3797A,Economics and Finanace,B.E,6.11,4,Unplaced
+2021A3799A,Physics,B.E,7.66,4,Dolcera
+2021H3804H,Economics and Finanace,M.E,9.37,4,S&P Global
+2021P3806P,Computer Science and Information Systems,B.Pharm,9.7,4,VMware
+2021A3809A,Electrical and Electronics Engineering,B.E,7.02,4,LG Electronics
+2021H3810H,Mechanical Engineering,M.E,8.88,4,3SC
+2021P3812P,Economics and Finanace,B.Pharm,7.91,4,Fitch Ratings
+2021A3815A,Chemisty,B.E,8.02,4,Cipla
+2021A3816A,Chemisty,B.E,5.83,4,Cipla
+2021A3819A,Humanities and Social Sciences,B.E,9.74,4,Unplaced
+2021A3823A,Civil Engineering,B.E,6.6,4,Jacobs Engineering Group
+2021D3824D,Electrical and Electronics Engineering,Ph.D,7.78,4,CISCO
+2021H3826H,Economics and Finanace,M.E,9.58,4,Wells Fargo
+2021A3835A,Pharmacy,B.E,9.89,4,ADITYA BIRLA
+2021P3840P,Civil Engineering,B.Pharm,7.58,4,WSP Global
+2021P3841P,Economics and Finanace,B.Pharm,5.76,4,UBS
+2021P3842P,Chemisty,B.Pharm,5.17,4,Aragen
+2021H3843H,Pharmacy,M.E,6.64,4,Biocon
+2021H3849H,Mechanical Engineering,M.E,9.66,4,Mercedes Benz
+2021A3851A,Mechanical Engineering,B.E,9.72,4,Oeing Lie
+2021H3857H,Humanities and Social Sciences,M.E,8.08,4,Infosys
+2021H3858H,Chemical Engineering,M.E,9.68,4,Pfizer
+2021A3859A,Mechanical Engineering,B.E,6.67,4,TATA
+2021S3867S,Pharmacy,M.Sc,5.85,4,Unplaced
+2021S3868S,Economics and Finanace,M.Sc,5.31,4,Thomson Reuters
+2021A3872A,Mechanical Engineering,B.E,5.99,4,ARUP
+2021A3878A,Humanities and Social Sciences,B.E,7.16,4,Boston Consulting Group (BCG)
+2021A3879A,Physics,B.E,9.79,4,STMicroelectronics
+2021A3882A,Physics,B.E,9.18,4,Unplaced
+2021A3887A,Chemical Engineering,B.E,6.34,4,Chevron
+2021A3892A,Economics and Finanace,B.E,9.48,4,Unplaced
+2021A3893A,Computer Science and Information Systems,B.E,6.36,4,Secureworks
+2021H3895H,Electrical and Electronics Engineering,M.E,5.23,4,Honeywell
+2021A3902A,Pharmacy,B.E,6.05,4,Natco Pharma
+2021A3904A,Civil Engineering,B.E,7.57,4,Thornton Tomasetti
+2021P3909P,Electrical and Electronics Engineering,B.Pharm,6.41,4,Micron
+2021S3911S,Physics,M.Sc,6.18,4,Dolcera
+2021P3915P,Electrical and Electronics Engineering,B.Pharm,7.44,4,Unplaced
+2021P3923P,Biological Sciences,B.Pharm,6.71,4,Aurobindo Pharma
+2021A3925A,Chemical Engineering,B.E,7.97,4,DuPont
+2021P3926P,Biological Sciences,B.Pharm,6.48,4,Unplaced
+2021A3938A,Electrical and Electronics Engineering,B.E,9.38,4,MathWorks
+2021A3941A,Physics,B.E,8.79,4,SAMSUNG
+2021A3945A,Chemisty,B.E,6.87,4,Unplaced
+2021A3946A,Biological Sciences,B.E,6.08,4,Aurobindo Pharma
+2021A3948A,Electrical and Electronics Engineering,B.E,6.18,4,Infineon
+2021A3959A,Humanities and Social Sciences,B.E,8.78,4,Amazon
+2021A3962A,Electrical and Electronics Engineering,B.E,5.21,4,Honeywell
+2021H3963H,Biological Sciences,M.E,5.67,4,Aurobindo Pharma
+2021P3964P,Economics and Finanace,B.Pharm,9.59,4,Capital IQ
+2021P3970P,Pharmacy,B.Pharm,7.81,4,Unplaced
+2021D3973D,Economics and Finanace,Ph.D,6.99,4,FactSet
+2021A3975A,Chemisty,B.E,5.62,4,Honeywell UOP
+2021A3976A,Biological Sciences,B.E,6.57,4,Wockhardt
+2021P3977P,Electrical and Electronics Engineering,B.Pharm,5.06,4,Texas Instruments
+2021A3980A,Humanities and Social Sciences,B.E,5.05,4,State Bank of India (SBI)
+2021A3981A,Pharmacy,B.E,5.77,4,Emcure Pharmaceuticals
+2021H3986H,Pharmacy,M.E,5.02,4,ADITYA BIRLA
+2021A3993A,Mechanical Engineering,B.E,6.63,4,Mercedes Benz
+2021H3994H,Mechanical Engineering,M.E,6.33,4,SEDEMAC
+2021S3999S,Pharmacy,M.Sc,9.66,4,Unplaced
+2021P4001P,Electrical and Electronics Engineering,B.Pharm,7.9,4,Unplaced
+2021A4005A,Pharmacy,B.E,8.35,4,Torrent Pharmaceuticals
+2021H4008H,Chemisty,M.E,9.85,4,Aragen
+2021A4015A,Physics,B.E,8.53,4,Unplaced
+2021A4017A,Civil Engineering,B.E,7.83,4,Assystem Stup
+2021S4020S,Civil Engineering,M.Sc,8.82,4,COWI
+2021H4022H,Computer Science and Information Systems,M.E,5.83,4,Secureworks
+2021A4031A,Civil Engineering,B.E,9.81,4,Unplaced
+2021P4033P,Mechanical Engineering,B.Pharm,5.05,4,Unplaced
+2021H4039H,Chemical Engineering,M.E,5.15,4,Air Liquide
+2021A4041A,Pharmacy,B.E,5.77,4,Aragen
+2021A4043A,Chemisty,B.E,7.46,4,kmk
+2021A4047A,Physics,B.E,7.39,4,MICROCHIP
+2021A4053A,Physics,B.E,9.12,4,SAMSUNG
+2021A4056A,Biological Sciences,B.E,8.38,4,FRESENIUS
+2021A4058A,Mathematics,B.E,5.84,4,Flipkart
+2021A4061A,Biological Sciences,B.E,6.23,4,FRESENIUS
+2021A4063A,Pharmacy,B.E,9.23,4,Alembic Pharmaceuticals
+2021H4068H,Mechanical Engineering,M.E,8.49,4,DOVER
+2021S4071S,Mechanical Engineering,M.Sc,9.57,4,Micron
+2021A4075A,Chemisty,B.E,9.12,4,ADITYA BIRLA
+2021H4083H,Physics,M.E,5.37,4,Tenstorrent
+2021P4087P,Economics and Finanace,B.Pharm,6.99,4,Credit Suisse
+2021A4088A,Physics,B.E,7.52,4,Unplaced
+2021D4090D,Chemisty,Ph.D,6.03,4,Procter & Gamble
+2021A4097A,Mathematics,B.E,7.14,4,AMD
+2021A4098A,Mechanical Engineering,B.E,6.35,4,SONA COMSTAR
+2021A4100A,Biological Sciences,B.E,9.28,4,Unplaced
+2021D4103D,Mechanical Engineering,Ph.D,9.4,4,SEDEMAC
+2021H4106H,Economics and Finanace,M.E,9.5,4,Unplaced
+2021P4108P,Economics and Finanace,B.Pharm,7.5,4,Credit Suisse
+2021A4112A,Biological Sciences,B.E,5.03,4,Pfizer
+2021A4113A,Mathematics,B.E,7.23,4,Teradata
+2021A4119A,Chemical Engineering,B.E,8.85,4,3M
+2021H4121H,Civil Engineering,M.E,7.65,4,Hill International
+2021H4127H,Chemisty,M.E,9.58,4,Elucidata
+2021A4132A,Pharmacy,B.E,7.89,4,Cadila Healthcare
+2021A4133A,Pharmacy,B.E,5.33,4,Torrent Pharmaceuticals
+2021S4134S,Mechanical Engineering,M.Sc,7.42,4,Unplaced
+2021H4140H,Electrical and Electronics Engineering,M.E,8.76,4,Siemens
+2021A4145A,Chemisty,B.E,8.29,4,Unplaced
+2021A4153A,Mechanical Engineering,B.E,8.72,4,Unplaced
+2021H4154H,Humanities and Social Sciences,M.E,6.43,4,Boston Consulting Group (BCG)
+2021H4160H,Mechanical Engineering,M.E,6.6,4,Unplaced
+2021D4164D,Chemisty,Ph.D,9.86,4,Aragen
+2021A4167A,Chemisty,B.E,7.3,4,Unplaced
+2021A4169A,Chemical Engineering,B.E,9.25,4,Chevron
+2021A4170A,Civil Engineering,B.E,8.5,4,WSP Global
+2021A4175A,Computer Science and Information Systems,B.E,8.89,4,Unplaced
+2021A4184A,Biological Sciences,B.E,8.54,4,Strand
+2021P4185P,Economics and Finanace,B.Pharm,9.12,4,Capital IQ
+2021A4188A,Physics,B.E,6.3,4,AMDET
+2021S4192S,Humanities and Social Sciences,M.Sc,8.74,4,IBM
+2021A4196A,Mathematics,B.E,9.94,4,Pharmo Solutions
+2021D4198D,Mathematics,Ph.D,6.32,4,Qualcomm
+2021P4200P,Chemisty,B.Pharm,9.8,4,Sun Pharmaceutical Industries
+2021A4206A,Chemisty,B.E,9.64,4,Dow
+2021A4213A,Mechanical Engineering,B.E,7.77,4,Wabtec
+2021A4215A,Civil Engineering,B.E,6.37,4,Acciona
+2021H4216H,Pharmacy,M.E,6.52,4,Unplaced
+2021D4219D,Humanities and Social Sciences,Ph.D,7.56,4,State Bank of India (SBI)
+2021A4221A,Civil Engineering,B.E,6.69,4,Leighton Holdings
+2021A4222A,Biological Sciences,B.E,9.0,4,Glenmark Pharmaceuticals
+2021A4236A,Biological Sciences,B.E,5.99,4,Torrent Pharmaceuticals
+2021A4237A,Chemical Engineering,B.E,6.62,4,Wood Group
+2021A4239A,Mechanical Engineering,B.E,8.19,4,Ford Motor Company
+2021A4242A,Pharmacy,B.E,6.34,4,kmk
+2021A4243A,Mathematics,B.E,6.46,4,Flipkart
+2021A4246A,Electrical and Electronics Engineering,B.E,8.63,4,Intel
+2021A4251A,Chemical Engineering,B.E,6.78,4,AkzoNobel
+2021H4262H,Mathematics,M.E,6.24,4,Pharmo Solutions
+2021A4263A,Electrical and Electronics Engineering,B.E,5.12,4,Honeywell
+2021A4264A,Civil Engineering,B.E,6.5,4,RAMBOLL
+2021A4265A,Humanities and Social Sciences,B.E,8.55,4,Google
+2021H4276H,Computer Science and Information Systems,M.E,8.34,4,Wabtec
+2021H4278H,Mathematics,M.E,6.02,4,AMD
+2021A4284A,Physics,B.E,5.15,4,onsemi
+2021D4286D,Mathematics,Ph.D,9.45,4,Unplaced
+2021A4288A,Mechanical Engineering,B.E,8.73,4,Unplaced
+2021A4297A,Physics,B.E,7.19,4,Panasonic
+2021H4298H,Mathematics,M.E,6.1,4,Unplaced
+2021A4300A,Chemical Engineering,B.E,7.37,4,Unplaced
+2021H4302H,Pharmacy,M.E,6.52,4,Biocon
+2021D4306D,Electrical and Electronics Engineering,Ph.D,9.54,4,Unplaced
+2021A4307A,Computer Science and Information Systems,B.E,5.7,4,VMware
+2021A4308A,Biological Sciences,B.E,5.55,4,Unplaced
+2021A4311A,Physics,B.E,9.52,4,SAMSUNG
+2021A4314A,Humanities and Social Sciences,B.E,8.43,4,Infosys
+2021H4323H,Mechanical Engineering,M.E,5.0,4,Siemens
+2021A4330A,Physics,B.E,8.91,4,Unplaced
+2021A4334A,Computer Science and Information Systems,B.E,6.22,4,VMware
+2021A4338A,Physics,B.E,8.48,4,NXP Semiconductors
+2021D4341D,Chemical Engineering,Ph.D,6.25,4,GSK
+2021H4348H,Humanities and Social Sciences,M.E,9.19,4,Tata Steel
+2021A4355A,Chemisty,B.E,9.79,4,Unplaced
+2021A4360A,Biological Sciences,B.E,7.02,4,Emcure Pharmaceuticals
+2021A4363A,Biological Sciences,B.E,5.48,4,Alembic Pharmaceuticals
+2021D4378D,Economics and Finanace,Ph.D,9.16,4,Unplaced
+2021H4380H,Civil Engineering,M.E,6.52,4,Unplaced
+2021P4383P,Chemisty,B.Pharm,6.32,4,Unplaced
+2021H4386H,Civil Engineering,M.E,7.19,4,Thornton Tomasetti
+2021A4391A,Economics and Finanace,B.E,8.44,4,Genpact
+2021S4394S,Humanities and Social Sciences,M.Sc,8.82,4,Microsoft
+2021S4396S,Pharmacy,M.Sc,7.55,4,Unplaced
+2021H4400H,Chemisty,M.E,6.44,4,Honeywell UOP
+2021A4401A,Computer Science and Information Systems,B.E,9.62,4,VMware
+2021A4403A,Economics and Finanace,B.E,6.04,4,Moodys Investors Service
+2021A4406A,Physics,B.E,8.77,4,Unplaced
+2021A4408A,Computer Science and Information Systems,B.E,5.52,4,Unplaced
+2021P4409P,Chemical Engineering,B.Pharm,5.78,4,Unplaced
+2021H4410H,Pharmacy,M.E,8.49,4,Aragen
+2021A4413A,Electrical and Electronics Engineering,B.E,7.74,4,SILICON LABS
+2021P4415P,Electrical and Electronics Engineering,B.Pharm,8.92,4,Siemens
+2021A4426A,Chemical Engineering,B.E,6.37,4,Chevron
+2021H4428H,Mathematics,M.E,9.48,4,Pharmo Solutions
+2021H4432H,Mechanical Engineering,M.E,8.84,4,Siemens
+2021A4437A,Civil Engineering,B.E,7.99,4,Balfour Beatty
+2021A4441A,Pharmacy,B.E,5.55,4,freyr
+2021P4442P,Electrical and Electronics Engineering,B.Pharm,8.59,4,ON Semiconductor
+2021P4443P,Chemical Engineering,B.Pharm,8.1,4,Solvay
+2021A4446A,Biological Sciences,B.E,5.52,4,Unplaced
+2021H4452H,Humanities and Social Sciences,M.E,9.59,4,Unplaced
+2021A4459A,Mathematics,B.E,5.46,4,Pharmo Solutions
+2021A4463A,Biological Sciences,B.E,5.75,4,Alembic Pharmaceuticals
+2021A4464A,Electrical and Electronics Engineering,B.E,9.63,4,Unplaced
+2021A4471A,Chemical Engineering,B.E,7.13,4,Unplaced
+2021D4474D,Civil Engineering,Ph.D,9.6,4,"Skidmore, Owings & Merrill (SOM)"
+2021H4475H,Biological Sciences,M.E,5.4,4,Alembic Pharmaceuticals
+2021A4484A,Economics and Finanace,B.E,5.68,4,Morgan Stanley
+2021H4487H,Humanities and Social Sciences,M.E,6.9,4,Hindustan Unilever Limited (HUL)
+2021S4490S,Biological Sciences,M.Sc,9.59,4,DataZymes
+2021A4498A,Electrical and Electronics Engineering,B.E,7.98,4,Ricoh
+2021D4502D,Chemisty,Ph.D,8.79,4,Shell
+2021A4512A,Electrical and Electronics Engineering,B.E,7.26,4,Unplaced
+2021H4516H,Humanities and Social Sciences,M.E,5.78,4,Capgemini
+2021P4519P,Electrical and Electronics Engineering,B.Pharm,9.37,4,MathWorks
+2021H4523H,Electrical and Electronics Engineering,M.E,7.55,4,Intel
+2021D4524D,Chemisty,Ph.D,6.3,4,Unplaced
+2021A4526A,Pharmacy,B.E,9.9,4,Granules India
+2021P4544P,Civil Engineering,B.Pharm,6.59,4,Jacobs Engineering Group
+2021S4546S,Biological Sciences,M.Sc,8.96,4,Divis Laboratories
+2021P4555P,Pharmacy,B.Pharm,6.31,4,Zydus
+2021A4556A,Mathematics,B.E,7.05,4,Unplaced
+2021H4562H,Pharmacy,M.E,9.98,4,Unplaced
+2021A4565A,Pharmacy,B.E,8.1,4,Unplaced
+2021A4573A,Electrical and Electronics Engineering,B.E,8.01,4,Texas Instruments
+2021H4575H,Economics and Finanace,M.E,9.47,4,FactSet
+2021S4577S,Electrical and Electronics Engineering,M.Sc,6.66,4,SILICON LABS
+2021A4585A,Mathematics,B.E,6.4,4,IBM
+2021H4587H,Pharmacy,M.E,8.06,4,Unplaced
+2021A4588A,Computer Science and Information Systems,B.E,6.35,4,VISA
+2021H4594H,Biological Sciences,M.E,6.37,4,Sun Pharmaceutical Industries
+2021S4598S,Mathematics,M.Sc,6.69,4,Pharmo Solutions
+2021A4600A,Electrical and Electronics Engineering,B.E,5.87,4,Renesas Electronics
+2021S4612S,Humanities and Social Sciences,M.Sc,5.79,4,Bain & Company
+2021H4617H,Mechanical Engineering,M.E,5.88,4,DOVER
+2021H4618H,Electrical and Electronics Engineering,M.E,8.02,4,Altera
+2021H4631H,Chemisty,M.E,9.21,4,Unplaced
+2021P4639P,Electrical and Electronics Engineering,B.Pharm,8.25,4,proteanTecs
+2021A4646A,Chemical Engineering,B.E,8.35,4,Air Liquide
+2021H4647H,Electrical and Electronics Engineering,M.E,9.85,4,Analog Devices
+2021H4649H,Pharmacy,M.E,7.35,4,Unplaced
+2021S4652S,Humanities and Social Sciences,M.Sc,7.74,4,IBM
+2021H4655H,Pharmacy,M.E,5.57,4,freyr
+2021P4656P,Pharmacy,B.Pharm,7.74,4,Strand
+2021A4657A,Biological Sciences,B.E,6.93,4,Strand
+2021H4663H,Pharmacy,M.E,7.56,4,AstraZeneca
+2021A4671A,Civil Engineering,B.E,5.72,4,Stantec
+2021A4672A,Economics and Finanace,B.E,8.0,4,Standard Chartered
+2021A4680A,Pharmacy,B.E,9.35,4,Elucidata
+2021A4681A,Economics and Finanace,B.E,5.82,4,Nomura
+2021S4682S,Electrical and Electronics Engineering,M.Sc,6.46,4,NXP Semiconductors
+2021D4688D,Pharmacy,Ph.D,6.96,4,Lupin Limited
+2021A4689A,Mechanical Engineering,B.E,7.35,4,Ford Motor Company
+2021A4695A,Economics and Finanace,B.E,5.03,4,Credit Suisse
+2021A4696A,Mechanical Engineering,B.E,5.65,4,Caterpillar Inc.
+2021A4699A,Electrical and Electronics Engineering,B.E,8.83,4,Texas Instruments
+2021D4702D,Physics,Ph.D,5.11,4,SEDEMAC
+2021S4708S,Computer Science and Information Systems,M.Sc,9.46,4,VMware
+2021H4710H,Computer Science and Information Systems,M.E,9.55,4,Google
+2021H4718H,Economics and Finanace,M.E,5.32,4,IHS Markit
+2021A4719A,Humanities and Social Sciences,B.E,7.0,4,Infosys
+2021A4720A,Biological Sciences,B.E,6.98,4,GSK Pharmaceuticals
+2021A4729A,Electrical and Electronics Engineering,B.E,9.25,4,Micron
+2021A4731A,Physics,B.E,7.7,4,Unplaced
+2021A4735A,Mechanical Engineering,B.E,9.59,4,General Electric (GE)
+2021A4743A,Computer Science and Information Systems,B.E,6.96,4,AMD
+2021A4749A,Civil Engineering,B.E,5.32,4,Leighton Holdings
+2021H4759H,Humanities and Social Sciences,M.E,9.2,4,Amazon
+2021P4761P,Mechanical Engineering,B.Pharm,5.19,4,Siemens
+2021P4763P,Humanities and Social Sciences,B.Pharm,8.51,4,Axis Bank
+2021D4764D,Chemical Engineering,Ph.D,5.53,4,Wood Group
+2021A4765A,Electrical and Electronics Engineering,B.E,9.9,4,Unplaced
+2021H4766H,Chemical Engineering,M.E,5.43,4,Procter & Gamble
+2021A4768A,Pharmacy,B.E,6.0,4,kmk
+2021S4777S,Computer Science and Information Systems,M.Sc,5.8,4,Teradata
+2021A4778A,Pharmacy,B.E,5.71,4,Granules India
+2021D4781D,Electrical and Electronics Engineering,Ph.D,7.14,4,Hitachi
+2021H4784H,Civil Engineering,M.E,5.79,4,Unplaced
+2021S4785S,Chemisty,M.Sc,7.39,4,Unplaced
+2021A4791A,Biological Sciences,B.E,9.02,4,Cadila Healthcare
+2021S4793S,Mathematics,M.Sc,9.58,4,Piramal
+2021P4797P,Humanities and Social Sciences,B.Pharm,8.97,4,Infosys
+2021A4800A,Chemisty,B.E,6.6,4,FRESENIUS
+2021A4801A,Pharmacy,B.E,7.52,4,Unplaced
+2021A4808A,Economics and Finanace,B.E,8.69,4,Deloitte
+2021A4809A,Physics,B.E,8.31,4,Tenstorrent
+2021H4810H,Chemical Engineering,M.E,8.79,4,SABIC
+2021H4811H,Chemical Engineering,M.E,8.39,4,Unplaced
+2021A4812A,Chemical Engineering,B.E,6.88,4,ADM (Archer Daniels Midland)
+2021A4813A,Economics and Finanace,B.E,8.86,4,Morgan Stanley
+2021H4815H,Mechanical Engineering,M.E,8.05,4,SEDEMAC
+2021A4820A,Chemisty,B.E,9.93,4,Unplaced
+2021A4826A,Humanities and Social Sciences,B.E,8.36,4,Amazon
+2021A4834A,Pharmacy,B.E,6.31,4,Cadila Healthcare
+2021H4840H,Computer Science and Information Systems,M.E,6.92,4,Unplaced
+2021A4844A,Humanities and Social Sciences,B.E,8.46,4,State Bank of India (SBI)
+2021A4852A,Computer Science and Information Systems,B.E,8.33,4,Google
+2021H4855H,Civil Engineering,M.E,9.12,4,Leighton Holdings
+2021H4858H,Civil Engineering,M.E,6.6,4,Unplaced
+2021A4859A,Pharmacy,B.E,9.55,4,Granules India
+2021S4872S,Pharmacy,M.Sc,7.22,4,Divis Laboratories
+2021H4873H,Chemical Engineering,M.E,6.21,4,Covestro
+2021A4876A,Chemisty,B.E,9.93,4,Aizant
+2021H4883H,Biological Sciences,M.E,9.31,4,DataZymes
+2021P4884P,Humanities and Social Sciences,B.Pharm,9.65,4,Infosys
+2021D4887D,Physics,Ph.D,6.54,4,Dolcera
+2021A4888A,Mechanical Engineering,B.E,6.16,4,Unplaced
+2021A4890A,Electrical and Electronics Engineering,B.E,9.06,4,MathWorks
+2021A4892A,Mathematics,B.E,7.48,4,AMD
+2021A4894A,Electrical and Electronics Engineering,B.E,9.63,4,Fujitsu
+2021A4896A,Biological Sciences,B.E,5.44,4,Unplaced
+2021H4897H,Pharmacy,M.E,5.81,4,PEISION MEDICINE SOLUTIONS
+2021P4899P,Electrical and Electronics Engineering,B.Pharm,7.16,4,LG Electronics
+2021H4907H,Chemisty,M.E,6.62,4,Unplaced
+2021A4908A,Humanities and Social Sciences,B.E,7.32,4,Infosys
+2021A4909A,Economics and Finanace,B.E,9.87,4,Accenture
+2021P4913P,Computer Science and Information Systems,B.Pharm,5.62,4,Amazon
+2021A4914A,Chemical Engineering,B.E,9.46,4,INEOS
+2021A4925A,Mathematics,B.E,9.74,4,Amazon
+2021P4935P,Civil Engineering,B.Pharm,9.25,4,AMARARALA
+2021A4937A,Pharmacy,B.E,7.8,4,КАВІ
+2021D4941D,Electrical and Electronics Engineering,Ph.D,8.26,4,NEC Corporation
+2021A4942A,Chemisty,B.E,6.3,4,Unplaced
+2021A4948A,Electrical and Electronics Engineering,B.E,8.39,4,Qualcomm
+2021A4949A,Computer Science and Information Systems,B.E,5.25,4,Unplaced
+2021A4953A,Physics,B.E,5.33,4,Qualcomm
+2021A4954A,Pharmacy,B.E,7.15,4,Glenmark Pharmaceuticals
+2021H4960H,Pharmacy,M.E,7.74,4,Unplaced
+2021D4961D,Pharmacy,Ph.D,5.8,4,Natco Pharma
+2021A4962A,Humanities and Social Sciences,B.E,6.08,4,Unplaced
+2021A4964A,Chemisty,B.E,5.15,4,Aragen
+2021A4965A,Humanities and Social Sciences,B.E,6.82,4,KPMG
+2021H4967H,Civil Engineering,M.E,5.8,4,"Skidmore, Owings & Merrill (SOM)"
+2021A4969A,Computer Science and Information Systems,B.E,6.22,4,AMD
+2021A4974A,Mathematics,B.E,6.35,4,Teradata
+2021A4978A,Mechanical Engineering,B.E,5.23,4,SONA COMSTAR
+2021S4979S,Humanities and Social Sciences,M.Sc,6.14,4,Unplaced
+2021H4991H,Chemical Engineering,M.E,5.7,4,Johnson Matthey
+2021A4997A,Electrical and Electronics Engineering,B.E,6.79,4,Intel
+2021A4998A,Computer Science and Information Systems,B.E,5.74,4,Intel
+2021S5004S,Computer Science and Information Systems,M.Sc,8.16,4,VISA
+2021H5009H,Pharmacy,M.E,6.1,4,Natco Pharma
+2021H5010H,Physics,M.E,5.16,4,Texas Instruments
+2021S5015S,Humanities and Social Sciences,M.Sc,6.87,4,Wipro
+2021P5019P,Computer Science and Information Systems,B.Pharm,7.63,4,Wabtec
+2021A5028A,Chemisty,B.E,9.57,4,ADITYA BIRLA
+2021A5039A,Economics and Finanace,B.E,7.21,4,UBS
+2021H5045H,Pharmacy,M.E,6.5,4,Unplaced
+2021A5048A,Pharmacy,B.E,9.91,4,Strand
+2021A5051A,Pharmacy,B.E,7.92,4,Unplaced
+2021S5054S,Chemisty,M.Sc,7.55,4,BASF
+2021A5056A,Physics,B.E,5.27,4,STMicroelectronics
+2021H5060H,Economics and Finanace,M.E,7.21,4,Boston Consulting Group (BCG)
+2021H5062H,Biological Sciences,M.E,6.79,4,Strand
+2021P5068P,Biological Sciences,B.Pharm,5.65,4,Unplaced
+2021A5073A,Chemisty,B.E,7.97,4,Honeywell UOP
+2021H5077H,Computer Science and Information Systems,M.E,7.04,4,Amazon
+2021A5082A,Mathematics,B.E,8.33,4,Unplaced
+2021D5090D,Pharmacy,Ph.D,8.66,4,Unplaced
+2021A5091A,Mathematics,B.E,5.61,4,Unplaced
+2021A5094A,Pharmacy,B.E,9.69,4,Unplaced
+2021A5097A,Pharmacy,B.E,7.43,4,Alembic Pharmaceuticals
+2021A5101A,Humanities and Social Sciences,B.E,9.57,4,Amazon
+2021H5105H,Chemical Engineering,M.E,5.9,4,"KBR, Inc."
+2021A5115A,Physics,B.E,8.78,4,A Lam
+2021A5118A,Chemisty,B.E,8.71,4,kmk
+2021P5121P,Humanities and Social Sciences,B.Pharm,5.49,4,Deloitte
+2021H5126H,Computer Science and Information Systems,M.E,6.49,4,Cisco
+2021D5127D,Electrical and Electronics Engineering,Ph.D,5.88,4,Honeywell
+2021A5130A,Chemical Engineering,B.E,9.03,4,Bayer
+2021H5134H,Chemical Engineering,M.E,8.0,4,SABIC
+2021A5135A,Civil Engineering,B.E,9.44,4,Jacobs Engineering Group
+2021A5137A,Electrical and Electronics Engineering,B.E,6.57,4,Honeywell
+2021A5138A,Mechanical Engineering,B.E,7.55,4,DOVER
+2021A5145A,Pharmacy,B.E,8.22,4,Pfizer
+2021P5149P,Mechanical Engineering,B.Pharm,5.47,4,Unplaced
+2021S5153S,Humanities and Social Sciences,M.Sc,8.48,4,Flipkart
+2021A5154A,Pharmacy,B.E,5.27,4,Unplaced
+2021A5160A,Computer Science and Information Systems,B.E,7.73,4,IBM
+2021A5163A,Biological Sciences,B.E,7.16,4,Biocon
+2021A5169A,Physics,B.E,9.33,4,Panasonic
+2021P5171P,Mechanical Engineering,B.Pharm,7.05,4,SEDEMAC
+2021S5176S,Pharmacy,M.Sc,9.12,4,AstraZeneca
+2021A5177A,Chemical Engineering,B.E,7.13,4,Covestro
+2021A5187A,Mathematics,B.E,6.12,4,Google
+2021H5199H,Chemical Engineering,M.E,8.48,4,DuPont
+2021S5205S,Mechanical Engineering,M.Sc,6.21,4,Ford Motor Company
+2021A5207A,Mechanical Engineering,B.E,5.23,4,Wabtec
+2021S5212S,Physics,M.Sc,5.54,4,A Lam
+2021A5217A,Mechanical Engineering,B.E,7.35,4,Boeing
+2021A5225A,Chemisty,B.E,8.67,4,Unplaced
+2021A5234A,Chemical Engineering,B.E,8.34,4,Shell
+2021A5250A,Civil Engineering,B.E,7.4,4,Stantec
+2021A5251A,Electrical and Electronics Engineering,B.E,7.92,4,Qualcomm
+2021S5258S,Computer Science and Information Systems,M.Sc,5.01,4,VMware
+2021H5262H,Civil Engineering,M.E,6.29,4,"Skidmore, Owings & Merrill (SOM)"
+2021A5263A,Economics and Finanace,B.E,5.51,4,Unplaced
+2021H5265H,Physics,M.E,5.19,4,A Lam
+2021S5273S,Mechanical Engineering,M.Sc,6.36,4,Unplaced
+2021A5275A,Mechanical Engineering,B.E,7.13,4,Honda
+2021H5277H,Mechanical Engineering,M.E,5.48,4,CYNLR
+2021S5281S,Computer Science and Information Systems,M.Sc,5.68,4,Dell
+2021S5283S,Physics,M.Sc,8.65,4,SynOPSYS
+2021A5284A,Pharmacy,B.E,6.89,4,Unplaced
+2021H5291H,Mathematics,M.E,6.3,4,IBM
+2021A5292A,Chemical Engineering,B.E,6.68,4,AkzoNobel
+2021A5295A,Mathematics,B.E,8.64,4,Cisco
+2021D5296D,Biological Sciences,Ph.D,8.43,4,AstraZeneca
+2021A5300A,Economics and Finanace,B.E,8.05,4,Boston Consulting Group (BCG)
+2021A5303A,Pharmacy,B.E,6.68,4,Unplaced
+2021A5307A,Chemisty,B.E,8.98,4,Aizant
+2021H5312H,Mathematics,M.E,6.62,4,Microsoft
+2021A5313A,Electrical and Electronics Engineering,B.E,8.72,4,Unplaced
+2021P5321P,Humanities and Social Sciences,B.Pharm,7.75,4,Tata Consultancy Services (TCS)
+2021A5324A,Chemisty,B.E,9.53,4,Honeywell UOP
+2021H5325H,Humanities and Social Sciences,M.E,6.75,4,KPMG
+2021A5328A,Biological Sciences,B.E,9.73,4,Cadila Healthcare
+2021P5331P,Electrical and Electronics Engineering,B.Pharm,7.54,4,MathWorks
+2021A5334A,Civil Engineering,B.E,6.85,4,Leighton Holdings
+2021A5338A,Humanities and Social Sciences,B.E,7.31,4,Microsoft
+2021A5340A,Electrical and Electronics Engineering,B.E,6.23,4,Fujitsu
+2021D5342D,Mathematics,Ph.D,8.07,4,MathWorks
+2021D5343D,Humanities and Social Sciences,Ph.D,6.32,4,Bain & Company
+2021H5350H,Humanities and Social Sciences,M.E,6.95,4,KPMG
+2021A5354A,Chemical Engineering,B.E,6.54,4,Covestro
+2021A5356A,Chemical Engineering,B.E,6.59,4,Eastman Chemical Company
+2021P5374P,Electrical and Electronics Engineering,B.Pharm,5.39,4,Fujitsu
+2021D5377D,Mathematics,Ph.D,6.08,4,MathWorks
+2021A5379A,Computer Science and Information Systems,B.E,8.65,4,Piramal
+2021S5381S,Mathematics,M.Sc,8.21,4,Unplaced
+2021H5383H,Computer Science and Information Systems,M.E,8.6,4,IBM
+2021A5384A,Electrical and Electronics Engineering,B.E,8.36,4,INSTRUMENTS
+2021D5391D,Mechanical Engineering,Ph.D,8.52,4,3SC
+2021P5393P,Economics and Finanace,B.Pharm,6.39,4,IHS Markit
+2021A5394A,Pharmacy,B.E,6.21,4,Unplaced
+2021A5397A,Civil Engineering,B.E,9.38,4,Unplaced
+2021A5398A,Electrical and Electronics Engineering,B.E,5.16,4,Renesas Electronics
+2021S5406S,Physics,M.Sc,6.13,4,Tenstorrent
+2021A5408A,Chemical Engineering,B.E,7.69,4,DuPont
+2021A5409A,Electrical and Electronics Engineering,B.E,6.55,4,Unplaced
+2021A5414A,Civil Engineering,B.E,6.34,4,Stantec
+2021A5421A,Chemisty,B.E,9.86,4,DataZymes
+2021A5443A,Computer Science and Information Systems,B.E,6.48,4,IBM
+2021H5445H,Biological Sciences,M.E,8.08,4,DataZymes
+2021A5448A,Humanities and Social Sciences,B.E,7.03,4,HCL Technologies
+2021S5454S,Economics and Finanace,M.Sc,5.76,4,Moodys Analytics
+2021D5457D,Physics,Ph.D,8.74,4,STMicroelectronics
+2021H5463H,Chemisty,M.E,8.44,4,Aizant
+2021H5464H,Economics and Finanace,M.E,9.64,4,Citi
+2021H5465H,Chemisty,M.E,8.25,4,Unplaced
+2021A5466A,Mechanical Engineering,B.E,7.84,4,Boeing
+2021A5474A,Biological Sciences,B.E,5.23,4,Biocon
+2021A5475A,Computer Science and Information Systems,B.E,7.79,4,Dell
+2021H5481H,Physics,M.E,9.65,4,Unplaced
+2021H5484H,Chemisty,M.E,6.31,4,DataZymes
+2021H5485H,Economics and Finanace,M.E,9.24,4,Unplaced
+2021A5486A,Computer Science and Information Systems,B.E,7.26,4,Microsoft
+2021A5491A,Civil Engineering,B.E,5.18,4,Assystem Stup
+2021H5494H,Mathematics,M.E,7.79,4,Unplaced
+2021D5512D,Economics and Finanace,Ph.D,6.17,4,MSCI
+2021H5514H,Chemical Engineering,M.E,9.79,4,Syngenta
+2021H5517H,Chemisty,M.E,8.29,4,Unplaced
+2021A5519A,Mathematics,B.E,8.8,4,Flipkart
+2021H5520H,Pharmacy,M.E,7.64,4,kmk
+2021S5530S,Pharmacy,M.Sc,9.71,4,AstraZeneca
+2021A5531A,Humanities and Social Sciences,B.E,9.53,4,Infosys
+2021A5532A,Mathematics,B.E,5.09,4,Pharmo Solutions
+2021A5535A,Mechanical Engineering,B.E,6.63,4,Lime
+2021D5540D,Mechanical Engineering,Ph.D,8.14,4,Unplaced
+2021A5541A,Computer Science and Information Systems,B.E,7.69,4,IBM
+2021P5543P,Pharmacy,B.Pharm,6.46,4,kmk
+2021H5546H,Physics,M.E,8.26,4,SynOPSYS
+2021H5551H,Mechanical Engineering,M.E,7.02,4,Wabtec
+2021H5555H,Biological Sciences,M.E,9.18,4,Torrent Pharmaceuticals
+2021A5557A,Physics,B.E,6.64,4,Unplaced
+2021A5570A,Economics and Finanace,B.E,8.97,4,Unplaced
+2021H5571H,Electrical and Electronics Engineering,M.E,9.93,4,LG Electronics
+2021A5575A,Electrical and Electronics Engineering,B.E,5.2,4,Micron
+2021D5576D,Humanities and Social Sciences,Ph.D,9.28,4,Infosys BPM
+2021P5577P,Pharmacy,B.Pharm,8.5,4,Ipca Laboratories
+2021P5589P,Chemisty,B.Pharm,6.93,4,Sun Pharmaceutical Industries
+2021A5596A,Mechanical Engineering,B.E,7.52,4,Toyota
+2021D5601D,Civil Engineering,Ph.D,8.36,4,"Daelim Industrial Co., Ltd."
+2021D5612D,Electrical and Electronics Engineering,Ph.D,7.69,4,Qualcomm
+2021A5613A,Chemical Engineering,B.E,6.68,4,Procter & Gamble
+2021S5619S,Civil Engineering,M.Sc,6.8,4,Acciona
+2021A5622A,Economics and Finanace,B.E,8.22,4,Thomson Reuters
+2021H5630H,Economics and Finanace,M.E,6.35,4,Credit Suisse
+2021A5645A,Humanities and Social Sciences,B.E,5.51,4,IBM
+2021A5646A,Mechanical Engineering,B.E,9.99,4,SEDEMAC
+2021A5648A,Physics,B.E,9.9,4,proteanTecs
+2021H5661H,Mechanical Engineering,M.E,5.17,4,SpaceX
+2021H5663H,Economics and Finanace,M.E,8.4,4,MSCI
+2021A5666A,Pharmacy,B.E,7.75,4,GSK Pharmaceuticals
+2021P5668P,Economics and Finanace,B.Pharm,9.99,4,Fidelity International
+2021A5670A,Pharmacy,B.E,8.98,4,Strand
+2021D5671D,Biological Sciences,Ph.D,7.45,4,Abbott Laboratories
+2021A5676A,Computer Science and Information Systems,B.E,5.95,4,AMD
+2021A5678A,Mechanical Engineering,B.E,6.13,4,Toyota
+2021A5680A,Humanities and Social Sciences,B.E,8.56,4,Unplaced
+2021A5684A,Pharmacy,B.E,5.26,4,Lupin Limited
+2021H5687H,Mathematics,M.E,9.07,4,Microsoft
+2021H5689H,Chemisty,M.E,9.74,4,ExxonMobil
+2021A5690A,Civil Engineering,B.E,9.48,4,LISEN A TOLERO
+2021H5692H,Chemisty,M.E,9.43,4,ExxonMobil
+2021A5697A,Economics and Finanace,B.E,9.33,4,Boston Consulting Group (BCG)
+2021A5698A,Chemical Engineering,B.E,9.62,4,Baker Hughes
+2021A5707A,Chemical Engineering,B.E,6.07,4,Chevron
+2021A5711A,Physics,B.E,7.97,4,Unplaced
+2021D5719D,Chemical Engineering,Ph.D,5.56,4,DuPont
+2021P5720P,Chemisty,B.Pharm,7.71,4,КАВІ
+2021A5721A,Biological Sciences,B.E,5.98,4,Lupin Limited
+2021A5722A,Electrical and Electronics Engineering,B.E,9.6,4,Unplaced
+2021A5724A,Electrical and Electronics Engineering,B.E,8.31,4,Infineon
+2021S5727S,Biological Sciences,M.Sc,7.42,4,GSK Pharmaceuticals
+2021A5728A,Physics,B.E,9.19,4,A Lam
+2021A5729A,Chemisty,B.E,9.79,4,Chevron
+2021D5730D,Chemisty,Ph.D,5.21,4,Aragen
+2021A5735A,Electrical and Electronics Engineering,B.E,6.28,4,MathWorks
+2021A5738A,Mechanical Engineering,B.E,8.41,4,Johnson Controls
+2021A5740A,Mechanical Engineering,B.E,8.6,4,General Motors
+2021D5743D,Physics,Ph.D,9.81,4,Dolcera
+2021H5750H,Mechanical Engineering,M.E,6.24,4,Caterpillar Inc.
+2021A5753A,Chemisty,B.E,5.87,4,ADITYA BIRLA
+2021H5755H,Mathematics,M.E,8.54,4,Piramal
+2021A5761A,Biological Sciences,B.E,7.04,4,DataZymes
+2021P5770P,Economics and Finanace,B.Pharm,7.57,4,CRISIL
+2021A5772A,Economics and Finanace,B.E,9.04,4,MSCI
+2021H5773H,Chemical Engineering,M.E,7.46,4,Honeywell UOP
+2021A5775A,Civil Engineering,B.E,5.16,4,J. Murphy & Sons
+2021H5778H,Computer Science and Information Systems,M.E,9.55,4,BLEND360
+2021A5779A,Biological Sciences,B.E,6.65,4,Dr. Reddys Laboratories
+2021S5782S,Civil Engineering,M.Sc,6.2,4,Unplaced
+2021H5783H,Mathematics,M.E,6.29,4,Unplaced
+2021H5784H,Electrical and Electronics Engineering,M.E,7.29,4,MEDIATEK
+2021A5786A,Civil Engineering,B.E,6.55,4,Dragados
+2021P5788P,Chemical Engineering,B.Pharm,8.2,4,AkzoNobel
+2021D5790D,Chemisty,Ph.D,6.32,4,kmk
+2021H5791H,Physics,M.E,9.14,4,Dolcera
+2021H5792H,Economics and Finanace,M.E,9.56,4,Capital IQ
+2021A5796A,Mechanical Engineering,B.E,6.52,4,Unplaced
+2021A5804A,Chemical Engineering,B.E,5.54,4,Unplaced
+2021A5808A,Mathematics,B.E,7.83,4,Unplaced
+2021A5814A,Physics,B.E,7.08,4,MEDIATEK
+2021D5816D,Pharmacy,Ph.D,8.59,4,Unplaced
+2021A5818A,Electrical and Electronics Engineering,B.E,8.91,4,Unplaced
+2021A5819A,Biological Sciences,B.E,8.12,4,Unplaced
+2021P5820P,Humanities and Social Sciences,B.Pharm,9.45,4,KPMG
+2021H5822H,Pharmacy,M.E,6.03,4,Aizant
+2021A5823A,Chemisty,B.E,6.88,4,Unplaced
+2021A5824A,Humanities and Social Sciences,B.E,7.95,4,American Express
+2021A5827A,Economics and Finanace,B.E,5.62,4,Unplaced
+2021A5839A,Civil Engineering,B.E,6.71,4,Unplaced
+2021A5849A,Economics and Finanace,B.E,6.24,4,Unplaced
+2021H5852H,Humanities and Social Sciences,M.E,7.79,4,EY (Ernst & Young)
+2021H5853H,Mathematics,M.E,7.65,4,Unplaced
+2021A5859A,Mathematics,B.E,7.01,4,AMD
+2021H5861H,Mathematics,M.E,9.06,4,AMD
+2021S5862S,Chemisty,M.Sc,9.6,4,SABIC
+2021A5865A,Mechanical Engineering,B.E,6.81,4,Unplaced
+2021A5867A,Humanities and Social Sciences,B.E,9.58,4,Hindustan Unilever Limited (HUL)
+2021H5868H,Computer Science and Information Systems,M.E,6.5,4,Trilogy
+2021A5876A,Chemical Engineering,B.E,8.62,4,Unplaced
+2021H5878H,Chemical Engineering,M.E,6.99,4,Unplaced
+2021H5881H,Electrical and Electronics Engineering,M.E,7.08,4,Microsemi
+2021A5883A,Chemical Engineering,B.E,6.78,4,Shell
+2021A5884A,Pharmacy,B.E,8.4,4,Strand
+2021P5886P,Civil Engineering,B.Pharm,9.34,4,Obayashi Corporation
+2021A5895A,Civil Engineering,B.E,5.67,4,Unplaced
+2021H5897H,Mathematics,M.E,8.52,4,Cisco
+2021P5899P,Chemical Engineering,B.Pharm,7.83,4,"KBR, Inc."
+2021P5900P,Mechanical Engineering,B.Pharm,9.91,4,3SC
+2021P5905P,Chemisty,B.Pharm,9.85,4,Chevron
+2021H5913H,Humanities and Social Sciences,M.E,6.67,4,IBM
+2021H5917H,Mechanical Engineering,M.E,7.06,4,Faurecia
+2021A5921A,Pharmacy,B.E,7.88,4,Unplaced
+2021S5922S,Physics,M.Sc,7.25,4,A Lam
+2021A5923A,Physics,B.E,8.95,4,Unplaced
+2021S5927S,Computer Science and Information Systems,M.Sc,8.11,4,Texas Instruments
+2021A5928A,Mathematics,B.E,7.48,4,Google
+2021A5935A,Humanities and Social Sciences,B.E,7.91,4,Aditya Birla Group
+2021A5938A,Electrical and Electronics Engineering,B.E,8.5,4,Microsemi
+2021A5940A,Computer Science and Information Systems,B.E,9.39,4,VISA
+2021A5957A,Pharmacy,B.E,8.81,4,Natco Pharma
+2021A5958A,Pharmacy,B.E,7.08,4,Unplaced
+2021H5966H,Electrical and Electronics Engineering,M.E,6.5,4,Cypress Semiconductor
+2021A5968A,Computer Science and Information Systems,B.E,5.73,4,IBM
+2021H5972H,Pharmacy,M.E,6.24,4,Divis Laboratories
+2021A5981A,Physics,B.E,6.73,4,MICROCHIP
+2021A5984A,Civil Engineering,B.E,6.23,4,Assystem Stup
+2021H5989H,Chemisty,M.E,6.47,4,Elucidata
+2021H5991H,Civil Engineering,M.E,8.57,4,Unplaced
+2021H5997H,Economics and Finanace,M.E,6.62,4,JP Morgan
+2021A6010A,Chemical Engineering,B.E,8.08,4,"KBR, Inc."
+2021H6011H,Chemical Engineering,M.E,6.67,4,DuPont
+2021D6016D,Electrical and Electronics Engineering,Ph.D,5.6,4,SILICON LABS
+2021S6023S,Biological Sciences,M.Sc,6.57,4,Zydus Cadila
+2021S6024S,Mathematics,M.Sc,9.04,4,Dell
+2021A6034A,Computer Science and Information Systems,B.E,9.0,4,GE HealthCare
+2021A6036A,Mathematics,B.E,7.62,4,Microsoft
+2021D6040D,Economics and Finanace,Ph.D,8.14,4,BlackRock
+2021P6048P,Humanities and Social Sciences,B.Pharm,6.05,4,Unplaced
+2021S6051S,Mathematics,M.Sc,6.11,4,Unplaced
+2021S6057S,Mechanical Engineering,M.Sc,5.18,4,Boeing
+2021H6058H,Electrical and Electronics Engineering,M.E,7.63,4,Ricoh
+2021A6061A,Electrical and Electronics Engineering,B.E,6.52,4,Intel
+2021A6065A,Mathematics,B.E,5.24,4,Unplaced
+2021A6070A,Civil Engineering,B.E,8.85,4,"Skidmore, Owings & Merrill (SOM)"
+2021H6072H,Pharmacy,M.E,6.0,4,Divis Laboratories
+2021A6073A,Humanities and Social Sciences,B.E,8.44,4,Procter & Gamble
+2021A6084A,Mechanical Engineering,B.E,9.23,4,Unplaced
+2021A6085A,Pharmacy,B.E,7.29,4,Wockhardt
+2021H6094H,Chemical Engineering,M.E,7.19,4,Unplaced
+2021H6095H,Economics and Finanace,M.E,9.95,4,Boston Consulting Group (BCG)
+2021H6096H,Electrical and Electronics Engineering,M.E,5.76,4,AMDET
+2021A6098A,Mathematics,B.E,8.03,4,Dell
+2021A6100A,Humanities and Social Sciences,B.E,8.89,4,WNS Global Services
+2021P6103P,Computer Science and Information Systems,B.Pharm,5.19,4,Secureworks
+2021H6109H,Economics and Finanace,M.E,5.35,4,Fidelity International
+2021A6121A,Mathematics,B.E,7.72,4,Unplaced
+2021P6126P,Biological Sciences,B.Pharm,8.48,4,GSK Pharmaceuticals
+2021H6134H,Physics,M.E,6.58,4,onsemi
+2021H6136H,Computer Science and Information Systems,M.E,8.63,4,Unplaced
+2021H6150H,Pharmacy,M.E,9.09,4,Glenmark Pharmaceuticals
+2021S6153S,Electrical and Electronics Engineering,M.Sc,6.36,4,Unplaced
+2021A6155A,Humanities and Social Sciences,B.E,6.64,4,EY (Ernst & Young)
+2021A6158A,Civil Engineering,B.E,6.07,4,Kiewit Corporation
+2021H6159H,Computer Science and Information Systems,M.E,6.29,4,Unplaced
+2021A6163A,Chemical Engineering,B.E,5.93,4,Air Liquide
+2021A6164A,Computer Science and Information Systems,B.E,5.35,4,ARM
+2021A6165A,Biological Sciences,B.E,6.12,4,Strand
+2021A6168A,Economics and Finanace,B.E,7.44,4,Genpact
+2021A6170A,Chemical Engineering,B.E,5.13,4,Chevron
+2021H6171H,Pharmacy,M.E,6.66,4,Divis Laboratories
+2021A6174A,Biological Sciences,B.E,5.31,4,GSK Pharmaceuticals
+2021A6175A,Computer Science and Information Systems,B.E,9.75,4,Unplaced
+2021A6176A,Humanities and Social Sciences,B.E,8.0,4,Reliance Industries
+2021A6181A,Biological Sciences,B.E,9.61,4,Emcure Pharmaceuticals
+2021A6188A,Humanities and Social Sciences,B.E,5.53,4,Bain & Company
+2021H6192H,Economics and Finanace,M.E,6.67,4,Unplaced
+2021A6195A,Pharmacy,B.E,7.82,4,Elucidata
+2021A6204A,Physics,B.E,8.07,4,A Lam
+2021H6205H,Civil Engineering,M.E,5.52,4,Unplaced
+2021A6211A,Mechanical Engineering,B.E,5.77,4,Unplaced
+2021S6212S,Pharmacy,M.Sc,9.06,4,Biocon
+2021A6215A,Chemical Engineering,B.E,9.47,4,Bayer
+2021A6218A,Mathematics,B.E,8.21,4,Dell
+2021A6219A,Civil Engineering,B.E,9.12,4,ARUP
+2021A6223A,Economics and Finanace,B.E,8.75,4,UBS
+2021H6224H,Computer Science and Information Systems,M.E,7.0,4,Unplaced
+2021A6230A,Physics,B.E,7.71,4,Unplaced
+2021A6237A,Chemical Engineering,B.E,9.09,4,Baker Hughes
+2021P6238P,Chemical Engineering,B.Pharm,7.08,4,Evonik Industries
+2021H6245H,Pharmacy,M.E,8.43,4,Glenmark Pharmaceuticals
+2021A6248A,Mathematics,B.E,5.62,4,Qualcomm
+2021A6249A,Pharmacy,B.E,6.23,4,Cadila Healthcare
+2021H6250H,Economics and Finanace,M.E,9.85,4,FactSet
+2021H6254H,Chemical Engineering,M.E,7.63,4,Chevron
+2021P6255P,Computer Science and Information Systems,B.Pharm,5.61,4,GE HealthCare
+2021S6257S,Biological Sciences,M.Sc,5.78,4,Torrent Pharmaceuticals
+2021S6258S,Computer Science and Information Systems,M.Sc,8.82,4,Unplaced
+2021H6261H,Electrical and Electronics Engineering,M.E,9.24,4,MathWorks
+2021A6267A,Pharmacy,B.E,9.03,4,Unplaced
+2021H6271H,Chemisty,M.E,9.53,4,Unplaced
+2021A6273A,Civil Engineering,B.E,9.01,4,Assystem Stup
+2021H6274H,Physics,M.E,8.65,4,Unplaced
+2021A6279A,Economics and Finanace,B.E,7.81,4,Nomura
+2021A6286A,Electrical and Electronics Engineering,B.E,9.77,4,AMDET
+2021S6292S,Pharmacy,M.Sc,8.1,4,Elucidata
+2021P6293P,Humanities and Social Sciences,B.Pharm,8.85,4,Capgemini
+2021H6299H,Humanities and Social Sciences,M.E,8.38,4,Boston Consulting Group (BCG)
+2021D6300D,Humanities and Social Sciences,Ph.D,5.06,4,Procter & Gamble
+2021A6301A,Chemisty,B.E,9.81,4,Sun Pharmaceutical Industries
+2021A6302A,Pharmacy,B.E,7.32,4,Unplaced
+2021A6306A,Mathematics,B.E,5.21,4,AMD
+2021A6309A,Pharmacy,B.E,7.79,4,Aizant
+2021A6311A,Chemical Engineering,B.E,5.2,4,Wood Group
+2021A6313A,Chemical Engineering,B.E,5.86,4,Unplaced
+2021S6317S,Biological Sciences,M.Sc,5.32,4,PEISION MEDICINE SOLUTIONS
+2021A6321A,Humanities and Social Sciences,B.E,8.07,4,EY (Ernst & Young)
+2021A6330A,Civil Engineering,B.E,7.09,4,Thornton Tomasetti
+2021A6335A,Pharmacy,B.E,6.37,4,Aragen
+2021A6340A,Chemical Engineering,B.E,7.11,4,Covestro
+2021A6341A,Mechanical Engineering,B.E,6.93,4,SpaceX
+2021A6345A,Chemical Engineering,B.E,9.71,4,Evonik Industries
+2021H6356H,Pharmacy,M.E,8.05,4,kmk
+2021H6357H,Mechanical Engineering,M.E,7.87,4,FORVIA
+2021S6378S,Physics,M.Sc,8.8,4,CISCO
+2021A6379A,Chemical Engineering,B.E,9.18,4,Mitsubishi Chemical Corporation
+2021D6388D,Chemical Engineering,Ph.D,8.4,4,"KBR, Inc."
+2021A6393A,Pharmacy,B.E,5.52,4,Aragen
+2021P6398P,Civil Engineering,B.Pharm,6.89,4,Assystem Stup
+2021S6402S,Biological Sciences,M.Sc,8.43,4,Unplaced
+2021S6405S,Physics,M.Sc,9.19,4,Panasonic
+2021S6409S,Civil Engineering,M.Sc,6.06,4,Obayashi Corporation
+2021P6411P,Chemisty,B.Pharm,7.57,4,ADITYA BIRLA
+2021H6413H,Civil Engineering,M.E,9.85,4,WSP Global
+2021S6421S,Physics,M.Sc,7.13,4,Unplaced
+2021H6428H,Humanities and Social Sciences,M.E,9.06,4,Tata Consultancy Services (TCS)
+2021P6431P,Pharmacy,B.Pharm,7.48,4,Alkem Laboratories
+2021A6437A,Pharmacy,B.E,9.2,4,КАВІ
+2021A6451A,Chemical Engineering,B.E,6.42,4,Unplaced
+2021A6454A,Civil Engineering,B.E,6.34,4,Gammon Construction
+2021A6457A,Economics and Finanace,B.E,6.84,4,UBS
+2021A6462A,Economics and Finanace,B.E,7.82,4,Boston Consulting Group (BCG)
+2021A6467A,Electrical and Electronics Engineering,B.E,6.62,4,SynOPSYS
+2021A6477A,Electrical and Electronics Engineering,B.E,5.03,4,INSTRUMENTS
+2021H6482H,Computer Science and Information Systems,M.E,8.39,4,Wabtec
+2021A6488A,Chemisty,B.E,5.31,4,BASF
+2021P6491P,Electrical and Electronics Engineering,B.Pharm,8.22,4,IBM
+2021A6496A,Humanities and Social Sciences,B.E,7.18,4,Infosys
+2021A6497A,Chemisty,B.E,9.56,4,Unplaced
+2021A6501A,Physics,B.E,7.98,4,AMDET
+2021A6507A,Chemisty,B.E,7.55,4,Unplaced
+2021H6511H,Humanities and Social Sciences,M.E,8.68,4,Infosys BPM
+2021H6517H,Computer Science and Information Systems,M.E,6.29,4,Samsung
+2021A6520A,Humanities and Social Sciences,B.E,7.04,4,Procter & Gamble
+2021P6523P,Economics and Finanace,B.Pharm,5.88,4,Thomson Reuters
+2021A6524A,Civil Engineering,B.E,7.27,4,Gammon Construction
+2021S6525S,Physics,M.Sc,6.25,4,Unplaced
+2021A6528A,Electrical and Electronics Engineering,B.E,6.59,4,Xilinx
+2021A6530A,Electrical and Electronics Engineering,B.E,5.43,4,Altera
+2021A6535A,Physics,B.E,8.22,4,SAMSUNG
+2021D6537D,Biological Sciences,Ph.D,6.71,4,Unplaced
+2021A6538A,Chemical Engineering,B.E,8.23,4,Evonik Industries
+2021A6539A,Biological Sciences,B.E,6.67,4,GSK Pharmaceuticals
+2021H6541H,Chemical Engineering,M.E,8.45,4,Baker Hughes
+2021A6542A,Electrical and Electronics Engineering,B.E,6.53,4,Unplaced
+2021D6551D,Mathematics,Ph.D,5.1,4,Pharmo Solutions
+2021P6553P,Humanities and Social Sciences,B.Pharm,5.01,4,Bain & Company
+2021H6555H,Economics and Finanace,M.E,5.85,4,MSCI
+2021H6558H,Computer Science and Information Systems,M.E,6.13,4,Cisco
+2021A6559A,Mathematics,B.E,7.89,4,Qualcomm
+2021P6561P,Pharmacy,B.Pharm,9.56,4,kmk
+2021A6568A,Pharmacy,B.E,6.45,4,GSK Pharmaceuticals
+2021A6572A,Mechanical Engineering,B.E,9.51,4,Unplaced
+2021H6573H,Economics and Finanace,M.E,9.52,4,Credit Suisse
+2021A6575A,Pharmacy,B.E,6.15,4,Cadila Healthcare
+2021A6576A,Economics and Finanace,B.E,7.98,4,Accenture
+2021H6585H,Humanities and Social Sciences,M.E,8.95,4,Unplaced
+2021A6586A,Physics,B.E,7.87,4,Micron
+2021H6587H,Electrical and Electronics Engineering,M.E,7.67,4,Texas Instruments
+2021A6591A,Economics and Finanace,B.E,7.6,4,IHS Markit
+2021P6596P,Biological Sciences,B.Pharm,8.37,4,Unplaced
+2021D6598D,Mechanical Engineering,Ph.D,8.09,4,3SC
+2021H6600H,Civil Engineering,M.E,6.59,4,Unplaced
+2021A6604A,Mathematics,B.E,6.25,4,Unplaced
+2021P6607P,Chemical Engineering,B.Pharm,6.21,4,Procter & Gamble
+2021H6609H,Biological Sciences,M.E,9.09,4,Unplaced
+2021D6614D,Chemisty,Ph.D,6.73,4,Procter & Gamble
+2021H6617H,Mathematics,M.E,9.13,4,Qualcomm
+2021S6624S,Humanities and Social Sciences,M.Sc,9.79,4,American Express
+2021H6631H,Electrical and Electronics Engineering,M.E,7.23,4,Altera
+2021A6632A,Mechanical Engineering,B.E,9.6,4,Siemens
+2021A6633A,Mechanical Engineering,B.E,9.97,4,Infineon
+2021D6635D,Economics and Finanace,Ph.D,7.56,4,BlackRock
+2021A6640A,Physics,B.E,6.64,4,Tenstorrent
+2021A6649A,Economics and Finanace,B.E,7.05,4,Unplaced
+2021A6651A,Biological Sciences,B.E,9.83,4,Unplaced
+2021H6659H,Pharmacy,M.E,8.58,4,Wockhardt
+2021A6675A,Pharmacy,B.E,7.62,4,Lupin Limited
+2021S6683S,Mechanical Engineering,M.Sc,7.7,4,Rolls-Royce
+2021H6686H,Civil Engineering,M.E,9.34,4,Unplaced
+2021A6688A,Chemisty,B.E,8.94,4,Honeywell UOP
+2021A6689A,Mathematics,B.E,6.95,4,Piramal
+2021H6691H,Chemisty,M.E,7.36,4,Aragen
+2021H6694H,Mathematics,M.E,9.97,4,Flipkart
+2021H6699H,Pharmacy,M.E,8.52,4,kmk
+2021H6700H,Civil Engineering,M.E,6.71,4,WSP Global
+2021A6704A,Economics and Finanace,B.E,7.65,4,Bain & Company
+2021A6707A,Chemisty,B.E,7.75,4,Chevron
+2021H6712H,Mechanical Engineering,M.E,8.98,4,TATA
+2021A6715A,Economics and Finanace,B.E,8.94,4,Credit Suisse
+2021A6717A,Electrical and Electronics Engineering,B.E,9.35,4,Unplaced
+2021A6721A,Physics,B.E,8.36,4,Unplaced
+2021A6725A,Economics and Finanace,B.E,7.67,4,JP Morgan
+2021H6726H,Biological Sciences,M.E,5.05,4,Unplaced
+2021H6734H,Civil Engineering,M.E,8.61,4,Force
+2021A6735A,Chemical Engineering,B.E,9.34,4,Covestro
+2021A6743A,Chemisty,B.E,8.18,4,Procter & Gamble
+2021H6744H,Humanities and Social Sciences,M.E,5.83,4,Flipkart
+2021A6745A,Chemical Engineering,B.E,9.99,4,Mitsubishi Chemical Corporation
+2021A6773A,Mechanical Engineering,B.E,6.0,4,Ford Motor Company
+2021H6780H,Computer Science and Information Systems,M.E,9.63,4,Unplaced
+2021P6783P,Chemisty,B.Pharm,6.62,4,Procter & Gamble
+2021A6789A,Mechanical Engineering,B.E,8.84,4,Unplaced
+2021A6790A,Physics,B.E,5.88,4,MICROCHIP
+2021P6800P,Mechanical Engineering,B.Pharm,6.9,4,Wabtec
+2021A6807A,Civil Engineering,B.E,8.8,4,Leighton Holdings
+2021A6812A,Mechanical Engineering,B.E,5.58,4,Unplaced
+2021A6818A,Humanities and Social Sciences,B.E,5.38,4,Tata Consultancy Services (TCS)
+2021A6819A,Electrical and Electronics Engineering,B.E,6.72,4,Unplaced
+2021A6821A,Economics and Finanace,B.E,8.54,4,Standard Chartered
+2021A6822A,Chemisty,B.E,6.13,4,ExxonMobil
+2021H6823H,Physics,M.E,6.04,4,Unplaced
+2021A6824A,Biological Sciences,B.E,9.18,4,Alembic Pharmaceuticals
+2021A6827A,Economics and Finanace,B.E,8.85,4,Deutsche Bank
+2021P6828P,Biological Sciences,B.Pharm,9.77,4,Wockhardt
+2021D6829D,Civil Engineering,Ph.D,5.3,4,Jacobs Engineering Group
+2021A6831A,Mechanical Engineering,B.E,8.04,4,Micron
+2021A6832A,Mechanical Engineering,B.E,9.31,4,Unplaced
+2021P6837P,Biological Sciences,B.Pharm,8.91,4,Dr. Reddys Laboratories
+2021H6841H,Biological Sciences,M.E,9.0,4,Biocon
+2021H6842H,Economics and Finanace,M.E,9.45,4,Boston Consulting Group (BCG)
+2021H6860H,Mathematics,M.E,6.56,4,Piramal
+2021H6861H,Computer Science and Information Systems,M.E,7.59,4,Samsung
+2021H6862H,Physics,M.E,6.33,4,Unplaced
+2021A6866A,Chemisty,B.E,7.88,4,Biocon Biologics
+2021P6874P,Chemical Engineering,B.Pharm,7.07,4,Air Liquide
+2021P6875P,Chemical Engineering,B.Pharm,5.51,4,Solvay
+2021H6876H,Biological Sciences,M.E,9.3,4,Torrent Pharmaceuticals
+2021D6888D,Pharmacy,Ph.D,7.05,4,Emcure Pharmaceuticals
+2021A6890A,Chemical Engineering,B.E,5.46,4,Unplaced
+2021A6893A,Mathematics,B.E,6.88,4,Piramal
+2021H6895H,Pharmacy,M.E,9.29,4,Torrent Pharmaceuticals
+2021A6899A,Mechanical Engineering,B.E,6.62,4,Unplaced
+2021P6906P,Computer Science and Information Systems,B.Pharm,5.94,4,Unplaced
+2021P6907P,Humanities and Social Sciences,B.Pharm,5.17,4,Microsoft
+2021A6912A,Computer Science and Information Systems,B.E,8.07,4,Intel
+2021H6914H,Chemisty,M.E,9.18,4,Unplaced
+2021S6922S,Economics and Finanace,M.Sc,8.37,4,Unplaced
+2021P6924P,Chemisty,B.Pharm,7.11,4,Aizant
+2021S6929S,Pharmacy,M.Sc,8.28,4,AstraZeneca
+2021A6936A,Humanities and Social Sciences,B.E,5.84,4,Tata Consultancy Services (TCS)
+2021D6937D,Physics,Ph.D,6.8,4,A Lam
+2021A6940A,Electrical and Electronics Engineering,B.E,9.43,4,MEDIATEK
+2021A6941A,Computer Science and Information Systems,B.E,8.19,4,Wabtec
+2021H6944H,Mathematics,M.E,9.33,4,Google
+2021A6949A,Chemical Engineering,B.E,6.5,4,Unplaced
+2021H6952H,Biological Sciences,M.E,8.79,4,DataZymes
+2021S6954S,Physics,M.Sc,8.84,4,AMDET
+2021A6956A,Physics,B.E,5.92,4,IBM
+2021A6958A,Mathematics,B.E,8.37,4,Flipkart
+2021A6959A,Humanities and Social Sciences,B.E,5.02,4,American Express
+2021H6966H,Mechanical Engineering,M.E,7.05,4,Unplaced
+2021A6973A,Biological Sciences,B.E,5.94,4,КАВІ
+2021A6977A,Mathematics,B.E,8.16,4,Unplaced
+2021H6978H,Physics,M.E,8.53,4,Micron
+2021P6983P,Pharmacy,B.Pharm,8.48,4,Cadila Healthcare
+2021P6984P,Humanities and Social Sciences,B.Pharm,8.61,4,ITC Limited
+2021H6988H,Economics and Finanace,M.E,6.97,4,Unplaced
+2021A6989A,Chemisty,B.E,7.14,4,Unplaced
+2021A6996A,Chemisty,B.E,5.31,4,Elucidata
+2021A6998A,Biological Sciences,B.E,6.08,4,Strand
+2021A7007A,Humanities and Social Sciences,B.E,7.0,4,Amazon
+2021A7009A,Physics,B.E,7.79,4,Unplaced
+2021A7012A,Civil Engineering,B.E,7.0,4,Force
+2021D7025D,Biological Sciences,Ph.D,6.02,4,Pfizer
+2021H7029H,Mathematics,M.E,6.4,4,AMD
+2021A7031A,Chemisty,B.E,6.8,4,Sun Pharmaceutical Industries
+2021A7033A,Computer Science and Information Systems,B.E,7.32,4,Secureworks
+2021A7035A,Pharmacy,B.E,8.39,4,Cadila Healthcare
+2021A7036A,Electrical and Electronics Engineering,B.E,7.86,4,proteanTecs
+2021D7037D,Mathematics,Ph.D,5.08,4,Cisco
+2021H7043H,Civil Engineering,M.E,8.57,4,Hill International
+2021A7044A,Civil Engineering,B.E,8.24,4,Unplaced
+2021A7049A,Civil Engineering,B.E,8.02,4,COWI
+2021A7053A,Mechanical Engineering,B.E,7.55,4,Unplaced
+2021A7056A,Chemisty,B.E,6.66,4,Aizant
+2021A7057A,Electrical and Electronics Engineering,B.E,7.17,4,SynOPSYS
+2021A7060A,Computer Science and Information Systems,B.E,7.47,4,Micron
+2021H7061H,Chemical Engineering,M.E,9.35,4,Lanxess
+2021A7065A,Computer Science and Information Systems,B.E,5.73,4,Unplaced
+2021H7067H,Economics and Finanace,M.E,6.76,4,Unplaced
+2021A7068A,Civil Engineering,B.E,9.54,4,AECOM
+2021H7069H,Computer Science and Information Systems,M.E,6.03,4,Cisco
+2021A7078A,Biological Sciences,B.E,8.31,4,Pfizer
+2021A7079A,Civil Engineering,B.E,6.9,4,Leighton Holdings
+2021A7081A,Economics and Finanace,B.E,8.68,4,Unplaced
+2021A7084A,Computer Science and Information Systems,B.E,9.59,4,Amazon
+2021A7088A,Mechanical Engineering,B.E,5.05,4,Mercedes Benz
+2021S7091S,Electrical and Electronics Engineering,M.Sc,6.55,4,onsemi
+2021A7095A,Chemical Engineering,B.E,7.42,4,Merck
+2021A7100A,Biological Sciences,B.E,6.43,4,Strand
+2021H7101H,Civil Engineering,M.E,8.58,4,Unplaced
+2021A7108A,Pharmacy,B.E,6.66,4,Dr. Reddys Laboratories
+2021A7114A,Economics and Finanace,B.E,5.22,4,Unplaced
+2021P7118P,Civil Engineering,B.Pharm,5.23,4,AMARARALA
+2021H7121H,Civil Engineering,M.E,6.79,4,RAMBOLL
+2021S7127S,Economics and Finanace,M.Sc,9.34,4,Barclays
+2021S7128S,Mechanical Engineering,M.Sc,6.45,4,Unplaced
+2021A7131A,Humanities and Social Sciences,B.E,6.38,4,Google
+2021H7136H,Civil Engineering,M.E,8.64,4,AMARARALA
+2021P7137P,Economics and Finanace,B.Pharm,9.9,4,Unplaced
+2021A7143A,Mathematics,B.E,7.08,4,Flipkart
+2021A7157A,Mechanical Engineering,B.E,7.06,4,JK Fenner
+2021A7158A,Chemical Engineering,B.E,7.51,4,Unplaced
+2021A7172A,Electrical and Electronics Engineering,B.E,5.77,4,IBM
+2021H7173H,Computer Science and Information Systems,M.E,7.7,4,Unplaced
+2021A7178A,Chemical Engineering,B.E,7.15,4,Air Liquide
+2021A7186A,Economics and Finanace,B.E,7.92,4,Nomura
+2021S7190S,Pharmacy,M.Sc,6.7,4,Unplaced
+2021H7192H,Biological Sciences,M.E,9.41,4,Zydus
+2021S7193S,Pharmacy,M.Sc,5.54,4,Aragen
+2021D7200D,Computer Science and Information Systems,Ph.D,6.28,4,Infineon
+2021A7212A,Mechanical Engineering,B.E,8.27,4,Wabtec
+2021P7215P,Computer Science and Information Systems,B.Pharm,8.1,4,Amazon
+2021A7216A,Pharmacy,B.E,7.22,4,Unplaced
+2021A7219A,Humanities and Social Sciences,B.E,7.03,4,Tata Steel
+2021P7221P,Civil Engineering,B.Pharm,5.22,4,Greenko Jacobs
+2021A7222A,Computer Science and Information Systems,B.E,7.48,4,VMware
+2021A7226A,Pharmacy,B.E,6.94,4,Natco Pharma
+2021P7227P,Electrical and Electronics Engineering,B.Pharm,5.42,4,ON Semiconductor
+2021A7228A,Electrical and Electronics Engineering,B.E,5.69,4,MEDIATEK
+2021H7231H,Computer Science and Information Systems,M.E,9.04,4,Wabtec
+2021A7232A,Mathematics,B.E,7.97,4,Flipkart
+2021P7257P,Computer Science and Information Systems,B.Pharm,9.31,4,AMD
+2021A7259A,Pharmacy,B.E,9.21,4,Cadila Healthcare
+2021D7264D,Civil Engineering,Ph.D,5.46,4,Unplaced
+2021A7267A,Biological Sciences,B.E,9.02,4,Strand
+2021A7269A,Electrical and Electronics Engineering,B.E,6.72,4,MEDIATEK
+2021H7270H,Mathematics,M.E,8.86,4,Unplaced
+2021A7273A,Economics and Finanace,B.E,9.33,4,Boston Consulting Group (BCG)
+2021A7276A,Civil Engineering,B.E,8.74,4,Leighton Holdings
+2021A7280A,Chemical Engineering,B.E,5.34,4,Shell
+2021A7286A,Humanities and Social Sciences,B.E,6.98,4,Unplaced
+2021A7288A,Mathematics,B.E,5.64,4,Unplaced
+2021A7289A,Computer Science and Information Systems,B.E,6.6,4,VMware
+2021P7302P,Chemisty,B.Pharm,7.95,4,Elucidata
+2021P7303P,Computer Science and Information Systems,B.Pharm,6.76,4,Unplaced
+2021A7305A,Civil Engineering,B.E,5.35,4,Jacobs Engineering Group
+2021H7308H,Computer Science and Information Systems,M.E,8.93,4,VISA
+2021A7309A,Chemisty,B.E,8.11,4,ExxonMobil
+2021A7312A,Civil Engineering,B.E,6.47,4,Gammon Construction
+2021P7315P,Chemical Engineering,B.Pharm,9.19,4,"KBR, Inc."
+2021A7324A,Computer Science and Information Systems,B.E,7.78,4,Wabtec
+2021A7329A,Humanities and Social Sciences,B.E,7.36,4,Tata Consultancy Services (TCS)
+2021S7331S,Civil Engineering,M.Sc,7.01,4,Unplaced
+2021H7333H,Pharmacy,M.E,9.83,4,Divis Laboratories
+2021A7343A,Physics,B.E,8.9,4,Unplaced
+2021A7345A,Electrical and Electronics Engineering,B.E,7.0,4,LG Electronics
+2021A7354A,Electrical and Electronics Engineering,B.E,8.75,4,Texas Instruments
+2021A7362A,Chemical Engineering,B.E,8.11,4,AkzoNobel
+2021A7364A,Civil Engineering,B.E,8.82,4,LISEN A TOLERO
+2021A7365A,Civil Engineering,B.E,9.55,4,Kiewit Corporation
+2021D7367D,Humanities and Social Sciences,Ph.D,7.0,4,Infosys
+2021S7368S,Mathematics,M.Sc,7.46,4,Google
+2021A7375A,Chemisty,B.E,7.16,4,Aragen
+2021A7377A,Pharmacy,B.E,9.06,4,Aizant
+2021P7383P,Electrical and Electronics Engineering,B.Pharm,9.86,4,Unplaced
+2021P7386P,Chemical Engineering,B.Pharm,5.01,4,INEOS
+2021H7387H,Chemical Engineering,M.E,9.0,4,Pfizer
+2021A7390A,Economics and Finanace,B.E,9.91,4,Fidelity International
+2021A7392A,Electrical and Electronics Engineering,B.E,7.27,4,Altera
+2021A7393A,Humanities and Social Sciences,B.E,8.33,4,Infosys
+2021P7399P,Economics and Finanace,B.Pharm,7.54,4,Standard Chartered
+2021S7401S,Computer Science and Information Systems,M.Sc,9.56,4,Unplaced
+2021A7403A,Economics and Finanace,B.E,9.58,4,Wells Fargo
+2021H7404H,Mechanical Engineering,M.E,5.98,4,Unplaced
+2021S7408S,Pharmacy,M.Sc,9.04,4,Zydus
+2021A7409A,Biological Sciences,B.E,9.09,4,Unplaced
+2021P7410P,Economics and Finanace,B.Pharm,7.03,4,Moodys Analytics
+2021H7413H,Economics and Finanace,M.E,7.5,4,Unplaced
+2021A7415A,Physics,B.E,9.58,4,SEDEMAC
+2021D7416D,Computer Science and Information Systems,Ph.D,6.36,4,VMware
+2021A7418A,Chemisty,B.E,7.45,4,КАВІ
+2021S7421S,Physics,M.Sc,6.67,4,Unplaced
+2021A7422A,Pharmacy,B.E,8.71,4,Lupin Limited
+2021A7431A,Pharmacy,B.E,9.16,4,Pfizer
+2021A7438A,Physics,B.E,7.67,4,CISCO
+2021A7440A,Civil Engineering,B.E,7.04,4,COWI
+2021A7445A,Chemical Engineering,B.E,6.76,4,ExxonMobil
+2021A7448A,Physics,B.E,9.4,4,CISCO
+2021P7449P,Economics and Finanace,B.Pharm,7.58,4,IHS Markit
+2021A7451A,Civil Engineering,B.E,9.45,4,RAMBOLL
+2021D7452D,Humanities and Social Sciences,Ph.D,6.41,4,Deloitte
+2021D7453D,Computer Science and Information Systems,Ph.D,8.46,4,Unplaced
+2021A7456A,Humanities and Social Sciences,B.E,5.98,4,Unplaced
+2021A7460A,Biological Sciences,B.E,5.9,4,Lupin Limited
+2021A7464A,Mechanical Engineering,B.E,9.41,4,General Electric (GE)
+2021A7470A,Computer Science and Information Systems,B.E,8.53,4,CONFLUENT
+2021P7474P,Electrical and Electronics Engineering,B.Pharm,5.16,4,Intel
+2021H7475H,Biological Sciences,M.E,8.63,4,Unplaced
+2021S7476S,Economics and Finanace,M.Sc,7.16,4,Deutsche Bank
+2021A7484A,Civil Engineering,B.E,7.49,4,Obayashi Corporation
+2021H7487H,Pharmacy,M.E,9.01,4,Zydus
+2021A7489A,Electrical and Electronics Engineering,B.E,6.34,4,MEDIATEK
+2021A7514A,Chemisty,B.E,8.04,4,Chevron
+2021A7517A,Civil Engineering,B.E,6.79,4,Gammon Construction
+2021P7527P,Biological Sciences,B.Pharm,8.79,4,Unplaced
+2021S7532S,Computer Science and Information Systems,M.Sc,7.65,4,Teradata
+2021A7534A,Humanities and Social Sciences,B.E,8.78,4,Accenture
+2021A7544A,Economics and Finanace,B.E,8.23,4,Thomson Reuters
+2021A7549A,Computer Science and Information Systems,B.E,6.31,4,Piramal
+2021P7557P,Biological Sciences,B.Pharm,7.22,4,Strand
+2021P7562P,Pharmacy,B.Pharm,5.76,4,AstraZeneca
+2021A7563A,Economics and Finanace,B.E,6.5,4,Unplaced
+2021S7564S,Pharmacy,M.Sc,7.48,4,Unplaced
+2021A7567A,Chemisty,B.E,6.08,4,Cipla
+2021A7572A,Mathematics,B.E,9.16,4,AMD
+2021S7575S,Pharmacy,M.Sc,7.82,4,AstraZeneca
+2021P7582P,Chemisty,B.Pharm,7.45,4,SABIC
+2021A7592A,Civil Engineering,B.E,6.87,4,ARUP
+2021A7593A,Physics,B.E,9.85,4,SAMSUNG
+2021P7597P,Computer Science and Information Systems,B.Pharm,6.0,4,BLEND360
+2021P7600P,Chemisty,B.Pharm,5.47,4,Honeywell UOP
+2021A7601A,Mechanical Engineering,B.E,6.16,4,DOVER
+2021D7604D,Chemical Engineering,Ph.D,8.34,4,DuPont
+2021A7613A,Physics,B.E,6.09,4,Texas Instruments
+2021A7616A,Mathematics,B.E,7.8,4,Flipkart
+2021H7619H,Mathematics,M.E,6.49,4,Piramal
+2021A7620A,Mathematics,B.E,5.5,4,AMD
+2021H7625H,Chemisty,M.E,6.47,4,Unplaced
+2021A7627A,Chemisty,B.E,8.64,4,Cipla
+2021D7630D,Pharmacy,Ph.D,8.82,4,Cadila Healthcare
+2021A7631A,Mechanical Engineering,B.E,9.1,4,Unplaced
+2021A7633A,Mathematics,B.E,5.46,4,AMD
+2021A7636A,Computer Science and Information Systems,B.E,6.94,4,Samsung
+2021A7641A,Economics and Finanace,B.E,9.04,4,Fidelity International
+2021A7645A,Mathematics,B.E,9.69,4,Dell
+2021A7646A,Computer Science and Information Systems,B.E,8.83,4,Unplaced
+2021A7651A,Computer Science and Information Systems,B.E,6.92,4,MathWorks
+2021H7656H,Civil Engineering,M.E,7.57,4,ARUP
+2021H7661H,Pharmacy,M.E,8.88,4,Unplaced
+2021A7666A,Electrical and Electronics Engineering,B.E,8.19,4,LG Electronics
+2021A7668A,Mechanical Engineering,B.E,6.32,4,Boeing
+2021A7673A,Computer Science and Information Systems,B.E,5.75,4,Google
+2021A7683A,Physics,B.E,7.81,4,Dolcera
+2021A7687A,Mathematics,B.E,5.48,4,Teradata
+2021H7693H,Mechanical Engineering,M.E,9.16,4,SEDEMAC
+2021A7695A,Economics and Finanace,B.E,9.24,4,Capital IQ
+2021A7702A,Chemical Engineering,B.E,6.1,4,Wood Group
+2021A7704A,Chemisty,B.E,5.54,4,Unplaced
+2021P7706P,Humanities and Social Sciences,B.Pharm,5.55,4,Accenture
+2021A7717A,Economics and Finanace,B.E,5.75,4,Unplaced
+2021A7719A,Electrical and Electronics Engineering,B.E,8.15,4,Analog Devices
+2021H7720H,Physics,M.E,5.29,4,Qualcomm
+2021A7723A,Physics,B.E,9.23,4,Unplaced
+2021A7724A,Mathematics,B.E,7.44,4,Google
+2021S7725S,Mechanical Engineering,M.Sc,5.01,4,Micron
+2021A7734A,Chemical Engineering,B.E,9.35,4,DuPont
+2021H7739H,Electrical and Electronics Engineering,M.E,8.42,4,Microsemi
+2021A7748A,Physics,B.E,6.24,4,IBM
+2021S7751S,Physics,M.Sc,6.51,4,MICROCHIP
+2021H7755H,Civil Engineering,M.E,7.25,4,AECOM
+2021A7762A,Civil Engineering,B.E,9.6,4,The Walsh Group
+2021A7764A,Electrical and Electronics Engineering,B.E,7.65,4,MathWorks
+2021D7771D,Mechanical Engineering,Ph.D,5.42,4,Caterpillar Inc.
+2021A7774A,Humanities and Social Sciences,B.E,7.94,4,HCL Technologies
+2021A7777A,Physics,B.E,6.5,4,CISCO
+2021A7781A,Humanities and Social Sciences,B.E,5.11,4,KPMG
+2021A7793A,Mathematics,B.E,5.34,4,Flipkart
+2021H7795H,Chemisty,M.E,7.5,4,Unplaced
+2021H7797H,Economics and Finanace,M.E,9.65,4,Capital IQ
+2021A7798A,Humanities and Social Sciences,B.E,9.12,4,Axis Bank
+2021A7799A,Biological Sciences,B.E,5.42,4,Strand
+2021H7802H,Electrical and Electronics Engineering,M.E,8.24,4,Ricoh
+2021P7803P,Computer Science and Information Systems,B.Pharm,7.17,4,VMware
+2021A7809A,Physics,B.E,9.17,4,Intel
+2021A7811A,Economics and Finanace,B.E,5.22,4,Genpact
+2021A7812A,Economics and Finanace,B.E,5.53,4,Boston Consulting Group (BCG)
+2021D7813D,Physics,Ph.D,6.33,4,CISCO
+2021P7816P,Chemical Engineering,B.Pharm,7.45,4,Chevron
+2021S7821S,Mathematics,M.Sc,6.18,4,Piramal
+2021A7822A,Mechanical Engineering,B.E,7.89,4,Caterpillar Inc.
+2021A7827A,Chemisty,B.E,6.91,4,SABIC
+2021H7828H,Chemical Engineering,M.E,7.89,4,"KBR, Inc."
+2021H7833H,Biological Sciences,M.E,6.6,4,Aurobindo Pharma
+2021S7834S,Mathematics,M.Sc,5.66,4,MathWorks
+2021A7840A,Chemisty,B.E,7.79,4,Cipla
+2021H7845H,Chemical Engineering,M.E,7.2,4,Linde
+2021P7848P,Pharmacy,B.Pharm,8.61,4,Aizant
+2021A7850A,Economics and Finanace,B.E,6.63,4,Fidelity International
+2021H7851H,Physics,M.E,8.3,4,MICROCHIP
+2021H7857H,Chemical Engineering,M.E,8.45,4,Solvay
+2021A7862A,Humanities and Social Sciences,B.E,8.22,4,Deloitte
+2021P7865P,Electrical and Electronics Engineering,B.Pharm,7.68,4,Texas Instruments
+2021S7871S,Chemisty,M.Sc,9.29,4,Biocon Biologics
+2021H7876H,Mathematics,M.E,7.73,4,Pharmo Solutions
+2021P7881P,Chemical Engineering,B.Pharm,5.45,4,Procter & Gamble
+2021A7884A,Pharmacy,B.E,5.46,4,Elucidata
+2021A7894A,Civil Engineering,B.E,6.38,4,Gammon Construction
+2021A7897A,Physics,B.E,8.31,4,Infineon
+2021A7910A,Pharmacy,B.E,5.99,4,Aizant
+2021D7915D,Pharmacy,Ph.D,6.87,4,Strand
+2021S7930S,Physics,M.Sc,6.54,4,STMicroelectronics
+2021P7934P,Civil Engineering,B.Pharm,8.31,4,"Skidmore, Owings & Merrill (SOM)"
+2021A7942A,Civil Engineering,B.E,5.51,4,Stantec
+2021A7947A,Electrical and Electronics Engineering,B.E,5.87,4,Altera
+2021A7951A,Chemisty,B.E,6.21,4,kmk
+2021A7952A,Humanities and Social Sciences,B.E,9.0,4,Capgemini
+2021H7955H,Pharmacy,M.E,9.96,4,Cadila Healthcare
+2021D7956D,Pharmacy,Ph.D,8.53,4,DataZymes
+2021A7957A,Physics,B.E,6.98,4,Texas Instruments
+2021P7958P,Computer Science and Information Systems,B.Pharm,5.26,4,VMware
+2021A7964A,Chemical Engineering,B.E,5.09,4,ADM (Archer Daniels Midland)
+2021H7965H,Chemisty,M.E,6.42,4,DuPont
+2021P7969P,Mechanical Engineering,B.Pharm,5.89,4,SONA COMSTAR
+2021A7975A,Humanities and Social Sciences,B.E,7.75,4,State Bank of India (SBI)
+2021A7978A,Economics and Finanace,B.E,9.52,4,BlackRock
+2021H7983H,Economics and Finanace,M.E,6.25,4,BNP Paribas
+2021A7988A,Mechanical Engineering,B.E,6.41,4,Ford Motor Company
+2021A7989A,Civil Engineering,B.E,8.91,4,Force
+2021P7990P,Electrical and Electronics Engineering,B.Pharm,7.52,4,Infineon
+2021A8003A,Biological Sciences,B.E,7.98,4,Unplaced
+2021A8010A,Electrical and Electronics Engineering,B.E,9.33,4,NEC Corporation
+2021A8014A,Chemisty,B.E,7.58,4,Honeywell UOP
+2021P8019P,Chemical Engineering,B.Pharm,9.52,4,Unplaced
+2021A8020A,Physics,B.E,6.59,4,Intel
+2021H8021H,Civil Engineering,M.E,8.79,4,Acciona
+2021D8025D,Biological Sciences,Ph.D,9.98,4,Abbott Laboratories
+2021A8035A,Biological Sciences,B.E,7.72,4,GSK Pharmaceuticals
+2021A8037A,Electrical and Electronics Engineering,B.E,5.31,4,Xilinx
+2021A8040A,Mechanical Engineering,B.E,8.03,4,Shell
+2021H8050H,Economics and Finanace,M.E,6.83,4,Thomson Reuters
+2021H8054H,Mechanical Engineering,M.E,9.8,4,Bosch
+2021A8057A,Physics,B.E,7.61,4,Intel
+2021A8058A,Physics,B.E,7.77,4,Texas Instruments
+2021H8059H,Humanities and Social Sciences,M.E,7.12,4,Capgemini
+2021P8063P,Mechanical Engineering,B.Pharm,6.12,4,Unplaced
+2021A8065A,Biological Sciences,B.E,6.39,4,Torrent Pharmaceuticals
+2021A8068A,Economics and Finanace,B.E,8.7,4,American Express
+2021A8070A,Pharmacy,B.E,8.68,4,Unplaced
+2021P8072P,Pharmacy,B.Pharm,5.15,4,Granules India
+2021H8084H,Mathematics,M.E,6.57,4,AMD
+2021P8092P,Biological Sciences,B.Pharm,7.25,4,Wockhardt
+2021A8101A,Electrical and Electronics Engineering,B.E,5.53,4,Unplaced
+2021S8104S,Physics,M.Sc,9.93,4,Intel
+2021S8105S,Electrical and Electronics Engineering,M.Sc,7.42,4,CISCO
+2021A8108A,Computer Science and Information Systems,B.E,9.12,4,Intel
+2021H8109H,Biological Sciences,M.E,8.48,4,Unplaced
+2021A8111A,Chemical Engineering,B.E,7.51,4,Chevron
+2021H8117H,Electrical and Electronics Engineering,M.E,8.3,4,NXP Semiconductors
+2021D8121D,Mathematics,Ph.D,9.91,4,Cisco
+2021P8126P,Biological Sciences,B.Pharm,5.47,4,DataZymes
+2021A8133A,Computer Science and Information Systems,B.E,6.21,4,Unplaced
+2021A8135A,Economics and Finanace,B.E,9.44,4,EY (Ernst & Young)
+2021H8142H,Pharmacy,M.E,5.69,4,КАВІ
+2021A8147A,Computer Science and Information Systems,B.E,5.82,4,Teradata
+2021A8154A,Computer Science and Information Systems,B.E,8.67,4,Unplaced
+2021A8156A,Economics and Finanace,B.E,6.57,4,Thomson Reuters
+2021A8167A,Economics and Finanace,B.E,5.14,4,Barclays
+2021H8168H,Economics and Finanace,M.E,5.23,4,Thomson Reuters
+2021A8170A,Mechanical Engineering,B.E,8.43,4,SEDEMAC
+2021H8173H,Physics,M.E,8.51,4,Intel
+2021H8178H,Biological Sciences,M.E,7.17,4,Unplaced
+2021H8180H,Electrical and Electronics Engineering,M.E,6.49,4,MathWorks
+2021A8181A,Chemisty,B.E,9.8,4,Sun Pharmaceutical Industries
+2021A8190A,Physics,B.E,5.99,4,AMDET
+2021A8191A,Biological Sciences,B.E,5.46,4,Lupin Limited
+2021H8202H,Computer Science and Information Systems,M.E,9.69,4,CONCR
+2021H8204H,Pharmacy,M.E,9.62,4,Unplaced
+2021D8205D,Chemical Engineering,Ph.D,8.93,4,"KBR, Inc."
+2021P8206P,Mechanical Engineering,B.Pharm,9.55,4,Oeing Lie
+2021A8209A,Physics,B.E,8.12,4,proteanTecs
+2021A8218A,Humanities and Social Sciences,B.E,6.94,4,Accenture
+2021D8221D,Biological Sciences,Ph.D,6.39,4,Sun Pharmaceutical Industries
+2021A8223A,Chemical Engineering,B.E,5.82,4,Evonik Industries
+2021P8231P,Humanities and Social Sciences,B.Pharm,8.9,4,EY (Ernst & Young)
+2021A8235A,Civil Engineering,B.E,9.1,4,ARUP
+2021A8241A,Electrical and Electronics Engineering,B.E,5.01,4,Altera
+2021A8243A,Pharmacy,B.E,8.13,4,Cadila Healthcare
+2021A8244A,Mechanical Engineering,B.E,8.33,4,Shell
+2021H8245H,Economics and Finanace,M.E,6.08,4,Genpact
+2021H8253H,Chemical Engineering,M.E,9.91,4,Unplaced
+2021A8260A,Biological Sciences,B.E,8.04,4,Cipla
+2021H8261H,Chemisty,M.E,5.86,4,kmk
+2021A8267A,Economics and Finanace,B.E,9.05,4,Deloitte
+2021H8276H,Biological Sciences,M.E,7.22,4,Strand
+2021H8277H,Humanities and Social Sciences,M.E,8.25,4,Infosys
+2021A8281A,Mechanical Engineering,B.E,9.14,4,DOVER
+2021H8282H,Chemisty,M.E,9.51,4,kmk
+2021H8283H,Electrical and Electronics Engineering,M.E,8.11,4,MathWorks
+2021A8284A,Chemisty,B.E,7.23,4,BASF
+2021A8290A,Electrical and Electronics Engineering,B.E,5.73,4,Texas Instruments
+2021A8294A,Electrical and Electronics Engineering,B.E,8.92,4,Fujitsu
+2021A8296A,Humanities and Social Sciences,B.E,7.78,4,Capgemini
+2021H8300H,Biological Sciences,M.E,6.98,4,Pfizer
+2021A8301A,Humanities and Social Sciences,B.E,8.21,4,Amazon
+2021A8302A,Computer Science and Information Systems,B.E,9.75,4,Samsung
+2021D8303D,Mechanical Engineering,Ph.D,6.18,4,SEDEMAC
+2021A8310A,Computer Science and Information Systems,B.E,9.91,4,AMD
+2021A8311A,Mathematics,B.E,5.07,4,AMD
+2021H8312H,Biological Sciences,M.E,6.46,4,DataZymes
+2021A8313A,Pharmacy,B.E,7.95,4,Unplaced
+2021A8314A,Economics and Finanace,B.E,5.34,4,Moodys Investors Service
+2021A8327A,Economics and Finanace,B.E,8.88,4,Unplaced
+2021D8337D,Mechanical Engineering,Ph.D,9.45,4,Caterpillar Inc.
+2021P8340P,Electrical and Electronics Engineering,B.Pharm,5.22,4,onsemi
+2021H8346H,Computer Science and Information Systems,M.E,5.98,4,Trilogy
+2021A8347A,Chemical Engineering,B.E,8.3,4,Linde
+2021A8348A,Civil Engineering,B.E,7.52,4,Gammon Construction
+2021S8350S,Economics and Finanace,M.Sc,9.46,4,Barclays
+2021H8352H,Computer Science and Information Systems,M.E,9.86,4,VMware
+2021A8354A,Computer Science and Information Systems,B.E,8.8,4,Intel
+2021A8358A,Physics,B.E,8.67,4,AMDET
+2021A8368A,Economics and Finanace,B.E,7.1,4,Boston Consulting Group (BCG)
+2021A8370A,Chemical Engineering,B.E,8.67,4,AkzoNobel
+2021A8371A,Pharmacy,B.E,8.48,4,Lupin Limited
+2021A8372A,Biological Sciences,B.E,6.48,4,Strand
+2021P8376P,Economics and Finanace,B.Pharm,7.2,4,American Express
+2021A8377A,Humanities and Social Sciences,B.E,9.6,4,Google
+2021H8378H,Electrical and Electronics Engineering,M.E,9.66,4,NXP Semiconductors
+2021A8383A,Pharmacy,B.E,5.7,4,Unplaced
+2021A8386A,Biological Sciences,B.E,6.44,4,Cipla
+2021A8387A,Mathematics,B.E,5.67,4,Intel
+2021A8392A,Mechanical Engineering,B.E,9.13,4,TATA
+2021H8393H,Pharmacy,M.E,6.16,4,DataZymes
+2021A8396A,Computer Science and Information Systems,B.E,7.07,4,Secureworks
+2021A8408A,Economics and Finanace,B.E,5.77,4,FactSet
+2021A8410A,Civil Engineering,B.E,7.06,4,Bechtel Corporation
+2021A8412A,Economics and Finanace,B.E,5.36,4,Boston Consulting Group (BCG)
+2021A8416A,Electrical and Electronics Engineering,B.E,9.78,4,Unplaced
+2021A8419A,Physics,B.E,9.43,4,NXP Semiconductors
+2021A8420A,Pharmacy,B.E,6.25,4,Unplaced
+2021D8422D,Economics and Finanace,Ph.D,9.72,4,JP Morgan
+2021H8429H,Chemical Engineering,M.E,7.43,4,Monsanto
+2021A8432A,Chemisty,B.E,8.27,4,Dow
+2021A8436A,Biological Sciences,B.E,5.94,4,Wockhardt
+2021A8448A,Civil Engineering,B.E,8.66,4,Acciona
+2021A8459A,Mathematics,B.E,5.27,4,Pharmo Solutions
+2021A8465A,Chemisty,B.E,8.78,4,Cipla
+2021H8473H,Chemisty,M.E,9.55,4,Dow
+2021D8476D,Mechanical Engineering,Ph.D,6.33,4,Infineon
+2021H8493H,Chemisty,M.E,5.17,4,Procter & Gamble
+2021A8499A,Civil Engineering,B.E,9.12,4,LISEN A TOLERO
+2021H8503H,Chemisty,M.E,9.6,4,Shell
+2021H8506H,Pharmacy,M.E,7.54,4,Unplaced
+2021A8507A,Mathematics,B.E,6.6,4,Unplaced
+2021A8513A,Economics and Finanace,B.E,7.57,4,Moodys Analytics
+2021D8514D,Pharmacy,Ph.D,9.79,4,КАВІ
+2021A8516A,Mathematics,B.E,7.07,4,Pharmo Solutions
+2021A8519A,Computer Science and Information Systems,B.E,6.37,4,Unplaced
+2021S8521S,Physics,M.Sc,6.44,4,NXP Semiconductors
+2021P8522P,Economics and Finanace,B.Pharm,8.24,4,Moodys Analytics
+2021A8524A,Economics and Finanace,B.E,6.48,4,Fidelity International
+2021S8528S,Mathematics,M.Sc,6.83,4,Piramal
+2021A8529A,Electrical and Electronics Engineering,B.E,7.84,4,Unplaced
+2021H8531H,Mechanical Engineering,M.E,7.04,4,SONA COMSTAR
+2021A8534A,Chemisty,B.E,5.91,4,Unplaced
+2021H8541H,Civil Engineering,M.E,7.42,4,Leighton Holdings
+2021H8544H,Civil Engineering,M.E,5.29,4,RAMBOLL
+2021H8553H,Mathematics,M.E,6.3,4,Pharmo Solutions
+2021A8555A,Civil Engineering,B.E,8.02,4,Thornton Tomasetti
+2021D8558D,Biological Sciences,Ph.D,9.75,4,Sun Pharmaceutical Industries
+2021H8560H,Electrical and Electronics Engineering,M.E,7.15,4,Ricoh
+2021P8567P,Economics and Finanace,B.Pharm,8.94,4,Deloitte
+2021A8573A,Physics,B.E,9.14,4,CISCO
+2021A8577A,Computer Science and Information Systems,B.E,8.19,4,Unplaced
+2021P8580P,Mechanical Engineering,B.Pharm,8.64,4,TATA
+2021A8581A,Chemical Engineering,B.E,7.73,4,Evonik Industries
+2021A8582A,Mathematics,B.E,6.98,4,Pharmo Solutions
+2021S8583S,Physics,M.Sc,8.73,4,Texas Instruments
+2021D8587D,Chemical Engineering,Ph.D,7.6,4,Chevron
+2021A8588A,Mechanical Engineering,B.E,8.54,4,Shell
+2021H8605H,Civil Engineering,M.E,9.07,4,WSP Global
+2021H8610H,Civil Engineering,M.E,5.61,4,Jacobs Engineering Group
+2021A8613A,Civil Engineering,B.E,5.49,4,Unplaced
+2021P8614P,Humanities and Social Sciences,B.Pharm,8.18,4,Infosys
+2021P8621P,Computer Science and Information Systems,B.Pharm,9.96,4,Samsung
+2021H8623H,Economics and Finanace,M.E,6.42,4,Fidelity International
+2021A8626A,Physics,B.E,8.45,4,MEDIATEK
+2021A8638A,Chemisty,B.E,8.56,4,Cipla
+2021P8643P,Chemisty,B.Pharm,9.45,4,Unplaced
+2021A8646A,Chemical Engineering,B.E,9.02,4,Chevron
+2021P8649P,Chemical Engineering,B.Pharm,6.67,4,Covestro
+2021H8650H,Computer Science and Information Systems,M.E,8.77,4,Tenstorrent
+2021A8661A,Chemisty,B.E,7.74,4,Aizant
+2021A8663A,Humanities and Social Sciences,B.E,7.52,4,HCL Technologies
+2021D8666D,Biological Sciences,Ph.D,8.25,4,КАВІ
+2021H8671H,Humanities and Social Sciences,M.E,5.83,4,Axis Bank
+2021S8677S,Civil Engineering,M.Sc,6.28,4,Greenko Jacobs
+2021A8684A,Humanities and Social Sciences,B.E,5.25,4,KPMG
+2021S8685S,Computer Science and Information Systems,M.Sc,7.7,4,Cisco
+2021A8686A,Mechanical Engineering,B.E,7.18,4,General Motors
+2021A8694A,Economics and Finanace,B.E,8.49,4,Capital IQ
+2021D8695D,Physics,Ph.D,7.01,4,Texas Instruments
+2021S8697S,Chemisty,M.Sc,6.34,4,Unplaced
+2021H8698H,Physics,M.E,5.14,4,Unplaced
+2021H8701H,Chemical Engineering,M.E,9.66,4,Baker Hughes
+2021A8710A,Mathematics,B.E,6.34,4,Unplaced
+2021A8711A,Civil Engineering,B.E,6.8,4,ARUP
+2021A8718A,Mechanical Engineering,B.E,7.52,4,JK Fenner
+2021A8721A,Computer Science and Information Systems,B.E,5.68,4,Texas Instruments
+2021A8723A,Economics and Finanace,B.E,8.61,4,Unplaced
+2021A8725A,Mechanical Engineering,B.E,5.39,4,ExxonMobil
+2021A8730A,Biological Sciences,B.E,9.26,4,Glenmark Pharmaceuticals
+2021H8735H,Chemisty,M.E,9.86,4,Procter & Gamble
+2021D8736D,Civil Engineering,Ph.D,7.01,4,Unplaced
+2021A8750A,Chemical Engineering,B.E,9.89,4,Unplaced
+2021H8753H,Chemisty,M.E,7.93,4,kmk
+2021A8755A,Economics and Finanace,B.E,6.07,4,Fidelity International
+2021H8767H,Civil Engineering,M.E,8.71,4,ARCADIS
+2021A8770A,Pharmacy,B.E,7.08,4,Strand
+2021A8771A,Electrical and Electronics Engineering,B.E,8.68,4,SILICON LABS
+2021H8772H,Chemical Engineering,M.E,8.63,4,Unplaced
+2021A8776A,Chemical Engineering,B.E,7.59,4,Air Liquide
+2021A8778A,Electrical and Electronics Engineering,B.E,6.69,4,proteanTecs
+2021P8785P,Humanities and Social Sciences,B.Pharm,5.83,4,Axis Bank
+2021A8790A,Chemisty,B.E,6.86,4,Biocon Biologics
+2021A8791A,Mechanical Engineering,B.E,6.98,4,Wabtec
+2021A8792A,Mechanical Engineering,B.E,8.02,4,Unplaced
+2021H8797H,Pharmacy,M.E,7.38,4,Aurobindo Pharma
+2021D8798D,Chemisty,Ph.D,6.23,4,КАВІ
+2021H8802H,Humanities and Social Sciences,M.E,9.88,4,Accenture
+2021A8803A,Physics,B.E,7.18,4,Infineon
+2021A8806A,Economics and Finanace,B.E,7.49,4,Moodys Investors Service
+2021A8814A,Economics and Finanace,B.E,9.87,4,American Express
+2021H8816H,Mathematics,M.E,6.78,4,Cisco
+2021A8817A,Mechanical Engineering,B.E,8.16,4,Micron
+2021A8818A,Electrical and Electronics Engineering,B.E,8.58,4,NEC Corporation
+2021A8819A,Civil Engineering,B.E,6.79,4,Unplaced
+2021H8820H,Electrical and Electronics Engineering,M.E,5.09,4,Fujitsu
+2021H8830H,Pharmacy,M.E,6.22,4,Zydus Cadila
+2021D8832D,Biological Sciences,Ph.D,9.11,4,Emcure Pharmaceuticals
+2021H8834H,Humanities and Social Sciences,M.E,9.48,4,Hindustan Unilever Limited (HUL)
+2021A8841A,Chemisty,B.E,9.26,4,kmk
+2021A8843A,Mechanical Engineering,B.E,6.37,4,JK Fenner
+2021H8852H,Chemisty,M.E,6.41,4,Aizant
+2021A8853A,Mechanical Engineering,B.E,8.7,4,Caterpillar Inc.
+2021A8856A,Pharmacy,B.E,9.71,4,PEISION MEDICINE SOLUTIONS
+2021P8858P,Chemisty,B.Pharm,8.08,4,Unplaced
+2021D8859D,Chemical Engineering,Ph.D,6.56,4,Baker Hughes
+2021H8863H,Civil Engineering,M.E,6.32,4,Jacobs Engineering Group
+2021A8864A,Chemical Engineering,B.E,5.34,4,Praxair
+2021D8865D,Mathematics,Ph.D,7.48,4,Unplaced
+2021H8866H,Chemisty,M.E,7.61,4,Eastman Chemical Company
+2021D8870D,Humanities and Social Sciences,Ph.D,5.43,4,Unplaced
+2021A8875A,Civil Engineering,B.E,7.1,4,Unplaced
+2021A8880A,Biological Sciences,B.E,7.9,4,AstraZeneca
+2021D8881D,Humanities and Social Sciences,Ph.D,8.62,4,Unplaced
+2021H8882H,Humanities and Social Sciences,M.E,9.7,4,Unplaced
+2021A8883A,Humanities and Social Sciences,B.E,6.2,4,Bain & Company
+2021A8884A,Economics and Finanace,B.E,8.83,4,Unplaced
+2021A8899A,Humanities and Social Sciences,B.E,5.11,4,Capgemini
+2021H8901H,Electrical and Electronics Engineering,M.E,5.07,4,Infineon
+2021A8904A,Computer Science and Information Systems,B.E,9.07,4,Google
+2021A8905A,Electrical and Electronics Engineering,B.E,5.79,4,Unplaced
+2021S8908S,Humanities and Social Sciences,M.Sc,8.49,4,Accenture
+2021A8914A,Mathematics,B.E,8.1,4,Dell
+2021H8922H,Economics and Finanace,M.E,9.18,4,Moodys Investors Service
+2021A8928A,Physics,B.E,7.63,4,Unplaced
+2021S8931S,Mathematics,M.Sc,7.94,4,Piramal
+2021S8939S,Pharmacy,M.Sc,5.38,4,GSK Pharmaceuticals
+2021A8940A,Physics,B.E,5.16,4,Unplaced
+2021A8941A,Civil Engineering,B.E,6.35,4,Leighton Holdings
+2021A8945A,Pharmacy,B.E,8.73,4,Divis Laboratories
+2021P8949P,Chemisty,B.Pharm,8.8,4,Chevron
+2021A8952A,Electrical and Electronics Engineering,B.E,9.54,4,MathWorks
+2021A8954A,Economics and Finanace,B.E,6.79,4,Bain & Company
+2021A8958A,Biological Sciences,B.E,7.83,4,Pfizer
+2021P8969P,Pharmacy,B.Pharm,8.55,4,Alkem Laboratories
+2021A8970A,Physics,B.E,9.46,4,Unplaced
+2021D8972D,Mathematics,Ph.D,7.41,4,AMD
+2021A8973A,Physics,B.E,5.99,4,STMicroelectronics
+2021A8983A,Mechanical Engineering,B.E,9.13,4,Boeing
+2021A8990A,Pharmacy,B.E,8.68,4,Natco Pharma
+2021A8998A,Physics,B.E,7.22,4,Micron
+2021A9005A,Mathematics,B.E,8.33,4,Pharmo Solutions
+2021D9009D,Mathematics,Ph.D,8.81,4,Google
+2021A9011A,Civil Engineering,B.E,8.19,4,LISEN A TOLERO
+2021A9012A,Electrical and Electronics Engineering,B.E,6.97,4,CISCO
+2021P9015P,Pharmacy,B.Pharm,6.23,4,Dr. Reddys Laboratories
+2021A9020A,Biological Sciences,B.E,9.16,4,Alembic Pharmaceuticals
+2021A9024A,Chemisty,B.E,9.23,4,SABIC
+2021A9025A,Physics,B.E,6.65,4,NXP Semiconductors
+2021A9028A,Biological Sciences,B.E,6.85,4,Cadila Healthcare
+2021D9030D,Chemisty,Ph.D,8.51,4,kmk
+2021P9036P,Economics and Finanace,B.Pharm,5.6,4,IHS Markit
+2021H9038H,Mechanical Engineering,M.E,5.45,4,Caterpillar Inc.
+2021D9042D,Chemisty,Ph.D,8.52,4,Procter & Gamble
+2021A9048A,Physics,B.E,9.29,4,Tenstorrent
+2021A9049A,Humanities and Social Sciences,B.E,9.17,4,Boston Consulting Group (BCG)
+2021A9051A,Mathematics,B.E,7.68,4,MathWorks
+2021S9056S,Physics,M.Sc,7.0,4,AMDET
+2021A9059A,Mechanical Engineering,B.E,8.78,4,General Motors
+2021D9061D,Chemical Engineering,Ph.D,5.77,4,DuPont
+2021A9064A,Electrical and Electronics Engineering,B.E,5.17,4,Unplaced
+2021H9065H,Mathematics,M.E,5.21,4,Pharmo Solutions
+2021A9069A,Chemical Engineering,B.E,5.79,4,Wood Group
+2021H9070H,Electrical and Electronics Engineering,M.E,9.26,4,onsemi
+2021P9074P,Electrical and Electronics Engineering,B.Pharm,6.81,4,MEDIATEK
+2021A9079A,Mechanical Engineering,B.E,7.04,4,Mercedes Benz
+2021A9080A,Biological Sciences,B.E,6.59,4,GSK Pharmaceuticals
+2021D9084D,Computer Science and Information Systems,Ph.D,9.94,4,ARM
+2021A9086A,Economics and Finanace,B.E,7.59,4,Bain & Company
+2021A9090A,Electrical and Electronics Engineering,B.E,9.2,4,Unplaced
+2021P9091P,Chemisty,B.Pharm,6.58,4,Aragen
+2021A9100A,Pharmacy,B.E,6.55,4,Natco Pharma
+2021P9101P,Computer Science and Information Systems,B.Pharm,6.22,4,Samsung
+2021A9118A,Civil Engineering,B.E,7.79,4,Mott MacDonald
+2021H9119H,Pharmacy,M.E,7.09,4,Strand
+2021A9124A,Biological Sciences,B.E,8.24,4,Strand
+2021A9125A,Mathematics,B.E,6.09,4,AMD
+2021H9129H,Pharmacy,M.E,8.12,4,Aizant
+2021A9130A,Physics,B.E,5.04,4,Unplaced
+2021A9135A,Chemical Engineering,B.E,9.06,4,Chevron
+2021P9136P,Biological Sciences,B.Pharm,6.71,4,Unplaced
+2021P9137P,Electrical and Electronics Engineering,B.Pharm,9.21,4,Cypress Semiconductor
+2021A9140A,Chemisty,B.E,7.65,4,Biocon Biologics
+2021A9144A,Civil Engineering,B.E,7.09,4,Unplaced
+2021D9145D,Humanities and Social Sciences,Ph.D,7.44,4,KPMG
+2021A9147A,Computer Science and Information Systems,B.E,8.8,4,Samsung
+2021H9148H,Pharmacy,M.E,9.64,4,Unplaced
+2021P9149P,Economics and Finanace,B.Pharm,6.71,4,Morgan Stanley
+2021A9150A,Chemical Engineering,B.E,5.95,4,Shell
+2021A9151A,Computer Science and Information Systems,B.E,7.88,4,GE HealthCare
+2021D9157D,Economics and Finanace,Ph.D,5.7,4,Unplaced
+2021H9161H,Chemical Engineering,M.E,6.57,4,Unplaced
+2021A9166A,Pharmacy,B.E,6.84,4,Ipca Laboratories
+2021A9169A,Mechanical Engineering,B.E,6.12,4,SONA COMSTAR
+2021A9171A,Humanities and Social Sciences,B.E,6.6,4,Accenture
+2021D9185D,Pharmacy,Ph.D,7.63,4,Alkem Laboratories
+2021A9186A,Chemisty,B.E,8.58,4,Unplaced
+2021A9191A,Pharmacy,B.E,9.97,4,КАВІ
+2021A9206A,Chemisty,B.E,7.53,4,Procter & Gamble
+2021H9208H,Mechanical Engineering,M.E,5.05,4,Unplaced
+2021A9209A,Mechanical Engineering,B.E,9.07,4,Shell
+2021S9210S,Economics and Finanace,M.Sc,7.22,4,IHS Markit
+2021A9211A,Mathematics,B.E,7.92,4,Intel
+2021D9223D,Electrical and Electronics Engineering,Ph.D,6.05,4,Altera
+2021S9225S,Electrical and Electronics Engineering,M.Sc,5.21,4,Xilinx
+2021A9235A,Electrical and Electronics Engineering,B.E,7.06,4,Microsemi
+2021P9239P,Pharmacy,B.Pharm,6.66,4,GSK Pharmaceuticals
+2021P9243P,Electrical and Electronics Engineering,B.Pharm,5.4,4,Hitachi
+2021A9244A,Physics,B.E,9.91,4,Unplaced
+2021P9250P,Pharmacy,B.Pharm,8.12,4,Aragen
+2021A9252A,Chemical Engineering,B.E,9.82,4,Unplaced
+2021A9255A,Chemisty,B.E,9.55,4,Sun Pharmaceutical Industries
+2021H9261H,Pharmacy,M.E,9.63,4,Biocon
+2021S9277S,Chemisty,M.Sc,5.55,4,Dow
+2021D9279D,Chemisty,Ph.D,7.09,4,DuPont
+2021A9281A,Economics and Finanace,B.E,8.8,4,Moodys Investors Service
+2021A9287A,Humanities and Social Sciences,B.E,6.25,4,HCL Technologies
+2021A9295A,Civil Engineering,B.E,9.93,4,RAMBOLL
+2021A9301A,Pharmacy,B.E,7.56,4,ADITYA BIRLA
+2021H9312H,Mathematics,M.E,6.98,4,MathWorks
+2021A9314A,Mechanical Engineering,B.E,6.89,4,Unplaced
+2021H9317H,Computer Science and Information Systems,M.E,9.26,4,Cisco
+2021P9327P,Chemisty,B.Pharm,8.45,4,Cipla
+2021D9330D,Electrical and Electronics Engineering,Ph.D,5.98,4,Unplaced
+2021P9333P,Civil Engineering,B.Pharm,6.69,4,Leighton Holdings
+2021S9339S,Physics,M.Sc,8.49,4,Unplaced
+2021A9341A,Civil Engineering,B.E,5.9,4,TATA
+2021D9343D,Chemical Engineering,Ph.D,5.42,4,Air Liquide
+2021H9346H,Pharmacy,M.E,9.35,4,Granules India
+2021A9348A,Mechanical Engineering,B.E,9.91,4,TATA
+2021H9350H,Economics and Finanace,M.E,9.11,4,Nomura
+2021H9351H,Economics and Finanace,M.E,7.87,4,Accenture
+2021D9357D,Computer Science and Information Systems,Ph.D,9.05,4,Secureworks
+2021P9360P,Chemical Engineering,B.Pharm,9.49,4,Procter & Gamble
+2021A9363A,Electrical and Electronics Engineering,B.E,6.6,4,onsemi
+2021A9367A,Humanities and Social Sciences,B.E,9.98,4,Unplaced
+2021P9369P,Chemisty,B.Pharm,6.93,4,Aizant
+2021A9379A,Civil Engineering,B.E,7.28,4,Stantec
+2021S9381S,Economics and Finanace,M.Sc,7.83,4,Standard Chartered
+2021A9389A,Chemical Engineering,B.E,5.25,4,AkzoNobel
+2021P9391P,Humanities and Social Sciences,B.Pharm,8.84,4,ITC Limited
+2021S9396S,Computer Science and Information Systems,M.Sc,9.97,4,Trilogy
+2021H9398H,Economics and Finanace,M.E,5.57,4,Deutsche Bank
+2021A9399A,Physics,B.E,5.97,4,A Lam
+2021A9402A,Mathematics,B.E,9.51,4,Dell
+2021A9408A,Electrical and Electronics Engineering,B.E,8.47,4,Qualcomm
+2021D9416D,Chemical Engineering,Ph.D,7.05,4,Unplaced
+2021A9420A,Humanities and Social Sciences,B.E,7.88,4,McKinsey & Company
+2021P9424P,Chemisty,B.Pharm,10.0,4,Biocon Biologics
+2021A9427A,Humanities and Social Sciences,B.E,9.54,4,Flipkart
+2021A9433A,Electrical and Electronics Engineering,B.E,6.36,4,ON Semiconductor
+2021S9435S,Computer Science and Information Systems,M.Sc,6.92,4,Mediatek
+2021A9442A,Computer Science and Information Systems,B.E,5.15,4,Unplaced
+2021A9445A,Physics,B.E,7.16,4,Intel
+2021A9457A,Chemical Engineering,B.E,6.12,4,ADM (Archer Daniels Midland)
+2021A9458A,Mathematics,B.E,8.79,4,Pharmo Solutions
+2021A9465A,Mathematics,B.E,6.99,4,Google
+2021P9467P,Civil Engineering,B.Pharm,6.72,4,Force
+2021A9470A,Electrical and Electronics Engineering,B.E,6.23,4,proteanTecs
+2021H9473H,Economics and Finanace,M.E,5.44,4,JP Morgan
+2021A9480A,Pharmacy,B.E,5.33,4,Cadila Healthcare
+2021A9482A,Civil Engineering,B.E,9.69,4,Assystem Stup
+2021A9483A,Chemical Engineering,B.E,6.98,4,Merck
+2021A9484A,Chemical Engineering,B.E,6.6,4,Bayer
+2021A9489A,Chemisty,B.E,7.91,4,Biocon Biologics
+2021A9504A,Economics and Finanace,B.E,9.79,4,Credit Suisse
+2021H9507H,Chemical Engineering,M.E,7.05,4,Unplaced
+2021A9511A,Electrical and Electronics Engineering,B.E,9.81,4,SILICON LABS
+2021A9522A,Physics,B.E,9.22,4,Unplaced
+2021A9525A,Electrical and Electronics Engineering,B.E,6.95,4,Unplaced
+2021A9528A,Biological Sciences,B.E,6.52,4,Unplaced
+2021A9529A,Computer Science and Information Systems,B.E,8.25,4,VMware
+2021P9530P,Computer Science and Information Systems,B.Pharm,6.76,4,GE HealthCare
+2021H9535H,Physics,M.E,9.89,4,Texas Instruments
+2021A9544A,Chemisty,B.E,8.38,4,Honeywell UOP
+2021A9546A,Mechanical Engineering,B.E,5.86,4,FORVIA
+2021A9547A,Mechanical Engineering,B.E,6.92,4,Lime
+2021A9549A,Pharmacy,B.E,9.58,4,Unplaced
+2021H9550H,Chemisty,M.E,9.76,4,Unplaced
+2021P9551P,Chemisty,B.Pharm,5.69,4,Elucidata
+2021A9555A,Economics and Finanace,B.E,8.17,4,Unplaced
+2021A9557A,Mathematics,B.E,5.09,4,Pharmo Solutions
+2021A9567A,Mathematics,B.E,7.16,4,Unplaced
+2021P9569P,Electrical and Electronics Engineering,B.Pharm,7.11,4,SILICON LABS
+2021H9570H,Physics,M.E,6.29,4,Unplaced
+2021A9577A,Pharmacy,B.E,7.73,4,Divis Laboratories
+2021A9590A,Mathematics,B.E,6.15,4,Unplaced
+2021A9601A,Computer Science and Information Systems,B.E,7.04,4,Wabtec
+2021A9602A,Physics,B.E,8.33,4,A Lam
+2021D9603D,Mechanical Engineering,Ph.D,9.75,4,Unplaced
+2021A9604A,Physics,B.E,9.94,4,Panasonic
+2021A9606A,Mathematics,B.E,9.97,4,Unplaced
+2021A9614A,Humanities and Social Sciences,B.E,6.07,4,Unplaced
+2021A9615A,Mechanical Engineering,B.E,7.11,4,Lockheed Martin
+2021H9616H,Pharmacy,M.E,5.98,4,Unplaced
+2021A9617A,Economics and Finanace,B.E,6.46,4,S&P Global
+2021A9622A,Physics,B.E,6.28,4,MEDIATEK
+2021H9627H,Mechanical Engineering,M.E,8.5,4,Lime
+2021A9634A,Physics,B.E,8.46,4,Qualcomm
+2021S9638S,Chemical Engineering,M.Sc,7.28,4,Linde
+2021P9642P,Economics and Finanace,B.Pharm,6.16,4,Fitch Ratings
+2021S9643S,Humanities and Social Sciences,M.Sc,6.87,4,EY (Ernst & Young)
+2021D9644D,Pharmacy,Ph.D,7.42,4,Unplaced
+2021A9649A,Physics,B.E,8.24,4,STMicroelectronics
+2021H9653H,Mathematics,M.E,5.15,4,Teradata
+2021A9655A,Humanities and Social Sciences,B.E,9.21,4,ITC Limited
+2021H9656H,Electrical and Electronics Engineering,M.E,9.44,4,Honeywell
+2021A9663A,Economics and Finanace,B.E,8.79,4,Deloitte
+2021H9665H,Economics and Finanace,M.E,6.63,4,BlackRock
+2021A9666A,Physics,B.E,8.68,4,Dolcera
+2021A9669A,Physics,B.E,5.28,4,AMDET
+2021A9671A,Pharmacy,B.E,7.98,4,Emcure Pharmaceuticals
+2021P9672P,Electrical and Electronics Engineering,B.Pharm,6.34,4,Intel
+2021P9677P,Chemical Engineering,B.Pharm,8.85,4,Unplaced
+2021A9678A,Chemisty,B.E,9.3,4,SABIC
+2021H9682H,Electrical and Electronics Engineering,M.E,9.44,4,Unplaced
+2021A9684A,Pharmacy,B.E,6.97,4,ADITYA BIRLA
+2021S9687S,Electrical and Electronics Engineering,M.Sc,6.29,4,Fujitsu
+2021D9691D,Civil Engineering,Ph.D,9.37,4,Unplaced
+2021A9695A,Mechanical Engineering,B.E,6.58,4,SEDEMAC
+2021A9699A,Physics,B.E,7.94,4,Tenstorrent
+2021H9704H,Civil Engineering,M.E,9.9,4,Force
+2021H9705H,Mathematics,M.E,7.86,4,Pharmo Solutions
+2021H9708H,Chemical Engineering,M.E,6.8,4,ADM (Archer Daniels Midland)
+2021S9712S,Electrical and Electronics Engineering,M.Sc,8.76,4,MathWorks
+2021A9721A,Economics and Finanace,B.E,9.75,4,JP Morgan
+2021S9725S,Humanities and Social Sciences,M.Sc,9.72,4,Unplaced
+2021A9726A,Mathematics,B.E,8.32,4,Pharmo Solutions
+2021A9732A,Mathematics,B.E,7.4,4,Pharmo Solutions
+2021S9737S,Biological Sciences,M.Sc,7.81,4,Pfizer
+2021A9740A,Mechanical Engineering,B.E,6.06,4,General Motors
+2021A9741A,Electrical and Electronics Engineering,B.E,5.97,4,LG Electronics
+2021A9744A,Computer Science and Information Systems,B.E,9.09,4,Samsung
+2021P9745P,Computer Science and Information Systems,B.Pharm,8.72,4,AMD
+2021A9746A,Civil Engineering,B.E,5.99,4,Unplaced
+2021S9748S,Chemisty,M.Sc,8.97,4,DataZymes
+2021P9751P,Humanities and Social Sciences,B.Pharm,6.45,4,Google
+2021A9756A,Computer Science and Information Systems,B.E,7.37,4,Piramal
+2021A9757A,Biological Sciences,B.E,8.12,4,Unplaced
+2021A9759A,Economics and Finanace,B.E,9.75,4,Unplaced
+2021H9760H,Humanities and Social Sciences,M.E,6.18,4,ITC Limited
+2021H9763H,Humanities and Social Sciences,M.E,8.76,4,Unplaced
+2021A9764A,Physics,B.E,6.16,4,Qualcomm
+2021D9765D,Economics and Finanace,Ph.D,6.02,4,Genpact
+2021A9769A,Pharmacy,B.E,9.36,4,AstraZeneca
+2021P9771P,Computer Science and Information Systems,B.Pharm,6.32,4,Unplaced
+2021H9774H,Humanities and Social Sciences,M.E,6.25,4,Capgemini
+2021A9775A,Humanities and Social Sciences,B.E,6.39,4,Unplaced
+2021P9777P,Civil Engineering,B.Pharm,7.54,4,Bechtel Corporation
+2021D9779D,Mechanical Engineering,Ph.D,5.41,4,Unplaced
+2021P9790P,Pharmacy,B.Pharm,8.7,4,КАВІ
+2021A9795A,Physics,B.E,6.84,4,NXP Semiconductors
+2021A9800A,Mathematics,B.E,7.45,4,Pharmo Solutions
+2021H9801H,Pharmacy,M.E,6.63,4,Unplaced
+2021H9804H,Humanities and Social Sciences,M.E,9.26,4,Tata Steel
+2021P9805P,Civil Engineering,B.Pharm,5.24,4,Stantec
+2021A9807A,Electrical and Electronics Engineering,B.E,9.23,4,Unplaced
+2021H9808H,Biological Sciences,M.E,7.85,4,Unplaced
+2021A9812A,Economics and Finanace,B.E,8.31,4,Moodys Investors Service
+2021H9813H,Physics,M.E,5.7,4,NXP Semiconductors
+2021S9815S,Pharmacy,M.Sc,5.41,4,ADITYA BIRLA
+2021A9817A,Physics,B.E,9.75,4,Unplaced
+2021A9824A,Mechanical Engineering,B.E,7.76,4,Unplaced
+2021P9826P,Chemical Engineering,B.Pharm,8.58,4,Chevron
+2021A9830A,Economics and Finanace,B.E,5.98,4,MSCI
+2021A9831A,Economics and Finanace,B.E,8.09,4,HSBC
+2021A9836A,Biological Sciences,B.E,7.04,4,Alkem Laboratories
+2021A9843A,Computer Science and Information Systems,B.E,5.42,4,Unplaced
+2021D9851D,Pharmacy,Ph.D,7.07,4,Natco Pharma
+2021A9856A,Economics and Finanace,B.E,9.72,4,MSCI
+2021A9868A,Mechanical Engineering,B.E,6.22,4,SEDEMAC
+2021H9872H,Pharmacy,M.E,6.91,4,Unplaced
+2021A9874A,Biological Sciences,B.E,8.52,4,GSK Pharmaceuticals
+2021A9882A,Mechanical Engineering,B.E,6.21,4,General Motors
+2021A9884A,Pharmacy,B.E,6.13,4,SII
+2021H9885H,Civil Engineering,M.E,7.81,4,"Skidmore, Owings & Merrill (SOM)"
+2021H9891H,Computer Science and Information Systems,M.E,8.23,4,Secureworks
+2021A9895A,Computer Science and Information Systems,B.E,8.51,4,Dell
+2021H9897H,Chemical Engineering,M.E,6.51,4,Eastman Chemical Company
+2021A9899A,Mechanical Engineering,B.E,7.9,4,Unplaced
+2021P9904P,Pharmacy,B.Pharm,7.73,4,Unplaced
+2021A9911A,Electrical and Electronics Engineering,B.E,5.54,4,INSTRUMENTS
+2021A9912A,Electrical and Electronics Engineering,B.E,7.97,4,NEC Corporation
+2021P9914P,Mechanical Engineering,B.Pharm,6.77,4,General Motors
+2021A9917A,Mathematics,B.E,5.3,4,Google
+2021H9920H,Humanities and Social Sciences,M.E,5.47,4,Bain & Company
+2021A9924A,Humanities and Social Sciences,B.E,5.44,4,Infosys BPM
+2021H9929H,Mechanical Engineering,M.E,9.51,4,DOVER
+2021H9932H,Civil Engineering,M.E,9.66,4,Stantec
+2021H9933H,Mathematics,M.E,5.22,4,Microsoft
+2021A9935A,Mathematics,B.E,9.04,4,Pharmo Solutions
+2021S9942S,Biological Sciences,M.Sc,8.98,4,Torrent Pharmaceuticals
+2021S9946S,Mathematics,M.Sc,5.99,4,Teradata
+2021A9956A,Humanities and Social Sciences,B.E,5.36,4,Accenture
+2021A9961A,Electrical and Electronics Engineering,B.E,7.35,4,Honeywell
+2021A9962A,Civil Engineering,B.E,6.22,4,Orascom Construction
+2021H9963H,Chemisty,M.E,7.24,4,Unplaced
+2021A9967A,Electrical and Electronics Engineering,B.E,7.69,4,MEDIATEK
+2021A9971A,Chemical Engineering,B.E,6.01,4,Unplaced
+2021S9972S,Economics and Finanace,M.Sc,8.19,4,FactSet
+2021S9973S,Chemisty,M.Sc,9.94,4,Unplaced
+2021S9975S,Pharmacy,M.Sc,6.65,4,Wockhardt
+2021P9976P,Pharmacy,B.Pharm,7.11,4,Ipca Laboratories
+2021A9978A,Biological Sciences,B.E,5.96,4,Torrent Pharmaceuticals
+2021P9985P,Biological Sciences,B.Pharm,5.53,4,DataZymes
+2021H9995H,Biological Sciences,M.E,8.37,4,Zydus
+2021S10000S,Chemisty,M.Sc,6.55,4,КАВІ
+2021A10004A,Civil Engineering,B.E,6.69,4,Mott MacDonald
+2021A10006A,Biological Sciences,B.E,5.39,4,Pfizer
+2021S10007S,Mechanical Engineering,M.Sc,9.45,4,General Electric (GE)
+2021A10010A,Biological Sciences,B.E,7.82,4,GSK Pharmaceuticals
+2021D10011D,Pharmacy,Ph.D,6.77,4,Torrent Pharmaceuticals
+2021H10014H,Electrical and Electronics Engineering,M.E,7.76,4,Micron
+2021A10016A,Chemical Engineering,B.E,6.45,4,DuPont
+2021H10018H,Biological Sciences,M.E,7.63,4,Dr. Reddys Laboratories
+2021D10024D,Electrical and Electronics Engineering,Ph.D,8.98,4,LG Electronics
+2021A10028A,Chemical Engineering,B.E,6.16,4,Evonik Industries
+2021A10031A,Chemisty,B.E,5.68,4,DuPont
+2021H10039H,Economics and Finanace,M.E,8.0,4,Wells Fargo
+2021A10040A,Mathematics,B.E,5.26,4,Intel
+2021H10042H,Physics,M.E,9.91,4,SEDEMAC
+2021S10047S,Mathematics,M.Sc,6.22,4,MathWorks
+2021H10048H,Economics and Finanace,M.E,5.19,4,MSCI
+2021A10056A,Pharmacy,B.E,7.1,4,Aurobindo Pharma
+2021H10064H,Chemisty,M.E,8.8,4,Aragen
+2021P10065P,Civil Engineering,B.Pharm,6.16,4,TATA
+2021A10068A,Humanities and Social Sciences,B.E,5.43,4,Accenture
+2021H10076H,Pharmacy,M.E,6.79,4,Aragen
+2021P10078P,Chemical Engineering,B.Pharm,7.36,4,Bayer
+2021D10081D,Chemisty,Ph.D,8.52,4,SABIC
+2021S10083S,Electrical and Electronics Engineering,M.Sc,7.07,4,Altera
+2021A10085A,Civil Engineering,B.E,6.83,4,Unplaced
+2021A10088A,Economics and Finanace,B.E,7.35,4,S&P Global
+2021H10090H,Physics,M.E,7.48,4,Intel
+2021A10100A,Economics and Finanace,B.E,9.43,4,Moodys Analytics
+2021S10102S,Humanities and Social Sciences,M.Sc,5.37,4,HDFC Bank
+2021A10117A,Economics and Finanace,B.E,7.35,4,Deutsche Bank
+2021A10118A,Economics and Finanace,B.E,9.78,4,McKinsey & Company
+2021P10121P,Computer Science and Information Systems,B.Pharm,9.28,4,Unplaced
+2021A10122A,Physics,B.E,5.29,4,Tenstorrent
+2021A10124A,Computer Science and Information Systems,B.E,5.38,4,Mediatek
+2021A10127A,Chemical Engineering,B.E,6.27,4,Wood Group
+2021A10128A,Economics and Finanace,B.E,9.39,4,Moodys Investors Service
+2021D10138D,Chemisty,Ph.D,5.32,4,Procter & Gamble
+2021D10151D,Pharmacy,Ph.D,7.42,4,Biocon
+2021A10159A,Physics,B.E,6.11,4,AMDET
+2021H10160H,Civil Engineering,M.E,7.16,4,RAMBOLL
+2021S10161S,Biological Sciences,M.Sc,5.47,4,Unplaced
+2021A10164A,Pharmacy,B.E,9.04,4,Aizant
+2021H10168H,Mathematics,M.E,6.64,4,Pharmo Solutions
+2021A10169A,Mathematics,B.E,7.86,4,Unplaced
+2021A10175A,Humanities and Social Sciences,B.E,8.65,4,Unplaced
+2021D10176D,Electrical and Electronics Engineering,Ph.D,7.53,4,onsemi
+2021A10180A,Biological Sciences,B.E,9.06,4,Unplaced
+2021S10185S,Pharmacy,M.Sc,9.11,4,Dr. Reddys Laboratories
+2021H10189H,Chemisty,M.E,6.65,4,DataZymes
+2021H10195H,Chemisty,M.E,7.48,4,Cipla
+2021H10197H,Pharmacy,M.E,7.46,4,Divis Laboratories
+2021A10208A,Mechanical Engineering,B.E,6.82,4,CYNLR
+2021H10220H,Chemisty,M.E,9.34,4,SABIC
+2021H10226H,Mathematics,M.E,8.76,4,Piramal
+2021H10237H,Mechanical Engineering,M.E,6.16,4,General Motors
+2021H10245H,Computer Science and Information Systems,M.E,5.16,4,Unplaced
+2021H10259H,Civil Engineering,M.E,8.72,4,ARUP
+2021S10260S,Biological Sciences,M.Sc,6.91,4,Glenmark Pharmaceuticals
+2021A10262A,Pharmacy,B.E,9.45,4,ADITYA BIRLA
+2021A10282A,Economics and Finanace,B.E,5.3,4,Fidelity International
+2021A10285A,Electrical and Electronics Engineering,B.E,9.04,4,AMDET
+2021P10292P,Mechanical Engineering,B.Pharm,8.02,4,Unplaced
+2021P10293P,Computer Science and Information Systems,B.Pharm,6.39,4,Dell
+2021A10294A,Economics and Finanace,B.E,9.76,4,Boston Consulting Group (BCG)
+2021H10300H,Physics,M.E,8.33,4,SynOPSYS
+2021A10303A,Biological Sciences,B.E,5.59,4,Unplaced
+2021A10315A,Biological Sciences,B.E,5.11,4,Unplaced
+2021A10318A,Computer Science and Information Systems,B.E,8.66,4,Intel
+2021A10319A,Economics and Finanace,B.E,5.85,4,BNP Paribas
+2021H10332H,Humanities and Social Sciences,M.E,6.28,4,Flipkart
+2021A10333A,Pharmacy,B.E,6.37,4,Alembic Pharmaceuticals
+2021H10337H,Mechanical Engineering,M.E,7.29,4,CYNLR
+2021H10340H,Computer Science and Information Systems,M.E,6.39,4,BLEND360
+2021A10355A,Pharmacy,B.E,8.74,4,Zydus Cadila
+2021D10356D,Mathematics,Ph.D,5.09,4,Piramal
+2021A10357A,Civil Engineering,B.E,7.39,4,Unplaced
+2021P10358P,Electrical and Electronics Engineering,B.Pharm,9.01,4,Intel
+2021A10362A,Mathematics,B.E,7.27,4,Unplaced
+2021A10363A,Chemisty,B.E,9.23,4,Chevron
+2021D10364D,Computer Science and Information Systems,Ph.D,7.21,4,Samsung
+2021A10365A,Electrical and Electronics Engineering,B.E,7.13,4,MathWorks
+2021A10370A,Chemical Engineering,B.E,7.24,4,Unplaced
+2021A10372A,Electrical and Electronics Engineering,B.E,8.76,4,Micron
+2021A10374A,Pharmacy,B.E,6.87,4,Aragen
+2021A10375A,Physics,B.E,8.93,4,onsemi
+2021A10377A,Computer Science and Information Systems,B.E,8.93,4,CONCR
+2021A10379A,Computer Science and Information Systems,B.E,5.17,4,VMware
+2021A10389A,Economics and Finanace,B.E,8.66,4,Thomson Reuters
+2021A10390A,Electrical and Electronics Engineering,B.E,9.71,4,Micron
+2021A10395A,Civil Engineering,B.E,8.9,4,Gammon Construction
+2021H10396H,Chemisty,M.E,7.35,4,Procter & Gamble
+2021A10399A,Pharmacy,B.E,7.54,4,Torrent Pharmaceuticals
+2021A10401A,Chemisty,B.E,8.68,4,Dow
+2021D10402D,Electrical and Electronics Engineering,Ph.D,5.11,4,Microsemi
+2021S10404S,Pharmacy,M.Sc,5.94,4,AstraZeneca
+2021P10408P,Biological Sciences,B.Pharm,9.8,4,Lupin Limited
+2021A10410A,Humanities and Social Sciences,B.E,7.48,4,Axis Bank
+2021A10412A,Computer Science and Information Systems,B.E,7.45,4,VMware
+2021A10416A,Biological Sciences,B.E,9.27,4,AstraZeneca
+2021A10418A,Economics and Finanace,B.E,5.18,4,Moodys Analytics
+2021A10419A,Mechanical Engineering,B.E,5.37,4,Unplaced
+2021A10426A,Civil Engineering,B.E,9.73,4,RAMBOLL
+2021A10427A,Computer Science and Information Systems,B.E,6.16,4,Mediatek
+2021S10430S,Mathematics,M.Sc,5.02,4,Microsoft
+2021D10436D,Mathematics,Ph.D,5.78,4,Intel
+2021S10442S,Economics and Finanace,M.Sc,8.01,4,Thomson Reuters
+2021A10448A,Electrical and Electronics Engineering,B.E,6.21,4,Texas Instruments
+2021A10451A,Physics,B.E,5.9,4,Qualcomm
+2021A10459A,Physics,B.E,7.33,4,Dolcera
+2021S10460S,Mathematics,M.Sc,8.59,4,Piramal
+2021D10463D,Mathematics,Ph.D,9.84,4,AMD
+2021P10464P,Chemisty,B.Pharm,7.53,4,Aragen
+2021A10465A,Computer Science and Information Systems,B.E,7.49,4,Unplaced
+2021A10468A,Mechanical Engineering,B.E,6.89,4,Wabtec
+2021D10470D,Chemical Engineering,Ph.D,8.72,4,Linde
+2021A10485A,Chemical Engineering,B.E,9.06,4,Chevron
+2021A10488A,Mechanical Engineering,B.E,5.95,4,Lime
+2021H10491H,Chemisty,M.E,9.72,4,Cipla
+2021A10499A,Biological Sciences,B.E,9.91,4,Sun Pharmaceutical Industries
+2021A10500A,Chemical Engineering,B.E,6.04,4,"KBR, Inc."
+2021P10501P,Economics and Finanace,B.Pharm,6.35,4,Unplaced
+2021D10511D,Mechanical Engineering,Ph.D,9.84,4,General Electric (GE)
+2021A10514A,Physics,B.E,9.31,4,Unplaced
+2021A10515A,Humanities and Social Sciences,B.E,8.03,4,Tata Consultancy Services (TCS)
+2021D10518D,Electrical and Electronics Engineering,Ph.D,5.75,4,Fujitsu
+2021D10520D,Chemisty,Ph.D,5.9,4,ExxonMobil
+2021S10521S,Computer Science and Information Systems,M.Sc,8.79,4,Cisco
+2021D10522D,Mechanical Engineering,Ph.D,9.38,4,Caterpillar Inc.
+2021A10523A,Chemical Engineering,B.E,8.9,4,Mitsubishi Chemical Corporation
+2021H10525H,Physics,M.E,7.59,4,Unplaced
+2021A10531A,Mathematics,B.E,5.85,4,MathWorks
+2021A10536A,Chemisty,B.E,8.74,4,ExxonMobil
+2021H10540H,Civil Engineering,M.E,7.19,4,Obayashi Corporation
+2021A10542A,Mechanical Engineering,B.E,9.74,4,Oeing Lie
+2021A10549A,Civil Engineering,B.E,7.13,4,Assystem Stup
+2021P10551P,Mechanical Engineering,B.Pharm,8.74,4,Bosch
+2021D10555D,Economics and Finanace,Ph.D,5.19,4,Moodys Investors Service
+2021D10556D,Electrical and Electronics Engineering,Ph.D,5.07,4,Infineon
+2021P10559P,Biological Sciences,B.Pharm,9.5,4,Torrent Pharmaceuticals
+2021H10561H,Economics and Finanace,M.E,6.81,4,Morgan Stanley
+2021H10562H,Chemical Engineering,M.E,7.65,4,Unplaced
+2021P10569P,Chemical Engineering,B.Pharm,6.81,4,Unplaced
+2021A10570A,Chemisty,B.E,8.73,4,kmk
+2021P10571P,Civil Engineering,B.Pharm,5.98,4,Jacobs Engineering Group
+2021H10576H,Computer Science and Information Systems,M.E,8.44,4,ARM
+2021A10580A,Biological Sciences,B.E,7.66,4,DataZymes
+2021A10584A,Physics,B.E,5.24,4,A Lam
+2021A10588A,Economics and Finanace,B.E,5.62,4,Unplaced
+2021H10589H,Electrical and Electronics Engineering,M.E,8.77,4,Micron
+2021A10590A,Physics,B.E,7.07,4,Unplaced
+2021A10591A,Economics and Finanace,B.E,7.71,4,Unplaced
+2021A10599A,Mechanical Engineering,B.E,7.2,4,Wabtec
+2021A10600A,Civil Engineering,B.E,9.11,4,TATA
+2021A10610A,Physics,B.E,7.67,4,Panasonic
+2021A10618A,Chemisty,B.E,9.24,4,Unplaced
+2021H10623H,Humanities and Social Sciences,M.E,6.64,4,Accenture
+2021A10625A,Mathematics,B.E,6.41,4,Unplaced
+2021A10634A,Chemical Engineering,B.E,9.0,4,Unplaced
+2021D10648D,Humanities and Social Sciences,Ph.D,6.13,4,Reliance Industries
+2021H10652H,Economics and Finanace,M.E,7.06,4,Moodys Investors Service
+2021A10658A,Mechanical Engineering,B.E,6.11,4,Caterpillar Inc.
+2021H10660H,Electrical and Electronics Engineering,M.E,6.49,4,AMDET
+2021H10666H,Chemical Engineering,M.E,9.58,4,LyondellBasell
+2021A10668A,Mathematics,B.E,7.24,4,Unplaced
+2021H10674H,Chemical Engineering,M.E,8.31,4,Baker Hughes
+2021A10679A,Mathematics,B.E,9.58,4,Cisco
+2021H10680H,Electrical and Electronics Engineering,M.E,7.58,4,Unplaced
+2021D10683D,Humanities and Social Sciences,Ph.D,6.57,4,Tata Consultancy Services (TCS)
+2021A10685A,Economics and Finanace,B.E,6.03,4,Moodys Analytics
+2021H10692H,Chemical Engineering,M.E,7.62,4,Procter & Gamble
+2021A10693A,Chemisty,B.E,5.52,4,Eastman Chemical Company
+2021P10695P,Pharmacy,B.Pharm,8.25,4,Zydus Cadila
+2021H10696H,Mathematics,M.E,9.74,4,Google
+2021A10697A,Biological Sciences,B.E,5.07,4,КАВІ
+2021A10706A,Pharmacy,B.E,8.06,4,Strand
+2021H10711H,Physics,M.E,6.29,4,Unplaced
+2021P10715P,Electrical and Electronics Engineering,B.Pharm,9.59,4,AMDET
+2021H10716H,Physics,M.E,8.17,4,SEDEMAC
+2021H10719H,Electrical and Electronics Engineering,M.E,8.52,4,Micron
+2021A10720A,Computer Science and Information Systems,B.E,5.28,4,ARM
+2021H10722H,Pharmacy,M.E,5.12,4,Alembic Pharmaceuticals
+2021A10726A,Humanities and Social Sciences,B.E,5.53,4,Deloitte
+2021A10727A,Physics,B.E,9.38,4,MICROCHIP
+2021P10731P,Civil Engineering,B.Pharm,8.16,4,Gammon Construction
+2021H10734H,Humanities and Social Sciences,M.E,8.34,4,Unplaced
+2021H10739H,Economics and Finanace,M.E,8.25,4,IHS Markit
+2021A10742A,Humanities and Social Sciences,B.E,7.6,4,Unplaced
+2021P10746P,Chemical Engineering,B.Pharm,8.0,4,Solvay
+2021A10747A,Mathematics,B.E,8.31,4,Intel
+2021P10750P,Chemisty,B.Pharm,6.32,4,Dow
+2021H10752H,Mechanical Engineering,M.E,8.04,4,Mercedes Benz
+2021P10753P,Chemisty,B.Pharm,5.68,4,КАВІ
+2021A10761A,Mathematics,B.E,8.33,4,Unplaced
+2021P10763P,Electrical and Electronics Engineering,B.Pharm,8.25,4,Unplaced
+2021A10764A,Chemisty,B.E,7.81,4,Honeywell UOP
+2021A10771A,Pharmacy,B.E,6.83,4,Unplaced
+2021A10773A,Chemisty,B.E,9.11,4,FRESENIUS
+2021A10783A,Electrical and Electronics Engineering,B.E,5.65,4,Hitachi
+2021A10787A,Economics and Finanace,B.E,8.33,4,Accenture
+2021P10790P,Chemisty,B.Pharm,5.55,4,Biocon Biologics
+2021A10791A,Economics and Finanace,B.E,9.1,4,Accenture
+2021S10793S,Physics,M.Sc,7.24,4,AMDET
+2021A10794A,Chemical Engineering,B.E,9.32,4,DuPont
+2021A10797A,Biological Sciences,B.E,9.75,4,КАВІ
+2021A10798A,Computer Science and Information Systems,B.E,5.88,4,Cisco
+2021H10804H,Computer Science and Information Systems,M.E,7.5,4,VISA
+2021P10808P,Civil Engineering,B.Pharm,8.59,4,Unplaced
+2021A10809A,Economics and Finanace,B.E,6.8,4,Capital IQ
+2021H10818H,Mechanical Engineering,M.E,9.8,4,JK Fenner
+2021D10822D,Pharmacy,Ph.D,7.28,4,Divis Laboratories
+2021A10824A,Physics,B.E,5.27,4,AMDET
+2021H10825H,Humanities and Social Sciences,M.E,5.65,4,KPMG
+2021A10826A,Physics,B.E,6.37,4,Panasonic
+2021H10829H,Mechanical Engineering,M.E,8.98,4,Rolls-Royce
+2021A10831A,Biological Sciences,B.E,5.16,4,Abbott Laboratories
+2021A10846A,Computer Science and Information Systems,B.E,5.28,4,CONCR
+2021D10851D,Civil Engineering,Ph.D,6.61,4,J. Murphy & Sons
+2021D10853D,Economics and Finanace,Ph.D,8.1,4,Moodys Investors Service
+2021A10859A,Economics and Finanace,B.E,6.28,4,Capital IQ
+2021A10861A,Humanities and Social Sciences,B.E,8.18,4,IBM
+2021A10864A,Pharmacy,B.E,8.61,4,DataZymes
+2021H10868H,Chemisty,M.E,7.14,4,Unplaced
+2021A10869A,Chemisty,B.E,5.02,4,Unplaced
+2021H10871H,Physics,M.E,7.46,4,MICROCHIP
+2021A10873A,Humanities and Social Sciences,B.E,8.02,4,Microsoft
+2021A10876A,Mechanical Engineering,B.E,7.94,4,ARUP
+2021A10886A,Humanities and Social Sciences,B.E,9.26,4,Infosys
+2021H10889H,Chemical Engineering,M.E,9.88,4,Unplaced
+2021A10892A,Pharmacy,B.E,6.49,4,Unplaced
+2021H10900H,Mathematics,M.E,8.35,4,Flipkart
+2021D10906D,Economics and Finanace,Ph.D,9.5,4,Unplaced
+2021A10908A,Chemisty,B.E,8.65,4,Aragen
+2021A10910A,Physics,B.E,9.35,4,Unplaced
+2021H10911H,Computer Science and Information Systems,M.E,8.38,4,Rizzle
+2021H10912H,Chemisty,M.E,5.89,4,Sun Pharmaceutical Industries
+2021H10920H,Chemical Engineering,M.E,7.97,4,Wood Group
+2021A10921A,Pharmacy,B.E,6.35,4,FRESENIUS
+2021A10931A,Pharmacy,B.E,7.66,4,Unplaced
+2021H10932H,Chemisty,M.E,9.99,4,Aizant
+2021H10936H,Mechanical Engineering,M.E,7.04,4,ARUP
+2021A10937A,Physics,B.E,7.3,4,Panasonic
+2021A10941A,Biological Sciences,B.E,9.94,4,Alembic Pharmaceuticals
+2021A10942A,Pharmacy,B.E,6.86,4,Zydus
+2021H10943H,Electrical and Electronics Engineering,M.E,8.47,4,Texas Instruments
+2021H10944H,Economics and Finanace,M.E,7.1,4,CRISIL
+2021A10946A,Physics,B.E,5.7,4,Unplaced
+2021A10948A,Biological Sciences,B.E,6.69,4,Alembic Pharmaceuticals
+2021H10953H,Chemical Engineering,M.E,6.55,4,Wood Group
+2021A10954A,Pharmacy,B.E,5.12,4,Aurobindo Pharma
+2021A10956A,Civil Engineering,B.E,9.25,4,Unplaced
+2021H10961H,Pharmacy,M.E,9.45,4,AstraZeneca
+2021H10963H,Mechanical Engineering,M.E,9.02,4,CYNLR
+2021A10966A,Electrical and Electronics Engineering,B.E,6.99,4,Altera
+2021A10967A,Mechanical Engineering,B.E,5.27,4,Unplaced
+2021D10969D,Computer Science and Information Systems,Ph.D,5.59,4,Piramal
+2021H10970H,Pharmacy,M.E,9.2,4,ADITYA BIRLA
+2021A10973A,Electrical and Electronics Engineering,B.E,7.22,4,Intel
+2021S10974S,Pharmacy,M.Sc,5.24,4,Unplaced
+2021A10977A,Biological Sciences,B.E,7.57,4,Sun Pharmaceutical Industries
+2021H10978H,Mathematics,M.E,7.59,4,Flipkart
+2021A10980A,Computer Science and Information Systems,B.E,8.89,4,Piramal
+2021A10981A,Economics and Finanace,B.E,8.11,4,McKinsey & Company
+2021H10999H,Pharmacy,M.E,5.53,4,Granules India
+2021A11004A,Biological Sciences,B.E,6.38,4,Zydus Cadila
+2021P11005P,Mechanical Engineering,B.Pharm,5.24,4,Johnson Controls
+2021P11014P,Biological Sciences,B.Pharm,8.12,4,Unplaced
+2021H11015H,Pharmacy,M.E,5.25,4,Wockhardt
+2021A11017A,Computer Science and Information Systems,B.E,9.3,4,Unplaced
+2021A11018A,Pharmacy,B.E,7.13,4,Aragen
+2021P11019P,Chemical Engineering,B.Pharm,5.51,4,Merck
+2021D11021D,Chemisty,Ph.D,9.85,4,Unplaced
+2021A11025A,Computer Science and Information Systems,B.E,8.12,4,Unplaced
+2021D11030D,Physics,Ph.D,8.93,4,SAMSUNG
+2021D11031D,Chemical Engineering,Ph.D,7.24,4,Covestro
+2021P11033P,Mechanical Engineering,B.Pharm,6.52,4,CYNLR
+2021H11038H,Chemical Engineering,M.E,5.05,4,Air Liquide
+2021A11040A,Chemisty,B.E,7.22,4,Honeywell UOP
+2021P11060P,Mechanical Engineering,B.Pharm,6.75,4,Unplaced
+2021A11064A,Economics and Finanace,B.E,5.1,4,KPMG
+2021P11072P,Mechanical Engineering,B.Pharm,5.95,4,General Motors
+2021A11074A,Pharmacy,B.E,8.2,4,GSK Pharmaceuticals
+2021A11079A,Physics,B.E,8.32,4,SILICON LABS
+2021A11082A,Chemisty,B.E,8.18,4,Cipla
+2021H11086H,Electrical and Electronics Engineering,M.E,9.26,4,Hitachi
+2021A11088A,Civil Engineering,B.E,9.94,4,Jacobs Engineering Group
+2021A11092A,Pharmacy,B.E,9.34,4,Aizant
+2021H11094H,Civil Engineering,M.E,8.8,4,J. Murphy & Sons
+2021A11101A,Mechanical Engineering,B.E,7.83,4,JK Fenner
+2021A11103A,Humanities and Social Sciences,B.E,5.38,4,KPMG
+2021P11104P,Biological Sciences,B.Pharm,9.58,4,Dr. Reddys Laboratories
+2021H11107H,Chemical Engineering,M.E,5.18,4,Unplaced
+2021P11110P,Chemical Engineering,B.Pharm,6.91,4,Wood Group
+2021P11112P,Humanities and Social Sciences,B.Pharm,7.53,4,Infosys
+2021D11116D,Pharmacy,Ph.D,9.77,4,Unplaced
+2021D11121D,Pharmacy,Ph.D,9.83,4,Cadila Healthcare
+2021H11129H,Civil Engineering,M.E,9.01,4,Leighton Holdings
+2021P11131P,Chemisty,B.Pharm,7.16,4,Unplaced
+2021H11137H,Physics,M.E,6.2,4,Unplaced
+2021S11142S,Chemical Engineering,M.Sc,9.05,4,PPG Industries
+2021A11145A,Chemical Engineering,B.E,5.62,4,Procter & Gamble
+2021A11146A,Economics and Finanace,B.E,8.1,4,Unplaced
+2021A11149A,Chemical Engineering,B.E,5.66,4,LyondellBasell
+2021A11157A,Humanities and Social Sciences,B.E,5.84,4,KPMG
+2021A11162A,Economics and Finanace,B.E,5.32,4,Moodys Investors Service
+2021A11168A,Computer Science and Information Systems,B.E,6.94,4,Intel
+2021D11170D,Electrical and Electronics Engineering,Ph.D,5.18,4,Micron
+2021A11171A,Humanities and Social Sciences,B.E,5.71,4,Cognizant
