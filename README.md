@@ -1,4 +1,4 @@
-# college-data-viz
+# 15 years of BITS Hyderabad
 The primary aim of this data visualization project is to craft a captivating and comprehensive narrative that transcends mere statistics, providing a dynamic and immersive journey through the evolution and accomplishments of BITS Hyderabad over
 the past 15 years. Through the lens of data, we aspire to weave a tale of growth,
 resilience, and the indomitable spirit of excellence that defines the BITS Hyderabad
